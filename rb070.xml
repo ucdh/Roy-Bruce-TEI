@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb070" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name> 
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name> 
+                </principal>
+                <funder>University of Canterbury</funder> 
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp> 
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Sophie Tucker</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp> 
+                    <name type="person">Keely McBride</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp> 
+                    <name type="person">Lucy-Jane Walsh</name> 
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp> 
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0005">
+                    <resp>TEI Header compilation</resp> 
+                    <name type="person">Christopher Thomson</name> 
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images: kb</extent> 
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher> 
+                <pubPlace>Christchurch, New Zealand</pubPlace> 
+                <address>
+                    <addrLine>School of Humanities</addrLine> 
+                    <addrLine>University of Canterbury</addrLine> 
+                    <addrLine>Private Bag 4800</addrLine> 
+                    <addrLine>Christchurch 8140</addrLine> 
+                    <addrLine>New Zealand</addrLine> 
+                </address>
+                <availability status="restricted">
+                    <p>
+                        Publicly accessible. Distributed by the University of Canterbury under a 
+                        <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/> 
+                            Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence. 
+                        </ref>
+                    </p>
+                </availability>
+                <date when="2016-05-26">26 May 2016</date> 
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p> 
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb070a">
+                                <graphic url="rb070a.jpg" mimeType="image/jpeg" xml:id="rb070a-g"/> 
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb070b">
+                                <graphic url="rb070b.jpg" mimeType="image/jpeg" xml:id="rb070b-g"/> 
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb070c">
+                                <graphic url="rb070c.jpg" mimeType="image/jpeg" xml:id="rb070c-g"/> 
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb070envfront">
+                                <graphic url="rb070envfront.jpg" mimeType="image/jpeg" xml:id="rb070envfront-g"/> 
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb070envback">
+                                <graphic url="rb070envback.jpg" mimeType="image/jpeg" xml:id="rb070envback-g"/> 
+                            </figure>
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement> 
+                        <institution>University of Canterbury</institution> 
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository> 
+                        <collection>Letters from Major Roy Bruce</collection> 
+                        <idno type="text">135692</idno> 
+                        <altIdentifier>
+                            <idno type="URL">http://thecommunityarchive.org.nz/node/204692</idno> 
+                        </altIdentifier>               
+                    </msIdentifier>
+                    <head>
+                        <date when="1916-06-04">4th of June, 1916</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author> 
+                                <title>Letter from Roy Bruce to Maud Bruce</title>                                  
+                                <extent>3 pages</extent>                               
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>                                
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a wide audience original World War I correspondence closely linked to Canterbury and Southland families. It also aims to introduce the principles of TEI to the ENGL317/419 class and foster a scholarly electronic archiving tradition at the University of Canterbury.</p> 
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p> 
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p> 
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p> 
+                </normalization>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained.</p> 
+                </quotation>
+                <hyphenation eol="all">
+                    <p>All hyphenation has been preserved to retain the character of the manuscript.</p> 
+                </hyphenation>
+                <p>All first line indentation has been preserved.</p> 
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement/> 
+                <country/> 
+                <date when="1916-06-04">4th of June, 1916</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language> 
+                <language ident="fr" usage="1">French</language> 
+            </langUsage>
+            <particDesc> 
+                <listPerson>
+                    <org xml:id="CMR" type="military">
+                        <orgName>
+                            <abbr>C.M.R</abbr>
+                            <expan>Canterbury Mounted Rifles Reigment</expan>                   
+                        </orgName>
+                    </org>
+                    <org xml:id="NMB" type="military">
+                        <orgName>New Zealand Mounted Brigade</orgName>
+                    </org>                    
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie</addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+                        <persName>
+                            <roleName type="military">Lieutenant</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="JFI">
+                        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C36281">
+                            <surname>Findlay</surname>
+                            <roleName type="military">Lieutenant Colonel</roleName>
+                            <forename>John</forename>
+                        </persName>
+                        <birth when="1869-03-11">11 March 1869</birth>
+                        <death when="1946-09-20">20 September 1946</death>        
+                    </person>
+                </listPerson>
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="BIR">
+                        <placeName>
+                            BIR ET MALER
+                        </placeName>
+                    </place>   
+                </listPlace>
+            </settingDesc>           
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change n="Scanning" xml:id="change-0001">
+                
+                <name type="person">Sophie Tucker</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+            </change>
+            <change n="Transcription" xml:id="change-0002">
+                <date when="2010-09-14">Tuesday, 14th of September 2010</date> 
+                <name type="person">Sophie Tucker</name>
+            </change>
+            <change n="Transcription Check" xml:id="change-0003">
+                <date when="2012-05-24">Friday, 24th of May 2012</date> 
+                <name type="person">Lucy-Jane Walsh</name>
+            </change>
+            <change n="Markup" xml:id="change-0004">
+                <date when="2012-05-24">Friday, 24th of May 2012</date> 
+                <name type="person">Lucy-Jane Walsh</name>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb070a" xml:id="t1-body-pb1"/>
+            <opener>
+                <dateline>
+                    <name type="place" ref="#BIR" key="BIR">Bir et maler</name>
+                    <lb/>
+                    <date when="1916-06-04">4 June 1916</date>.
+                </dateline> 
+                <lb/>
+                <lb/>
+                <salute>My dearest Maud</salute>:
+            </opener>
+            
+            <p>
+                A line to add
+                <lb/>
+                a little more news to my
+                <lb/>
+                letter of the day before yesterday.
+                <lb/>
+                Don't laugh - I am a full
+                <lb/>
+                blown Major!  It is some
+                <lb/>
+                what rapid promotion, but
+                <lb/>
+                the powers that be seem to
+                <lb/>
+                think it is alright. Anyway
+                <lb/>
+                it is well worth having, ande
+                <lb/>
+                promotion in the field during
+                <lb/>
+                war time is the best of all
+                <lb/>
+                promotions.  I have been
+                
+                <pb n="2" facs="#rb070b" xml:id="t1-body-x2-pb1"/>
+                
+                given command of the 10 <hi rend="u"><hi rend="sup">th</hi></hi>
+                <lb/>
+                (Nelson) Squadron of the <name type="organisation" ref="#CMR"><choice><abbr>C.M.R.</abbr><expan>Canterbury Mounted Rifles</expan></choice></name>
+            </p>
+            <p>
+                I am very sorry to leave
+                <lb/>
+                the 8<hi rend="u"><hi rend="sup">th</hi></hi> but if a vacancy occurs
+                <lb/>
+                <name type="person" ref="#JFI" key="JFI">Col. Findlay</name> has promised me
+                <lb/>
+                I can go back if I want to.
+            </p>
+            <p>
+                I take over command to-
+                <lb/>
+                morrow morning, and we go
+                <lb/>
+                out on a two days reconnaissance
+                <lb/>
+                in the afternoon, but do not
+                <lb/>
+                anticipate any fighting.
+            </p>
+            <p>
+                You can address your
+                <lb/>
+                letters 
+                <address>
+                    <addrLine>10<hi rend="sup">th</hi> (Nelson) Squadron</addrLine>
+                    <addrLine><name type="organisation" ref="#CMR">Canterbury Mounted Rifles <choice><abbr>Regt</abbr><expan>Regiment</expan></choice></name></addrLine>
+                </address>
+                <lb/>
+                if you like, but <name type="organisation" ref="#CMR">Canterbury M<hi rend="u"><hi rend="sup">nd</hi></hi>
+                    <lb/>
+                    Rifles</name> is really quite sufficient.
+            </p>               
+            <p>
+                I do hope I shall not
+                <lb/>
+                make a fool of myself with
+                
+                <pb n="3" facs="#rb070c" xml:id="t1-body-x6-pb1"/>
+                
+                all this or let the regiment
+                <lb/>
+                down or something equally
+                <lb/>
+                awful.  I wish I felt a
+                <lb/>
+                little older.
+            </p>
+            <p>
+                Must go now dear, there
+                <lb/>
+                is lots to do.
+            </p>
+            <p>
+                Ever so much love to
+                <lb/>
+                you &amp; <name type="person" ref="#HEB" key="HEB">Helen</name>.
+            </p>
+            <closer>
+                <salute>Your affectionate husband</salute>
+                <lb/>
+                <signed>
+                    <name type="person" ref="#RTB" key="RTB"><hi rend='u'>Roy</hi></name>
+                </signed>
+            </closer>
+        </body>
+    </text>
+</TEI>

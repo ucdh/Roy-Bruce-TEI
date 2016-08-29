@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb007" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp><!-- Add relevant names for each resp -->
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Unknown</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Han Li</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Han Li</name>
+                </respStmt>
+            
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2012-12-18"/><!-- Add date of electronic publication here. Can be 15 Nov or the date you submit your letters for assessment -->
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb007a">
+                                <graphic url="rb007a.jpg" mimeType="image/jpeg" xml:id="rb007a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007b">
+                                <graphic url="rb007b.jpg" mimeType="image/jpeg" xml:id="rb007b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007c">
+                                <graphic url="rb007c.jpg" mimeType="image/jpeg" xml:id="rb007c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007d">
+                                <graphic url="rb007d.jpg" mimeType="image/jpeg" xml:id="rb007d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007e">
+                                <graphic url="rb007e.jpg" mimeType="image/jpeg" xml:id="rb007e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007f">
+                                <graphic url="rb007f.jpg" mimeType="image/jpeg" xml:id="rb007f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007g">
+                                <graphic url="rb007g.jpg" mimeType="image/jpeg" xml:id="rb007g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007h">
+                                <graphic url="rb007h.jpg" mimeType="image/jpeg" xml:id="rb007h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007envf">
+                                <graphic url="rb007envf.jpg" mimeType="image/jpeg" xml:id="rb007envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb007envb">
+                                <graphic url="rb007envb.jpg" mimeType="image/jpeg" xml:id="rb007envb-g"/>
+                            </figure>
+                        </item>
+                      
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135609</idno>
+                        
+                    </msIdentifier>
+                    <head>
+                        <date when="1914-08-25">25 August 1914</date>
+                        <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 25 August 1914</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>eight pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Letter on brown paper. No letter header</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I facsondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available facsondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement>Addington</settlement>
+                <country>New Zealand</country>
+                <date when="1914-08-25"/>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="HHH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/6237.detail?">
+                        <persName>
+                            <roleName type="military">Major</roleName>
+                            <forename>Herbert</forename>
+                            <addName type="middle">Harold</addName>
+                            <surname>Hammond</surname>
+                        </persName>
+                        <death when="1916-08-09">9th of August 1916</death>
+                    </person>
+                    <person xml:id="HOJ">
+                        <persName>
+                            <forename>Howden</forename>
+                            <surname>Jones</surname>
+                        </persName>
+                    </person><person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <relationGrp>
+                        <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+                    </relationGrp>
+                </listPerson>               
+            </particDesc>        
+            <settingDesc>
+            <listPlace>
+                <place xml:id="EUR">
+                    <placeName>
+                        <bloc>Europe</bloc>
+                    </placeName>
+                </place> 
+            </listPlace> 
+            </settingDesc>
+        </profileDesc>
+            <revisionDesc xml:id="revisionDesc-0001">
+                <change xml:id="change-0001">
+                   
+                
+                </change>
+               
+            </revisionDesc>
+    </teiHeader>
+
+<text xml:id="t1">
+    <body xml:id="t1-body">
+        
+        
+        <pb n="1" facs="#rb007a" xml:id="t1-body-pb1"/>
+        
+        <opener>
+            <dateline> 
+                Addington
+                <date when="1914-08-25"> 25/8/14 </date>
+            </dateline>
+            <lb/>
+            <salute>
+                <name type="person" ref="#MGB" key="MGB">My dearest girl</name></salute>:
+            
+        </opener>
+        
+        
+        
+        
+        <p rend="indent">
+            Thank you very
+            <lb/> 
+            much indeed for the testament
+            <lb/> 
+            which I will always carry
+            <lb/> 
+            as you desire, I am not
+            <lb/> 
+            absolutely without religion
+            <lb/> 
+            you know, only perhaps it
+            <lb/> 
+            is not so orthodox as it
+            <lb/> 
+            might be.
+        </p>
+        <p rend="indent">
+            
+            The kit bag is
+            <lb/> 
+            excellent and the very
+            <lb/> 
+            thing I wanted although
+            <lb/> 
+            I could have done without
+            <lb/> 
+            it.
+        </p>
+        
+        <pb n="2" facs="#rb007b" xml:id="t1-body-pb2"/>
+        <p>   
+            You poor old thing I
+            <lb/> 
+            know dear how hard
+            <lb/> 
+            this all is for you, don't
+            <lb/> 
+            think it is not also
+            <lb/> 
+            hard for me, but it is
+            <lb/> 
+            only what many thousands 
+            <lb/> 
+            of others are doing today,
+            <lb/> 
+            and I don't think that
+            <lb/> 
+            perhaps you quite realise
+            <lb/> 
+            how proud you make
+            <lb/> 
+            me in playing the 
+            <lb/> 
+            game so well and
+            <lb/> 
+            letting me go without
+            <lb/> 
+            a murmur.  You will
+            <lb/> 
+            have your reward for
+            <lb/> 
+            your unselfishness very
+            
+            <pb n="3" facs="#rb007c" xml:id="t1-body-x4-pb1"/>
+            
+            
+            soon I hope, and if it 
+            <lb/>
+            doesn't turn out as we
+            <lb/>
+            hope you must be sure
+            <lb/>
+            that I shall have done
+            <lb/>
+            my best.
+        </p>
+        <p rend="indent">
+            
+            On Monday night
+            <lb/>
+            <name type="person">Col Hullton</name> took all the
+            <lb/>
+            8th officers to dinner at
+            <lb/>
+            Warner's and we had
+            <lb/>
+            a very pleasant little
+            <lb/>
+            evening.  Last night
+            <lb/>
+            I had intended to stay
+            <lb/>
+            in and write some
+            <lb/>
+            letters, but <name type="person" ref="#HHH" key="HHH">Hammond</name>'s
+            <lb/>
+            married brother who lives
+            <lb/>
+            here asked me to go
+            <lb/>
+            round to his house where
+            
+            <pb n="4" facs="#rb007d" xml:id="t1-body-x5-pb1"/>
+            
+            some of <name type="person" ref="#HHH" key="HHH"><choice><abbr>Capt</abbr><reg>Captain</reg></choice> Hammond</name>'s
+            <lb/>
+            old friends were going to
+            <lb/>
+            say goodbye to him, I
+            <lb/>
+            didn't like to refuse, and
+            <lb/>
+            we had a nice evening.
+        </p>
+        <p>
+            <name type="person">Mrs Hammond</name> I
+            <lb/>
+            think intends to ask you
+            <lb/>
+            to stay with her, which
+            <lb/>
+            is awfully kind of her,
+            <lb/>
+            but I think you had
+            <lb/>
+            better not, because although
+            <lb/>
+            they are very nice and
+            <lb/>
+            kind you would hardly
+            <lb/>
+            care for them.
+        </p>
+        <p rend="indent">
+            
+            There is no definite
+            <lb/>
+            news of our going away
+            <lb/>
+            but it certainly will
+            
+            <pb n="5" facs="#rb007e" xml:id="t1-body-x7-pb1"/>
+            
+            not be this week.
+        </p>
+        <p rend="indent">
+            Have just received
+            <lb/>
+            your wire re sleeping
+            <lb/>
+            bags.  I will enquire
+            <lb/>
+            at the Railway Station.
+        </p>
+        <p rend="indent">
+            
+            It is very difficult to
+            <lb/>
+            concentrate one's thoughts
+            <lb/>
+            to writing letters in a
+            <lb/>
+            tent with several fellows
+            <lb/>
+            cackling at top.
+        </p>
+        <p rend="indent">
+            
+            I saw <name type="person">Bonny</name>, <name type="person">Beryl</name>
+            <lb/>
+            &amp; <name type="person">Shona</name> today, does
+            <lb/>
+           <name type="person">Marion</name> think of coming 
+            <lb/>
+            up?
+        </p>
+        <p rend="indent">
+            Glad to hear you
+            <lb/>
+            are playing golf, you
+            <lb/>
+            must enjoy yourself as
+            
+            <pb n="6" facs="#rb007f" xml:id="t1-body-x11-pb1"/>
+            
+            
+            much as you can.
+        </p>
+        <p rend="indent">
+            The Government are
+            <lb/>
+            issuing wristlet watches &amp; 
+            <lb/>
+            cardigan vests to officers.
+            <lb/>
+            The watches are not very
+            <lb/>
+            much but the vests are
+            <lb/>
+            excellent.  We also hear
+            <lb/>
+            we are going to get a 
+            <lb/>
+            money grant, if that is
+            <lb/>
+            so I will send you some,
+            <lb/>
+            as we do not get full
+            <lb/>
+            pay till we leave N.Z.
+        </p>
+        <p rend="indent">
+            Blair introduced 
+            <lb/>
+            me to his French girl
+            <lb/>
+            yesterday &amp; we had
+            <lb/>
+            afternoon tea in the
+            <lb/>
+            mess tent with the big
+            
+            <pb n="7" facs="#rb007g" xml:id="t1-body-x13-pb1"/>
+            
+            bugs, she &amp; I talked
+            <lb/>
+            French &amp; the bugs gaped
+            <lb/>
+            but I didn't mind because
+            <lb/>
+            they were the bugs.
+            <lb/>
+            I have forgotten a lot
+            <lb/>
+            but I could understand
+            <lb/>
+            her easily, and the other
+            <lb/>
+            will soon come back.
+        </p>
+        <p rend="indent">
+            I have ordered a
+            <lb/>
+            copy of the squadron photo
+            <lb/>
+            for you, it will reach
+            <lb/>
+            you some day I expect.
+        </p>
+        <p rend="indent">
+            You won't forget to
+            <lb/>
+            send <name type="person" ref="#HOJ" key="HOJ">Howden</name> &amp; the S.C.
+            <lb/>
+            Club a copy of my photo
+            <lb/>
+            will you dear, also I
+            <pb n="8" facs="#rb007h" xml:id="t1-body-x15-pb1"/>
+            
+            think <name type="person">Finch</name> wants
+            <lb/>
+            one.
+        </p>
+        <p rend="indent">
+            I wish I had
+            <lb/>
+            time to keep a diary
+            <lb/>
+            there is so much to 
+            <lb/>
+            write about, but at
+            <lb/>
+            present it is impossible.
+        </p>
+        <p rend="indent">
+            Dear old girl don't
+            <lb/>
+            worry about things, I
+            <lb/>
+            know exactly how you
+            <lb/>
+            felt on Sunday, I was 
+            <lb/>
+            only trying to keep things
+            <lb/>
+            going.
+        </p>
+        
+        <closer>
+            <salute>
+            <p rend="indent">
+                Goodbye for the
+            <lb/>
+            present darling, may
+            <lb/>
+            you have every blessing.</p>
+            </salute>
+            
+            <lb/>
+            <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed> 
+        </closer>
+        
+        <pb n="9" facs="#rb007envf" xml:id="t1-body-pb3"/>
+        <pb n="10" facs="#rb007envb" xml:id="t1-body-pb4"/>
+        
+    </body>
+</text>
+</TEI>

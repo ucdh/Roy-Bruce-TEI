@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb017" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Kathy Kise</name>
+                    <name type="person">Keely McBride</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Bjorn Gruebner</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Christopher Thomson</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                </titleStmt>
+            <extent>Extent excluding images: 14kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2012-12-18"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb017a"><!-- Digital image xml:id -->
+                                <graphic url="rb017a.jpg" mimeType="image/jpeg" xml:id="rb017a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb017b"><!-- Digital image xml:id -->
+                                <graphic url="rb017b.jpg" mimeType="image/jpeg" xml:id="rb017b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb017c"><!-- Digital image xml:id -->
+                                <graphic url="rb017c.jpg" mimeType="image/jpeg" xml:id="rb017c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb017d"><!-- Digital image xml:id -->
+                                <graphic url="rb017d.jpg" mimeType="image/jpeg" xml:id="rb017d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb017envf"><!-- Digital image xml:id -->
+                                <graphic url="rb017envf.jpg" mimeType="image/jpeg" xml:id="rb017envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb017envb"><!-- Digital image xml:id -->
+                                <graphic url="rb017envb.jpg" mimeType="image/jpeg" xml:id="rb017envb-g"/>
+                            </figure>
+                        </item>
+                       </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135627</idno>
+                    </msIdentifier>
+                    <head>
+                        <date when="1914-11-24">24 November 1914</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>Four pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain buff paper, unlined</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <date when="1914-11-24">24.11.1914</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="RTB">
+                        <persName>
+                            <forename>Roy Thomas</forename>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="MGB">
+                        <persName type="married">
+                            <forename>Maud Goodenough</forename>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <persName type="maiden">
+                            <forename>Maud Goodenough</forename>
+                            <surname>Hayter</surname>
+                        </persName>
+                        <birth when="1880-02-22">22 February 1880</birth>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName><forename>Helen Eugenie</forename><surname>Bruce</surname></persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                </listPerson>
+            </particDesc>        
+        </profileDesc>
+            <revisionDesc xml:id="revisionDesc-0001">
+                <change n="Scanning" xml:id="change-0001">
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </change>
+                <change n="Transcription" xml:id="change-0002">
+                    <name type="person">Bjorn Gruebner</name>
+                </change>
+                <change n="Transcription Check" xml:id="change-0003">
+                    <date when="2012-12-06"/>
+                    <name type="person">Christopher Thomson</name>
+                </change>
+                <change n="Markup" xml:id="change-0004">
+                    <date when="2012-12-18"/>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Christopher Thomson</name>
+                </change>
+            </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb017a" xml:id="t1-body-pb1"/>
+            <opener>
+                <date when="1914-11-24">24.11.1914.</date>
+                <lb/>
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
+            </opener>
+            <p>Here is the usual
+                <lb/>
+                few lines to be
+                <lb/> 
+                read by the censor and
+                <lb/>
+                forwarded on.
+            </p>
+            
+            <p>We are approaching
+                <lb/>
+                another port on our route,
+                <lb/>
+                but we are not going
+                
+                <pb n="2" facs="#rb017b" xml:id="t1-body-x3-pb1"/>
+                
+                very fast.
+            </p>
+            
+            <p>I have written a
+                <lb/>
+                longer letter which you
+                <lb/>
+                will possibly receive
+                <lb/>
+                later on.
+            </p>
+            
+            <p>At our last port
+                <lb/>
+                I had hoped to have had 
+                <lb/>
+                an opportunity to have
+                <lb/>
+                sent <name type="person" ref="#HEB" key="HEB">Helen</name> a little present
+                <lb/>
+                for her birthday. Tell
+                <lb/>
+                her I was very sorry not
+                <lb/>
+                to have been able to do so,
+                <lb/>
+                but when you get my
+                <lb/>
+                other letter you will
+                <lb/>
+                understand why.
+            </p>
+            
+            <p>I hope this will
+                
+                <pb n="3" facs="#rb017c" xml:id="t1-body-x6-pb1"/>
+                
+                reach you in time for
+                <lb/>
+                Xmas and that you
+                <lb/>
+                both will enjoy yourselves
+                <lb/>
+                &amp; pull crackers for me &amp;
+                <lb/>
+                generally have a good
+                <lb/>
+                time.  Also I hope
+                <lb/>
+                the New Year will open 
+                <lb/>
+                brightly &amp; happily for
+                <lb/>
+                you both.</p>
+            
+            <p>Give <name type="person" ref="#HEB" key="HEB">Helen</name> a big
+                <lb/>
+                hug for me for her
+                <lb/>
+                birthday, Xmas &amp; the
+                <lb/>
+                New Year.
+            </p>
+            
+            <p>To day, the sea is
+                <lb/>
+                like a sheet of glass
+                <lb/>
+                and it is very hot. </p>
+            
+            <pb n="4" facs="#rb017d" xml:id="t1-body-pb2"/>
+            
+            <p>I don't expect a letter 
+                <lb/>
+                from you till we reach
+                <lb/>
+                our destination. I do 
+                <lb/>
+                look forward to them
+                <lb/>
+                then though.
+            </p>
+            
+            <p>Are you both quite
+                <lb/>
+                well, I believe you are,
+                <lb/>
+                and I know you will
+                <lb/>
+                look after yourselves.</p>
+            
+            <p>I am remarkably fit, 
+                <lb/>
+                and enjoying my <choice><sic>recupation</sic><corr>recuperation</corr></choice> immensely.
+            </p>
+            
+            <closer>
+                <salute>Goodbye, dearest of
+                    <lb/>
+                    girls. All my love to 
+                    <lb/>
+                    you, Your affectionate
+                    <lb/>
+                    husband.</salute>
+                <hi rend="u"><name type="person" corresp="#RTB">Roy.</name></hi>
+            </closer>
+            
+            <pb n="5" facs="#rb017envf" xml:id="t1-body-pb3"/>
+            <pb n="6" facs="#rb017envb" xml:id="t1-body-pb4"/>
+        </body>
+    </text>
+    
+</TEI>

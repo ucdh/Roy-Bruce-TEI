@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd" xml:id="rb041" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Sophie Tucker</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Cropping and tidying of digital images</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription</resp>
+                    <name type="person">Sian Evans</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Transcription check</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0005">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>                
+            </titleStmt>
+            <extent>Extent including images: </extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible. Distributed by the University of Canterbury under a
+                        <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>
+                            Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref>
+                    </p>
+                </availability>
+                <date when="2011-05-05">5 May 2011</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb041a">
+                                <graphic url="rb041a.jpg" mimeType="image/jpeg" xml:id="rb041a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041b">
+                                <graphic url="rb041b.jpg" mimeType="image/jpeg" xml:id="rb041b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041c">
+                                <graphic url="rb041c.jpg" mimeType="image/jpeg" xml:id="rb041c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041d">
+                                <graphic url="rb041d.jpg" mimeType="image/jpeg" xml:id="rb041d-g"/>
+                            </figure>   
+                        </item>
+                        <item>
+                            <figure xml:id="rb041e">
+                                <graphic url="rb041e.jpg" mimeType="image/jpeg" xml:id="rb041e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041f">
+                                <graphic url="rb041f.jpg" mimeType="image/jpeg" xml:id="rb041f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041g">
+                                <graphic url="rb041g.jpg" mimeType="image/jpeg" xml:id="rb041g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb041h">
+                                <graphic url="rb041h.jpg" mimeType="image/jpeg" xml:id="rb041h-g"/>
+                            </figure>  
+                        </item>
+                        <item>
+                            <figure xml:id="rb041envf">
+                                <graphic url="rb041envf.jpg" mimeType="image/jpeg" xml:id="rb041envf-g"/>
+                            </figure> 
+                        </item>
+                        <item>
+                            <figure xml:id="rb041envb">
+                                <graphic url="rb041envb.jpg" mimeType="image/jpeg" xml:id="rb041envb-g"/>
+                            </figure> 
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135661</idno>                        
+                    </msIdentifier>
+                    <head>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                        <date when="1915-06-09">9 June 1915</date>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>8 pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Written on letterhead paper, reading 'White Star Line.  R.M.S "Athenic"'</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote facs="#RTB">Written in pencil.</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a wide audience original World War I correspondence closely linked to Canterbury and Southland families. It also aims to introduce the principles of TEI to the ENGL317/419 class and foster a scholarly electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all">
+                    <p>All quotation marks have been retained.</p>
+                </quotation>
+                <hyphenation eol="all">
+                    <p>All hyphenation has been preserved to retain the character of the manuscript.</p>
+                </hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement>Unknown</settlement>
+                <country>Turkey</country>
+                <date when="1915-06-09">9 June 1915</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    
+                        <person xml:id="RTB">
+                            <persName>
+                                <roleName type="military">Lieutenant 8th Squadron</roleName>
+                                <forename>Roy</forename>
+                                <addName type="middle">Thomas</addName>
+                                <surname>Bruce</surname>
+                            </persName>
+                            <birth when="1881-12-18">18 December 1881</birth>
+                            <death when="1945-11-29">29 November 1945</death>
+                        </person>
+                        <person xml:id="MGB">
+                            <persName>
+                                <forename>Maud</forename>
+                                <addName type="middle">Goodenough</addName>type="married"&gt;
+                                <surname type="maiden">Hayter</surname>
+                                <surname type="married">Bruce</surname>
+                            </persName>
+                        </person>
+                        <person xml:id="HEB">
+                            <persName>
+                                <forename>Helen</forename>
+                                <addName type="middle">Eugenie </addName>
+                                <surname type="maiden">Bruce</surname>
+                                <surname type="married">Alexander</surname>
+                            </persName>
+                            <birth when="1909-12-05">5 December 1909</birth>
+                        </person>
+                        <person xml:id="PIN">
+                            <persName>Pinkie</persName>
+                        </person>
+                        <relationGrp type="personal">
+                            <relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+                            <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+                        </relationGrp>
+                </listPerson>
+                <org type="military" xml:id="MBO">
+                    <orgName>Main Body</orgName>
+                    <desc>Description can be found here: http://nzetc.victoria.ac.nz/tm/scholarly/tei-WH1-Medi-t1-g1-t1-body-d2-d2.html</desc>
+                </org>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="ENG">
+        <placeName>
+            <country>England</country>
+        </placeName>
+        <location>
+            <bloc ref="#BRI">United Kingdom</bloc>
+        </location>
+    </place>
+    <place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change n="creation" xml:id="change-0001">
+                <date when="2011-05-05">5 May 2011</date>
+                <name type="person">Christopher Thomson</name>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb041a" xml:id="t1-body-pb1"/>
+            
+            <!-- Letterhead image
+                WHITE STAR LINE.
+                R.M.S. "ATHENIC."
+            -->
+            
+            <opener>
+                <dateline>
+                    <name type="place">Hotel de dugout.</name>
+                    <lb/>
+                    <date when="1915-06-09">9 June 1915.</date>
+                </dateline>		
+                <lb/>
+                <lb/>
+                <salute>My dearest girl:</salute>
+            </opener>
+            <p rend="indent">We have moved back
+                <lb/>
+                to the line again and are now right
+                <lb/>
+                on the beach. My new dugout is
+                <lb/>
+                a little larger than the last one but
+                <lb/>
+                not set in such picturesque <choice><orig>sur-
+                <lb/>
+                roundings</orig><reg>surroundings</reg></choice>.
+            </p>
+            <p rend="indent">I got a lovely neck
+                <lb/>
+                scarf from you on Friday, for which
+                <lb/>
+                many many thanks, it is splendid
+                <lb/>
+                &amp; just what I want for night work
+                <lb/>
+                in the trenches. I gave <name type="person" ref="#PIN">Pinkie</name> my
+                
+                <pb n="2" facs="#rb041b" xml:id="t1-body-x3-pb1"/>
+                
+                old one.
+            </p>
+            <p rend="indent">
+                Last night I got three glorious
+                <lb/>
+                letters from you &amp; a host of papers.
+                <lb/>
+                They were welcome. You can't realise
+                <lb/>
+                what it is to get letters and papers
+                <lb/>
+                here now, it is the only communication
+                <lb/>
+                we have with the outside world &amp; a
+                <lb/>
+                letter from home, well it cannot
+                <lb/>
+                be described - send as many as you
+                <lb/>
+                like dear.</p>
+            <p rend="indent">
+                Well, to begin at the beginning
+                <lb/>
+                &amp; your visit to the crystal gazer.
+                <lb/>
+                I wish these blighters would be a
+                <lb/>
+                little more explicit in their <choice><orig>state-
+                <lb/>
+                ments</orig><reg>statements</reg></choice>, however he certainly managed
+                <lb/>
+                to cause me a sleepless night, lying
+                <lb/>
+                in a dug out under the stars and
+                <lb/>
+                bullets, during which I very carefully
+                <lb/>
+                went over all I could remember of
+                <lb/>
+                my childhood's days, and I must
+                <lb/>
+                admit that by 3 a.m when we stood
+                <lb/>
+                to arms, I had the stage set for a
+                <lb/>
+                very pretty piece of villainy - at the
+                <lb/>
+                same time on the other hand, I can
+                
+                <pb n="3" facs="#rb041c" xml:id="t1-body-x5-pb1"/>
+                
+                also set a price for fair play.
+                <lb/>
+                However the only chance I have
+                <lb/>
+                of finding out anything is to get to
+                <lb/>
+                <name type="place" ref="#ENG" key="ENG">England</name> and investigate for my-
+                <lb/>
+                self. There may be no chance of
+                <lb/>
+                that, as if the war finishes early
+                <lb/>
+                we may go directly back to <name type="place" ref="#NZE" key="NZE">N.Z</name>
+                <lb/>
+                from here, and I certainly can't 
+                <lb/>
+                afford a trip to <name type="place" ref="#ENG" key="ENG">England</name> on my
+                <lb/>
+                own. I do not think much
+                <lb/>
+                good will be done by writing to
+                <lb/>
+                solicitors. You see the thing is
+                <lb/>
+                so complicated that I prefer to 
+                <lb/>
+                trust no one that I cannot see
+                <lb/>
+                for myself, and as you say, and I 
+                <lb/>
+                quite agree, everything must be done
+                <lb/>
+                very quietly. You see I may be
+                <lb/>
+                wronging innocent people &amp; if there
+                <lb/>
+                is nothing in it; after all; these
+                <lb/>
+                people brought me up. Your letter
+                <lb/>
+                has certainly made me think more
+                <lb/>
+                about myself than I have thought
+                <lb/>
+                all my life, and it is quite possible
+                
+                <pb n="4" facs="#rb041d" xml:id="t1-body-x5-pb2"/>
+                
+                that I may have been too credulous.
+                <lb/>
+                I promise you that if I can once
+                <lb/>
+                get to <name type="place" ref="#ENG" key="ENG">England</name> I will investigate
+                <lb/>
+                everything very fully, and will satisfy
+                <lb/>
+                myself that all is in order.
+                <lb/>
+                I am not quite clear as to your 
+                <lb/>
+                meaning about <choice><sic>their</sic><corr>there</corr></choice> being something
+                <lb/>
+                in the family which you have suspected,
+                <lb/>
+                but that I am alright". However you
+                <lb/>
+                can explain that some other time.
+                <lb/>
+                I would not count too much on
+                <lb/>
+                titles &amp; lots of money etc, because
+                <lb/>
+                although I think there is a 
+                <lb/>
+                possibility of there being something
+                <lb/>
+                wrong somewhere, I don't think it
+                <lb/>
+                will go quite so far as that.</p>
+            
+            <p rend="indent">
+                One thing your old bird is
+                <lb/>
+                wrong in, I have not yet been
+                <lb/>
+                promoted out here, nor do I see
+                <lb/>
+                much chance of it. As for getting
+                <lb/>
+                V.C.s &amp; things like that, please re-
+                <lb/>
+                member that I am a very very 
+                <lb/>
+                ordinary sort of person, and there
+                <lb/>
+                is very little likelihood of m<del>y</del><add place="inline">e</add> doing
+                
+                <pb n="5" facs="#rb041e" xml:id="t1-body-x6-pb1"/>
+                
+                <lb/>
+                anything that is going to run me
+                <lb/>
+                into more danger than is absolutely
+                <lb/>
+                necessary. I ain't no bloomin' hero,
+                <lb/>
+                my dear, so don't imagine all kinds
+                <lb/>
+                of wonderful things that I am 
+                <lb/>
+                going to do.
+            </p>
+            <p rend="indent">
+                I am awfully glad <name type="person">Coxon</name>
+                <lb/>
+                told you you should work with your 
+                <lb/>
+                head and not your hands, although
+                <lb/>
+                I have no desire to see you a 
+                <lb/>
+                professional palmist. I do not think 
+                <lb/>
+                you could do much better than
+                <lb/>
+                literature, unless you could find
+                <lb/>
+                a more active sphere for operations.</p>
+            
+            <pb n="6" facs="#rb041f" xml:id="t1-body-pb2"/>
+            
+            <p rend="indent">
+                I am glad you are keeping
+                <lb/>
+                the house and garden in good 
+                <lb/>
+                order, it will make it so much
+                <lb/>
+                easier to sell, when the time comes.
+                <lb/>
+                Like you I wish it could be painted.
+            </p>
+            <p rend="indent">
+                Don't worry about the opinions &amp;
+                <lb/>
+                expressed ideas of various members
+                <lb/>
+                of your family. There are none so 
+                <lb/>
+                sure as they who wallow in ignor-
+                <lb/>
+                ance. The "Military Critics" who left
+                <lb/>
+                <name type="place" ref="#NZE" key="NZE">N.Z.</name> with the <name type="organisation" ref="#MBO">Main body</name> were not
+                <lb/>
+                much good. I tremble to think of
+                <lb/>
+                those that were left behind! - As for
+                <lb/>
+                comparisons between the <name type="organisation" ref="#MBO">Main body</name> &amp;
+                <lb/>
+                the reinforcements, well it doesn't seem 
+                <lb/>
+                to me that after the performances 
+                <lb/>
+                of the <name type="organisation" ref="#MBO">Main body</name>, especially the
+                <lb/>
+                infantry, there is room for any. When
+                <lb/>
+                will the <name type="place" ref="#NZE" key="NZE">N.Z.</name> people try and rise
+                <lb/>
+                above personalities with their army.
+                <lb/>
+                We are all here with one object in
+                
+                <pb n="7" facs="#rb041g" xml:id="t1-body-x9-pb1"/>
+                
+                view, which is certainly not personal
+                <lb/>
+                aggrandisement. Hundreds here, infantry
+                <lb/>
+                &amp; cavalry have given their lives with
+                <lb/>
+                a smile on their faces, the <name type="place" ref="#NZE" key="NZE">N.Z</name> and A
+                <lb/>
+                division is composed of trained troops
+                <lb/>
+                second to none in the world (I am 
+                <lb/>
+                not <choice><sic>exagerating</sic><corr>exaggerating</corr></choice>). We have been almost
+                <lb/>
+                a year training now. Let the reinforcements
+                <lb/>
+                take care that when they fill up the 
+                <lb/>
+                gaps here, &amp; when their officers are 
+                <lb/>
+                called upon to lead those that are
+                <lb/>
+                left, they are fit to do it. It is easy
+                <lb/>
+                to polish your buttons &amp; smoke cigarettes.
+            </p>
+            <p rend="indent">
+                I am afraid my diary if
+                <lb/>
+                it ever reaches you, will prove
+                <lb/>
+                somewhat of a disappointment. It
+                <lb/>
+                is a very short &amp; rough resumé of
+                <lb/>
+                what we do day by day. So far as
+                <lb/>
+                the historical associations of this
+                <lb/>
+                country are concerned, there is no<add place="above" hand="#RTB">o</add>ne
+                <lb/>
+                here to make any enquiries from -
+                <lb/>
+                You see we are in a hostile country
+                
+                <pb n="8" facs="#rb041h" xml:id="t1-body-x10-pb1"/>
+                
+                with Turks all around us except
+                <lb/>
+                on the sea side, and our <choice><orig>eye brows</orig><reg>eyebrows</reg></choice>
+                <lb/>
+                are almost beginning to feel the strain
+                <lb/>
+                of hanging on. Naturally at present 
+                <lb/>
+                I can't get much information.
+            </p>
+            <p rend="indent">
+                Thank <name type="person" ref="#HEB" key="HEB">Helen</name> very much for her
+                <lb/>
+                letter. I am glad she enjoyed the
+                <lb/>
+                museum &amp; the pictures. Tell her the
+                <lb/>
+                camels lie down for people to get up
+                <lb/>
+                on their backs, and they begin to get
+                <lb/>
+                up on their hind legs first &amp; if you
+                <lb/>
+                are not very careful <del rend="strike">they f</del>you fall
+                <lb/>over their heads.</p>
+            <closer>
+                <salute>
+                
+                    Good bye for the present old girl.
+                <lb/>
+                I hope all these rumours of peace
+                <lb/>
+                soon are true. Be happy &amp; bright
+                <lb/>
+                and don't believe any rumours you 
+                <lb/>
+                may hear about things here. I 
+                <lb/>
+                hope the postcards are reaching you
+                <lb/>
+                regularly. Kiss me my sweet wife,
+                <lb/>
+                and don't talk about not being
+                <lb/>
+                able to hold your own with any class
+                <lb/>
+                of people.
+               
+           
+                Give <name type="person" ref="#HEB" key="HEB">Helen</name> a good humbug.
+           
+                </salute>
+                    <lb/>		
+                    <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy.</name></signed>
+            </closer>
+            <pb facs="#rb041envf"/>
+            <pb facs="#rb041envb"/>
+        </body>
+    </text>
+</TEI>

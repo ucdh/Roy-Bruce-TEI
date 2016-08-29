@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb054" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>       
+        <respStmt xml:id="respStmt-0001">
+          <resp>Transcription</resp>
+          <name type="person">Alexandra King</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>                
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+          <addrLine>School of Humanities</addrLine>
+          <addrLine>University of Canterbury</addrLine>
+          <addrLine>Private Bag 4800</addrLine>
+          <addrLine>Christchurch 8140</addrLine>
+          <addrLine>New Zealand</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2015-09-02">2 September 2015</date>
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb054a">
+                <graphic url="rb054a.jpg" mimeType="image/jpeg" xml:id="rb054a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb054b">
+                <graphic url="rb054b.jpg" mimeType="image/jpeg" xml:id="rb054b-g"/>
+              </figure>
+            </item>            
+            <item>
+              <figure xml:id="rb054envfront">
+                <graphic url="rb054envf.jpg" mimeType="image/jpeg" xml:id="rb054envfront-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb054envback">
+                <graphic url="rb054envb.jpg" mimeType="image/jpeg" xml:id="rb054envback-g"/>
+              </figure>
+            </item>
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135676</idno>                   
+          </msIdentifier>
+          <head>
+            <date when="1915-11-02">2 November 1915</date>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>2 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"/>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        Lemnos        
+        <date when="1915-11-02">2 November 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>                
+        <listPerson>          
+          <person xml:id="NIC">
+            <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C36489">
+              <roleName type="military">Colonel</roleName>
+              <forename>Stephen</forename>
+              <addName type="middle">Charles</addName>
+              <addName type="middle">Phillips</addName>               	 
+              <surname>Nicholls</surname>
+            </persName>
+            <birth when="1883-07-17">17 July 1883</birth>
+            <death when="1959-07-08">8 July 1959</death>
+          </person> 
+          <person xml:id="RTB">
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+        </listPerson>                               
+      </particDesc>        
+      <settingDesc>                
+        <listPlace>
+          <place xml:id="LEM">
+            <geogName>
+              <name type="place">Lemnos</name>
+              <geogFeat>Island</geogFeat>                               
+            </geogName>
+            <location>
+              <country>Greece</country>
+            </location>
+          </place>
+          <place xml:id="CYP">
+            <placeName>
+              <country>Cyprus</country>
+            </placeName>
+            <location>
+              <bloc ref="#EUR">
+                Europe
+              </bloc>
+            </location>
+          </place>
+          <place xml:id="EUR">
+            <placeName>
+              <bloc>Europe</bloc>
+            </placeName>
+          </place>          
+        </listPlace>                
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="t1">
+    <body xml:id="t1-body">      
+      <pb n="1" facs="#rb054a" xml:id="t1-body-pb1"/> 
+      <opener>
+        <dateline>
+          <name type="place" ref="#LEM" key="LEM">Lemnos</name>
+          <lb/>
+          <date when="1915-11-02">2 Nov 1915</date>
+        </dateline>
+        <lb/>
+        <salute>Beaut old thing</salute>:
+      </opener>      
+      <p>        
+        Have just dis-
+        <lb/>
+        covered a photograph
+        <lb/>
+        taken at <name type="place" ref="#CYP" key="CYP">Cyprus</name> - it was
+        <lb/>
+        part of a group not
+        <lb/>
+        interesting so I cut
+        <lb/>
+        it out thinking you
+        <lb/>
+        might like to have it.
+      </p>
+      
+      <p>        
+        The sun was in my
+        <lb/>
+        eyes so it is rather
+        <lb/>
+        screwed up. You will
+        <lb/>
+        notice that I an not 
+        <lb/>
+        looking very ill.
+      </p>
+      
+      <pb n="2" facs="#rb054b" xml:id="t1-body-pb2"/>
+      
+      <p>
+        I am glad to hear
+        <lb/>
+        <name type="person" ref="#NIC" key="NIC">Nicholls</name>is coming at
+        <lb/>
+        last, he will be 
+        <lb/>
+        joyful. Remember me
+        <lb/>
+        to them when you
+        <lb/>
+        see them.</p>      
+      
+      <closer>
+        <salute>
+          Good night
+          <lb/>
+          sweetheart
+        </salute>
+        <lb/>        
+        <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed>
+      </closer> 
+      <pb n="3" facs="#rb054envfront" xml:id="t1-body-pb3"/>
+      <pb n="4" facs="#rb054envback" xml:id="t1-body-pb4"/>
+    </body>
+  </text>
+</TEI>

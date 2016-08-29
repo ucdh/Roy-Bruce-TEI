@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb077" xml:lang="en">
+	<teiHeader type="text">
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Bruce to Maud Bruce</title>
+				<author>
+					<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+					<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>				
+				<respStmt xml:id="respStmt-0001">
+					<resp>Transcription</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription check</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Brad McNeur</name>
+					<name type="person">Lucy-Jane Walsh</name>
+				</respStmt>                
+			</titleStmt>
+			<extent>Extent including images:  kb</extent>
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+						<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2016-06-15">3 August 2016</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb077a">
+								<graphic url="rb077a.jpg" mimeType="image/jpeg" xml:id="rb077a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb077b">
+								<graphic url="rb077b.jpg" mimeType="image/jpeg" xml:id="rb077b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb077envf">
+								<graphic url="rb077envf.jpg" mimeType="image/jpeg" xml:id="rb077envf-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb077envb">
+								<graphic url="rb077envb.jpg" mimeType="image/jpeg" xml:id="rb077envb-g"/>
+							</figure>
+						</item>						
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135699</idno>                    
+					</msIdentifier>
+					<head>
+						<date when="1916-08-29">29 August 1916</date>
+						<title>Letter from Roy Bruce to Maud Bruce</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Bruce to Maud Bruce</title>
+								<extent>2 Pages</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter"/>                           
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a 
+					wide audience original World War I correspondence closely linked to 
+					Canterbury and Southland families. It also aims to introduce the
+					principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+					electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<creation>
+				<settlement>Sinai Desert</settlement>
+				<country>Egypt</country>
+				<date when="1916-08-29">29 August 1916</date>
+			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>                
+				<listPerson>
+					<person xml:id="MGB">
+						<persName>
+							<forename>Maud</forename>
+							<addName type="middle">Goodenough</addName>type="married"&gt;
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Bruce</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="HHH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/6237.detail?">
+						<persName>
+							<roleName type="military">Major</roleName>
+							<forename>Herbert</forename>
+							<addName type="middle">Harold</addName>
+							<surname>Hammond</surname>
+						</persName>
+						<death when="1916-08-09">9th of August 1916</death>
+					</person>
+					<person xml:id="CBL">
+						<persName evidence="extenal" source="http://muse.aucklandmuseum.com/databases/Cenotaph/1274.detail?">
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Cyril</forename>
+							<surname>Blakeney</surname>
+						</persName>
+						<death when="1916-08-09">9 August 1916</death>						
+					</person>
+					<person xml:id="MEN" evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/10654.detail?">
+						<persName>
+							<forename>William</forename>
+							<addName type="middle">Barnett</addName>
+							<surname>Menzies</surname>
+						</persName>
+						<death when="1916-08-09">9 August 1916</death>
+					</person>
+					<person xml:id="JFI">
+						<persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C36281">
+							<surname>Findlay</surname>
+							<roleName type="military">Lieutenant Colonel</roleName>
+							<forename>John</forename>
+						</persName>
+						<birth when="1869-03-11">11 March 1869</birth>
+						<death when="1946-09-20">20 September 1946</death>        
+					</person>
+					<person xml:id="WFH">
+						<persName>
+							Mrs W.F.
+							<surname>Hamilton</surname>
+						</persName>						
+					</person>
+					<person xml:id="JAT">
+						<persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C56800">
+							<roleName type="military">Sergeant</roleName>
+							<forename>John</forename>
+							<addName type="nickname">Jack</addName>
+							<surname>Tennant</surname>
+						</persName>
+					</person>
+					<person xml:id="CHI">
+						<persName evidence="external" source="https://museum.timaru.govt.nz/explore/scroll/profile?id=1581">
+							<roleName type="military">Second Lieutenant</roleName>
+							<forename>Chilton</forename>
+							<addName type="nickname">Chillie</addName>
+							<addName type="middle">Goodenough</addName>
+							<surname>Hayter</surname>
+						</persName>
+						<death when="1967-12-14">14 December 1967</death>
+					</person>
+					<person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+						<persName>
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Thomas</addName>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>					
+					
+				</listPerson>                               
+			</particDesc>        
+			<settingDesc>                
+				<listPlace>
+					<place xml:id="SIP">
+						<geogName>
+							<name type="place">Sinai</name>
+							<geogFeat>Peninsula</geogFeat>
+						</geogName>
+					</place>
+					<place xml:id="GAP">
+						<geogName>
+							<name type="place">Gallipoli</name>
+							<geogFeat>peninsula</geogFeat>
+						</geogName>
+					</place>
+				</listPlace>                
+			</settingDesc>
+		</profileDesc>		
+	</teiHeader>
+	
+	<text xml:id="t1">
+	  <body xml:id="t1-body">	    
+	    <pb n="1" facs="#rb077a" xml:id="t1-body-pb1"/>	    
+	    <opener>	      
+	      <dateline>
+	        <name type="place">Sinai Desert</name>
+	      	<lb/>
+	        <date when="1916-08-29">29.8.1916</date>
+	      	<lb/>
+	      </dateline>
+	    	<lb/>
+	    	<lb/>
+	      <salute>My dearest girl</salute>:
+	    </opener>
+		
+		<p>
+			Well I have got my
+			<lb/>
+			old Squadron back and am now
+			<lb/>
+			in command of the 8th again, but
+			<lb/>
+			unfortunately at the price of poor old
+			<lb/>
+			<name type="person" ref="#HHH" key="HHH">Hammond's</name> life. <name type="person" ref="#CBL" key="CBL">Blakeney</name> was killed
+			<lb/>
+			too as well as <name type="person" ref="#MEN" key="MEN">Menzies</name>, who forwarded
+			<lb/>
+			<name type="person" ref="#JFI" key="JFI">Col. Findlay's</name> photo to his people to be
+			<lb/>
+			forwarded to you. Dear old <name type="person" ref="#CBL" key="CBL">Blakeney</name>
+			<lb/>
+			I miss him terribly, we were great
+			<lb/>
+			friends. I am writing to <name type="person" ref="#WFH">Mrs 
+			<lb/>
+			Hamilton</name> and am sending her a 
+			<lb/>
+			sketch I made of his grave. He was
+			<lb/>
+			buried where he fell. Truly it is
+			<lb/>
+			time this war ended, the toll is too
+			<lb/>
+			heavy. All the youngest &amp; best seem
+			<lb/>
+			to go, and some of us who are more
+			<lb/>
+			or less worn out remain.
+			</p>
+			
+			<p>
+			I am in fairly good health, but
+			<lb/>
+			nothing wonderful, I am hoping 
+			<lb/>
+			that as the weather gets cooler to get
+			<lb/>
+			better also.
+			</p>
+			
+			<p>
+			All fighting is finished for the
+			<lb/>
+			present and I believe we are shortly
+			<lb/>
+			leaving the front for a rest on the
+			
+		    <pb n="2" facs="#rb077b" xml:id="t1-body-x4-pb1"/>
+	     
+			banks of the canal.
+			</p>
+			
+			<p>
+			I am very glad the Brigade have
+			<lb/>
+			shown themselves as good at cavalry
+			<lb/>
+			work as they did at infantry work
+			<lb/>
+				in the trenches at <name type="place" ref="#GAP" key="GAP">Gallipoli</name>.
+			</p>
+			
+			<p>
+				<name type="person" ref="#JAT" key="JAT">Jack Tennant</name> has got his com-
+			<lb/>
+			mission (well earned) <del rend="strike">as</del>and is, I am glad
+			<lb/>
+			to say, with me.
+			</p>
+			
+			<p>
+			Have had no letters of any kind
+			<lb/>
+			for weeks now and am looking forward
+			<lb/>
+			eagerly to some news.
+			</p>
+			
+			<p>
+			We are camped in a date plantation
+			<lb/>
+			at present, but the dates are not quite 
+			<lb/>
+			ripe yet.
+			</p>
+			
+			<p>
+			Can give you no more news
+			<lb/>
+			although there are lots of things I
+			<lb/>
+			should like to write about.
+			</p>
+			
+			<p>
+			Hope you are all well, have
+			<lb/>
+			had no news of <name type="person" ref="#CHI" key="CHI">Chillie</name> except indirectly
+			<lb/>
+			in July.
+			</p>
+			
+			<closer>
+			Take care of yourselves, my
+			<lb/>
+			children, I will try and be more
+			<lb/>
+			cheerful next time.
+			<lb/>
+			Your husband
+			<lb/>
+			<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+	    </closer>
+	    
+	    
+	  </body>
+	</text>
+</TEI>

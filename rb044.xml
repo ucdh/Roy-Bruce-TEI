@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb044" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>
+        <respStmt xml:id="respStmt-0001">
+          <resp>Creation of digital images</resp>
+          <name type="person">Sophie Tucker</name>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Cropping and tidying of digital images</resp>
+          <name type="person">Jennifer Middendorf</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Transcription</resp>
+          <name type="person">Alexandra King</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0004">
+          <resp>Transcription check</resp>
+          <name type="person">Christopher Thomson</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0005">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Christopher Thomson</name>
+        </respStmt>
+      </titleStmt>
+      <extent>Extent including images: ***</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+        <availability status="restricted">
+          <p>Publicly accessible. Distributed by the University of Canterbury under a
+            <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+              <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>
+              Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref>
+          </p>
+        </availability>
+        <date when="2015-06-01">1 June 2015</date>
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb044a">
+                <graphic url="rb044a.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044b">
+                <graphic url="rb044b.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044c">
+                <graphic url="rb044c.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044d">
+                <graphic url="rb044d.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044e">
+                <graphic url="rb044e.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044f">
+                <graphic url="rb044f.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044g">
+                <graphic url="rb044g.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044envf">
+                <graphic url="rb044envf.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044envb">
+                <graphic url="rb044envb.jpg" mimeType="image/jpeg"/>
+              </figure>
+            </item>
+          </list>
+        </note>
+      </notesStmt>
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135664</idno>												
+          </msIdentifier>
+          <head>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+            <date when="1915-06-26">26 June 1915</date>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>8 pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter">
+              <p>Written on letterhead paper, reading 'White Star Line.  R.M.S "Athenic"'.  The words R.M.S "Athenic" have been crossed out in this letter.</p>
+            </objectDesc>
+            <handDesc>
+              <handNote corresp="#RTB">Written in pencil, with a dateline written in black ink.</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a wide audience original World War I correspondence closely linked to Canterbury and Southland families. It also aims to introduce the principles of TEI to the ENGL317/419 class and foster a scholarly electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all">
+          <p>All quotation marks have been retained.</p>
+        </quotation>
+        <hyphenation eol="all">
+          <p>All hyphenation has been preserved to retain the character of the manuscript.</p>
+        </hyphenation>
+        <p>All first line indentation has been preserved.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        <date when="1915-06-26">26 June 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>
+        <listPerson><!-- Edit this section to reflect those people who appear in this letter.  Add names to the tracking spreadsheet too -->
+          <person xml:id="RTB">
+            <persName>
+              <roleName type="military">Lieutenant 8th Squadron</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+          <person xml:id="MGB">
+            <persName>
+              <forename>Maud</forename>
+              <addName type="middle">Goodenough</addName>type="married"&gt;
+              <surname type="maiden">Hayter</surname>
+              <surname type="married">Bruce</surname>
+            </persName>
+          </person>
+          <person xml:id="HEB">
+            <persName>
+              <forename>Helen</forename>
+              <addName type="middle">Eugenie </addName>
+              <surname type="maiden">Bruce</surname>
+              <surname type="married">Alexander</surname>
+            </persName>
+            <birth when="1909-12-05">5 December 1909</birth>
+          </person>
+          <person xml:id="AND">
+            <persName>
+              <surname>Andrews</surname>
+            </persName>
+          </person>
+          
+          <relationGrp type="personal"><!-- This section can be edited to reflect further relationships if you want.  However, this can take a lot of work so it is fine just to include the relation elements below.  Remember that each person will need an xml:id for authority control purposes though. -->
+            <relation name="parent" active="#RTB #MGB" passive="#HEB"/>
+            <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+          </relationGrp>
+        </listPerson>
+      </particDesc>
+      <settingDesc>
+        <listPlace>
+          <place xml:id="USA">
+            <placeName>
+              <country>United States of America</country>
+            </placeName>
+          </place>
+          <place xml:id="CAR">
+            <placeName>
+              <settlement>Cairo</settlement>
+            </placeName>
+            <location><country>Egypt</country>
+            </location>
+          </place>
+          <place xml:id="ZEI">
+            <placeName>Zeiton</placeName>
+          </place>
+          <place xml:id="NZE">
+            <placeName>
+              <country>New Zealand</country>
+            </placeName>
+          </place>
+        </listPlace>
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001">
+        <date when="2011-06-01">1 June 2011</date>
+        <name type="person">Christopher Thomson</name>
+      </change>
+    </revisionDesc>
+  </teiHeader>
+<text xml:id="t1">
+  <body xml:id="t1-body">
+    
+    <pb n="1" facs="#rb044a" xml:id="t1-body-pb1"/> 
+    <opener>
+      <dateline>
+        Mudros
+        <lb/> 
+        26 June 1915
+      </dateline>
+      <salute>
+        My dearest <name type="person" ref="#MGB" key="MGB">Maud</name> 
+      </salute>
+      :
+    </opener>
+    <p rend="indent">
+      I am still here
+      <lb/> 
+      having a quiet time - I should
+      <lb/> 
+      have been away before now,
+      <lb/> 
+      only my ridiculous inside
+      <lb/> 
+      began to play up, and they
+      <lb/> 
+      won't let me go until it is
+      <lb/> 
+      quite right, because what with
+      <lb/> 
+      bad water, heat &amp; flies, ones
+      
+      <pb n="2" facs="#rb044b" xml:id="t1-body-x2-pb1"/> 
+      
+      
+      inside has to be <del rend="strike">let</del> looked
+      <lb/>
+      after very carefully. I am
+      <lb/>
+      feeling ever so much better for
+      <lb/>
+      the spell, and I am glad
+      <lb/>
+      to say as things are very quiet at present on our
+      <lb/>
+      corner of the Peninsula. I am
+      <lb/>
+      not missing anything.
+      <lb/>
+      Our position at <name type="place">ANZAC</name> Cove,
+      <lb/>
+      real name Gabe Tepe, we call
+      <lb/>
+      it <name type="place">ANZAC</name> which translated 
+      <lb/>
+      means Australian &amp;<choice>
+        <abbr>N.Z.</abbr>
+        <expan>New Zealand</expan>
+      </choice> Army
+      <lb/>
+      Corps, is a very peculiar one.
+      <lb/>
+      Coming away in the steamer
+      <lb/>
+      the other day it looks all
+      <lb/>
+      the world like an ant hill.
+      <lb/>
+      You see we occupy a beach
+      <lb/>
+      frontage of a little more than
+      
+      
+      <pb n="3" facs="#rb044c" xml:id="t1-body-x2-pb2"/> 
+      
+      
+      two miles but inland we
+      <lb/>
+      only go a few hundred yards
+      <lb/>
+      consequently as it is all
+      <lb/>
+      high cliffs the whole of the
+      <lb/>
+      front is covered with dug-
+      <lb/>
+      outs &amp; the effect from the
+      <lb/>
+      sea is most extraordinary.
+      <lb/> 
+      We have a line of trenches
+      <lb/> 
+      on top of the cliffs, in
+      <lb/>
+      some cases only 10 yards
+      <lb/>
+      separating us from the
+      <lb/>
+      Turks who are about 6 to 1.
+      <lb/>
+      Truly it is most extraodinary.
+      <lb/>
+      they can reach every position
+      <lb/>
+      of our position with their
+      <lb/> 
+      artillery but luckily they
+      <lb/>
+      have not got much although
+      
+      <pb n="4" facs="#rb044d" xml:id="t1-body-x2-pb3"/>  
+      
+      
+      they make the most of what
+      <lb/>
+      they have.
+    </p>
+    <p rend="indent">
+      <name type="person">General Hamilton</name> came over
+      <lb/>
+      here on Sunday, he has got
+      <lb/>
+      a wonderful memory, he asked
+      <lb/>
+      me what I belonged to &amp; I
+      <lb/> 
+      told him, &amp; added that he
+      <lb/> 
+      had inspected me at <name type="place">Kowai</name>,
+      <lb/>
+      "Yes", he said at once "Very
+      <lb/>
+      muddy place".
+    </p>
+    <p rend="indent">
+      The general opinion here
+      <lb/>
+      is that there will be
+      <lb/>
+      something doing in about
+      <lb/>
+      a months time. Perhaps
+      <lb/>
+      before then, but no one knows.
+    </p>
+    <p rend="indent">
+      I hear the horses have
+      <lb/>
+      been having a rough time
+      <lb/>
+      in Egypt with the heat,
+      
+      <pb n="5" facs="#rb044e" xml:id="t1-body-x5-pb1"/> 
+      
+      
+      but we are losing very few.
+      <lb/>
+      I do hope we get them
+      <lb/>
+      again soon, I must admit
+      <lb/>
+      that this trench warfare
+      <lb/> 
+      does not appeal to me at
+      <lb/>
+      all, however it is all part
+      <lb/>
+      of the game &amp; nothing
+      <lb/>
+      will last for ever.
+    </p>
+    <p rend="indent">
+      There are some birds
+      <lb/>
+      here belonging to some of
+      <lb/> 
+      the English Territorials who are 
+      
+      <pb n="6" facs="#rb044f" xml:id="t1-body-x6-pb1"/> 
+      
+      down at Cape <choice>
+        <sic>Hellas</sic>
+        <corr>Helles</corr>
+      </choice> By
+      <lb/>
+      Jove if they are specimens
+      <lb/> 
+      of the present day young
+      <lb/>
+      blood in England I never
+      <lb/>
+      want to go near the place
+      <lb/>
+      again. But I am sure
+      <lb/>
+      they can't be, they are grocers
+      <lb/>
+      assistants or something.
+      <lb/>
+      Thank goodness there are
+      <lb/>
+      none we have to mix with.
+    </p>
+    <p rend="indent">
+      This censoring of letters
+      <lb/>
+      is the most amusing thing
+      <lb/>
+      I have done for a long time.
+      <lb/>
+      I ought to be able to write
+      <lb/>
+      the most gorgeous love letters.
+      <lb/>
+      Abbreviations are common, such
+      <lb/>
+      as "M.O.D. Molly, (my own dear
+      
+      <pb n="7" facs="#rb044g" xml:id="t1-body-x7-pb1"/> 
+      
+      Molly) or "I.L.Y.D." (I love
+      <lb/>
+      you dearly). "Hope this finds
+      <lb/>
+      you in the pink as it leaves
+      <lb/>
+      me" Meaning he is in
+      <lb/>
+      perfect health. There are
+      <lb/>
+      some lurid descriptions of
+      <lb/>
+      fighting, and absolutely
+      <lb/>
+      ghastly details about dead
+      <lb/>
+      Turks. One fellows writing
+      <lb/>
+      to his <hi rend="u">girl</hi> went into most
+      <lb/>
+      loathsome details, so I
+      <lb/>
+      scratched it all out.
+      <lb/>
+      One man in hospital said
+      <lb/>
+      "I have severe pains in my
+      <lb/>
+      back, and have been
+      <lb/> 
+      consulted by three doctors"
+      <lb/>
+      Another bird with one of the 
+      
+      <pb n="8" facs="#rb044h" xml:id="t1-body-x7-pb2"/> 
+      
+      most passionate letters I have
+      <lb/>
+      ever seen (commonplace passion)
+      <lb/>
+      so I slipped in a little note
+      <lb/>
+      congratulating the girl on having
+      <lb/>
+      such an ardent lover!
+    </p>
+    <p rend="indent">
+      Well old girl next letter
+      <lb/>
+      you will probably get from
+      <lb/>
+      the trenches again, but I
+      <lb/> 
+      am not going to hurry back
+      <lb/>
+      until I am quite fit. The
+      <lb/>
+      great drawback is that I
+      <lb/> 
+      do not get my mail here,
+      <lb/>
+      but there will be a big one
+      <lb/>
+      when I get back I hope.
+    </p>
+    <closer>
+      <salute>
+        Goodbye for the present,
+        <lb/>
+        you &amp; <name type="person" ref="#HEB" key="HEB">Helen</name> can humbug each
+        <lb/>
+        other for me. God bless you
+        <lb/>
+        both my dears, you have all
+        <lb/>
+        my love.
+      </salute>
+      <signed>
+        <name type="person" ref="#RTB" key="RTB">Roy</name> 
+      </signed>
+    </closer>
+  </body>
+</text>
+</TEI>

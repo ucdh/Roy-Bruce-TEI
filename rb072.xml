@@ -1,0 +1,673 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb072" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>                
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Transcription</resp>
+                    <name type="person">Sophie Tucker</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>                   
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>TEI Header compilation</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb072a">
+                                <graphic url="rb072a.jpg" mimeType="image/jpeg" xml:id="rb072a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072b">
+                                <graphic url="rb072b.jpg" mimeType="image/jpeg" xml:id="rb072b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072c">
+                                <graphic url="rb072c.jpg" mimeType="image/jpeg" xml:id="rb072c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072d">
+                                <graphic url="rb072d.jpg" mimeType="image/jpeg" xml:id="r072d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072e">
+                                <graphic url="rb072e.jpg" mimeType="image/jpeg" xml:id="r072e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072f">
+                                <graphic url="rb072f.jpg" mimeType="image/jpeg" xml:id="r072f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072g">
+                                <graphic url="rb072g.jpg" mimeType="image/jpeg" xml:id="r072g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072envfront">
+                                <graphic url="rb072envfront.jpg" mimeType="image/jpeg" xml:id="r072envfront-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb072envback">
+                                <graphic url="rb072envback.jpg" mimeType="image/jpeg" xml:id="r072envback-g"/>
+                            </figure>
+                        </item>
+                        
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135597</idno>
+                        <altIdentifier><idno type="URL">http://thecommunityarchive.org.nz/node/204609</idno></altIdentifier>
+                    </msIdentifier>
+                    <head>
+                        <date when="1916-07-01">1 of July 1916</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>7 Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"/>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                Kautara
+                <date when="1916-07-01">1 of July 1916</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>       
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                        <birth when="1880-02-22">22 February 1880</birth>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie</addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+                        <persName>
+                            <roleName type="military">Lieutenant</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="MAB">
+                        <persName evidence="external" source="view-source:http://www.rootsweb.ancestry.com/~nzlscant/rollesby.htm">
+                            <forename>Margaret</forename>
+                            <addName type="middle">Rosabel</addName>
+                            <surname type="maiden">Blair</surname>
+                            <surname type="married">Hayter</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="EEH">
+                        <persName>
+                            <forename>Eugenie</forename>
+                            <addName type="middle">Elizabeth</addName>
+                            <surname type="maiden">Hudleston</surname>
+                            <surname type="married">Hayter</surname>
+                        </persName>
+                    </person>
+                    <relationGrp type="personal">
+                        <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/> 
+                        <relation name="parent" active="#RTB #MGB" passive="#HEB"/>
+                    </relationGrp>                        
+                </listPerson>
+                <org type="military" xml:id="MBO">
+                    <orgName>Main Body</orgName>
+                    <desc>Description can be found here: http://nzetc.victoria.ac.nz/tm/scholarly/tei-WH1-Medi-t1-g1-t1-body-d2-d2.html</desc>
+                </org>
+                <org xml:id="AUW">
+                    <orgName>Auckland Weekly</orgName>
+                    <desc>Auckland Weekly Argus was started on 7th January, 1865, by Heron, Kidd, and Seffern, and was afterwards carried on by Mitchell and Seffern, who continued it till 3rd December, 1865, when the latter firm closed the office. It was a « make-up » from the New Zealander daily. (Source: http://nzetc.victoria.ac.nz/tm/scholarly/tei-Har05Typo-t1-g1-t1-body1-d5.html_</desc>
+                </org>
+                <org type="military" xml:id="EXF">
+                    <orgName>
+                        <choice>
+                            <abbr>Expeditory Force</abbr>
+                            <expan>1st Expeditory Force</expan>
+                        </choice>
+                    </orgName>
+                </org>
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                <place xml:id="KAN">
+                    <placeName evidence="external" source="https://en.wikipedia.org/wiki/El-Qantarah_el-Sharqiyyal">
+                        <settlement>Kautara</settlement>
+                    </placeName>
+                    <location>
+                        <country ref="#EGY">Egypt</country>
+                    </location>
+                </place>
+                    <place xml:id="BRE">
+                        <bloc>British Empire</bloc>
+                    </place>
+                    
+                    <place xml:id="SUC">
+                        <geogName>
+                            <name type="place">Suez</name>
+                            <geogFeat>Canal</geogFeat>
+                        </geogName>
+                    </place>
+                    <place xml:id="EGY">
+                        <placeName>
+                            <country>Egypt</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="ENG">
+                        <placeName>
+                            <country>England</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#BRI">United Kingdom</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="BRI">
+                        <placeName>
+                            <bloc>United Kingdom</bloc>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="EUR">
+                        <placeName>
+                            <bloc>Europe</bloc>
+                        </placeName>
+                    </place>
+                    <place xml:id="FRA">
+                        <placeName>
+                            <country>France</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="ANZ">
+                        <geogName>
+                            <name type="place">ANZAC</name>
+                            <geogFeat>Cove</geogFeat>
+                        </geogName>
+                        <location>
+                            <country ref="#TUR">Turkey</country>
+                        </location>
+                    </place>
+                    <place xml:id="TUR">
+                        <placeName>
+                            <country>Turkey</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+           <change xml:id="change-0001"/>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb072a" xml:id="t1-body-pb1"/>
+            <opener>
+                <dateline>
+                    <name type="place" ref="#KAN" key="KAN">Kantara</name>
+                    <lb/>
+                    <date when="1916-07-01">1 July 1916</date>                    
+                </dateline>
+                <lb/>
+                <lb/>
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+            </opener>
+            
+            <p>
+                We have come
+                <lb/>
+                down to this place which you will 
+                <lb/>
+                quite easily find on the map, some-
+                <lb/>
+                where on the <name type="place" ref="#SUC" key="SUC">Canal</name>, to recuperate
+                <lb/>
+                men and horses for a month.
+                <lb/>
+                It is still desert, <name type="place">Kantara</name> is
+                <lb/>
+                really only a Railway Station, and
+                <lb/>
+                at present a large military depot.
+            </p>
+            <p>
+                Here we get bathing in
+                <lb/>
+                the <name type="place" ref="#SUC" key="SUC">Canal</name> and it is very precious
+                <lb/>
+                this time of year.
+            </p>
+            
+            <p>
+                Recieved two papers and a
+                <lb/>                
+                small parcel of tobacco &amp; pipe-
+                <lb/>
+                cleaners, the other day for which
+                <lb/>
+                "mille remerciements", but no
+                <lb/>
+                letters, truly letters are strange
+                <lb/>
+                birds of passage, I really believe
+                <lb/>
+                that spirits carry them round &amp;
+                <lb/>
+                drop them occasionally in little
+                
+                <pb n="2" facs="#rb072b" xml:id="t1-body-x4-pb1"/>
+                
+                heaps in the desert to be found
+                <lb/>
+                by fortunate travellers.
+            </p>
+            <p>
+                So your <name type="person" ref="#EEH" key="EEH">mother</name> &amp; <name type="person" ref="#MAB" key="MAB">Margaret</name> are
+                <lb/>
+                off to <name type="place" ref="#ENG" key="ENG">England</name>! I have been
+                <lb/>
+                expecting that for some time.
+            </p>
+            <p>
+                I am afraid there is not
+                <lb/>
+                much chance of bringing you to
+                <lb/>
+                <name type="place" ref="#EGY" key="EGY">Egypt</name> yet. At the present time no
+                <lb/>
+                women at all are allowed to
+                <pb xml:id="t1-body-x6-pb1"/>
+                enter <name type="place" ref="#EGY" key="EGY">Egypt</name> not even <choice><sic>officers</sic><corr>officers'</corr></choice> wives,
+                <lb/>
+                so I am afraid we must possess
+                <lb/>
+                our souls in patience a little
+                <lb/>
+                while longer.
+            </p>
+            <p>
+                
+                I hear with very great regret
+                <lb/>
+                that some of our people are not
+                <lb/>
+                doing quite so well in <name type="place" ref="#FRA" key="FRA">France</name> as
+                <lb/>
+                they should be. I do hope the 
+                <lb/>
+                reports are exaggerated and that
+                <lb/>
+                the little reputation we made
+                <lb/>
+                at <name type="place" ref="#ANZ" key="ANZ">Anzac</name> is not going to be lost
+                <lb/>
+                by a lot of ill trained reinforcements.
+                <lb/>
+                Poor old <name type="organisation" ref="#MBO">Main Body</name>, I am afraid
+                <lb/>
+                it is rapidly becoming a thing of
+                
+                <pb n="3" facs="#rb072c" xml:id="t1-body-x7-pb1"/>
+                
+                the past. I have only 39 <name type="organisation" ref="#MBO">Main 
+                <lb/>
+                Body</name> men in the Squadron out of
+                <lb/>
+                165, and that is about the average
+                <lb/>
+                night through.
+            </p>
+            
+            <p>
+                I read in the <name type="organisation" ref="#AUW">Auckland Weekly</name>
+                <lb/>
+                and account of a speech given by
+                <lb/>
+                Captain Somebody in which he
+                <lb/>
+                said the people of <name type="place" ref="#NZE" key="NZE">N.Z</name> were too
+                <lb/>
+                busy money making to realise
+                <lb/>
+                exactly what they owed to the 
+                <lb/>
+                <name type="organisation" ref="#EXF">Expeditionary Force</name>. That after
+                <lb/>
+                the returned soldier had been 
+                <lb/>
+                given tea &amp; cakes he was looked
+                <lb/>
+                upon as more or less of a
+                <lb/>
+                nuisance. Now that is not
+                <lb/>
+                quite as it should be, and I 
+                <lb/>
+                feel sure that comes only 
+                <lb/>
+                from a lack of knowledge of
+                <lb/>
+                the rigours of campaigning and
+                <lb/>
+                a lack of appreciation of the
+                <lb/>
+                danger element, not only from 
+                <lb/>
+                shell or rifle fire, but from disease
+                <lb/>
+                &amp; climate.
+                
+                <pb n="4" facs="#rb072d" xml:id="t1-body-x8-pb1"/>
+                
+                When men live month after
+                <lb/>
+                month in hourly expectation of
+                <lb/>
+                the possibility of being attacked
+                <lb/>
+                from somewhere by something,
+                <lb/>
+                or going out themselves to find
+                <lb/>
+                something to attack, when 
+                <lb/>
+                perhaps for weeks at a time they
+                <lb/>
+                do not get more than four 
+                <lb/>
+                hours sleep at night, and
+                <lb/>
+                cannot sleep during the day
+                <lb/>
+                on account of heat &amp; flies, surely
+                <lb/>
+                when those men return to 
+                <lb/>
+                the peace and prosperity of their
+                <lb/>
+                own island they are entitled
+                <lb/>
+                to a good deal of consideration
+                <lb/>
+                and forbearance. I do not
+                <lb/>
+                mean that the continuous 
+                <lb/>
+                waving of flags and the
+                <lb/>
+                singing of the National Anthem
+                <lb/>
+                by an excited and hysterical
+                <lb/>
+                populace till do them any
+                <lb/>
+                good, because it won't, but I 
+                <lb/>
+                do think this, that if the people 
+                
+                <pb n="5" facs="#rb072e" xml:id="t1-body-x8-pb2"/>                  
+                
+                of <name type="place" ref="#NZE" key="NZE">New Zealand</name> would study
+                <lb/>
+                military affairs a little closer, spend
+                <lb/>
+                a little less time chasing the 
+                <lb/>
+                infernal or eternal dollar, and
+                <lb/>
+                instead of subscribing all their
+                <lb/>
+                money for the benefit of our
+                <lb/>
+                Allies' (a certain amount is excellent)
+                <lb/>
+                they would spend some of it
+                <lb/>
+                in forming clubs &amp; recreations
+                <lb/>
+                for their returned soldiers,
+                <lb/>
+                attractive institutions which
+                <lb/>
+                would make the men feel
+                <lb/>
+                they were really home, which
+                <lb/>
+                would help them to get fit
+                <lb/>                
+                again to come back here &amp; carry
+                <lb/>                
+                on to the end, then I am sure
+                <lb/>
+                there would be no necessity for
+                <lb/>
+                columns in the newspapers <hi rend='strike'>heldin</hi>
+                <lb/>
+                headed "Soldiers Grievances" which
+                <lb/>
+                should find no place in our
+                <lb/>
+                papers today, and which cast
+                <lb/>
+                reflections of a not very pleasant
+                <lb/>
+                kind on the people of <name type="place" ref="#NZE" key="NZE">N.Z.</name> by the<lb/>
+                
+                <pb xml:id="t1-body-x8-pb3"/>
+                apparent necessity of their
+                <lb/>
+                existance.
+            </p>
+            <pb n="6" facs="#rb072f" xml:id="t1-body-pb2"/>
+            <p>
+                Populations should realise by
+                <lb/>
+                now that the normal condition
+                <lb/>
+                of the <name type="place" ref="#BRE" key="BRE">British Empire</name> at the present
+                <lb/>
+                time is war not peace. Peace
+                <lb/>
+                is an abnormal condition
+                <lb/>
+                unattainable at present and
+                <lb/>
+                almost constitutes an ideal.
+            </p>
+            <p>
+                
+                If you can do anything
+                <lb/>
+                with your committees in this
+                <lb/>
+                matter, and feel inclined to
+                <lb/>
+                rewrite parts of this letter to
+                <lb/>
+                make it respectable English &amp;
+                <lb/>
+                intelligible to the multitude
+                <lb/>
+                (be careful not to exaggerate or
+                <lb/>
+                overdo it) you may do so &amp; use
+                <lb/>
+                my name with it.
+            </p>
+            <p>
+                Treat the men who return
+                <lb/>
+                to your shores as men, not
+                <lb/>
+                children. Make them feel, no
+                <lb/>
+                matter who or what they are
+                <lb/>
+                that you realise what they have
+                <lb/>
+                
+                <pb n="7" facs="#rb072g" xml:id="t1-body-x11-pb1"/>                         
+                
+                done and what they are going
+                <lb/>
+                to do again. But don't overdo
+                <lb/>
+                it. The New Zealander is one
+                <lb/>
+                of the most sensitive <choice><sic>men</sic><corr>man</corr></choice> alive.
+                <lb/>
+                I have led them for two years
+                <lb/>
+                in war, where at odd moments
+                <lb/>
+                every man's soul is laid out as
+                <lb/>
+                an open book for those who can
+                <lb/>
+                read, and I tell you that the
+                <lb/>
+                most sensitive plant on this
+                <lb/>
+                earth is the soul of the Anzac.
+                <lb/>
+                But you mustn't tell him so,
+                <lb/>
+                or let him see that you have the
+                <lb/>
+                slightest idea that he possesses
+                <lb/>
+                a soul or anything else worth
+                <lb/>
+                having. That is fatal and
+                <lb/>
+                therein lies the failure of the
+                <lb/>
+                <name type="place" ref="#NZE" key="NZE">N.Z.</name> people. You are too material-
+                <lb/>
+                istic. Wake up <name type="place" ref="#NZE" key="NZE">N.Z.</name>
+            </p>
+            <closer>
+                <salute>
+                    Good by for the present, old girl,<lb/>
+                    the tank has run dry. Be good and<lb/>
+                    if you can't etc etc. Kiss <name type="person" ref="#HEB" key="HEB">Helen</name> for<lb/>
+                    me &amp; <name type="person" ref="#HEB" key="HEB">Helen</name> might kiss you for me.<lb/>
+                </salute>
+                <signed><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</hi></signed>
+            </closer>
+            
+            
+        </body>
+    </text>
+</TEI>

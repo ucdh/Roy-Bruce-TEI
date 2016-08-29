@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb067" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title> 
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Sophie Tucker</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Jennifer Middledorf</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0005">
+                    <resp>TEI Header compilation</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2012-08-28">Tuesday the 28th of August 2012</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb067a">
+                                <graphic url="rb067a.jpg" mimeType="image/jpeg" xml:id="rb067a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067b">
+                                <graphic url="rb067b.jpg" mimeType="image/jpeg" xml:id="rb067b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067c">
+                                <graphic url="rb067c.jpg" mimeType="image/jpeg" xml:id="rb067c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067d">
+                                <graphic url="rb067d.jpg" mimeType="image/jpeg" xml:id="rb067d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067e">
+                                <graphic url="rb067e.jpg" mimeType="image/jpeg" xml:id="rb067e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067f">
+                                <graphic url="rb067f.jpg" mimeType="image/jpeg" xml:id="rb067f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067g">
+                                <graphic url="rb067g.jpg" mimeType="image/jpeg" xml:id="rb067g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067h">
+                                <graphic url="rb067h.jpg" mimeType="image/jpeg" xml:id="rb067h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067i">
+                                <graphic url="rb067i.jpg" mimeType="image/jpeg" xml:id="rb067i-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067envfront">
+                                <graphic url="rb067envfront.jpg" mimeType="image/jpeg" xml:id="rb067envfront-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb067envback">
+                                <graphic url="rb067envback.jpg" mimeType="image/jpeg" xml:id="rb067envback-g"/>
+                            </figure>
+                        </item>
+                        
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135689</idno>                        
+                    </msIdentifier>
+                    <head>
+                        <date when="1916-05-01">1 May 1916</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>9 Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"/>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                Somewhere East of Suez
+                <date when="1916-05-01">1 May 1916</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>                
+                <listPerson>
+                    <org xml:id="AUW">
+                    <orgName>Auckland Weekly</orgName>
+                    <desc>Auckland Weekly Argus was started on 7th January, 1865, by Heron, Kidd, and Seffern, and was afterwards carried on by Mitchell and Seffern, who continued it till 3rd December, 1865, when the latter firm closed the office. It was a « make-up » from the New Zealander daily. (Source: http://nzetc.victoria.ac.nz/tm/scholarly/tei-Har05Typo-t1-g1-t1-body1-d5.html_</desc>
+                </org>
+                    <org xml:id="PRE">
+                        <orgName>The Press</orgName>
+                    </org>
+                    <person xml:id="FIN">
+                        <persName>Finch</persName>
+                    </person>
+                    <person xml:id="AHU">
+                        <persName>
+                            <forename>Alice</forename>
+                            <surname>Hursthouse</surname>
+                        </persName>
+                    </person>
+                    <org xml:id="NMB" type="military">
+                        <orgName>New Zealand Mounted Brigade</orgName>
+                    </org>
+                </listPerson>
+            </particDesc>        
+            <settingDesc>                
+               <listPlace>
+                   <place xml:id="ANZ">
+                       <geogName>
+                           <name type="place">ANZAC</name>
+                           <geogFeat>Cove</geogFeat>
+                       </geogName>
+                       <location>
+                           <country ref="#TUR">Turkey</country>
+                       </location>
+                   </place>
+                   <place xml:id="TUR">
+                       <placeName>
+                           <country>Turkey</country>
+                       </placeName>
+                   </place>
+                <place xml:id="ZAG">
+                    <placeName>
+                        <settlement>Zagazig</settlement>
+                    </placeName>
+                    <location>
+                        <country ref="#EGY">Egypt</country>
+                    </location>
+                </place>
+                   <place xml:id="EGY">
+                       <placeName>
+                           <country>Egypt</country>
+                       </placeName>
+                   </place>
+                   <place xml:id="ALX">
+                       <placeName>
+                           <settlement>Alexandria</settlement>            
+                       </placeName>
+                       <location>
+                           <country ref="#EGY">Egypt</country>
+                       </location>
+                   </place>
+                   <place xml:id="TIM">
+                       <placeName>
+                           <settlement>Timaru</settlement>
+                       </placeName>
+                       <location>
+                           <country ref="#NZE">New Zealand</country>
+                       </location>
+                   </place>
+                   <place xml:id="NZE">
+                       <placeName>
+                           <country>New Zealand</country>
+                       </placeName>
+                   </place>
+               </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change n="Scanning" xml:id="change-0001">                  
+                <name type="person">Lucy-Jane Walsh</name>
+                <name type="person">Sophie Tucker</name>
+            </change>
+            <change n="Transcription" xml:id="change-0002">                    
+                <name type="person">Jennifer Middledorf</name>
+            </change>
+            <change n="Transcription Check" xml:id="change-0003">
+                <date when="2012-08-28">Tuesday, the 28th of August 2012</date>
+                <name type="person">Lucy-Jane Walsh</name>
+            </change>
+            <change n="Markup" xml:id="change-0004">
+                <date when="2012-08-28">Tuesday, the 28th of August 2012</date>
+                <name type="person">Lucy-Jane Walsh</name>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb067a" xml:id="t1-body-pb1"/>
+            <opener>  
+                <dateline>
+                    "Somewhere East of Suez"
+                    <lb/>
+                    <date when="1916-05-01">1 May 1916</date>
+                </dateline>
+                <lb/>
+                <salute>
+                    Dear old girl:
+                </salute>
+            </opener>
+            
+            <p>We have joined 
+                <lb/>
+                one of the lost tribes and
+                <lb/>
+                spend our time wandering
+                <lb/>
+                across the desert, almost
+                <lb/>
+                but not quite living on
+                <lb/>
+                locusts and wild honey.</p>
+            
+            <p>It is a wild 
+                <lb/>
+                gypsy existence, how far
+                <lb/>
+                we are going or where we
+                <lb/>
+                shall end up I don't know.</p>
+            
+            <p>I found an
+                <lb/>
+                old Arabian flintlock rifle
+                <lb/>
+                in a deserted village this
+                
+                <pb n="2" facs="#rb067b" xml:id="t1-body-x4-pb1"/>
+                
+                morning. I hope some-
+                <lb/>
+                how to get it back, but 
+                <lb/>
+                I have not the foggiest
+                <lb/>
+                notion how it is to be
+                <lb/>
+                done.</p>
+            
+            <p>Oh! my <name type="place" ref="#ZAG" key="ZAG">Zagazig</name> night
+                <lb/>
+                was without incident - 
+                <lb/>
+                I arrived there about 11.30,
+                <lb/>
+                found out the best hotel
+                <lb/>
+                was a Greek one, woke
+                <lb/>
+                up the night porter with
+                <lb/>
+                a stick, but all he
+                <lb/>
+                could say was "four shillin'",
+                <lb/>
+                I can't talk Greek, he 
+                <lb/>
+                knew neither French nor
+                <lb/>
+                English &amp; my few words 
+                <lb/>
+                of Arabic fell flat.
+                <lb/>
+                However I got a bed (only
+                
+                <pb n="3" facs="#rb067c" xml:id="t1-body-x5-pb1"/>
+                
+                3 fleas) and a bath 
+                <lb/>
+                next morning.  In these
+                <lb/>
+                hotels they don't feed you,
+                <lb/>
+                and after much sign
+                <lb/>
+                language, pointing to 
+                <lb/>
+                my mouth, placing
+                <lb/>
+                my hand on my little
+                <lb/>
+                Mary etc, he led me
+                <lb/>
+                to a Greek café, very
+                <lb/>
+                dirty, but where I had
+                <lb/>
+                a most excellent omelet.</p>
+            
+            <p>I don't know when 
+                <lb/>
+                we are likely to get
+                <lb/>
+                any letters - our nomadic
+                <lb/>
+                <choice><sic>existance</sic><corr>existence</corr></choice>, does not lend
+                <lb/>
+                itself to anything like
+                <lb/>
+                that.  We shall probably
+                <lb/>
+                find some growing on 
+                
+                <pb n="4" facs="#rb067d" xml:id="t1-body-x6-pb1"/>
+                
+                a tamarisk shrub 
+                <lb/>
+                some day.  We are
+                <lb/>
+                not far from the sea
+                <lb/>
+                and the sea breeze is
+                <lb/>
+                delightful these hot
+                <lb/>
+                days.</p>
+            
+            <p>Strange, but a 
+                <lb/>
+                letter has just arrived
+                <lb/>
+                from you, apparently
+                <lb/>
+                from nowhere, dated
+                <lb/>
+                18th March.  I think it
+                <lb/>
+                must have grown on 
+                <lb/>
+                the Tamarisk shrub.</p>
+            
+            <p>Have had no news-
+                <lb/>
+                papers for weeks &amp; very
+                <lb/>
+                few letters.  We can't 
+                <lb/>
+                altogether blame the 
+                <lb/>
+                postal people this end,
+                
+                <pb n="5" facs="#rb067e" xml:id="t1-body-x8-pb1"/>
+                
+                they have a lot of
+                <lb/>
+                difficulty, more particularly
+                <lb/>
+                now the forces are so 
+                <lb/>
+                split up. </p>
+            
+            <p>By the way dear, 
+                <lb/>
+                please don't send the
+                <lb/>
+                <name type="organisation" ref="#AUW">Auckland Weekly</name> any
+                <lb/>
+                more, I don't care for
+                <lb/>
+                it very much.  <name type="organisation" ref="#PRE">The
+                <lb/>
+                Press</name> would be far
+                <lb/>
+                more interesting.  I 
+                <lb/>
+                think I mentioned this
+                <lb/>
+                once before, months ago.
+                <lb/>
+                Also it is not much use 
+                <lb/>
+                sending old 'Presses', because
+                <lb/>
+                many others get them &amp;
+                <lb/>
+                often when mine arrive
+                <lb/>
+                everyone has seen them.</p>
+            
+            <pb n="6" facs="#rb067f" xml:id="t1-body-pb2"/>
+            
+            <p>Had a letter from
+                <lb/>
+                <name type="person" ref="#FIN">Finch</name> &amp; one from <name type="person" ref="#AHU" key="AHU">Alice
+                    <lb/>
+                    H</name>, recently, the former
+                <lb/>
+                seems cheerful, and very
+                <lb/>
+                grateful for all you did
+                <lb/>
+                for them.  The latter
+                <lb/>
+                tells me you keep up
+                <lb/>
+                a correspondence, which 
+                <lb/>
+                is very nice.  I sent
+                <lb/>
+                her my annual report
+                <lb/>
+                just before we left <name type="place" ref="#ANZ" key="ANZ">'Anzac'</name>
+                <lb/>
+                &amp; which she acknowledges.</p>
+            
+            <p>All the parcels I have
+                <lb/>
+                had from you arrive in
+                <lb/>
+                excellent order, the idea
+                <lb/>
+                of sewing them in bags is
+                <lb/>
+                good.  I expect all my
+                <lb/>
+                Xmas stuff got torpedoed
+                
+                <pb n="7" facs="#rb067g" xml:id="t1-body-x11-pb1"/>
+                
+                between <name type="place" ref="#ALX" key="ALX">Alexandria</name> &amp;
+                <lb/>
+                <name type="place" ref="#ANZ" key="ANZ">Anzac</name> or else was lost in
+                <lb/>
+                the evacuation.  Don't 
+                <lb/>
+                worry about them, perhaps
+                <lb/>
+                if I have not got them 
+                <lb/>
+                someone else has, who 
+                <lb/>
+                will be glad.</p>
+            
+            <p>I notice you are
+                <lb/>
+                starting underlining
+                <lb/>
+                in your letters again!</p>
+            
+            <p>Hope your "Dream"
+                <lb/>
+                goes alright, I suppose
+                <lb/>
+                it is not only to be 
+                <lb/>
+                sold in <name type="place" ref="#TIM" key="TIM">Timaru</name>.</p>
+            
+            <p>I don't think <name type="person">Frank</name>
+                <lb/>
+                will have much chance 
+                <lb/>
+                of getting into the <name type="organisation" ref="#NMB">NZ
+                    <lb/>
+                    Mounted Brigade</name>, we have
+                
+                <pb n="8" facs="#rb067h" xml:id="t1-body-x14-pb1"/>
+                
+                plenty of officers at
+                <lb/>
+                present doing nothing
+                <lb/>
+                &amp; many more of the old
+                <lb/>
+                hands in the non-com-
+                <lb/>
+                missioned ranks hoping
+                <lb/>
+                some day to get a chance.
+                <lb/>
+                He might get into some
+                <lb/>
+                other branch as they
+                <lb/>
+                have all been increased
+                <lb/>
+                lately.</p>
+            
+            <p>It is many pities
+                <lb/>
+                I cannot write and
+                <lb/>
+                describe things.  The 
+                <lb/>
+                material here, war &amp;
+                <lb/>
+                other is enormous for
+                <lb/>
+                anyone who could write.
+                <lb/>
+                However I may be able 
+                <lb/>
+                to give you scraps later
+                
+                
+            </p>
+            <gap extent="1" unit="page" reason="page missing"/>
+            
+        </body>
+    </text>
+</TEI>

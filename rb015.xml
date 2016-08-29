@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb015" xml:lang="en">
+<teiHeader type="text">
+<fileDesc xml:id="fileDesc-0001">
+<titleStmt>
+<title>Letter from Roy Bruce to Maud Bruce</title>
+<author>
+<name type="person" ref="#RTB" key="RTB">Roy Thomas Bruce</name>
+</author>
+<principal>
+<name type="person">Paul Millar</name>
+</principal>
+<funder>University of Canterbury</funder>
+<respStmt xml:id="respStmt-0001">
+<resp>Cropping and tidying of digital images</resp>
+<name type="person">Christopher Thomson</name>
+</respStmt>
+<respStmt xml:id="respStmt-0002">
+<resp>Transcription</resp>
+<name type="person">Christopher Thomson</name>
+</respStmt>
+<respStmt xml:id="respStmt-0003">
+<resp>Transcription check</resp>
+<name type="person">Alexandra King</name>
+</respStmt>
+<respStmt xml:id="respStmt-0004">
+<resp>Conversion to TEI-conformant markup</resp>
+<name type="person">Christopher Thomson</name>
+</respStmt>
+</titleStmt>
+<extent>Extent including images: </extent>
+<publicationStmt>
+<publisher>University of Canterbury Humanities Computing Unit</publisher>
+<pubPlace>Christchurch' New Zealand</pubPlace>
+<address>
+<addrLine>School of Humanities</addrLine>
+<addrLine>University of Canterbury</addrLine>
+<addrLine>Private Bag 4800</addrLine>
+<addrLine>Christchurch 8140</addrLine>
+<addrLine>New Zealand</addrLine>
+</address>
+<availability status="restricted">
+<p>Publicly accessible. Distributed by the University of Canterbury under a
+<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>
+Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref>
+</p>
+</availability>
+<date when="2014-01-14">13 November 2014</date>
+</publicationStmt>
+<notesStmt xml:id="notesStmt-0001">
+<note xml:id="page-images">
+<p>Page images:</p>
+<list type="simple">
+<item>
+<figure xml:id="rb015a">
+<graphic url="rb015a.jpg" mimeType="image/jpeg"/>
+</figure>
+<figure xml:id="rb015b">
+<graphic url="rb015b.jpg" mimeType="image/jpeg"/>
+</figure>
+<figure xml:id="rb015c">
+<graphic url="rb015c.jpg" mimeType="image/jpeg"/>
+</figure>
+<figure xml:id="rb015d">
+<graphic url="rb015d.jpg" mimeType="image/jpeg"/>
+</figure>
+<figure xml:id="rb015envf">
+<graphic url="rb015envf.jpg" mimeType="image/jpeg"/>
+</figure>
+<figure xml:id="rb015envb">
+<graphic url="rb015envb.jpg" mimeType="image/jpeg"/>
+</figure>
+</item>
+</list>
+</note>
+</notesStmt>
+<sourceDesc xml:id="sourceDesc-0001">
+<msDesc>
+<msIdentifier>
+<settlement>Christchurch</settlement>
+<institution>University of Canterbury</institution>
+<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+<collection>Letters from Major Roy Bruce</collection>
+<idno type="text">135618</idno>
+</msIdentifier>
+<head>
+<date when="1914-11-14">14 November 1914</date>
+<title>Letter from Roy Bruce to Maud Bruce</title>
+</head>
+<msContents>
+<msItem>
+<bibl>
+<author>Roy Thomas Bruce</author>
+<title>Letter from Roy Bruce to Maud Bruce</title>
+<extent>4 pages</extent>
+</bibl>
+</msItem>
+</msContents>
+<physDesc>
+<objectDesc form="letter">
+<p>Handwritten on letter paper, double-sided</p>
+</objectDesc>
+<handDesc>
+<handNote scribe="RTB">Written with black ink in italic hand</handNote>
+</handDesc>
+</physDesc>
+</msDesc>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc xml:id="projectDesc-0001">
+<p>The Roy Bruce project aims to preserve and make available to a wide audience original World War I correspondence closely linked to Canterbury and Southland families. It also aims to introduce the principles of TEI to the ENGL317/419 class and foster a scholarly electronic archiving tradition at the University of Canterbury.</p>
+</projectDesc>
+<samplingDecl>
+<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+</samplingDecl>
+<editorialDecl>
+<correction status="medium" method="markup">
+<p>No corrections to the original manuscript have been made; instead' any errors have been marked with the sic element.</p>
+</correction>
+<normalization>
+<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop' comma or hyphen was intended.</p>
+</normalization>
+<quotation marks="all">
+<p>All quotation marks have been retained.</p>
+</quotation>
+<hyphenation eol="all">
+<p>All hyphenation has been preserved to retain the character of the manuscript.</p>
+</hyphenation>
+<p>All first line indentation has been preserved.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc xml:id="profileDesc-0001">
+<particDesc>
+<listPerson>
+<person xml:id="RTB">
+<persName>
+<forename>Roy Thomas</forename>
+<surname>Bruce</surname>
+</persName>
+<birth when="1881-12-18">18 December 1881</birth>
+<death when="1945-11-29">29 November 1945</death>
+</person>
+<person xml:id="MGB">
+<persName type="married">
+<forename>Maud Goodenough</forename>
+<surname>Bruce</surname>
+</persName>
+<persName type="maiden">
+<forename>Maud Goodenough</forename>
+<surname>Hayter</surname>
+</persName>
+<birth when="1880-02-22">22 February 1880</birth>
+</person>
+<person xml:id="HEB">
+<persName>
+<forename>Helen Eugenie</forename>
+<surname>Bruce</surname>
+</persName>
+<birth when="1909-12-05">5 December 1909</birth>
+</person>
+<relationGrp type="personal">
+<relation name="parent" active="#RTB #MGB" passive="#HEB"/>
+<relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+</relationGrp>
+</listPerson>
+</particDesc>
+<settingDesc>
+<listPlace>
+<place xml:id="NZE">
+<placeName>
+<country>New Zealand</country>
+</placeName>
+</place>
+<place xml:id="AUS">
+<placeName>
+<country>Australia</country>
+</placeName>
+</place>
+</listPlace>
+</settingDesc>
+</profileDesc>
+<revisionDesc xml:id="revisionDesc-0001">
+<change n="1" xml:id="change-0001">
+<date when="2014-01-14">14 January 2014</date>
+<name type="person">Christopher Thomson</name>
+</change>
+</revisionDesc>
+</teiHeader>
+<text xml:id="t1">
+<body xml:id="t1-body">
+    <pb n="1" facs="#rb015a" xml:id="t1-body-pb1"/>
+    <dateline><date when="1914-11-14">Nov. 14th 1914</date></dateline>
+    <opener>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</opener>
+    <p rend="indent">Have just <lb/>
+    heard that all <name type="place" ref="#NZE" key="NZE">New<lb/>        
+    Zealand</name> letters are to<lb/>
+    be censored. I had<lb/>
+    already written one,<lb/>
+    which I will send,<lb/>
+    as it may go delayed.<lb/>
+    You will get it some<lb/>
+    time. In any case<lb/>
+    you will probably get<lb/>
+    this fairly soon.</p>
+    <p rend="indent">I do not know to
+    
+    <pb n="2" facs="#rb015b" xml:id="t1-body-x4-pb1"/>
+    
+    what extent the censor<lb/>
+    is going to work, consequently<lb/>
+    I will not put any news<lb/>
+    in this that might<lb/>
+    delay the transmission<lb/>
+    of the letter.</p>
+    <p rend="indent">Everything is going<lb/>
+    on very well and we<lb/>
+    shall probably follow<lb/>
+    the course mapped out<lb/>
+    in my last letter from<lb/>
+    <name type="place" ref="#AUS" key="AUS">Australia</name>.</p>
+    <p rend="indent">I came across a man<lb/>
+    sitting in a tub of water<lb/>
+    the other day, reading.<lb/>
+    Only his head and hands<lb/>
+    
+    <pb n="3" facs="#rb015c" xml:id="t1-body-x6-pb1"/>
+    
+    were visible. He looked<lb/>
+    nice &amp; cool.</p>
+    <p rend="indent">I do hope everything<lb/>
+    is going well with you,<lb/>
+    &amp; that both you and<lb/>
+    Helen are in the best<lb/>
+    of health and spirits.</p>
+    <p rend="indent">You had better tell<lb/>
+    please any people who<lb/>
+    may be expecting letters<lb/>
+    that it is not much<lb/>
+    use my writing as I <lb/>
+    cannot give any details<lb/>
+    owing to the censor. They<lb/>
+    can get anything they<lb/>
+    want from you, that is<lb/>
+    
+    <pb n="4" facs="#rb015d" xml:id="t1-body-x8-pb1"/>
+    
+    when you get letters.</p>
+    <p rend="indent">If I were you I think<lb/>
+    I would <add place="above">do</add> a lot of weeding<lb/>
+    in the house. There is<lb/>
+    an awful accumulation<lb/>
+    of rubbish which could<lb/>
+    very well be burned or<lb/>
+    given away.</p>
+    <p rend="indent">I am getting very fit,<lb/>
+    &amp; enjoying myself immensely.<lb/>
+    Good bye for the<lb/>
+    present dear one, take<lb/>
+    every care of yourself &amp;<lb/>
+    Helen.</p>
+    <closer><salute>Love,<lb/>
+    Your affec. husband,</salute>
+        <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy Bruce</name></signed>
+    </closer>
+    <note xml:id="note-0001">I enclose a note for Helen.</note>
+    
+    <pb n="5" facs="#rb015envf" xml:id="t1-body-pb2"/>
+    <pb n="6" facs="#rb015envb" xml:id="t1-body-pb3"/>
+</body>
+</text>
+</TEI>

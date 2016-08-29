@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb059" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Helen Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>                
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Transcription</resp>
+                    <name type="person">Jennifer Middendorf</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2015-09-24"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb059a">
+                                <graphic url="rb059a.jpg" mimeType="image/jpeg" xml:id="rb059a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb059b">
+                                <graphic url="rb059b.jpg" mimeType="image/jpeg" xml:id="rb059b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb059c">
+                                <graphic url="rb059c.jpg" mimeType="image/jpeg" xml:id="rb059c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb059d">
+                                <graphic url="rb059d.jpg" mimeType="image/jpeg" xml:id="rb059d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb059envf">
+                                <graphic url="rb059envf.jpg" mimeType="image/jpeg" xml:id="rb059envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb059envb">
+                                <graphic url="rb059envb.jpg" mimeType="image/jpeg" xml:id="rb059envb-g"/>
+                            </figure>
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135681</idno>                    
+                    </msIdentifier>
+                    <head>
+                        <date when="1915-12-05">5 December 1915</date>
+                        <title>Letter from Roy Bruce to Helen Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Helen Bruce</title>
+                                <extent>4 Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"/>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <name type="place" ref="#ANZ" key="ANZ">Anzac</name>
+                <date when="1915-12-05">5 Dec 1915</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>                 
+            <settingDesc>                
+                <listPlace>
+                    <place xml:id="ANZ">
+                        <geogName>
+                            <name type="place">ANZAC</name>
+                            <geogFeat>Cove</geogFeat>
+                        </geogName>
+                        <location>
+                            <country ref="#TUR">Turkey</country>
+                        </location>
+                    </place>
+                    <place xml:id="TUR">
+                        <placeName>
+                            <country>Turkey</country>
+                        </placeName>
+                    </place>                    
+                </listPlace>                
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001"/>
+        </revisionDesc>
+    </teiHeader>    
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb059a" xml:id="t1-body-pb1"/>            
+            <opener>
+                <dateline>
+                    <name type="place" ref="#ANZ" key="ANZ">Anzac</name>
+                    <lb/>
+                    <date when="1915-12-05">5 Dec 1915</date>
+                </dateline>
+                <lb/>
+                <lb/>
+                <salute>My darling child</salute>:
+            </opener>
+            <p>I am sending
+                <lb/>
+                you a little Christmas
+                <lb/>
+                card, which I hope you
+                <lb/>
+                will like. It is a
+                <lb/>
+                little late, but I only
+                <lb/>
+                had it made a few
+                <lb/>
+                days ago. Mummy
+                <lb/>
+                will tell you how it
+                <lb/>
+                was made.
+            </p>
+            <p>
+                I had all sorts of
+                <lb/>
+                good reports about you &amp;
+                <lb/>
+                it makes me very happy
+                <lb/>
+                to know that I have such
+                <lb/>
+                an industrious little
+                
+                <pb n="2" facs="#rb059b" xml:id="t1-body-x3-pb1"/>
+                
+                daughter who is getting
+                <lb/>
+                on so well with her
+                <lb/>
+                lessons.
+            </p>
+            <p>
+                What do you think
+                <lb/>
+                I saw in the trenches last
+                <lb/>
+                night! A little frog!
+                <lb/>
+                I was going along and I
+                <lb/>
+                saw something black hop
+                <lb/>
+                so I flashed my light &amp;
+                <lb/>
+                there was a dear little
+                <lb/>
+                frog, and his eyes did
+                <lb/>
+                sparkle so. I picked
+                <lb/>
+                him up, and he was
+                <lb/>
+                so cold, and I put him
+                <lb/>
+                where he would nto get
+                <lb/>
+                trodden on.            
+            </p>
+            <p>
+                One of the men
+                <lb/>
+                found a tortoise the other
+                <lb/>
+                day, such a big one, about
+                
+                <pb n="3" facs="#rb059c" xml:id="t1-body-x5-pb1"/>
+                
+                half the size of old Jeremy.
+                <lb/>
+                He is living now in a
+                <lb/>
+                dugout, and always tries
+                <lb/>
+                to get hear the fire           
+            </p>
+            <p>
+                I have not had a
+                <lb/>
+                letter from you for a
+                <lb/>
+                long time, but I am
+                <lb/>
+                expecting one any time
+                <lb/>
+                now.
+            </p>
+            <p>
+                We had a lot of
+                <lb/>
+                snow here the other day
+                <lb/>
+                &amp; it was very cold, but
+                <lb/>
+                now it is warmer but
+                <lb/>
+                very muddy.                
+            </p>
+            <p>
+                I hope you had a
+                <lb/>
+                happy Christmas &amp; that I
+                <lb/>
+                shall be back to spend
+                
+                <pb n="4" facs="#rb059d" xml:id="t1-body-x8-pb1"/>
+                
+                the next one with you.
+            </p>
+            <p>Be a good little girl
+                <lb/>
+                always &amp; look after
+                <lb/>
+                mummy</p>
+            <closer>
+                <salute>With lots of love
+                    <lb/>
+                    &amp; humbugs from
+                    <lb/>
+                    your affectionate <hi rend="u">father</hi></salute>
+            </closer>
+            <postscript><p>Remember me to Come.</p></postscript>
+            <pb n="5" facs="#rb059envf" xml:id="t1-body-pb2"/>
+            <pb n="6" facs="#rb059envb" xml:id="t1-body-pb3"/>
+        </body>
+    </text>
+</TEI>

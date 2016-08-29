@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb078" xml:lang="en">
+	<teiHeader type="text">
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Bruce to Maud Bruce</title>
+				<author>
+					<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+					<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>				
+				<respStmt xml:id="respStmt-0001">
+					<resp>Transcription</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription check</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Brad McNeur</name>
+					<name type="person">Lucy-Jane Walsh</name>
+				</respStmt>                
+			</titleStmt>
+			<extent>Extent including images:  kb</extent>
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+						<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2016-08-03">3 August 2016</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb078a">
+								<graphic url="rb078a.jpg" mimeType="image/jpeg" xml:id="rb078a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078b">
+								<graphic url="rb078b.jpg" mimeType="image/jpeg" xml:id="rb078b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078c">
+								<graphic url="rb078c.jpg" mimeType="image/jpeg" xml:id="rb078c-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078d">
+								<graphic url="rb078d.jpg" mimeType="image/jpeg" xml:id="rb078d-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078e">
+								<graphic url="rb078e.jpg" mimeType="image/jpeg" xml:id="rb078e-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078envf">
+								<graphic url="rb078envf.jpg" mimeType="image/jpeg" xml:id="rb078envf-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb078envb">
+								<graphic url="rb078envb.jpg" mimeType="image/jpeg" xml:id="rb078envb-g"/>
+							</figure>
+						</item>						
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135700</idno>            
+					</msIdentifier>
+					<head>
+						<date when="1916-09-04">4 September 1916</date>
+						<title>Letter from Roy Bruce to Maud Bruce</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Bruce to Maud Bruce</title>
+								<extent>5 Pages</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter"/>                           
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a 
+					wide audience original World War I correspondence closely linked to 
+					Canterbury and Southland families. It also aims to introduce the
+					principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+					electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<creation>
+				Bir El Abd
+				<date when="1916-09-04">4 September 1916</date>
+			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>                
+				<listPerson>
+					<person xml:id="MGB">
+						<persName>
+							<forename>Maud</forename>
+							<addName type="middle">Goodenough</addName>type="married"&gt;
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Bruce</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="GHA">
+						<persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C6400">
+							<roleName type="military">Second Lieutenant</roleName>
+							<forename>Gordon</forename>
+							<addName type="middle">Gerald</addName>
+							<surname>Harper</surname>            
+						</persName>
+						<birth when="1885-02-15">15 February 1885</birth>
+						<death when="1916-08-12">12 August 1916</death>
+					</person>
+					<person xml:id="AND">
+						<persName evidence="external" source="http://www.archway.archives.govt.nz/FullItem.do;jsessionid=5D01E51068A94167F7FAAAC8A8F92A1E">
+							<forename>Charles</forename>
+							<addName type="middle">Eric</addName>
+							<surname>Andrews</surname>
+						</persName>
+					</person>
+					<person xml:id="PJW">
+						<persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/57673.detail">
+							<roleName type="military">Major</roleName>
+							<forename>Peter</forename>
+							<addName type="middle">Jenkins</addName>
+							<surname>Wain</surname>
+						</persName>
+					</person>
+					<person xml:id="MAR">
+						<persName>Marion</persName>
+					</person>
+					<person xml:id="FIN">
+						<persName>Finch</persName>
+					</person>									
+					<person xml:id="SPR">
+						<persName>Sparrow</persName>
+					</person>
+					<person xml:id="HEB">
+						<persName>
+							<forename>Helen</forename>
+							<addName type="middle">Eugenie</addName>
+							<surname type="maiden">Bruce</surname>
+							<surname type="married">Alexander</surname>
+						</persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
+					<person xml:id="JHA">
+						<persName evidence="external" source="http://www.geni.com/people/Jean-Denley/368831999110011469">
+							<forename>Jean</forename>
+							<addName type="middle">Rosabel</addName>
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Denly</surname>
+						</persName>
+					</person>
+					<person xml:id="WFH">
+						<persName>
+							Mrs W.F.
+							<surname>Hamilton</surname>
+						</persName>						
+					</person>
+					<person xml:id="CBL">
+						<persName evidence="extenal" source="http://muse.aucklandmuseum.com/databases/Cenotaph/1274.detail?">
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Cyril</forename>
+							<surname>Blakeney</surname>
+						</persName>
+						<death when="1916-08-09">9 August 1916</death>						
+					</person>
+					<person xml:id="JAT">
+						<persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C56800">
+							<roleName type="military">Sergeant</roleName>
+							<forename>John</forename>
+							<addName type="nickname">Jack</addName>
+							<surname>Tennant</surname>
+						</persName>
+					</person>
+					<person xml:id="RSP" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C12615?">
+						<persName>
+							<roleName type="military">Captain</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Simpson</addName>
+							<surname>Priest</surname>
+						</persName>
+						<death when="1917-04-19">19 April 1917</death>
+					</person>
+					<person xml:id="ARH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/53856.detail?">
+						<persName>
+							<forename>Arthur</forename>
+							<addName type="middle">Ernest</addName>
+							<addName type="middle">Timaru</addName>
+							<surname>Rhodes</surname>            
+						</persName>
+					</person>
+					<person xml:id="FLH" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C45992?">
+						<persName>
+							<forename>Frank</forename>
+							<addName type="middle">Lawton</addName>
+							<surname>Hindley</surname>
+						</persName>
+						<death when="1937-09-03">3 September 1937</death>
+					</person>
+					<person xml:id="WIL">
+						<persName>Wilson</persName>
+					</person>
+					<person xml:id="WII">
+						<persName>
+							<roleName>Kaiser</roleName>
+							<roleName>German Emperor</roleName>
+							<roleName>King of Prussia</roleName>
+							Wilhelm II
+							<forename>Friedrich</forename>
+							<addName type="middle">Wilhelm</addName>
+							<addName type="middle">Viktor</addName>
+							<addName type="middle">Albrecht</addName>
+							<addName type="nickname">Kaiser Bill</addName>
+						</persName>
+					</person>
+					<person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+						<persName>
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Thomas</addName>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>
+					<person xml:id="LPW" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C59179?">
+						<persName>
+							<forename>Leslie</forename>
+							<addName>Pascoe</addName>
+							<surname>Wornall</surname>
+						</persName>
+					</person>
+					<person xml:id="EOH" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C45329?">
+						<persName>
+							<roleName type="military">Sergeant</roleName>
+							<forename>Edward</forename>
+							<addName type="middle">Oliver</addName>
+							<surname>Harrison</surname>
+						</persName>
+					</person>
+				</listPerson>                               
+			</particDesc>        
+			<settingDesc>                
+				<listPlace>
+					<place xml:id="NZE">
+						<placeName>
+							<country>New Zealand</country>
+						</placeName>
+					</place>
+					<place xml:id="CAN">
+						<placeName>
+							<region>
+								Canterbury
+							</region>
+						</placeName>
+						<location>
+							<country ref="#NZE">New Zealand</country>
+						</location>
+					</place>
+					<place xml:id="LON">
+						<placeName>
+							<settlement>London</settlement> 
+						</placeName>
+						<location>
+							<country ref="#ENG">England</country>            
+						</location>
+					</place>
+					<place xml:id="RMN">
+						<placeName>
+							<country>Romania</country>
+						</placeName>
+						<location>
+							<bloc ref="#EUR">Europe</bloc>
+						</location>
+					</place>
+					<place xml:id="WAI">
+						<placeName>
+							<settlement>Waimate</settlement>
+						</placeName>
+						<location>
+							<country ref="#NZE">New Zealand</country>
+						</location>
+					</place>
+					<place xml:id="EGY">
+						<placeName>
+							<country>Egypt</country>
+						</placeName>
+					</place>
+					<place xml:id="ENG">
+						<placeName>
+							<country>England</country>
+						</placeName>
+						<location>
+							<bloc ref="#BRI">United Kingdom</bloc>
+						</location>
+					</place>
+					<place xml:id="EUR">
+						<placeName>
+							<bloc>Europe</bloc>
+						</placeName>
+					</place>
+					<place xml:id="BRI">
+						<placeName>
+							<bloc>United Kingdom</bloc>
+						</placeName>
+						<location>
+							<bloc ref="#EUR">Europe</bloc>
+						</location>
+					</place>
+					<place xml:id="NEL">
+						<placeName><settlement type="town">Nelson</settlement></placeName>
+						<location><country ref="#NZE">
+							New Zealand</country>
+						</location>
+					</place>
+				</listPlace>                
+			</settingDesc>
+		</profileDesc>
+		<revisionDesc xml:id="revisionDesc-0001">
+			<change xml:id="change-0001"/>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="t1">
+	  <body xml:id="t1-body">
+	  	
+	    <pb n="1" facs="#rb078a" xml:id="t1-body-pb1"/>
+	    
+	    <opener>
+	      
+	      <dateline>
+	        Bir El Abd
+	        <lb/>
+	        <date when="1916-09-04">4. 9. 1916</date>	      	
+	      </dateline>
+	    	<lb/>
+	    	<lb/>
+	    	<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+	    </opener>
+		
+		<p>
+			I am afraid I am
+			<lb/>
+			rather a bad correspondent; somehow it
+			<lb/>
+			is very difficult for me to describe on paper
+			<lb/>
+			places &amp; things that we do - others seem to 
+			<lb/>
+			be able to do it with a great facility, and
+			<lb/>
+			I fear you will be making comparisons.
+			<lb/>
+			I read a most excellent account of that
+			<lb/>
+			very hot day in May, written by poor old
+			<lb/>
+			<name type="person" ref="#GHA" key="GHA">Gordon Harper</name> in the "Herald". Although
+			<lb/>
+			I might be able to tell you things like that
+			<lb/>
+			it is impossible for me to write them.
+			<lb/>
+			Shall probably have to regulate myself to
+			<lb/>
+			spells of talking when I return or else I
+			<lb/>
+			shall bust.
+		</p>
+		
+		<p>
+			Three letters blew in from 
+			<lb/>
+			anywhere the other day, also two small 
+			<lb/>
+			parcels, bovril, chocolate &amp; soup, many thanks
+			<lb/>
+			old girl.
+		</p>
+		
+		<p>
+			By the way it is quite
+			<lb/>
+			unnecessary to put my number on either
+			<lb/>
+			letters or parcels.
+		</p>
+		
+		<p>
+			Poor old <name type="person" ref="#AND" key="AND">Andrews</name> is done,
+			<lb/>
+			and is returning to <name type="place" ref="#NZE" key="NZE">N.Z</name>, had a letter from
+			<lb/>
+			him from <name type="place" ref="#LON" key="LON">London</name>. He is very cut up at
+			
+		<pb n="2" facs="#rb078b" xml:id="t1-body-x5-pb1"/>
+		
+			having to give in &amp; go back. His wife
+			<lb/>
+			accompanies him. I hope you will
+			<lb/>
+			meet, he will probably be more interesting 
+			<lb/>
+			than old <name type="person" ref="#PJW" key="PJW">Wain</name>, who after all, did not
+			<lb/>
+			see a great deal, and had a very nice trip
+			<lb/>
+			round the world. I hear his reception
+			<lb/>
+			in <name type="place" ref="#WAI" key="WAI">Waimate</name> was not quite what he
+			<lb/>
+			expected.
+		</p>
+		
+		<p>
+			<name type="person" ref="#MAR">Marion</name> wrote me at last, after
+			<lb/>
+			two years silence.  I was glad to hear
+			<lb/>
+			from the child.
+		</p>
+		
+		<p>
+			I am writing <name type="person" ref="#FIN">Mrs Finch</name>, accepting
+			<lb/>
+			the responsibility of the sins of her first born,
+			<lb/>
+			it was remarkably good of them to think
+			<lb/>
+			of me in that connection, but ah! me,
+			<lb/>
+			I am afraid I shall have to open a
+			<lb/>
+			new "Book of Sins". Next time I get
+			<lb/>
+			to civilisation I will see what Egyptian
+			<lb/>
+			silversmiths can do in the way of mugs.
+		</p>
+		
+		<p>
+			Will you please let me know how
+			<lb/>
+			you are financially?. If you wish I can
+			<lb/>
+			increase your allowance, but I want you
+			<lb/>
+			to remember that the money is mounting
+			<lb/>
+			up here all the time, and if you are
+			<lb/>
+			getting along alright, it will be very
+			<lb/>
+			useful later on either to bring you to 
+			<lb/>
+			<name type="place" ref="#EGY" key="EGY">Egypt</name> or <name type="place" ref="#ENG" key="ENG">England</name> or to take you for the
+			<lb/>
+			holiday you so richly deserve when I return
+			
+		<pb n="3" facs="#rb078c" xml:id="t1-body-x8-pb1"/>
+		
+		to <name type="place" ref="#NZE" key="NZE">N.Z.</name> Let me know exactly how you
+			<lb/>
+			feel about it, and I will endeavour to
+			<lb/>
+			meet your wishes as much as possible.
+		</p>
+		
+		<p>
+			Thank you for your congratulations
+			<lb/>
+			on my majority, I am glad you are
+			<lb/>
+			pleased. You must not expect anything
+			<lb/>
+			more now for a long time. I am very 
+			<lb/>
+			pleased at being back with the old 8th
+			<lb/>
+			again, we are a very happy family. As
+			<lb/>
+			you told the public per medium "Herald"
+			<lb/>
+			that I was in command of the Nelson
+			<lb/>
+			squadron, you might as well let them
+			<lb/>
+			know now that I am in command of
+			<lb/>
+			the South Canterbury men.
+		</p>
+		
+		<p>
+			I didn't know that <name type="person">Innes Jones</name> had
+			<lb/>
+			any case with <name type="person" ref="#SPR">Sparrow</name>, what was it about?
+			<lb/>
+			Tell that old bird to drop me a line.
+		</p>
+		
+		<p>
+			Old <name type="person">McPherson</name> left me long ago,
+			<lb/>
+			he went sick and when he came back
+			<lb/>
+			I got him an easy job in the transport.
+		</p>
+		
+		<p>
+			At present for a servant I have
+			<lb/>
+			a man named <name type="person" ref="#LPW" key="LPW">Wornall</name>, a farmer
+			<lb/>
+			somewhere in <name type="place" ref="#CAN" key="CAN">North Canterbury</name>, and for
+			<lb/>
+			groom a man named <name type="person">McGillvray</name> who
+			<lb/>
+			used to travel a stallion round.
+		</p>
+		
+		<p>
+			I will send you a snap of my
+			<lb/>
+			horses one of these days, I think you
+			<lb/>
+			will like them, they are a good team.
+		</p>
+		
+		<pb n="4" facs="#rb078d" xml:id="t1-body-pb2"/>
+		
+		<p>
+			The Egyptian coin old <name type="person" ref="#PJW" key="PJW">Wain</name> gave <name type="person" ref="#HEB" key="HEB">Helen</name>
+			<lb/>
+			would probably be a half piastre, a nickle
+			<lb/>
+			coin value 1 1/4d. Nickle coinage is much
+			<lb/>
+			cleaner than copper.
+		</p>
+		
+		<p>
+			Poor little <name type="person" ref="#JHA" key="JHA">Jean</name>, give her my love when
+			<lb/>
+			you write. It is a pity you could not
+			<lb/>
+			manage to get to <name type="place" ref="#NEL" key="NEL">Nelson</name>.
+		</p>
+		
+		<p>
+			I wrote to <name type="person" ref="#WFH">Mrs Hamilton</name> yesterday 
+			<lb/>
+			and sent her a small photo of <name type="person" ref="#CBL" key="CBL">Cyril's</name>
+			<lb/>
+			grave. I miss that boy very much,
+			<lb/>
+			he was a fine fellow.
+		</p>
+		
+		<p>
+			Hope I have not been going off 
+			<lb/>
+			"pop" too much in some of my letters
+			<lb/>
+			lately, you must let me off if I
+			<lb/>
+			have. I think I told you that the
+			<lb/>
+			last two years are beginning to tell,
+			<lb/>
+			and I get very peevish sometimes.
+			<lb/>
+			I wish I could get out of this climate
+			<lb/>
+			for a few weeks. I should be alright
+			<lb/>
+			again then; but at present there does
+			<lb/>
+			not seem to be much chance.
+		</p>
+		
+		<p>
+			My old troop <name type="person" ref="#EOH" key="EOH">Sergt. Harrison</name> has
+			<lb/>
+			got his commission, and is with me
+			<lb/>
+			here, also <name type="person" ref="#JAT" key="JAT">Jack Tennant</name> from the old
+			<lb/>
+			troops with a commission and <name type="person" ref="#RSP" key="RSP">Roy Priest</name>.
+			<lb/>
+			That old troop holds about a record for
+			<lb/>
+			getting commissions. The following is
+			<lb/>
+			the list:-
+		
+		<pb n="5" facs="#rb078e" xml:id="t1-body-x18-pb1"/>
+		
+			<name type="person" ref="#EOH" key="EOH">Sergt. Harrison</name> now 2nd Lieut. (8th)
+			<lb/>
+			" <name type="person" ref="#ARH" key="ARH">Rhodes</name> " " (orderly officer General Chapter)
+			<lb/>
+			<name type="person">Lt " Rich</name> " " (<name type="place" ref="#ENG" key="ENG">England</name>)
+			<lb/>
+			" <name type="person" ref="#WIL">Wilson</name> " " (training Regt)
+			<lb/>
+			<name type="person" ref="#JAT" key="JAT">Tpr. Tennant</name> " " (8th)
+			<lb/>
+			"<name type="person" ref="#FLH" key="FLH">Hindley</name> " " (Tempy. Capt Base Records)			
+			<lb/>
+			<name type="person">Saddler/Sergt. Dawson</name> " " (<name type="place" ref="#ENG" key="ENG">England</name>)
+			<lb/>
+			and the old troop leader now Major and 
+			<lb/>
+			O.C. Squadron. That record will take
+			<lb/>
+			some beating my dear.
+		</p>
+		
+		<p>
+			We are still living in a date plantation,
+			<lb/>
+			but expect to pull out in a few days for
+			<lb/>
+			a camp. I live in a bower composed
+			<lb/>
+			of date palm leaves, most picturesque, I
+			<lb/>
+			must try and get someone to waste a
+			<lb/>
+			film on it.
+		</p>
+		
+		<p>
+			So long old girl, damn the <name type="person" ref="#WII" key="WII">Kaiser</name>
+			<lb/>
+			and keep on believing <name type="place" ref="#RMN" key="RMN">Romania</name> is going
+			<lb/>
+			to make a big difference to this show.
+		</p>
+		
+		<closer>
+			Give <name type="person" ref="#HEB" key="HEB">Helen</name> a hug, and she can
+			<lb/>
+			stroke Jeremy's whiskers for me. We are
+			<lb/>
+			going to have some spree some day.
+			<lb/>
+			Your husband
+			<lb/> 
+			<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+		</closer>
+		
+	</body>
+	</text>
+</TEI>

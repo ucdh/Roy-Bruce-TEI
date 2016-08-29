@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb014" xml:lang="en">
+	<teiHeader type="text">
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Bruce to Maud Bruce</title>
+				<author>
+					<name type="person" ref="#RTB" key="RTB">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+					<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>
+				<respStmt xml:id="respStmt-0001">
+					<resp>Cropping and tidying of digital images</resp>
+				    <name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription</resp>
+				    <name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Transcription check</resp>
+				    <name type="person">Christopher Thomson</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0004">
+					<resp>Conversion to TEI-conformant markup</resp>
+				    <name type="person">Christopher Thomson</name>
+				</respStmt>
+			</titleStmt>
+			<extent>Extent including images: 50.2Mb</extent>
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch' New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible. Distributed by the University of Canterbury under a
+					<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+					<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>
+					Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref>
+					</p>
+				</availability>
+				<date when="2014-01-14">14 January 2014</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb014a">
+								<graphic url="rb014a.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014b">
+								<graphic url="rb014b.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014c">
+								<graphic url="rb014c.jpg" mimeType="image/jpeg"/>
+							</figure>	
+							<figure xml:id="rb014d">
+								<graphic url="rb014d.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014e">
+								<graphic url="rb014e.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014f">
+								<graphic url="rb014f.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014g">
+								<graphic url="rb014g.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014h">
+								<graphic url="rb014h.jpg" mimeType="image/jpeg"/>
+							</figure>							
+							<figure xml:id="rb014i">
+								<graphic url="rb014i.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014j">
+								<graphic url="rb014j.jpg" mimeType="image/jpeg"/>
+							</figure>			
+							<figure xml:id="rb014k">
+								<graphic url="rb014k.jpg" mimeType="image/jpeg"/>
+							</figure>
+							<figure xml:id="rb014l">
+								<graphic url="rb014l.jpg" mimeType="image/jpeg"/>
+							</figure>	
+							<figure xml:id="rb014m">
+								<graphic url="rb014m.jpg" mimeType="image/jpeg"/>
+							</figure>														
+							<figure xml:id="rb014n">
+								<graphic url="rb014n.jpg" mimeType="image/jpeg"/>
+							</figure>							
+							<figure xml:id="rb014o">
+								<graphic url="rb014o.jpg" mimeType="image/jpeg"/>
+							</figure>							
+							<figure xml:id="rb014p">
+								<graphic url="rb014p.jpg" mimeType="image/jpeg"/>
+							</figure>
+						    <figure xml:id="rb014envf">
+						        <graphic url="rb014envf.jpg" mimeType="image/jpeg"/>
+						    </figure>
+						    <figure xml:id="rb014envb">
+						        <graphic url="rb014envb.jpg" mimeType="image/jpeg"/>
+						    </figure>						    
+						</item>
+				</list>
+				</note>
+			</notesStmt>
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135596</idno>
+						<altIdentifier>
+							<idno type="URL">http://thecommunityarchive.org.nz/node/135687</idno>
+						</altIdentifier>
+					</msIdentifier>
+					<head>
+						<date when="1914-11-10">10 November 1914</date>
+						<title>Letter from Roy Bruce to Maud Bruce</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Bruce to Maud Bruce</title>
+								<extent>15 pages</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter">
+							<p>Handwritten on letter paper, double-sided</p>
+						</objectDesc>
+						<handDesc>
+							<handNote scribe="RTB">Written with black ink in italic hand</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a wide audience original World War I correspondence closely linked to Canterbury and Southland families. It also aims to introduce the principles of TEI to the ENGL317/419 class and foster a scholarly electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead' any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop' comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all">
+					<p>All quotation marks have been retained.</p>
+				</quotation>
+				<hyphenation eol="all">
+					<p>All hyphenation has been preserved to retain the character of the manuscript.</p>
+				</hyphenation>
+				<p>All first line indentation has been preserved.</p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<particDesc>
+				<listPerson>
+					<person xml:id="RTB">
+						<persName>
+							<forename>Roy Thomas</forename>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>
+					<person xml:id="MGB">
+						<persName type="married">
+							<forename>Maud Goodenough</forename>
+							<surname>Bruce</surname>
+						</persName>
+						<persName type="maiden">
+							<forename>Maud Goodenough</forename>
+							<surname>Hayter</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="HEB">
+						<persName><forename>Helen Eugenie</forename><surname>Bruce</surname></persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
+					<relationGrp type="personal">
+						<relation name="parent" active="#RTB #MGB" passive="#HEB"/>
+						<relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+					</relationGrp>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<listPlace>
+					<place xml:id="NZE">
+						<placeName>
+							<country>New Zealand</country>
+						</placeName>
+					</place>
+					<place xml:id="COC">
+        				<placeName>Cocos Islands</placeName>
+    				</place>
+    				<place xml:id="COL">
+        <placeName>
+            <settlement>Colombo</settlement>
+        </placeName>
+        <location>
+            <country ref="#SRI">Sri Lanka</country>
+        </location>
+    </place>
+    
+    <place xml:id="SRI">
+        <country>Sri Lanka</country>
+    </place>
+    				<place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+    				<place xml:id="TUR">
+        				<placeName>
+            				<country>Turkey</country>
+        				</placeName>
+    				</place>
+				</listPlace>
+			</settingDesc>
+		</profileDesc>
+		<revisionDesc xml:id="revisionDesc-0001">
+			<change n="1" xml:id="change-0001">
+				<date when="2014-01-14">14 January 2014</date>
+				<name type="person">Christopher Thomson</name>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+        <pb n="1" facs="#rb014a" xml:id="t1-body-pb1"/>
+        <opener>Indian Ocean<lb/>
+		<date when="1914-11-10">10.11.1914</date>.
+            <lb/>
+            <lb/>
+<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+</opener>
+<p rend="indent">
+	My narrative
+	<lb/>
+has come to a sudden con-
+    <lb/>
+clusion owing to the fact
+    <lb/>
+that we have been requested,
+    <lb/>
+not to give any information
+    <lb/>
+regarding our whereabouts,
+    <lb/>
+ports of call, destination etc.
+    <lb/>
+There is no censorship so far
+    <lb/>
+on letters to <name type="place" ref="#NZE" key="NZE">N.Z.</name>, and I
+    <lb/>
+have no doubt that a great
+    <lb/>
+many will send full &amp;
+    <lb/>
+detailed accounts of our voyage,
+    <lb/>
+and probably you will hear
+    <lb/>
+far fuller accounts of things than I will send you.
+</p>
+
+<pb n="2" facs="#rb014b" xml:id="t1-body-pb2"/>
+
+<p> 
+Nothing of any importance
+    <lb/>
+happened from our last port
+    <lb/>
+of call until yesterday. You
+    <lb/>
+will probably have already
+    <lb/>
+heard this but perhaps not
+    <lb/>
+full particulars.
+</p>
+
+<p rend="indent">
+At 7.30am wireless signals
+    <lb/>
+for help, were picked up from
+    <lb/>
+<name type="place" ref="#COC" key="COC">Cocos Islands</name> and H.M.S. Sydney
+    <lb/>
+immediately went off at top.
+    <lb/>
+Great excitement everywhere
+    <lb/>
+especially when about 10.30. am. 
+    <lb/>
+another cruiser suddenly
+    <lb/>
+turned &amp; went off as fast as
+    <lb/>
+she could. Although the
+    <lb/>
+cruiser was 3 to 4 miles away
+    <lb/>
+you could see the excitement
+    <lb/>
+on board. They were doing
+
+<pb n="3" facs="#rb014c" xml:id="t1-body-x4-pb1"/>
+
+all they knew, burning coal,
+    <lb/>
+oil, sides of bacon etc. to make
+    <lb/>
+her go faster (I won't swear
+    <lb/>
+to the sides of bacon), however
+    <lb/>
+before she got out of sight she
+    <lb/>
+came back again, having
+    <lb/>
+received a message to this
+    <lb/>
+effect:-  "Enemy has stranded
+    <lb/>
+herself to avoid sinking.
+    <lb/>
+Enemy was the Emden"
+    <lb/>
+That is all we know about
+    <lb/>
+it at present. The whole
+    <lb/>
+engagement was over before
+    <lb/>
+11 o'clock. It took the Sydney
+    <lb/>
+somewhat less than 3½ hours
+    <lb/>
+to go 40 miles &amp; smash up
+    <lb/>
+the Emden. Casualties 2 killed
+
+<pb n="4" facs="#rb014d" xml:id="t1-body-x4-pb2"/>
+
+13 wounded. It was an
+    <lb/>
+extraordinary piece of luck
+    <lb/>
+that the S.O.S (help) signals
+    <lb/>
+sent at random from Cocos
+    <lb/>
+should be picked up by us
+    <lb/>
+just as we were abreast those
+    <lb/>
+islands. They of course had
+    <lb/>
+no idea there was anyone in
+    <lb/>
+the vicinity; it was just a
+    <lb/>
+shot in the dark.
+</p>
+
+<p rend="indent">
+I was inoculated against
+    <lb/>
+typhoid the other day, &amp; spent
+    <lb/>
+a rotten day in consequence,
+    <lb/>
+felt just like influenza but
+    <lb/>
+soon passed away. Some of
+    <lb/>
+the men were ill for several
+    <lb/>
+days, and others only had a
+    <lb/>
+stiff arm for a few hours.
+
+
+<pb n="5" facs="#rb014e" xml:id="t1-body-x5-pb1"/>
+
+<name type="person">Pinkie</name> had a rotten time for
+    <lb/>
+a couple of days but is alright
+    <lb/>
+now.
+</p>
+<p rend="indent">
+We are very close to the
+    <lb/>
+Equator and the heat is
+    <lb/>
+intense, partly because we
+    <lb/>
+are travelling so slowly &amp;
+    <lb/>
+partly because what breeze
+    <lb/>
+there is is behind us.
+    <lb/>
+I sleep on deck every night,
+    <lb/>
+it is the only possible place.
+</p>
+<p rend="indent">
+The sea is very calm and
+    <lb/>
+a beautiful blue, the pretty
+    <lb/>
+little flying fishes fairly
+    <lb/>
+numerous, and if we hadn't
+    <lb/>
+so many horses on board &amp;
+    <lb/>
+didn't have to shut up all
+    <lb/>
+the portholes at night, it would
+
+<pb n="6" facs="#rb014f" xml:id="t1-body-x7-pb1"/>
+
+be a delightful trip, in any
+    <lb/>
+case it is not so bad.
+</p>
+<p rend="indent">
+We have had no war
+    <lb/>
+news since we left our last
+    <lb/>
+port, with the exception of
+    <lb/>    
+<name type="place" ref="#BRI" key="BRI">Britain</name> declaring war on
+    <lb/>
+<name type="place" ref="#TUR" key="TUR">Turkey</name> (your dream is coming
+    <lb/>
+truer &amp; truer).
+</p>
+<p rend="indent">
+About a week ago, a
+    <lb/>
+large liner passed right up
+    <lb/>
+our lines crowded with
+    <lb/>
+passengers. Little things like
+    <lb/>
+that are very exciting now-
+    <lb/>
+adays &amp; help to break the
+    <lb/>
+monotony in a wonderful
+    <lb/>
+manner, we talked of
+    <lb/>
+nothing else for at least two
+    <lb/>
+hours.
+</p>
+
+<pb n="7" facs="#rb014g" xml:id="t1-body-pb3"/>
+
+<p rend="indent">
+The following wireless has
+    <lb/>
+just this moment come in.
+    <lb/>
+"Sydney will rejoin as soon
+    <lb/>
+as all German prisoners are
+    <lb/>
+on board, may take 24 hours".
+    <lb/>
+This afternoon we are exercising
+    <lb/>
+horses. Perhaps that sounds
+    <lb/>
+rather impossible but we
+    <lb/>
+walk them in a single file
+	<lb/>
+around the saloon deck, it
+	<lb/>
+makes a noise and a mess
+	<lb/>
+but is very good for them. My
+	<lb/>
+horses which are down in
+	<lb/>
+No 3 hold can be exercised
+	<lb/>
+at any time without dis-
+	<lb/>
+turbing anyone else, provided
+	<lb/>
+the sea is calm, and in
+
+<pb n="8" facs="#rb014h" xml:id="t1-body-x10-pb1"/>
+
+consequence they are fitter
+	<lb/>
+than any horses in the ship.
+	<lb/>
+They are in a freezing chamber,
+	<lb/>
+and in very hot weather such
+	<lb/>
+as we are experiencing at
+	<lb/>
+present we get the refrigerator
+	<lb/>
+turned on a little &amp; it
+	<lb/>
+cools the air beautifully.
+</p>
+<p rend="indent">
+This morning we did some
+	<lb/>
+shooting by towing a target
+	<lb/>
+astern.
+</p>
+<p rend="indent">
+There is one little thing
+	<lb/>
+I regret &amp; that is that I did
+	<lb/>
+not bring any thin trousers
+	<lb/>
+with me, these saddle tweeds
+	<lb/>
+are very hot.
+</p>
+<p rend="indent">
+There are a good many
+
+<pb n="9" facs="#rb014i" xml:id="t1-body-x13-pb1"/>
+
+cases of measles on board, between
+	<lb/>
+50 &amp; 60, but fortunately they
+	<lb/>
+are all of a mild type, &amp;
+	<lb/>
+the men quickly recover.
+</p>
+<p rend="indent">
+We are not allowed to send
+	<lb/>
+any more copies of the "Athenic
+	<lb/>
+Lyre" away from the ship. I
+	<lb/>
+am not quite sure why.
+</p>
+<p rend="indent">
+Boxing is very popular
+	<lb/>
+amongst the men, &amp; we
+	<lb/>
+spend what spare time we
+	<lb/>
+have boxing &amp; skipping. Just
+	<lb/>
+now it is almost too hot for
+	<lb/>
+amusements of that description,
+	<lb/>
+but there is still a good
+	<lb/>
+deal done.
+</p>
+<p rend="indent">
+We still have lectures in
+	<lb/>
+the evening, and they are
+
+<pb n="10" facs="#rb014j" xml:id="t1-body-x16-pb1"/>
+
+very interesting.
+</p>
+<p rend="indent">
+Personally I am keeping
+	<lb/>
+very fit and enjoying life
+	<lb/>
+generally, but if this heat
+	<lb/>
+continues much longer I
+	<lb/>
+shall only be a grease mark.
+</p>
+<p rend="indent">
+I wonder whether I shall
+	<lb/>
+hear from you at the next
+	<lb/>
+port, I do hope so, it seems
+	<lb/>
+in many ways such a very
+	<lb/>
+long time since we left, &amp;
+	<lb/>
+yet in other ways the time
+	<lb/>
+has passed very quickly. I
+	<lb/>
+do so hope the time is
+	<lb/>
+passing well with you dear,
+	<lb/>
+and that you do not find
+	<lb/>
+it hanging too heavily on
+
+<pb n="11" facs="#rb014k" xml:id="t1-body-x18-pb1"/>
+
+your hands. I hope you
+	<lb/>
+will get interested in
+	<lb/>
+something during the summer,
+	<lb/>
+if you cannot play golf.
+	<lb/>
+On what links I wonder will
+	<lb/>
+our next game together be
+	<lb/>
+played.
+</p>
+<p rend="indent">
+Afternoon tea has just
+	<lb/>
+come in and as we do not
+	<lb/>
+reach our next port for some
+	<lb/>
+days yet I will continue
+	<lb/>
+this later.
+</p>
+<p>
+Since writing the above orders
+	<lb/>
+have been received that all
+	<lb/>
+letters to <name type="place" ref="#NZE" key="NZE">N.Z.</name> will be censored,
+	<lb/>
+it also adds that letters
+	<lb/>
+sent closed are still liable
+	<lb/>
+to censorship, but may be
+
+<pb n="12" facs="#rb014l" xml:id="t1-body-x20-pb1"/>
+
+delayed in transmission.
+	<lb/>
+I am going to send this
+	<lb/>
+closed and you may
+	<lb/>
+receive it some day; at
+	<lb/>
+the same time I will
+	<lb/>
+write another about which
+	<lb/>
+there can be no doubt,
+	<lb/>
+so you will get some
+	<lb/>
+news at any rate.
+</p>
+<p rend="indent">
+We crossed the Line
+	<lb/>
+today, and Father<lb/>
+Neptune &amp; his wives &amp;
+	<lb/>
+myrmidons came on board,
+	<lb/>
+&amp; proceeded to deal it
+	<lb/>
+out in time honoured
+	<lb/>
+custom. A large bath
+	<lb/>
+was rigged up in a sail
+
+<pb n="13" facs="#rb014m" xml:id="t1-body-x21-pb1"/>
+
+and a tip up chair beside
+	<lb/>
+it, then one man
+	<lb/>
+shaved the unfortunate
+	<lb/>
+one, another extracted a
+	<lb/>
+tooth, another gave him
+	<lb/>
+a pill &amp; finally he was
+	<lb/>
+tipped into the bath
+	<lb/>
+and ducked. We who
+	<lb/>
+had crossed the line on
+	<lb/>
+a previous occasion fondly
+	<lb/>
+imagined we were safe,
+	<lb/>
+but nothing of the sort,
+	<lb/>
+the opportunity was too
+	<lb/>
+good a one to lose &amp;
+	<lb/>
+We were all indiscriminately
+	<lb/>
+shaved &amp; ducked. It was
+
+<pb n="14" facs="#rb014n" xml:id="t1-body-x21-pb2"/>
+
+all very funny &amp; greatly
+	<lb/>
+enjoyed by the men.
+	<lb/>
+The costumes of Father
+	<lb/>
+Neptune &amp; his wife,
+	<lb/>
+especially his wife were
+	<lb/>
+very good.
+</p>
+<p>
+I saw a funny
+	<lb/>
+sight the other morning,
+	<lb/>
+I was walking along the
+	<lb/>
+deck &amp; came to a large
+	<lb/>
+tub of water, but all
+	<lb/>
+that was sticking out
+	<lb/>
+was a head, two hands
+	<lb/>
+&amp; a book. A man was
+	<lb/>
+sitting in it, full of
+	<lb/>
+water, reading &amp; perfectly
+
+<pb n="15" facs="#rb014o" xml:id="t1-body-x22-pb1"/>
+
+happy. He was probably
+	<lb/>
+the coolest man on the
+	<lb/>
+ship at the time.
+</p>
+<p rend="indent">
+The men arranged
+	<lb/>
+an open air concert last
+	<lb/>
+night, and there were
+	<lb/>
+some jolly good items.
+	<lb/>
+A quartette were especially
+	<lb/>
+good.
+</p>
+<p rend="indent">
+Had a lovely bath
+	<lb/>
+in a tropical shower
+	<lb/>
+this morning. The first
+	<lb/>
+freshwater bath since
+	<lb/>
+leaving. It was good.
+	<lb/>
+We danced about on
+	<lb/>
+the Marconi deck without
+
+<pb n="16" facs="#rb014p" xml:id="t1-body-x24-pb1"/>
+
+even fig leaves for about
+	<lb/>
+half an hour.
+</p>
+<p rend="indent">
+The horses are doing
+	<lb/>
+very well, we have only
+	<lb/>
+lost 3 so far. Blackmore
+	<lb/>
+is very fit &amp; so are the
+	<lb/>
+others.
+</p>
+<p rend="indent">
+Well dear good bye
+	<lb/>
+for the present. We expect
+	<lb/>
+to be in <name type="place" ref="#COL" key="COL">Colombo</name> tomorrow<lb/>
+14<hi rend="sup">th</hi> Nov<hi rend="sup">r</hi>. Take every
+	<lb/>
+care of yourself &amp; <name type="person" ref="#HEB" key="HEB">Helen</name>.
+	<lb/>
+Give her a great big hug
+	<lb/>
+&amp; my love. Be happy
+	<lb/>
+dearest. 
+</p>
+<closer>
+	<salute>With all my love
+    <lb/>
+	Your <choice><abbr>affec:</abbr><expan>affectionate</expan></choice> husband</salute>
+		<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></signed>.
+</closer>
+		
+<pb n="17" facs="#rb014envf" xml:id="t1-body-pb4"/>
+<pb n="18" facs="#rb014envb" xml:id="t1-body-pb5"/>
+
+</body>
+</text>
+</TEI>

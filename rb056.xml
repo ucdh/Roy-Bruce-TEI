@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb056" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>        
+        <respStmt xml:id="respStmt-0001">
+          <resp>Transcription</resp>
+          <name type="person">Rosalee Jenkin</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>                
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+          <addrLine>School of Humanities</addrLine>
+          <addrLine>University of Canterbury</addrLine>
+          <addrLine>Private Bag 4800</addrLine>
+          <addrLine>Christchurch 8140</addrLine>
+          <addrLine>New Zealand</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2015-09-03">3 September 2010</date>
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb056a">
+                <graphic url="rb056a.jpg" mimeType="image/jpeg" xml:id="rb056a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb056b">
+                <graphic url="rb056b.jpg" mimeType="image/jpeg" xml:id="rb056b-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb056c">
+                <graphic url="rb056c.jpg" mimeType="image/jpeg" xml:id="rb056c-g"/>
+              </figure>
+            </item>           
+            <item>
+              <figure xml:id="rb056envf">
+                <graphic url="rb056envf.jpg" mimeType="image/jpeg" xml:id="rb056envf-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb056envb">
+                <graphic url="rb056envb.jpg" mimeType="image/jpeg" xml:id="rb056envb-g"/>
+              </figure>
+            </item>           
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135678</idno>             
+          </msIdentifier>
+          <head>
+            <date when="1915-11-07">7 November 1915</date>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>3 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"/>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        Lemnos        
+        <date when="1915-11-07">7 November 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>                
+        <listPerson>
+          <person xml:id="CHI">
+            <persName evidence="external" source="https://museum.timaru.govt.nz/explore/scroll/profile?id=1581">
+              <roleName type="military">Second Lieutenant</roleName>
+              <forename>Chilton</forename>
+              <addName type="nickname">Chillie</addName>
+              <addName type="middle">Goodenough</addName>
+              <surname>Hayter</surname>
+            </persName>
+            <death when="1967-12-14">14 December 1967</death>
+          </person>
+          <person xml:id="JST">
+            <persName evidence="external" source="http://www.rootsweb.ancestry.com/~nzlscant/studholme.htm">
+              <roleName type="military">Lieutenant-Colonel</roleName>
+              <forename>John</forename>
+              <surname>Studholme</surname>
+            </persName>
+            <birth when="1863-02-10">10 February 1863</birth>
+            <death when="1903-03-18">18 March 1903</death>
+          </person>
+          <person xml:id="BWR">
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Henry</forename>
+              <addName type="middle">Allan</addName>
+              <surname>Bowron</surname>
+            </persName>
+            <death when="1916-12-23">23 December 1916</death>
+          </person>
+          <person xml:id="MTS">
+            <persName evidence="external" source="https://www.awm.gov.au/people/rolls/R1606462/">
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Gerald</forename>
+              <surname>Mathias</surname>
+            </persName>
+          </person>
+          <person xml:id="RTB">
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+        </listPerson>                               
+      </particDesc>        
+      <settingDesc>                
+        <listPlace>          
+          <place xml:id="LEM">
+            <geogName>
+              <name type="place">Lemnos</name>
+              <geogFeat>Island</geogFeat>                               
+            </geogName>
+            <location>
+              <country ref="#GRE">Greece</country>
+            </location>
+          </place>
+          <place xml:id="GRE">
+            <placeName>
+              <country>Greece</country>
+            </placeName>
+          </place>
+          <place xml:id="NZE">
+            <placeName>
+              <country>New Zealand</country>
+            </placeName>
+          </place>
+        </listPlace>                
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="t1">
+    <body xml:id="t1-body">      
+      <pb n="1" facs="#rb056a" xml:id="t1-body-pb1"/>      
+      <opener>
+        <dateline>
+          <name type="place" ref="#GRE" key="GRE">Lemnos</name>
+          <lb/>
+          <date when="1915-11-07">7 Nov 1915</date>.
+        </dateline>
+        <lb/>
+        <salute>My dearest girl</salute>:
+      </opener>
+      
+      <p>        
+        This time
+        <lb/>
+        only a line to send you
+        <lb/>
+        Xmas &amp; New Year greetings,
+        <lb/>
+        and to wish you all as
+        <lb/>
+        much possible happiness as
+        <lb/>
+        one can reasonably expect
+        <lb/>
+        these sad times. The
+        <lb/>
+        following Xmas let us hope
+        <lb/>
+        we should be together
+        <lb/>
+        again.
+      </p>        
+      <p>          
+        There is no great
+        <lb/>
+        news here, we get most of
+        <lb/>
+        our war news from the 
+        <lb/>
+        <name type="place" ref="#NZE" key="NZE"><choice><abbr>N. Z.</abbr><expan>New Zealand</expan></choice></name> papers when they arrive.
+      </p>          
+      <p>            
+        My advance guard
+        
+        <pb n="2" facs="#rb056b" xml:id="t1-body-x4-pb1"/>
+        
+        party was knocked on the
+        <lb/>
+        head because our new colonel
+        <lb/>
+        was sent to the hospital very
+        <lb/>
+        ill with dysentery, he will
+        <lb/>
+        probably not be back for some
+        <lb/>
+        months. <name type="person" ref="#CHI" key="CHI">Chillie</name> has gone
+        <lb/>
+        with the advance guard &amp; I
+        <lb/>
+        am in command of the 8th -
+        <lb/>
+        a temporary appointment, but
+        <lb/>
+        it may last some time,
+        <lb/>
+        anyway I shall have the
+        <lb/>
+        honour of leading the
+        <lb/>
+        squadron in the field. Of
+        <lb/>
+        course it is not the old
+        <lb/>
+        squadron but it is improving,
+        <lb/>
+        and if I don't make a fool
+        <lb/>
+        of it, should be able to give
+        <lb/>
+        a reaosnable account of itself.
+        
+        <pb n="3" facs="#rb056c" xml:id="t1-body-x4-pb2"/>
+        
+        <name type="person" ref="#JST" key="JST">Major Studholme</name> is in
+        <lb/>
+        temporary command of the
+        <lb/> 
+        regiment.
+      </p>
+      
+      <p>              
+        I have only two subalterns
+        <lb/>
+        <name type="person" ref="#CHI" key="CHI">Chillie</name> &amp; <name type="person" ref="#BWR" key="BWR">Bowron</name>, but I hope
+        <lb/>
+        to get <name type="person" ref="#MTS" key="MTS">Mathias</name> back shortly &amp;
+        <lb/>
+        some new commissions are
+        <lb/>
+        being given.
+      </p>
+      
+      <closer>
+        <salute>Must go now dearest,
+          <lb/>
+          I am rather busy trying
+          <lb/>
+          to straighten things out &amp;
+          <lb/>
+          we leave rather very shortly.
+          <lb/>
+          
+          Many kisses for your
+          <lb/>
+          two selves my darlings,
+          <lb/>
+          may 1916 see the end of
+          <lb/>
+          all this.</salute>
+        <lb/>
+        <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+      </closer>
+      <postscript>
+        <p>I am very well
+          <lb/>
+          RB.
+        </p>
+      </postscript>
+    </body>
+  </text>
+</TEI>

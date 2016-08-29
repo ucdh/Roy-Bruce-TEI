@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb049" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Helen Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>        
+        <respStmt xml:id="respStmt-0001">
+          <resp>Transcription</resp>
+          <name type="person">Jennifer Middendorf</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Rosalee Jenkin</name>
+        </respStmt>                
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2015-08-13"/>
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb049a">
+                <graphic url="rb049a.jpg" mimeType="image/jpeg" xml:id="rb049a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb049b">
+                <graphic url="rb049b.jpg" mimeType="image/jpeg" xml:id="rb049b-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb049c">
+                <graphic url="rb049c.jpg" mimeType="image/jpeg" xml:id="rb049c-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb049d">
+                <graphic url="rb049d.jpg" mimeType="image/jpeg" xml:id="rb049d-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb049envf">
+                <graphic url="rb049envf.jpg" mimeType="image/jpeg" xml:id="rb049envf-g"/>
+              </figure>
+            </item>  
+            <item>
+              <figure xml:id="rb049envb">
+                <graphic url="rb049envb.jpg" mimeType="image/jpeg" xml:id="rb049envb-g"/>
+              </figure>
+            </item>              
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135671</idno>          
+          </msIdentifier>
+          <head>
+            <date when="1915-08-04">4 August 1915</date>
+            <title>Letter from Roy Bruce to Helen Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Helen Bruce</title>
+                <extent>4 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"/>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+        <p>All first line indentation has been preserved.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        <country>Cyprus</country>        
+        <date when="1915-08-04">4 August 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>        
+        <listPerson>
+          <person xml:id="RTB">
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+          <person xml:id="MGB">
+            <persName>
+              <forename>Maud</forename>
+              <addName type="middle">Goodenough</addName>type="married"&gt;
+              <surname type="maiden">Hayter</surname>
+              <surname type="married">Bruce</surname>
+            </persName>
+            <birth when="1880-02-22">22 February 1880</birth>
+          </person>
+          <relationGrp type="personal">
+            <relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+            <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+          </relationGrp>
+        </listPerson>        
+      </particDesc>        
+      <settingDesc>        
+        <listPlace>
+          <place xml:id="CYP">
+            <placeName>
+              <country>Cyprus</country>
+            </placeName>
+            <location>
+              <bloc ref="#EUR">
+                Europe
+              </bloc>
+            </location>
+          </place>
+          <place xml:id="EUR">
+            <placeName>
+              <bloc>Europe</bloc>
+            </placeName>
+          </place>
+          <place xml:id="ALX">
+            <placeName>
+              <settlement>Alexandria</settlement>            
+            </placeName>
+            <location>
+              <country ref="#EGY">Egypt</country>
+            </location>
+          </place>
+          <place xml:id="EGY">
+            <placeName>
+              <country>Egypt</country>
+            </placeName>
+          </place>
+        </listPlace>        
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="t1">
+    <body xml:id="t1-body">
+      <pb n="1" facs="#rb049a" xml:id="t1-body-pb1"/>        
+        <opener>          
+          <dateline>
+            <name type="place" ref="#CYP" key="CYP">Cyprus</name>
+            <lb/>
+            <date when="1915-08-04">4<hi rend="sup"><hi rend="u">th</hi></hi> August. '15</date>
+          </dateline>
+          <lb/>
+          <salute>My dearest little girl</salute>:
+        </opener>
+        
+        <p>Thank you very
+          <lb/>
+          much indeed for your
+          <lb/>
+          letter, I am awfully
+          <lb/>
+          proud that you can
+          <lb/>
+          write so well.
+        </p>
+        
+        <p>
+          <name type="person" ref="#MGB" key="MGB">Mummy</name> tells
+          <lb/>
+          me, you are going to school
+          <lb/>
+          now, and that you like
+          <lb/>
+          it very much. I am
+          <lb/>
+          very pleased to hear it,
+          <lb/>
+          and hope you will be
+          <lb/>
+          a good little girl.
+        </p>
+        
+        <p>
+          I suppose you are
+          <lb/>
+          really a great big girl
+          <lb/>
+          now, and that when 
+          
+          <pb n="2" facs="#rb049b" xml:id="t1-body-x4-pb1"/>
+          
+          I come home again you
+          <lb/>
+          will be far too big to
+          <lb/>
+          carry about, but still
+          <lb/>
+          I think you will have
+          <lb/>
+          a lot of new games to
+          <lb/>
+          teach me.
+        </p>
+        
+        <p>
+          In your next letter
+          <lb/>
+          you must tell me what
+          <lb/>
+          sort of lessons you are
+          <lb/>
+          doing, and which you
+          <lb/>
+          like the best.
+        </p>
+        
+        <p>
+          I am living at
+          <lb/>
+          present high up in the 
+          <lb/>
+          air in a pine forest, &amp;
+          <lb/>
+          there are a lot of
+          <lb/>
+          crows about, they make
+          <lb/>
+          such a funny noise.
+        </p>
+        
+        <p>
+          Tell <name type="person" ref="#MGB" key="MGB">Mummy</name> to give
+          <lb/>
+          you for your very own one
+          
+          <pb n="3" facs="#rb049c" xml:id="t1-body-x7-pb1"/>
+          
+          of those photographs I 
+          <lb/>
+          had taken at <name type="place" ref="#ALX" key="ALX">Alexandria</name>.
+        </p>
+        
+        <p>
+          How is Pat? You know
+          <lb/>
+          you didn't tell me half
+          <lb/>
+          enough about him in
+          <lb/>
+          your letter:
+        </p>
+        
+        <p>
+          Is Lily well, also Lily's 
+          <lb/>
+          sister and all your other
+          <lb/>
+          children, not forgetting
+          <lb/>
+          fat Jeremy.
+        </p>
+        
+        <p>I don't know whether
+          <lb/>
+          you spell Lily with one
+          <lb/>
+          L or two, tell me next
+          <lb/>
+          time will you.
+        </p>
+        
+        <p>
+          These naughty Turks
+          <lb/>
+          are giving us a lot of
+          <lb/>
+          trouble, but perhaps it
+          <lb/>
+          will not be so very long
+          <lb/>
+          now before I am home
+          
+          <pb n="4" facs="#rb049d" xml:id="t1-body-x11-pb1"/>
+          
+          again.
+        </p>
+        
+        <p>
+          Tell me when you
+          <lb/>
+          write, what sort of 
+          <lb/>
+          games you play at
+          <lb/>
+          school, and who all 
+          <lb/>
+          your friends are?
+        </p>
+        
+        <p>
+          I must go now little
+          <lb/>
+          one, lunch is ready &amp; I
+          <lb/>
+          am very hungry.
+        </p>
+        
+        <p>
+          Give <name type="person" ref="#MGB" key="MGB">Mummy</name> a big
+          <lb/>
+          fat humbug for me &amp;
+          <lb/>
+          she will give you one
+          <lb/>
+          from me.
+        </p>
+        
+        <closer>
+          <salute>Take care of each other.
+          <lb/>
+          from</salute>
+          <lb/>
+          <signed rend="u"><name type="person" ref="#RTB" key="RTB">Daddy</name>.</signed>
+        </closer>
+        <pb n="5" ref="#rb049envf" xml:id="t1-body-pb2"/>
+        <pb n="6" ref="#rb049envb" xml:id="t1-body-pb3"/>
+    </body>
+  </text>
+</TEI>

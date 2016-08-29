@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb036" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title> 
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Al Gardner</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Paul Millar</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Paul Millar</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Han Li</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0005">
+                    <resp>TEI Header compilation</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent> 
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2012-12-18"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb036a">
+                                <graphic url="rb036a.jpg" mimeType="image/jpeg" xml:id="rb036a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb036b">
+                                <graphic url="rb036b.jpg" mimeType="image/jpeg" xml:id="rb036b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb036c">
+                                <graphic url="rb036c.jpg" mimeType="image/jpeg" xml:id="rb036c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb036d">
+                                <graphic url="rb036d.jpg" mimeType="image/jpeg" xml:id="rb036d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb036envf">
+                                <graphic url="rb036envf.jpg" mimeType="image/jpeg" xml:id="rb036envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb036envb">
+                                <graphic url="rb036envb.jpg" mimeType="image/jpeg" xml:id="rb036envb-g"/>
+                            </figure>
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135648</idno>                        
+                    </msIdentifier>
+                        <head>
+                            <title>Letter from Roy Bruce to Maud Bruce</title>
+                            <date when="1915-05-09">9 May 1915</date>
+                        </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>four pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Handwritten letter on unlined paper with no letterhead</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement>Alexandria</settlement>
+                <country>Eygpt</country>
+                <date when="1915-05-09"/>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie </addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                </listPerson>               
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="ALX">
+        <placeName>
+            <settlement>Alexandria</settlement>            
+        </placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+    <place xml:id="EGY">
+        <placeName>
+            <country>Egypt</country>
+        </placeName>
+    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                </listPlace> 
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001">
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb036a" xml:id="t1-body-pb1"/>
+            <opener>
+                <dateline>
+                    S.S. Grantully Castle
+                    <lb/>
+                    <name type="place" ref="#ALX" key="ALX">Alexandria</name>
+                    <lb/>
+                    <date when="1915-05-09">Sunday 9 May 1915</date>
+                </dateline>
+                <lb/>
+                <lb/>
+                <salute><name type="person" ref="#MGB" key="MGB">My dearest girl</name>:</salute>
+            </opener>
+            
+            <p>We arrived<lb/>
+                here at 5 o'clock this
+                <lb/>
+                morning and are now
+                <lb/>
+                all safely stowed away
+                <lb/>
+                on board for our short
+                <lb/>
+                voyage.
+            </p>
+            
+            <p>There is our brigade
+                <lb/>
+                &amp; a regiment of Australians
+                <lb/>
+                on board, and we are
+                <lb/>
+                
+                <pb n="2" facs="#rb036b" xml:id="t1-body-x3-pb1"/>
+                
+                very crowded.</p>
+            
+            <p>We should arrive about
+                <lb/>
+                Tuesday night and will
+                <lb/>
+                probably go straight into
+                <lb/>
+                the trenches as I believe
+                <lb/>
+                reliefs are badly wanted.
+            </p>
+            
+            <p>The weather is still
+                <lb/>
+                perfect &amp; the men are in
+                <lb/>
+                the highest spirits, I only
+                <lb/>
+                hope we shall do half
+                <lb/>
+                as well as the infantry
+                <lb/>
+                have done.</p>
+            
+            <p>I am looking forward
+                <lb/>
+                to seeing the Queen
+                <lb/>
+                
+                <pb n="3" facs="#rb036c" xml:id="t1-body-x6-pb1"/>
+                
+                Elizabeth shelling, those
+                <lb/>
+                who have come back
+                <lb/>
+                say the noise &amp; the effect
+                <lb/>
+                of the shells is rather
+                <lb/>
+                awe inspiring.
+            </p>
+            
+            <p>I am wondering how
+                <lb/>
+                <name type="place" ref="#NZE" key="NZE">New Zealand</name> is taking<lb/>
+                the heavy casualty list,
+                <lb/>
+                it should prove a great
+                <lb/>
+                fillip to recruiting.
+            </p>
+            
+            <p>Well <name type="person" ref="#MGB" key="MGB">old girl</name> I have
+                <lb/>
+                no idea when you will
+                <lb/>
+                get another letter from
+                <lb/>
+                me, I did not expect
+                <lb/>
+                to be able to write
+                <lb/>
+                
+                <pb n="4" facs="#rb036d" xml:id="t1-body-x8-pb1"/>
+                
+                this one.</p>
+            
+            <p>Be happy, dear one &amp;
+                <lb/>
+                don't worry. Take every
+                <lb/>
+                care of yourself &amp; <name type="person" ref="#HEB" key="HEB">Helen</name>.</p>
+            <closer> 
+                <salute>
+                    <lb/>
+                    So long for the present
+                    <lb/>
+                    you darlings, God bless
+                    <lb/>
+                    you both &amp; keep you from
+                    <lb/>
+                    every harm.
+                    
+                    
+                    Your loving husband<lb/></salute>
+                
+                <signed><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></hi></signed>.
+            </closer>
+            
+            <postscript><p>
+                We sail in an hour.<lb/>
+                <name type="person" ref="#RTB" key="RTB">RB</name></p>
+            </postscript>
+            <pb facs="#rb036envf" xml:id="t1-body-pb2"/>
+            <pb facs="#rb036envb" xml:id="t1-body-pb3"/>
+        </body>
+    </text>
+    
+    
+    
+</TEI>

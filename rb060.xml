@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb060" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title> <!-- Edit title if required -->
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Unknown</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person"/>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>                
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb060a">
+                                <graphic url="rb060a.jpg" mimeType="image/jpeg" xml:id="r060a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060b">
+                                <graphic url="rb060b.jpg" mimeType="image/jpeg" xml:id="r060b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060c">
+                                <graphic url="rb060c.jpg" mimeType="image/jpeg" xml:id="r060c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060d">
+                                <graphic url="rb060d.jpg" mimeType="image/jpeg" xml:id="r060d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060e">
+                                <graphic url="rb060e.jpg" mimeType="image/jpeg" xml:id="r060e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060f">
+                                <graphic url="rb060f.jpg" mimeType="image/jpeg" xml:id="r060f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060g">
+                                <graphic url="rb060g.jpg" mimeType="image/jpeg" xml:id="r060g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060h">
+                                <graphic url="rb060h.jpg" mimeType="image/jpeg" xml:id="r060h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060envf">
+                                <graphic url="rb060envf.jpg" mimeType="image/jpeg" xml:id="r060envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb060envb">
+                                <graphic url="rb060envb.jpg" mimeType="image/jpeg" xml:id="r060envb-g"/>
+                            </figure>
+                        </item>                       
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135682&gt;</idno>
+                    </msIdentifier>
+                    <head><title>Letter from Roy Bruce to Maud Bruce</title>
+                        <date when="1915-12-05">Sunday 5 Dec 1915</date>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent> Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"/>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>                
+                <date when="1915-12-05">Sunday 5 Dec 1915</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>                
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="CHI">
+        <persName evidence="external" source="https://museum.timaru.govt.nz/explore/scroll/profile?id=1581">
+            <roleName type="military">Second Lieutenant</roleName>
+            <forename>Chilton</forename>
+            <addName type="nickname">Chillie</addName>
+            <addName type="middle">Goodenough</addName>
+            <surname>Hayter</surname>
+        </persName>
+        <death when="1967-12-14">14 December 1967</death>
+    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="AND">
+                        <persName>
+                            <surname>Andrews</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="MEN" evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/10654.detail?">
+                        <persName>
+                            <forename>William</forename>
+                            <addName type="middle">Barnett</addName>
+                            <surname>Menzies</surname>
+                        </persName>
+                        <death when="1916-08-09">9 August 1916</death>
+                    </person>
+                    <relationGrp type="personal">
+                            <relation name="sibling" mutual="#CHI #MGB"/>
+                    </relationGrp>
+                </listPerson>
+                    
+            </particDesc>        
+            <settingDesc>                
+                <listPlace>
+                    <place xml:id="EGY">
+                        <placeName>
+                            <country>Egypt</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="ANZ">
+    <geogName>
+        <name>ANZAC</name>
+        <geogFeat>Cove</geogFeat>
+    </geogName>
+        <location>
+            <country ref="#TUR">Turkey</country>
+        </location>
+        </place>
+        <place xml:id="TUR">
+        <placeName>
+            <country>Turkey</country>
+        </placeName>
+    </place>
+                    <place xml:id="FAR">
+                        <placeName>Fairlie</placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="ENG">
+        <placeName>
+            <country>England</country>
+        </placeName>
+        <location>
+            <bloc ref="#BRI">United Kingdom</bloc>
+        </location>
+    </place>
+    <place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="ZEI">
+        <placeName>Zeitoun Camp</placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+                </listPlace>
+                
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001">
+            </change>
+        </revisionDesc>
+    </teiHeader><text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb060a" xml:id="t1-body-pb1"/>
+            
+            <opener>
+                <dateline>Anzac
+                    <date when="1915-12-05">Sunday 5 Dec 1915</date></dateline><lb/>
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name></salute>:
+            </opener>
+           
+            <p>Back again in<lb/>
+                the trenches but on a different<lb/>
+                line this time. The Turks <lb/>
+                are not quite so mean, not<lb/>
+                that it makes much difference<lb/>
+                to their shooting which is always good.<lb/>
+            </p>
+            <p>
+                The first two days<lb/>
+                we were here we had a<lb/>
+                lovely time. It began to<lb/>
+                rain which turned into<lb/>
+                snow &amp; developed into a<lb/>
+                blizzard. My hat. We had<lb/>
+                no shelters dug, the gully<lb/>
+                was a sea of mud, and <lb/>
+                
+                <pb n="2" facs="#rb060b" xml:id="t1-body-x3-pb1"/>
+                
+                the trenches were beyond<lb/>
+                description.</p>
+            
+            <p><name type="person" ref="#CHI" key="CHI">Chillie</name> cracked up the<lb/>
+                first day and was sent<lb/>
+                away with a high temperature.<lb/>
+                We have heard nothing since<lb/>
+                &amp; do not know whether he<lb/>
+                is ill or not.</p>
+            <p><name type="person" ref="#MEN" key="MEN">Menzie</name> went away the<lb/>
+                day before we came here with<lb/>
+                jaundice leaving me only<lb/>
+                <name type="person">Mathias</name> who was not<lb/>
+                well enough to do anything.<lb/>
+                Consequently I had it all<lb/>
+                on my own, and I don't<lb/>
+                think I shall ever forget<lb/>
+                those few days &amp; nights in<lb/>
+                the trenches with naw troops.<lb/>
+                Forty eight hours without<lb/>
+                
+                <pb n="3" facs="#rb060c" xml:id="t1-body-x5-pb1"/>
+                
+                a break, short rations &amp;<lb/>
+                water because mule transport<lb/>
+                could not get along. Everyone<lb/>
+                we through, no hope of<lb/>
+                getting anything dug. I<lb/>
+                got off with a cold which<lb/>
+                has now practically gone.</p>
+            <p>
+                The men were splendid<lb/>
+                right through it, and I have<lb/>
+                no doubt about them now.</p>
+            <p>
+                We are all comfortable<lb/>
+                enough now and I have a<lb/>
+                most excellent dugout. I<lb/>
+                built myself a fine place in<lb/>
+                it and I am now sitting<lb/>
+                in front of the fire with my<lb/>
+                goods &amp; chattels surrounding me.</p>
+            <p>
+                The weather is fine &amp; fairly<lb/>
+                warm again, and everyone<lb/>
+                
+                <pb n="4" facs="#rb060d" xml:id="t1-body-x8-pb1"/>
+                
+                is happy &amp; dry.</p>
+            <p>
+                Have had no letter for<lb/>
+                a long time. We heard a<lb/>
+                mail of ours had been sunk<lb/>
+                by a submarine between <name type="place" ref="#EGY" key="EGY">Egypt</name><lb/>
+                &amp; here.</p>
+            <p>
+                We have managed to get a few extra stores from <name type="place"><unclear>Jeubros</unclear></name><lb/>
+                crushed pineapple, salmon, tomatoes<lb/>
+                &amp; sardines, so we are living<lb/>
+                fairly well.</p>
+            <p>Your <unclear>muffler</unclear> is a most<lb/>
+                previous article at present, as<lb/>
+                also are my gum boots which<lb/>
+                I have managed to preserve<lb/>
+                all this time.</p>
+            <p>
+                Yesterday it was a<lb/>
+                year since we arrived at<lb/>
+                <name type="place" ref="#ZEI" key="ZEI">Zeitoun</name>, it has gone very<lb/>
+                
+                <pb n="5" facs="#rb060e" xml:id="t1-body-x12-pb1"/>
+                
+                quickly, amid all the<lb/>
+                excitement and one thing<lb/>
+                and another, but I do hope<lb/>
+                I shall be able to have a<lb/>
+                spell and see you before this<lb/>
+                time next year.</p>
+            <p>
+                I wish I knew what was<lb/>
+                the matter with <name type="person" ref="#CHI" key="CHI">Chillie</name>, you<lb/>
+                will have known long-ago if<lb/>
+                it was anything serious.<lb/>
+                There were several cases of<lb/>
+                frostbite after the blizzard,<lb/>
+                thank goodness I have a good<lb/>
+                circulation.</p>
+            <p>Haven't see <name type="person" ref="#AND">Andrews</name> for<lb/>
+                some time, he is a good<lb/>
+                distance away on another<lb/>
+                line, and we are both too<lb/>
+                busy to do much prowling.</p>
+            
+            <pb n="6" facs="#rb060f" xml:id="t1-body-pb2"/>
+            
+            <p>
+                I am sending Helen a<lb/>
+                Xmas card, it is rather<lb/>
+                late, but it is somewhat<lb/>
+                of a curiosity. It was made<lb/>
+                by one of the men out of<lb/>
+                a peice of an old pair of<lb/>
+                breeches of mine. Get her to<lb/>
+                keep it if you can because<lb/>
+                <name type="place" ref="#ANZ" key="ANZ">Anzac</name> is going to be more or<lb/>
+                less historical.</p>
+            <p>
+                I have a great man for<lb/>
+                a cook, named <name type="person">Mc Phenora</name>,<lb/>
+                he used to drive some of<lb/>
+                <name type="person">McGrath's</name> wagons from <name type="place" ref="#FAR" key="FAR">Fairlie</name>.<lb/>
+                He has just appeared with<lb/>
+                some afternoon tea &amp; a piece<lb/>
+                of cake. Noone knows where <lb/>
+                he got it from. I doubt if<lb/>
+                he does himself. Anyway it<lb/>
+                
+                <pb n="7" facs="#rb060g" xml:id="t1-body-x16-pb1"/>
+                
+                is here and I am just going<lb/>
+                to enjoy it. He produced<lb/>
+                some pancakes yesterday &amp;<lb/>
+                announced he found the<lb/>
+                backing powder on a bush!</p>
+            <p>By fore I am<lb/>
+                beginning to promise myself<lb/>
+                that you &amp; I am going to<lb/>
+                have a might good time<lb/>
+                for a change when this is<lb/>
+                all over. I amused myself<lb/>
+                last night before the fire,<lb/>
+                wiith making all sorts of<lb/>
+                plans for a holiday, and it<lb/>
+                is going to be some holiday<lb/>
+                whether it is in <name type="place" ref="#ENG" key="ENG">England</name>,<lb/>
+                <name type="place" ref="#EGY" key="EGY">Egypt</name> or <name type="place" ref="#NZE" key="NZE">New Zealand</name>.</p>
+            <p>
+                By the way mext parcel<lb/>
+                please put two or three<lb/>
+                
+                <pb n="8" facs="#rb060h" xml:id="t1-body-x18-pb1"/>
+                
+                batteries for pocket lamps.<lb/>
+                They are not expensive, most<lb/>
+                fearfully useful &amp; almost<lb/>
+                impossible to get here. I have<lb/>
+                only one and a bit left.</p>
+            <p>Must go now and have<lb/>
+                a look round the trenches<lb/>
+                before tea.</p>
+            <p>Be a good girl &amp; don't<lb/>
+                worry, you would be amused<lb/>
+                if you could see me now,<lb/>
+                how horribly fit I am &amp;<lb/>
+                quite happy.</p>
+            <closer>
+                <salute>Goodbye till next mail.<lb/>
+                    Your loving husband</salute><lb/>
+                <signed><name type="person" ref="#RTB" key="RTB"><hi rend="u">Roy</hi></name></signed><lb/>
+            </closer>
+        </body>
+    </text>
+</TEI>

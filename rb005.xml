@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb005" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Unknown</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Han Li</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Han Li </name>
+                </respStmt>
+                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2012-12-18"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb005a">
+                                <graphic url="rb005a.jpg" mimeType="image/jpeg" xml:id="rb005a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005b">
+                                <graphic url="rb005b.jpg" mimeType="image/jpeg" xml:id="rb005b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005c">
+                                <graphic url="rb005c.jpg" mimeType="image/jpeg" xml:id="rb005c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005d">
+                                <graphic url="rb005d.jpg" mimeType="image/jpeg" xml:id="rb005d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005e">
+                                <graphic url="rb005e.jpg" mimeType="image/jpeg" xml:id="rb005e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005f">
+                                <graphic url="rb005f.jpg" mimeType="image/jpeg" xml:id="rb005f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb005envf">
+                                <graphic url="rb005envf.jpg" mimeType="image/jpeg" xml:id="rb005envf-g"/>
+                            </figure>
+                        </item>
+                        
+                        <item>
+                            <figure xml:id="rb005envb">
+                                <graphic url="rb005envb.jpg" mimeType="image/jpeg" xml:id="rb005envb-g"/>
+                            </figure>
+                        </item>
+                        
+                        
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135607</idno>
+                    </msIdentifier>
+                    <head>
+                        <date when="1914-01-05">5 January 1914</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>six pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain brown paper, no lines</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I facsondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available facsondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement>Auckland</settlement>
+                <country>New Zealand</country>
+                <date when="1914-01-05"/>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="JAW" source="http://muse.aucklandmuseum.com/databases/Cenotaph/57807.detail?">
+                        <persName>
+                            <roleName type="military">Captain</roleName>
+                            <forename>Jesse</forename>
+                            <addName>Alfred</addName>
+                            <surname>Wallingford</surname>
+                        </persName>
+                        <death when="1944-06-06">6 June 1944</death>
+                    </person>
+                    <person xml:id="HAH" source="http://muse.aucklandmuseum.com/databases/Cenotaph/7421.detail?">
+                        <persName>
+                            <roleName type="military">Private</roleName>
+                            <forename>Herbert</forename>
+                            <addName type="middle">Arthur</addName>
+                            <surname>Husband</surname>
+                        </persName>
+                        <death when="1915-07-25">25 September 1915</death>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie </addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <relationGrp type="personal">
+                        <relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+                        <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/> 
+                    </relationGrp>                    
+                </listPerson>               
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="CHC">
+        <placeName>
+            <settlement>
+                <choice>
+                    <abbr>CHCH</abbr>
+                    <expan>Christchurch</expan>                
+                </choice>
+            </settlement>
+            <location>
+                <country ref="#NZE">New Zealand</country>
+            </location>
+        </placeName>
+    </place>                
+                    <place xml:id="TIM">
+        <placeName>
+            <settlement>Timaru</settlement>
+        </placeName>
+        <location ref="#NZE">New Zealand</location>
+    </place>
+                    <place xml:id="WAI">
+        <placeName>
+            <region>Waikato</region>
+        </placeName>
+        <location>
+            <country ref="#NZE">New Zealand</country>
+        </location>
+    </place>
+                    <place xml:id="NNZ">
+        <placeName>
+            <region>North Island</region>
+            <location>
+                <country ref="#NZE">New Zealand</country>
+            </location>
+        </placeName>
+    </place>
+                    
+                    <place xml:id="SNZ">
+                        <placeName>
+                            <region>South Island</region>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>                        
+                    </place>
+                    <place xml:id="ERC">
+                        <placeName>
+                            Ellerslie Race Course
+                        </placeName>
+                        <location><settlement ref="#AUK">Auckland</settlement></location>
+                    </place>
+                    <place xml:id="AWK">
+                        <placeName>
+                            <settlement>Awakino</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="ROT">
+                        <placeName>
+                            <settlement>Rotorua</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="AUK">
+        <placeName><settlement>Auckland</settlement>
+        </placeName>
+            <location>
+            <country ref="#NZE">New Zealand</country>
+        </location>
+    </place>
+<place xml:id="NZE">
+        <placeName>
+            <country>New Zealand</country>
+        </placeName>
+    </place>
+                        
+                </listPlace> 
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001"/>
+            
+        </revisionDesc>
+    </teiHeader>
+    
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            
+            <pb n="1" facs="#rb005a" xml:id="t1-body-pb1"/>
+            <opener>
+                <dateline>
+                    <date when="1914-01-05">
+                        5.1.1914.
+                    </date>
+                </dateline>
+                <lb/>
+                <salute>       
+                    <name type="person" ref="#MGB" key="MGB">My dearest girl</name>:               
+                </salute>
+                
+            </opener>
+            
+            <p rend="indent">
+                At last I am
+                <lb/>
+                able to sit down and give you
+                <lb/>
+                an account of my doings.  We
+                <lb/>
+                have had a very strenuous time,
+                <lb/>
+                dogged by shocking luck but
+                <lb/>
+                now it is all over and we
+                <lb/>
+                recognise the results might have
+                <lb/>
+                been so much worse.
+            </p>
+            
+            <p rend="indent">I told you in my
+                <lb/>
+                last letter how our horses &amp; guns
+                <lb/>
+                had got delayed on the road.
+                <lb/>
+                Well the horses did not arrive
+                <lb/>
+                until New Year's day and my
+                <lb/>
+                gun has not arrived yet.
+            </p> 
+            
+            <p>On Friday when exercising the
+                <lb/>
+                horses <name type="person">Black</name> sprained Fairyland's
+                <lb/>
+                back, luckily it was not very bad
+                <lb/>
+                and with hot fermentations and
+                <lb/>
+                embrocation she was able to start
+                <lb/>
+                in the Loyd Lindsay on Saturday,
+                <lb/>
+                but it spoilt our chances.  <name type="person">Black</name>
+                <lb/>
+                nearly broke down when it happened.
+                <lb/>
+                However we got second, being beaten
+                
+                <pb n="2" facs="#rb005b" xml:id="t1-body-x4-pb1"/>   
+                
+                by only 4 points by the <name type="place" ref="#CHC" key="CHC">Christchurch</name>
+                <lb/>
+                team we beat at the <name type="place" ref="#TIM" key="TIM">Timaru</name> show.
+            </p>
+            
+            <p rend="indent"> With my gun team misfortune
+                <lb/>
+                hung to us right along.  I could
+                <lb/>
+                not get a gun to practice with or
+                <lb/>
+                a set of nickometers to train a range
+                <lb/>
+                taker.  The consequence was I started
+                <lb/>
+                in the competition with 5 men
+                <lb/>
+                out of the 9 <hi rend="u">who had never seen the 
+                <lb/>
+                gun before</hi>, and had only had the
+                <lb/>
+                competition explained on paper, even
+                <lb/>
+                then we ran second and were only
+                <lb/>
+                20 points (maximum 530) behind the 
+                <lb/>
+                winning team (4th <name type="place" ref="#WAI" key="WAI">Waikato</name>).  We beat
+                <lb/>
+                the <name type="place" ref="#TIM" key="TIM">Timaru</name> infantry team (who were
+                <lb/>
+                3rd and had all their team here) by
+                <lb/>
+                23 points, for which we were all 
+                <lb/>
+                devoutly thankful.  I think we would
+                <lb/>
+                have wept if they had been ahead
+                <lb/>
+                of us. Five teams started. The 
+                <lb/>
+                competition was lost on the range taking,
+                <lb/>
+                poor old <name type="person">Edgar</name> who had only half
+                
+                
+                <pb n="3" facs="#rb005c" xml:id="t1-body-x5-pb1"/>  
+                
+                an hour's practice in his life made
+                <lb/>
+                a bloomer.  It was not his fault &amp;
+                <lb/>
+                I was very proud to run second.  We
+                <lb/>
+                made all our points on getting into
+                <lb/>
+                and out of action.  The judges
+                <lb/>
+                <name type="person" ref="#JAW" key="JAW">Capt. Wallingford</name> (the champion rifle
+                <lb/>
+                shot of the world) &amp; <name type="person">Henderson</name> told
+                <lb/>
+                me we did exceptionally fast time.
+                <lb/>
+                I know I never ran so fast in my
+                <lb/>
+                life before, and I was told afterwards
+                <lb/>
+                that to see the horseholders getting
+                <lb/>
+                the horses to gallop by prodding 
+                <lb/>
+                them with their bayonets (of course
+                <lb/>
+                in the sheath) was worth seeing.
+                <lb/>
+                Had we had our own beautifully 
+                <lb/>
+                polished equipment and one day's
+                <lb/>
+                practice with the nickometers we
+                <lb/>
+                must have won very easily.  We 
+                <lb/>
+                will be right next year though, the
+                <lb/>
+                two <name type="person">Black</name>'s, <name type="person">Mechan</name> &amp; <name type="person" ref="#HAH" key="HAH">Husband</name> have
+                <lb/>
+                asked me to take them into the
+                <lb/>
+                team, and with them I don't think
+                <lb/>
+                anything can look at us.
+                
+            </p>
+            <p rend="indent">
+                About an hour after the competition
+                
+                
+                <pb n="4" facs="#rb005d" xml:id="t1-body-x6-pb1"/>  
+                
+                <name type="person">Ross</name> broke his collar bone, he jumped 
+                <lb/>
+                on Golden Grape bareback to get something
+                <lb/>
+                and the horse bolted and eventually
+                <lb/>
+                threw him against a post &amp; rail fence,
+                <lb/>
+                I did not see it, but I was told he
+                <lb/>
+                was lucky to save his life.
+            </p>
+            <p rend="indent">
+                Golden Grape's legs are in a very
+                <lb/>
+                bad way and Fairyland is still a
+                <lb/>
+                bit stiff, and the other two horses have
+                <lb/>
+                more or less suffer<del>r</del>ed, which is not
+                <lb/>
+                surprising considering we only had
+                <lb/>
+                4 horses here and entered for every
+                <lb/>
+                mounted event in appalling heat.
+                <lb/>
+                With 9 men &amp; 4 horses to travel from
+                <lb/>
+                <name type="place" ref="#TIM" key="TIM">Timaru</name> compete against the pick of
+                <lb/>
+                the <name type="place" ref="#NNZ" key="NNZ">North</name> &amp; <name type="place" ref="#SNZ" key="SNZ">South Island</name>s &amp; get 5
+                <lb/>
+                seconds &amp; 2 firsts seems to me fairly
+                <lb/>
+                creditable. With reasonable luck two
+                <lb/>
+                of those seconds would have been firsts.
+            </p>
+            <p rend="indent">
+                
+                On New Year's day we went out
+                <lb/>
+                to the races &amp; saw the Great Northern
+                <lb/>
+                Derby.  <name type="place" ref="#ERC" key="ERC">Ellerslie</name> is a fine course and
+                <lb/>
+                the gardens are lovely.  Didn't have any
+                <lb/>
+                luck but wasn't betting much.  Backed
+                
+                <pb n="5" facs="#rb005e" xml:id="t1-body-x8-pb1"/> 
+                
+                
+                Bonny Helen for the Derby but she
+                <lb/>
+                was outclassed.  There were some
+                <lb/>
+                lovely horses here and the racing
+                <lb/>
+                was excellent.  I enjoyed the day
+                <lb/>
+                thoroughly, but all the time I 
+                <lb/>
+                do so want you with me, we
+                <lb/>
+                would have a lovely time here,
+                <lb/>
+                except you might feel the heat.
+            </p>
+            <p rend="indent">
+                I have met several people 
+                <lb/>
+                here I used to know, amongst them
+                <lb/>
+                <name type="person">Robison</name> who I was with at
+                <lb/>
+                <name type="place" ref="#AWK" key="AWK">Awakino</name>, they are living here now,
+                <lb/>
+                and I am going to dinner there
+                <lb/>
+                tomorrow night.
+            </p>
+            <p rend="indent">
+                <name type="person">Marchant</name> went down to 
+                <lb/>
+                <name type="place" ref="#ROT" key="ROT">Rotorua</name> yesterday and <name type="person">Andrews</name> &amp;
+                <lb/>
+                <name type="person">Bowie</name> went back last night.  I
+                <lb/>
+                have not done any business yet, all
+                <lb/>
+                my time has been well filled, but
+                <lb/>
+                I am going to start today.  I see
+                <lb/>
+                by the paper that the boat with
+                <lb/>
+                the skins on board has arrived.
+            </p>
+            <p rend="indent">
+                
+                I hope to be back in about
+                <lb/>
+                a week, but I will wire as soon
+                
+                <pb n="6" facs="#rb005f" xml:id="t1-body-x11-pb1"/> 
+                
+                as I know.
+            </p>
+            <p rend="indent">
+                We had rather a rotten New Year's
+                <lb/>
+                Eve, tried to have a spree but it
+                <lb/>
+                failed principally owing to us having
+                <lb/>
+                an ice that did not agree with us.
+                <lb/>
+                We saw the Old Year out at the
+                <lb/>
+                Exhibition amongst fireworks and
+                <lb/>
+                rockets (a poor display) and then came
+                <lb/>
+                home to bed.
+            </p>
+            <p rend="indent">
+                Two letters from you have arrived
+                <lb/>
+                safely and I was very glad to get 
+                <lb/>
+                them.  I hope you won't think I have
+                <lb/>
+                neglected you the last few days, but
+                <lb/>
+                I have had no time to myself, what
+                <lb/>
+                with searching for the gun, and one
+                <lb/>
+                disappointment after another, things at
+                <lb/>
+                times have been only middling.
+            </p>
+            <closer>
+                Good bye sweetheart, do take care
+                    <lb/>
+                    of yourself, some day we will have a
+                    <lb/>
+                    lovely holiday together.  Give little
+                    <lb/>
+                    <name type="person" ref="#HEB" key="HEB">Helen</name> a good humbug and keep a
+                    <lb/>
+                    nice kiss for yourself.  I do hope
+                    <lb/>
+                    your mother returns soon.  <salute>With very 
+                    <lb/>
+                    much love &amp; affection.</salute>
+                
+                <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></signed>.
+            </closer>
+            
+            <pb n="7" facs="#rb005envf" xml:id="t1-body-pb2"/>
+            <pb n="8" facs="#rb005envb" xml:id="t1-body-pb3"/>
+        </body>
+    </text>
+    
+</TEI>

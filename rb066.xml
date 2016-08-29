@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb066" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>                
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Transcription</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>                
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2016-02-23">23 February 2016</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb066a">
+                                <graphic url="rb066a.jpg" mimeType="image/jpeg" xml:id="rb066a-g"/>
+                            </figure>
+                            </item>
+                        <item>
+                            <figure xml:id="rb066b">
+                                <graphic url="rb066b.jpg" mimeType="image/jpeg" xml:id="rb066b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066c">
+                                <graphic url="rb066c.jpg" mimeType="image/jpeg" xml:id="rb066c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066d">
+                                <graphic url="rb066d.jpg" mimeType="image/jpeg" xml:id="rb066d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066e">
+                                <graphic url="rb066e.jpg" mimeType="image/jpeg" xml:id="rb066e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066f">
+                                <graphic url="rb066f.jpg" mimeType="image/jpeg" xml:id="rb066f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066g">
+                                <graphic url="rb066g.jpg" mimeType="image/jpeg" xml:id="rb066g-g"/>
+                            </figure>
+                        </item> 
+                        <item>
+                            <figure xml:id="rb066h">
+                                <graphic url="rb066h.jpg" mimeType="image/jpeg" xml:id="rb066h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb066envf">
+                                <graphic url="rb066envfront.jpg" mimeType="image/jpeg" xml:id="rb066envf-g"/>
+                            </figure>
+                        </item>   
+                        <item>
+                            <figure xml:id="rb066envb">
+                                <graphic url="rb066envback.jpg" mimeType="image/jpeg" xml:id="rb066envb-g"/>
+                            </figure>
+                        </item>                           
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135688</idno>                       
+                    </msIdentifier>
+                    <head>
+                        <date when="1916-04-22">22 April 1916</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>8 Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"/>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement>Salhieh</settlement>                
+                <date when="1916-04-22">22 April 1916</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>                
+                    <listPerson>
+                        <person xml:id="HEB">
+                            <persName>
+                                <forename>Helen</forename>
+                                <addName type="middle">Eugenie</addName>
+                                <surname type="maiden">Bruce</surname>
+                                <surname type="married">Alexander</surname>
+                            </persName>
+                            <birth when="1909-12-05">5 December 1909</birth>
+                        </person>
+                        <person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+                            <persName>
+                                <roleName type="military">Lieutenant</roleName>
+                                <forename>Roy</forename>
+                                <addName type="middle">Thomas</addName>
+                                <surname>Bruce</surname>
+                            </persName>
+                            <birth when="1881-12-18">18 December 1881</birth>
+                            <death when="1945-11-29">29 November 1945</death>
+                        </person>
+                        <relationGrp type="personal">
+                            <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/> 
+                         </relationGrp>
+                    </listPerson>                               
+            </particDesc>        
+            <settingDesc>                
+                    <listPlace>
+                        <place xml:id="CAR">
+                            <placeName>
+                                <settlement>Cairo</settlement>
+                            </placeName>
+                            <location>
+                                <country ref="#EGY">Egypt</country>
+                            </location>
+                        </place>
+                        <place xml:id="SAL">
+                            <settlement>Salhieh</settlement>
+                        </place>
+                        <place xml:id="EGY">
+                            <placeName>
+                                <country>Egypt</country>
+                            </placeName>
+                        </place>
+                        <place xml:id="ISM">
+                            <placeName>Ismailia</placeName>
+                            <location>
+                                <country ref="#EGY">Egypt</country>
+                            </location>
+                        </place>
+                        <place xml:id="TEK">
+                            <placeName>Tel el Kebir</placeName>
+                            <location>
+                                <country ref="#EGY">Egypt</country>
+                            </location>
+                        </place>
+                        <place xml:id="ANZ">
+                            <geogName>
+                                <name type="place">ANZAC</name>
+                                <geogFeat>Cove</geogFeat>
+                            </geogName>
+                            <location>
+                                <country ref="#TUR">Turkey</country>
+                            </location>
+                        </place>
+                        <place xml:id="TUR">
+                            <placeName>
+                                <country>Turkey</country>
+                            </placeName>
+                        </place>
+                        <place xml:id="ABK">
+                            <placeName><settlement>Abu kebir</settlement></placeName>
+                            <location>
+                                <country ref="#EGY">Egypt</country>
+                            </location>
+                        </place>
+                        <place xml:id="ZAG">
+                            <placeName>
+                                <settlement>Zagazig</settlement>
+                            </placeName>
+                            <location>
+                                <country ref="#EGY">Egypt</country>
+                            </location>
+                        </place>
+                    </listPlace>                
+            </settingDesc>
+        </profileDesc>
+            <revisionDesc xml:id="revisionDesc-0001">
+                <change xml:id="change-0001"/>
+            </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <pb n="1" facs="#rb066a" xml:id="t1-body-pb1"/>
+            <opener>
+                <dateline>
+                    <name type="place" ref="#SAL" key="SAL">Salhieh</name>
+                    <lb/>
+                    <date when="1916-04-22">22 4 1916</date>
+                </dateline>
+                <lb/>
+                <salute>My dearest girl:</salute>
+                <lb/>
+            </opener>
+            <p>Events have been
+                <lb/>
+                moving for me lately with almost
+                <lb/>
+                startling rapidity. Ever since
+                <lb/>
+                I left <name type="place" ref="#CAR" key="CAR">Cairo</name> I have been running
+                <lb/>
+                round in circles
+            </p>
+            <p>
+                I left <name type="place" ref="#CAR" key="CAR">Cairo</name> and
+                <lb/>
+                joined the brigade at <name type="place" ref="#SAL" key="SAL">Salhieh</name>
+                <lb/>
+                arriving one night to find I had
+                <lb/>
+                to leave next morning for
+                <lb/>
+                <name type="place" ref="#ISM" key="ISM">Ismailia</name> to take over the training
+                <lb/>
+                squadron I told you about.
+                <lb/>
+                Arrived at <name type="place" ref="#ISM" key="ISM">Ismailia</name> took over
+                <lb/>
+                the squadon and two days
+                <lb/>
+                afterwards moved with it to
+                <lb/>
+                <name type="place" ref="#TEK" key="TEK">Tel el Kebir</name>. Three days after
+                <lb/>
+                that heard the Brigade were
+                <lb/>
+                moving away on a stunt, wept
+                <lb/>
+                many tears to know I was not
+                <lb/>
+                to go with them so thought I
+                
+                <pb n="2" facs="#rb066b" xml:id="t1-body-x3-pb1"/>
+                
+                would go up to Salhieh to say
+                <lb/>
+                good bye; arrived in <name type="place" ref="#SAL" key="SAL"><choice><sic>Salhia</sic><corr>Salhieh</corr></choice></name>
+                <lb/>
+                last night to find the Colonel
+                <lb/>
+                was shaking up Brigades
+                <lb/>
+                Divisions &amp; Army Corps to get me
+                <lb/>
+                back in the regiment before
+                <lb/>
+                they moved. The chief difficulty
+                <lb/>
+                lay in the fact that I was
+                <lb/>
+                seconded from the regiment
+                <lb/>
+                and put on an instructional
+                <lb/>
+                staff for a tour of duty of from
+                <lb/>
+                6 to 8 months; however just
+                <lb/>
+                as I had given up hope a
+                <lb/>
+                wire came through for me to
+                <lb/>
+                rejoin. It was worth getting.
+                <lb/>
+                Nearly all the men in the
+                <lb/>
+                Squadron took an opportunity
+                <lb/>
+                to tell me how glad they were
+                <lb/>
+                I was coming with them, the
+                <lb/>
+                offices gave me a great reception,
+                <lb/>
+                and happening to pass the
+                <lb/>
+                general he stopped and said
+                <lb/>
+                he was pleased to have been
+                <lb/>
+                able to do it. Really I shall
+                
+                <pb n="3" facs="#rb066c" xml:id="t1-body-x3-pb2"/>
+                
+                soon bein to think that I
+                <lb/>
+                am going to be of some use
+                <lb/>
+                somewhere after all. Just
+                <lb/>
+                after all that splutter orders
+                <lb/>
+                came to move in an hour:
+                <lb/>
+                so now I am sitting in the
+                <lb/>
+                train going back to <name type="place" ref="#TEK" key="TEK">Tel el
+                <lb/>
+                Kebir</name> to get my horse &amp; kit &amp;
+                <lb/>
+                pick the others up sometimes
+                <lb/>
+                tomorrow. Here commences
+                <lb/>
+                another compaign. This
+                <lb/>
+                time what we have trained
+                <lb/>
+                for so long, mounted work.
+                <lb/>
+                Let us hope we do as well as
+                <lb/>
+                we are told we did at <name type="place" ref="#ANZ" key="ANZ">Anzac</name>.              
+            </p>
+            <p>
+                I did not mind com-
+                <lb/>
+                manding the training squad-
+                <lb/>
+                ron so long as the regiment
+                <lb/>
+                was not going after the wily
+                <lb/>
+                Turk or some other elusive
+                <lb/>
+                enermy, but to feel they were
+                <lb/>
+                going and I was not with
+                <lb/>
+                them, after nearly two years
+                <lb/>
+                was very hard to bear. But
+                
+                <pb n="3" facs="#rb066d" xml:id="t1-body-x4-pb1"/>
+                
+                everyone is happy now. I
+                <lb/>
+                cannot give you any details
+                <lb/>
+                as to how far etc we are going,
+                <lb/>
+                principally because I don't
+                <lb/>
+                know, but probably before you
+                <lb/>
+                get this you will know all
+                <lb/>
+                about it.  
+            </p>
+            <p>
+                Have an idea where the
+                <lb/>
+                infantry are - remous says
+                <lb/>
+                anywhere in the world.
+            </p>
+            <p>
+                Had an isolated letter
+                <lb/>
+                from you the other day, but
+                <lb/>
+                there is no regularity at all
+                <lb/>
+                now, sometimes I am several
+                <lb/>
+                weeks without news. I don't
+                <lb/>
+                worry now it is impossible
+                <lb/>
+                to help it. A man said to
+                <lb/>
+                me the other day "I envy
+                <lb/>
+                you your damnable calm
+                <lb/>
+                nothing ever seems to disturb
+                <lb/>
+                it" You will say I must
+                <lb/>
+                have changed a lot, but he
+                <lb/>
+                did not see very far below
+                <lb/>
+                the surface.
+            </p>
+            
+            <pb n="5" facs="#rb066e" xml:id="t1-body-pb2"/>
+            
+            <p>
+                I am very sorry to hear
+                <lb/>
+                that <name type="person" ref="#HEB" key="HEB">Helen</name>'s ringworm is so
+                <lb/>
+                slow in curing. When is she
+                <lb/>
+                going to school?
+            </p>
+            <p>
+                Think I forgot to tell
+                <lb/>
+                you that the boy who did
+                <lb/>
+                the Anzac Christmas card I
+                <lb/>
+                sent <name type="person" ref="#HEB" key="HEB">Helen</name> was killed a few
+                <lb/>
+                days afterwards by a shell.
+                <lb/>
+                I was on the spot a few
+                <lb/>
+                seconds after he was hit. He
+                <lb/>
+                died in about half an hour.                
+            </p>
+            <p>
+                Expect letters will be
+                <lb/>
+                skiwer than ever reaching
+                <lb/>
+                you, now that we are on
+                <lb/>
+                the move again, but I will
+                <lb/>
+                send as many postcards as
+                <lb/>
+                possible.
+            </p>
+            <p>
+                Sometime soon I hope
+                <lb/>
+                to be able to increase your
+                <lb/>
+                allowance. I get 57-p day
+                <lb/>
+                more now. There are many
+                <lb/>
+                things that are essential I
+                
+                <pb n="6" facs="#rb066f" xml:id="t1-body-x10-pb1"/>
+                
+                should have, and which up
+                <lb/>
+                to the present I have done
+                <lb/>
+                without. Things are very
+                <lb/>
+                expensive and are now
+                <lb/>
+                nearly double what they
+                <lb/>
+                were when we arrived in
+                <lb/>
+                <name type="place" ref="#EGY" key="EGY">Egypt</name>. I hope you will
+                <lb/>
+                understand I will do my
+                <lb/>
+                best. My <name type="place" ref="#CAR" key="CAR">Cairo</name> holiday was
+                <lb/>
+                expensive, but it was that
+                <lb/>
+                or the hospital. Perhaps
+                <lb/>
+                you can't quite realise what
+                <lb/>
+                that fortnight meant. This
+                <lb/>
+                war game as we play it is
+                <lb/>
+                a rather strenuous game.
+            </p>
+            <p>
+                I am feeling very well
+                <lb/>
+                but not absolutely up to the
+                <lb/>
+                marke yet. Am a little soft
+                <lb/>
+                but a few days hike will
+                <lb/>
+                soon harden me up again.
+            </p>
+            <p>
+                Yet another small adventure
+                <lb/>
+                has overtaken me. Arriving at
+                <lb/>
+                a small town where I have to
+                <lb/>
+                change trains, called <name type="place" ref="#ABK" key="ABK"><choice><sic>Abou Kebir</sic><corr>Abu Kabir</corr></choice></name>, I
+                
+                <pb n="6" facs="#rb066g" xml:id="t1-body-x12-pb1"/>
+                
+                find to my constenation that
+                <lb/>
+                I cannot get through to <name type="place" ref="#TEK" key="TEK">Tel el
+                <lb/>
+                Kebir</name> tonight, can only go
+                <lb/>
+                as far as <name type="place" ref="#ZAG" key="ZAG">Zazazig</name> which is a large
+                <lb/>
+                town but entirely Egyptian. Here
+                <lb/>
+                I shall have to pass the night
+                <lb/>
+                probably in some appalling
+                <lb/>
+                Egypitian hotel. At the present
+                <lb/>
+                time I have to wait an hour
+                <lb/>
+                here at <name type="place" ref="#ABK" key="ABK"><choice><sic>Abou Kebir</sic><corr>Abu Kabir</corr></choice></name>, and I am
+                <lb/>
+                sitting at a table outside a 
+                <lb/>
+                dirty Egyptian Cafe drinking
+                <lb/>
+                Egyptian coffee which is always
+                <lb/>
+                very good. There is just a
+                <lb/>
+                chance I may find a goods or
+                <lb/>
+                troop train at <name type="place" ref="#ZAG" key="ZAG">Zazazig</name> which
+                <lb/>
+                will drop me at <name type="place" ref="#TEK" key="TEK">Tel el Kebir</name>,
+                <lb/>
+                but it is doubtful. I spent
+                <lb/>
+                5 hours in <name type="place" ref="#ZAG" key="ZAG">Zazazig</name> once and
+                <lb/>
+                discovered a small zoo, with
+                <lb/>
+                two of the most magnificent
+                <lb/>
+                peacocks I have ever seen and
+                <lb/>
+                a splendid specimen of a lion,
+                <lb/>
+                but one cannot go reveling
+               
+               <pb n="8" facs="#rb066h" xml:id="t1-body-x12-pb2"/>
+                
+                peacocks &amp; lions in the middle
+                <lb/>
+                of the night and it is now
+                <lb/>
+                9.15.
+            </p>
+            <p>
+                There is nothing more to
+                <lb/>
+                tell you just now! Tomorrow
+                <lb/>
+                I shall only have two hours
+                <lb/>
+                at <name type="place" ref="#TEK" key="TEK">Tel el Kebir</name> to get my kit
+                <lb/>
+                together, send some back to
+                <lb/>
+                <name type="place" ref="#CAR" key="CAR">Cairo</name> and arrange for a truck
+                <lb/>
+                for my hope which is there.                
+            </p>
+            <p>
+                Good night old girl,
+                <lb/>
+                will relate my adventures
+                <lb/>
+                in <name type="place" ref="#ZAG" key="ZAG">Zazazig</name> in my next.
+            </p>
+            <closer>
+                <salute>All my love to you
+                <lb/>
+                both my dears. God bless you</salute>
+                <lb/>
+                <signed><hi rend="u">
+                  
+                        <name type="person" ref="#RTB" key="RTB">Roy</name>
+                    .
+                </hi></signed>
+            </closer>
+            
+            <pb n='9' facs='#rb066envf'/>
+            <pb n='10' facs='#rb066envb'/>
+        </body>
+    </text>
+</TEI>

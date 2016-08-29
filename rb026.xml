@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb026" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Kathy Kise</name>
+                    <name type="person">Keely McBride</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Unknown</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Han Li</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                    <name type="person">Han Li</name>
+                </respStmt>                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2013-01-10">10 January 2013</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb026a">
+                                <graphic url="rb026a.jpg" mimeType="image/jpeg" xml:id="rb026a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026b">
+                                <graphic url="rb026b.jpg" mimeType="image/jpeg" xml:id="rb026b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026c">
+                                <graphic url="rb026c.jpg" mimeType="image/jpeg" xml:id="rb026c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026d">
+                                <graphic url="rb026d.jpg" mimeType="image/jpeg" xml:id="rb026d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026e">
+                                <graphic url="rb026e.jpg" mimeType="image/jpeg" xml:id="rb026e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026f">
+                                <graphic url="rb026f.jpg" mimeType="image/jpeg" xml:id="rb026f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026envf">
+                                <graphic url="rb026envf.jpg" mimeType="image/jpeg" xml:id="rb026envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb026envb">
+                                <graphic url="rb026envb.jpg" mimeType="image/jpeg" xml:id="rb026envb-g"/>
+                            </figure>
+                        </item>
+                        
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135637</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                        <date when="1915-02-21">21 February 1915</date>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>Six pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain paper, no header</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                
+                <date when="1915-02-21">21.2.1915</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MAC">
+                        <persName>Marchant</persName>
+                    </person>
+                    <person xml:id="COD">
+                        <persName>Cody</persName>
+                    </person>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="AND">
+                        <persName>
+                            <surname>Andrews</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="POT">
+                        <persName>Potiphar</persName>
+                    </person>
+                    <person xml:id="JOS">
+                        <persName>Joseph</persName>
+                    </person>
+                    <person xml:id="BLA">
+                        <persName>Blair</persName>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie </addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="GUN">
+                        <persName>
+                            <surname>Gunthries</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="WAI">
+                        <persName>
+                            <roleName type="military">Major</roleName>
+                            <surname>Wain</surname>
+                        </persName>
+                    </person>
+                    <relationGrp type="personal">
+                        <relation name="parent" active="#RTB #MBG" passive="#HEB"/>                        
+                        <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>                        
+                    </relationGrp>
+                </listPerson>
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="AUS">
+                        <placeName>
+                            <country>Australia</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="EGY">
+                        <placeName>
+                            <country>Egypt</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="TIM">
+        <placeName>
+            <settlement>Timaru</settlement>
+        </placeName>
+        <location ref="#NZE">New Zealand</location>
+    </place>
+                    <place xml:id="ZEI">
+        <placeName>Zeitoun Camp</placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001">
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            
+            <pb n="1" facs="#rb026a" xml:id="t1-body-pb1"/>
+            
+            <opener>
+                <dateline>
+                    <name type="place" ref="#ZEI" key="ZEI">El <choice><sic>Zeitun</sic><corr>Zeitoun</corr></choice></name>
+                    <lb/>
+                    <date when="1915-02-21">21. 2. 1915</date>
+                </dateline>
+                <lb/>
+                <lb/>                
+                <salute>
+                    <name type="person" ref="#MGB" key="MGB">My dearest Maud</name>:
+                </salute>
+            </opener>
+            
+            <p> 
+                
+                I am beginning to be
+                <lb/>
+                afraid that my prophecies concerning our
+                <lb/>
+                departure for Europe early in March are not
+                <lb/>
+                going to be fulfilled.  It is now a matter
+                <lb/>
+                of equipment, they cannot get the necessary
+                <lb/>
+                clothing, saddlery etc for the men.  They talk
+                <lb/>
+                in <name type="place" ref="#NZE" key="NZE">New Zealand</name> about their splendidly equipped
+                <lb/>
+                force, but let me assure you of all the
+                <lb/>
+                poverty stricken Brigades the Mounted Rifles
+                <lb/>
+                are about the limit and if it is any
+                <lb/>
+                satisfaction to the people of South Canterbury,
+                <lb/>
+                the South Canterbury Squadron is one of the
+                <lb/>
+                worst equipped.  So far as I can gather we
+                <lb/>
+                are the only squadron in the Brigade i.e. 
+                <lb/>
+                3 Regiments of 3 Squadrons each, in which the
+                <lb/>
+                officers did not receive a grant from their
+                <lb/>
+                various patriotic committees.  I will give
+                <lb/>
+                you a rough idea of what it has cost me
+                <lb/>
+                for equipment since I have been in <name type="place" ref="#EGY" key="EGY">Egypt</name>,
+                <lb/>
+                exclusive of what I had to buy in <name type="place" ref="#NZE" key="NZE">New Zealand </name>.
+                <lb/>
+                
+                Pair boots   35/-  Puttees &amp; Sundries say 40/-
+                <lb/>
+                2 Pairs Riding Bches 110/-    Total 286/- = £14,5/-
+                <lb/>    
+                Pusimatic Compass 100/-
+                
+                <pb n="2" facs="#rb026b" xml:id="t1-body-x2-pb1"/>
+                
+                This total does not include a revolver which
+                <lb/>
+                will cost £4/5, and if we stay here much
+                <lb/>
+                longer I shall be obliged to get 2 new light
+                <lb/>
+                summer uniforms &amp; corresponding under-
+                <lb/>
+                clothing.  Don't think I am grumbling,
+                <lb/>
+                because I don't mind it in the least, and
+                <lb/>
+                I have plenty of money to get everything I 
+                <lb/>
+                want, but I should just like to get some
+                <lb/>
+                of those smug faced local politicians out
+                <lb/>
+                here &amp; show them how ignorant they are
+                <lb/>
+                generally.  Having got that off my chest
+                <lb/>
+                and it is the only growl I have, not
+                <lb/>
+                for myself, but for the men, for when I 
+                <lb/>
+                think of all the money that was collected
+                <lb/>
+                in <name type="place" ref="#TIM" key="TIM">Timaru</name> for equipment, and how it
+                <lb/>
+                has been frittered away it is worth a
+                <lb/>
+                little grumble occasionally.  I will go
+                <lb/>
+                on to something more pleasant.
+            </p>  
+            <p>
+                We went out digging trenches in
+                <lb/>
+                the dark the other night and quite amused
+                <lb/>
+                ourselves.  This week there is a contemplated
+                <lb/>
+                5 days trek from here to a place called
+                <lb/>
+                Zag-a-zig about 40 miles from here.  You
+                <lb/>
+                may be able to find it on the maps.  It
+                <lb/>
+                should be quite a good expedition.  The
+                <lb/>
+                Brigadier says we will take as much
+                
+                <pb n="3" facs="#rb026c" xml:id="t1-body-x3-pb1"/>
+                
+                ammunition as possible &amp; get as near to the
+                <lb/>
+                Turks as we can, but alas the Turks are
+                <lb/>
+                many miles away at present.
+            </p>
+            <p>
+                The weather is superb, no rain yet,
+                <lb/>
+                and cloudless sunny days &amp; cool starlit
+                <lb/>
+                nights.  It is however gradually getting
+                <lb/>
+                warmer, and I am told that next month
+                <lb/>
+                the dust storms begin.
+            </p>
+            <p>
+                <name type="person" ref="#AND">Andrews</name> is well and is enjoying
+                <lb/>
+                himself in sundry ways.  He expresses himself 
+                <lb/>
+                thus:  "If this is war, to h-l with peace" -
+                <lb/>
+                which is quite expressive of the present situation.
+            </p>
+            <p>
+                
+                Oh: by the way, you know the Biblical
+                <lb/>
+                story of <name type="person" ref="#POT">Potiphar</name>'s wife &amp; <name type="person" ref="#JOS">Joseph</name>; well it appears
+                <lb/>
+                the other day they discovered the mummy 
+                <lb/>
+                of <name type="person" ref="#POT">Potiphar</name>'s wife, and you must know that
+                <lb/>
+                as a rule all mummies have a papyrus or
+                <lb/>
+                some record or something rolled up in their
+                <lb/>
+                hands, well, on opening the hand of Potiphar's
+                <lb/>
+                wife instead of finding the usual scroll, they 
+                <lb/>
+                were surprised to find the tail of a shirt
+                <lb/>
+                with J marked on it.!!
+            </p>
+            <p>
+                I am gradually collecting some small
+                <lb/>
+                articles of Egyptian make which I will send
+                <lb/>
+                you in a box before we leave here.  They are
+                <lb/>
+                perforce not valuable but they are Egyptian or 
+                <lb/>
+                Arabian.  The cat I have not yet been
+                
+                
+                
+                <pb n="4" facs="#rb026d" xml:id="t1-body-x7-pb1"/>
+                
+                
+                able to secure, but I am living in hopes.
+                <lb/>
+                You shall have something mummified
+                <lb/>
+                anyway.
+            </p>
+            <p>
+                I have made the aquaintance
+                <lb/>
+                of a Grecian family here named Okonomoupolos,
+                <lb/>
+                the old bird is the architect for the Egyptian
+                <lb/>
+                State Railways, two of his daughters came 
+                <lb/>
+                out here selling badges for the Belgian Relief
+                <lb/>
+                Fund, I helped them along with French &amp; then
+                <lb/>
+                they brought their father out.  I spent the
+                <lb/>
+                evening at their flat last week.  One commences
+                <lb/>
+                about 10 o'clock &amp; songs &amp; dancing go on till
+                <lb/>
+                about two o'clock in the morning.  I had a
+                <lb/>
+                very pleasant evening.  There are some friends
+                <lb/>
+                of theirs named Sakkakicia, Italian Jews
+                <lb/>
+                I think, who are also very nice &amp; hospitable.
+                <lb/>
+                One meets all nationalities at their flats, all
+                <lb/>
+                can speak French but only a few men speak
+                <lb/>
+                English at all, the women at the most only
+                <lb/>
+                know a few words.  <name type="person" ref="#BLA">Blair</name>, <name type="person" ref="#GUN">Guthrie</name> &amp; I had 
+                <lb/>
+                about 10 of them out here for afternoon tea
+                <lb/>
+                on Saturday &amp; the cackle of high pitched
+                <lb/>
+                voices all talking at once was quite funny.
+            </p>
+            <p>
+                I am getting a photograph taken of
+                <lb/>
+                my 3 horses, I will sent it to you when
+                c
+                it is ready.
+            </p>
+            <p>
+                <name type="person" ref="#WAI">Major Wain</name> had a cable the other
+                
+                
+                <pb n="5" facs="#rb026e" xml:id="t1-body-x10-pb1"/>
+                
+                
+                day announcing the birth of a son, this
+                <lb/>
+                is No 8 of which 2 are boys, giddy old
+                <lb/>
+                bird.  He has smartened up wonderfully
+                <lb/>
+                since he came here.
+            </p>
+            <p>
+                Do you realise it is a little more
+                <lb/>
+                <lb/>
+                than 6 months since I left <name type="place" ref="#TIM" key="TIM">Timaru</name>! I can
+                <lb/>
+                hardly believe it, and I must admit that
+                <lb/>
+                the time has gone very rapidly.  I suppose
+                <lb/>
+                poor child it has not gone so quickly for
+                <lb/>
+                you.  Never mind cheer up another 6 months 
+                <lb/>
+                may see it all over.
+            </p>
+            <p>
+                
+                Have just heard that our little trek
+                <lb/>
+                is definitely on , we start tomorrow Tuesday
+                <lb/>
+                &amp; return on Saturday, it should be very
+                <lb/>
+                interesting.
+            </p>
+            <p>
+                <name type="person" ref="#MAC">Marchant</name> is going to be Quartermaster
+                <lb/>
+                to the Regiment vice <name type="person" ref="#COD">Cody </name>, useless &amp; returned
+                <lb/>
+                to <name type="place" ref="#NZE" key="NZE">New Zealand</name>.  I debated within myself
+                <lb/>
+                whether I should apply for it (I could have
+                <lb/>
+                had it) but I thought better not to.  It is
+                <lb/>
+                the beginning &amp; the end, there is no promotions,
+                <lb/>
+                except in very rare cases into the Adjutant
+                <lb/>
+                General's Branch or Army Service Corps &amp; I have
+                <lb/>
+                no desire to spend my time amongst food 
+                <lb/>
+                &amp; clothing.
+            </p>
+            <p>
+                Hay, the silly owl, has been making 
+                <lb/>
+                a bêtise, which translated means has
+                
+                <pb n="6" facs="#rb026f" xml:id="t1-body-x14-pb1"/> 
+                
+                committed a foolishness &amp; has lost his Corporal's
+                <lb/>
+                stripe in consequence.  He will probably get
+                <lb/>
+                it back again later on if he behaves himself.
+                <lb/>
+                You need not say anything to his family
+                <lb/>
+                about it though.
+            </p>
+            <p>
+                
+                There has been no mail for a fort-
+                <lb/>
+                night.  I understand the boats failed to 
+                <lb/>
+                connect in <name type="place" ref="#AUS" key="AUS">Australia</name> this week.  We may
+                <lb/>
+                get one today, hope so.
+            </p>
+            <p>
+                
+                No parcels at all have arrived yet,
+                <lb/>
+                goodness knows where they are, suppose they
+                <lb/>
+                will turn up sometime.
+            </p>
+            <p>
+                
+                The next letter I get from you should
+                <lb/>
+                I think be in reply to my first from Egypt.
+            </p>
+            <p>
+                
+                Well dear I must go &amp; gather my
+                <lb/>
+                belongings togeter for tomorrow.
+            </p>
+            <p>
+                
+                Goodbye for a few days my sweetheart
+                <lb/>
+                be happy &amp; don't worry, you and  <name type="person" ref="#HEB" key="HEB">Helen</name>
+                <lb/>
+                are all I have got and I don't want
+                <lb/>
+                anything more.
+            </p>
+            <closer> <salute> God bless you both, my dears, hug
+                <lb/>
+                <name type="person" ref="#HEB" key="HEB">Helen</name> for me.
+                
+                <lb/>
+                Your affectionate husband
+                <lb/>
+            </salute>
+                <signed> <name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+                
+            </closer> 
+            <pb facs="#rb026envf" xml:id="t1-body-pb2"/>
+            <pb facs="#rb026envb" xml:id="t1-body-pb3"/>
+            
+        </body>
+    </text>
+</TEI>

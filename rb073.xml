@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb073" xml:lang="en" >
+    <teiHeader type="text">
+        <fileDesc>
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title> 
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt>
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Sophie Tucker</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription</resp>
+                    <name type="person">Sophie Tucker</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI Header compilation</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                
+            </publicationStmt>
+            <notesStmt>
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb073a">
+                                <graphic url="rb073a.jpg" mimeType="image/jpeg" xml:id="rb073a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073b">
+                                <graphic url="rb073b.jpg" mimeType="image/jpeg" xml:id="rb073b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073c">
+                                <graphic url="rb073c.jpg" mimeType="image/jpeg" xml:id="rb073c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073d">
+                                <graphic url="rb073d.jpg" mimeType="image/jpeg" xml:id="rb073d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073e">
+                                <graphic url="rb073e.jpg" mimeType="image/jpeg" xml:id="rb073e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073f">
+                                <graphic url="rb073f.jpg" mimeType="image/jpeg" xml:id="rb073f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073g">
+                                <graphic url="rb073g.jpg" mimeType="image/jpeg" xml:id="rb073g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073envfront">
+                                <graphic url="rb073envf.jpg" mimeType="image/jpeg" xml:id="rb073envfront-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb073envback">
+                                <graphic url="rb073envb.jpg" mimeType="image/jpeg" xml:id="rb073envback-g"/>
+                            </figure>
+                        </item>                       
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135695</idno>                        
+                    </msIdentifier>
+                    <head>
+                        <date when="1916-07-06">6 July 1916</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>7 Pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter"></objectDesc>                           
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc>
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <settlement></settlement>
+                <country></country>
+                <date when="1916-07-06">6 July 1916</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="98">English</language>
+                <language ident="fr" usage="1">French</language>
+                <language ident="ar" usage="1">Arabic</language>
+                
+                
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married">
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                        <birth when="1880-02-22">22 February 1880</birth>
+                    </person>
+                </listPerson>
+                <org xml:id="AUW">
+                    <orgName>Auckland Weekly</orgName>
+                    <desc>Auckland Weekly Argus was started on 7th January, 1865, by Heron, Kidd, and Seffern, and was afterwards carried on by Mitchell and Seffern, who continued it till 3rd December, 1865, when the latter firm closed the office. It was a « make-up » from the New Zealander daily. (Source: http://nzetc.victoria.ac.nz/tm/scholarly/tei-Har05Typo-t1-g1-t1-body1-d5.html_</desc>
+                </org>
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="FRA">
+                        <placeName>
+                            <country>France</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="EUR">
+                        <placeName>
+                            <bloc>Europe</bloc>
+                        </placeName>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb n="1" facs="#rb073a"/>
+            <opener>
+                <dateline>
+                    Serapeum
+                    <lb/>
+                    <date when="1916-07-06">6 July 1916</date>
+                </dateline>
+                
+                <salute>My dearest <name type="person" ref="#MGB">Maud</name>:</salute>
+            </opener>
+            <p>
+                Got a parcel
+                <lb/>
+                from you yesterday with socks,
+                <lb/>
+                toothbrush &amp; paste, Keatings
+                <lb/>
+                powder, for which my dear
+                <lb/>
+                many thanks, those parcels
+                <lb/>
+                are the joy of my life when 
+                <lb/>
+                they arrive particularly when
+                <lb/>
+                there is chocolate or pipe
+                <lb/>
+                tobacco in them. Chocolate
+                <lb/>
+                is hard to get and pipe tobacco
+                <lb/>
+                (Diadem) impossible. Also got
+                <lb/>
+                an <name type="org" ref="#AUW">Auckland Weekly</name> but no 
+                <lb/>
+                letters, have had not letters
+                <lb/>
+                for quite a long time now,
+                <lb/>
+                suppose some will turn up
+                
+                <pb n="2" facs="#rb073b"/>
+                
+                some day.</p>
+            
+            <p>There is nothing 
+                <lb/>
+                doing here and I do not 
+                <lb/>
+                think there will be much
+                <lb/>
+                doing for some time. I 
+                <lb/>
+                would not be in the least
+                <lb/>
+                surprised if about March
+                <lb/>
+                or April we went to <name type="place" ref="#FRA">France</name>-
+                <lb/>
+                that is if our friends the
+                <lb/>
+                Turks leave us alone here.
+            </p>
+            <p>There are all kinds of
+                <lb/>
+                rumours in the air that
+                <lb/>
+                we are going to form part
+                <lb/>
+                of an Australian Cavalry
+                <lb/>
+                division, and that a complete
+                <lb/>
+                N.Z. division of infantry is to
+                <lb/>
+                be formed into which all
+                <lb/>
+                superfluous mounted officers
+                <lb/>
+                &amp; men who are not quite
+                
+                <pb n="3" facs="#rb073c"/>
+                
+                up to the standard required
+                <lb/>
+                for the cavalry are to be
+                <lb/>
+                shunted. If this is true
+                <lb/>
+                there will be some weeping
+                <lb/>
+                &amp; wailing &amp; gnashing of teeth.
+            </p>
+            <p>               
+                My little flash of luck
+                <lb/>
+                in commanding the squadron &amp;
+                <lb/>
+                now being second in command
+                <lb/>
+                seems to be fast losing its
+                <lb/>
+                brilliance and probably in
+                <lb/>
+                a week or so I shall sink
+                <lb/>
+                again into the semi obscurity
+                <lb/>
+                of a troop leader. Some of
+                <lb/>
+                the birds who have been having
+                <lb/>
+                a good time in <name type="place" ref="#ENG">England</name> for
+                <lb/>
+                months past are on their
+                <lb/>
+                way out again, and of course
+                <lb/>
+                will take over their old jobs.
+                <lb/>
+                It will be a little hard for
+                
+                <pb n="4" facs="#rb073d"/>
+                
+                me after over three months,
+                <lb/>
+                but it can't be helped and I
+                <lb/>
+                suppose that some day the
+                <lb/>
+                birds will sing again. I am
+                <lb/>
+                still waiting for that temporary
+                <lb/>
+                promotion to roll along if it
+                <lb/>
+                does not come in the next few
+                <lb/>
+                days I shall lose it as the
+                <lb/>
+                others will be back. <seg xml:lang="ar" resp="#LJW">"Malesh"</seg>
+                <lb/>
+                I am a thorough fatalist
+                <lb/>
+                now.
+            </p>
+            <p>Had a swim in the
+                <lb/>
+                <name type="place" ref="#SUC">Suez Canal</name> yesterday, rather
+                <lb/>
+                cold but beautifully clear
+                <lb/>
+                water.</p>
+            <p>I think I must have
+                <lb/>
+                grown! When I was at
+                <lb/>
+                <name type="place">Zeitoun</name> I tried to get into
+                <lb/>
+                an old pair of riding breeches
+               
+                <pb n="5" facs="#rb073e"/>
+                
+                but they wouldn't go near
+                <lb/>
+                me, aslo the new tunic I
+                <lb/>
+                had made in <name type="place" ref="#CHCH">Chch</name>, and
+                <lb/>
+                which I had left behind
+                <lb/>
+                sprung many buttons.
+            </p>           
+            <p>Everyone returning from
+                <lb/>
+                <name type="place" ref="#ENG">England</name> speak of the splendid
+                <lb/>
+                time they had there, and
+                <lb/>
+                what a fuss was made of
+                <lb/>
+                them. We seem to have
+                <lb/>
+                made somewhat of a name
+                <lb/>
+                for ourselves at <name type="place" ref="#ANZ">Anzac</name>. I
+                <lb/>
+                believe they are trying very
+                <lb/>
+                hard at home to get hold
+                <lb/>
+                of colonial officers but divil
+                <lb/>
+                a one will <name type="person" ref="#AGO">Godley</name> let go.
+                <lb/>
+                <name type="person" ref="#ARR">Arthur Rhodes</name> who was one
+                <lb/>
+                of my sergeants &amp; has now
+                <lb/>
+                got his commision was
+                <lb/>
+                
+                <pb n="6" facs="#rb073f"/>
+                
+                offerred a full lieutenancy
+                <lb/>
+                in the <name type="org" ref="#GRG">Grevadier guards</name> with
+                <lb/>
+                five years seniority! <name type="person" ref="#ARR">Rhodes</name> is
+                <lb/>
+                now galloper to <name type="person" ref="#ECH">General Chaytor</name>
+                <lb/>
+                our new Brigadier.
+            </p>
+            <p>
+                I see you are just on the
+                <lb/>
+                verge of conscription in <name type="place" ref="#NZ">N.Z.</name>
+                <lb/>
+                about time too. You know
+                <lb/>
+                I really think this will
+                <lb/>
+                go on for years, nobody is
+                <lb/>
+                anywhere nearly beaten yet,
+                <lb/>
+                with the exception of the
+                <lb/>
+                small fry among the nations.
+            </p>
+            <p>I've got a new horse, a
+                <lb/>
+                dark chestnut mare (no white
+                <lb/>
+                feet) called 'Ginger'- a nice
+                <lb/>
+                animal, can go all day,
+                <lb/>
+                'Chatterbox' is still with me
+                <lb/>
+                &amp; very fit- 'Blackmore' I
+               
+                <pb n="7" facs="#rb073g"/>
+                
+                seldom ride, only when I
+                <lb/>
+                am in a bad temper and
+                <lb/>
+                want something to wrestle
+                <lb/>
+                with. He is the despair of
+                <lb/>
+                the squadron, but we keep
+                <lb/>
+                him because when every
+                <lb/>
+                other house in the Brigade
+                <lb/>
+                is dead he will be alive.
+                <lb/>
+                He came off that rather
+                <lb/>
+                unpleasant trek as if he
+                <lb/>
+                had only been on a joy
+                <lb/>
+                ride.
+            </p>
+            <p>
+                I wonder if you have
+                <lb/>
+                done anything further with
+                <lb/>
+                your nursing schemes. I
+                <lb/>
+                hope you have. I hope
+                <lb/>
+                you won't have the same
+                <lb/>
+                experience as a French lady
+                <lb/>
+                I know in <name type="place" ref="#CAR">Cairo</name> who
+                <lb/>
+                
+                <pb n="8" facs="#rb073h"/>
+                
+                offered her services in the <name type="org" ref="#FRC">French
+                <lb/>
+                Red Cross</name> there and after about
+                <lb/>
+                a month's correspondence
+                <lb/>
+                was told she might come
+                <lb/>
+                down &amp; cut bread &amp; butter
+                <lb/>
+                if she liked! I expect you
+                <lb/>
+                will find it a fairly hard
+                <lb/>
+                row to hoe for a start, but
+                <lb/>
+                stick to it old girl.
+            </p>
+            <p>I must go now and
+                <lb/>
+                have a look round the houses.
+                <lb/>
+                Be good, give <name type="person" ref="#HEB">Helen</name> my
+                <lb/>
+                love and a big humbug. I 
+                <lb/>
+                should like to be back if
+                <lb/>
+                only for a week.
+            </p>
+            <closer>
+                <salute>Much love dear ones</salute>
+                <signed>
+                    <hi rend="underline">
+                        <name type="person" ref="#RTB">Roy</name>
+                    </hi>
+                </signed>                
+            </closer>
+        </body>
+    </text>
+</TEI>
+
+
+

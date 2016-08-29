@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb018" xml:lang="en">
+    <teiHeader type="text">
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Kathy Kise</name>
+                    <name type="person">Keely McBride</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Unknown</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0005">
+                    <resp>TEI Header compilation</resp>
+                    <name type="person">Christopher Thomson</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2013-01-04">4th of January, 2013</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb018a">
+                                <graphic url="rb018a.jpg" mimeType="image/jpeg" xml:id="rb018a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018b">
+                                <graphic url="rb018b.jpg" mimeType="image/jpeg" xml:id="rb018b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018c">
+                                <graphic url="rb018c.jpg" mimeType="image/jpeg" xml:id="rb018c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018d">
+                                <graphic url="rb018d.jpg" mimeType="image/jpeg" xml:id="rb018d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018e">
+                                <graphic url="rb018e.jpg" mimeType="image/jpeg" xml:id="rb018e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018f">
+                                <graphic url="rb018f.jpg" mimeType="image/jpeg" xml:id="rb018f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018g">
+                                <graphic url="rb018g.jpg" mimeType="image/jpeg" xml:id="rb018g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018h">
+                                <graphic url="rb018h.jpg" mimeType="image/jpeg" xml:id="rb018h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018i">
+                                <graphic url="rb018i.jpg" mimeType="image/jpeg" xml:id="rb018i-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018envf">
+                                <graphic url="rb018envf.jpg" mimeType="image/jpeg" xml:id="rb018envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb018envb">
+                                <graphic url="rb018envb.jpg" mimeType="image/jpeg" xml:id="rb018envb-g"/>
+                            </figure>
+                        </item>
+                        
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135628</idno>                        
+                    </msIdentifier>
+                    <head>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                        <date when="1914-11-24">24 Nov 1914</date>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>Nine pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain lined paper</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce in black ink and pencil</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <settlement/>
+                <country/>
+                <date when="1914-11-24">Tuesday afternoon 24 Nov 1914
+                </date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <person xml:id="MGB">
+                    <persName>
+                        <forename>Maud</forename>
+                        <addName type="middle">Goodenough</addName>type="married"&gt;
+                        <surname type="maiden">Hayter</surname>
+                        <surname type="married">Bruce</surname>
+                    </persName>
+                </person> 
+                <person xml:id="HUR">
+                    <persName>Hurdley</persName>
+                </person>
+                <person xml:id="SLO">
+                    <persName>
+                        <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
+                        <forename>Robert</forename>
+                        <surname>Sloan</surname>                        
+                    </persName>
+                    <death when="1915-08-21">21 August 1915</death>
+                </person>
+                <person xml:id="HEB">
+                    <persName>
+                        <forename>Helen</forename>
+                        <addName type="middle">Eugenie </addName>
+                        <surname type="maiden">Bruce</surname>
+                        <surname type="married">Alexander</surname>
+                    </persName>
+                    <birth when="1909-12-05">5 December 1909</birth>
+                </person>
+                <person xml:id="RTB">
+                    <persName>
+                        <roleName type="military">Lieutenant 8th Squadron</roleName>
+                        <forename>Roy</forename>
+                        <addName type="middle">Thomas</addName>
+                        <surname>Bruce</surname>
+                    </persName>
+                    <birth when="1881-12-18">18 December 1881</birth>
+                    <death when="1945-11-29">29 November 1945</death>
+                </person>
+                <person xml:id="HAT">
+                    <persName>Hatton</persName>
+                </person>
+                <person xml:id="MAR">
+                    <persName>Marion</persName>
+                </person>
+                <person xml:id="HHH">
+                    <persName>
+                        <roleName type="military">Major</roleName>
+                        <forename>Herbert</forename>
+                        <addName type="middle">Harold</addName>
+                        <surname>Hammond</surname>
+                    </persName>
+                    <death when="1916-08-09">9th of August 1916</death>        
+                </person>
+            </particDesc>        
+            <settingDesc>
+                <place xml:id="ENG">
+                    <placeName>
+                        <country>England</country>
+                    </placeName>
+                </place>
+                <place xml:id="NZE">
+                    <placeName>
+                        <country>New Zealand</country>
+                    </placeName>
+                </place>
+                <place xml:id="IND">
+                    <placeName>
+                        <country>India</country>
+                    </placeName>
+                </place>
+                <place xml:id="ADN">
+                    <placeName>
+                        <settlement>Aden</settlement>
+                    </placeName>
+                </place>
+                <place xml:id="COL">
+                    <placeName>
+                        <settlement>Colombo</settlement>
+                    </placeName>
+                </place>
+                <place xml:id="CEY">
+                    <placeName>
+                        Ceylon
+                    </placeName>
+                </place>                
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001">
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <div xml:id="t1-body-d1">
+                <pb n="1" facs="#rb018a" xml:id="t1-body-d1-pb1"/>
+                <opener>
+                    <salute>My dearest <name type="person" ref="#MGB">Maud</name></salute>:
+                </opener>
+                <p>
+                    Tomorrow sometime
+                    <lb/>
+                    we shall be at <name type="place" ref="#ADN">Aden</name> and mark off
+                    <lb/>
+                    another stage on our journey.
+                </p>
+                <p>Nothing of importance
+                    <lb/>
+                    has happened since we left <name type="place" ref="#COL">Colombo</name>,
+                    <lb/>
+                    except that it has been very hot
+                    <lb/>
+                    all the way.
+                </p>
+                <p>
+                    We spent two days
+                    <lb/>
+                    at <name type="place" ref="#COL">Colombo</name>, and we were able
+                    <lb/>
+                    to go on shore with the men &amp;
+                    <lb/>
+                    march them about the town in
+                    <lb/>
+                    parties of 30. I took one lot on
+                    <lb/>
+                    shore and we had a great time.
+                    <lb/>
+                    We went right through the native
+                    <lb/>
+                    quarter and I have not enjoyed
+                    <lb/>
+                    a walk so much for a long time.
+                    <lb/>
+                    It was frightfully hot &amp; we quickly
+                    <lb/>
+                    sweltered in khaki, but didn't
+                    <lb/>
+                    mind it a bit.
+                </p>
+                <p>The streets in the native
+                    
+                    <pb n="2" facs="#rb018b" xml:id="t1-body-d1-x5-pb1"/>
+                    
+                    quarter are narrow but not very
+                    <lb/>
+                    dirty, although I would not like
+                    <lb/>
+                    to say as much about the houses.
+                </p>
+                <p>Imagine for yourself a narrow
+                    <lb/>
+                    winding street with houses on either
+                    <lb/>
+                    side of various colours made of a
+                    <lb/>
+                    sort of stucco, bars for windows,
+                    <lb/>
+                    little open shops underneath,
+                    <lb/>
+                    mostly very dirty, and every
+                    <lb/>
+                    now &amp; then a Buddhist temple
+                    <lb/>
+                    in (from the outside!) a more or
+                    <lb/>
+                    less dilapidated condition. The
+                    <lb/>
+                    street crowded with men &amp; children,
+                    <lb/>
+                    and an occasional woman. The
+                    <lb/>
+                    men wearing robes &amp; white European
+                    <lb/>
+                    clothes often very dirty, and the
+                    <lb/>
+                    children almost naked. Riksha
+                    <lb/>
+                    men running up &amp; down, a quaint
+                    <lb/>
+                    wagon drawn by very small
+                    <lb/>
+                    oxen passing up &amp; down. Some
+                    <lb/>
+                    of the children are very pretty
+                    <lb/>
+                    &amp; have the most lovely eyes. The
+                    <lb/>
+                    <name type="place" ref="#CEY">Ceylon</name> native the Tamil, is rather
+                    <lb/>
+                    undersized but the Cingalese although
+                    
+                    <pb n="3" facs="#rb018c" xml:id="t1-body-d1-x6-pb1"/>
+                    
+                    a little bigger are not much.
+                    <lb/>
+                    Some of the men are handsome
+                    <lb/>
+                    but the majority not so. I only
+                    <lb/>
+                    saw a few women and only one
+                    <lb/>
+                    good looking one. We went on
+                    <lb/>
+                    and found a fruit bazaar &amp;
+                    <lb/>
+                    the noise was terrific. Everyone
+                    <lb/>
+                    wanted to sell something cheaper
+                    <lb/>
+                    than the last. I let the men
+                    <lb/>
+                    buy some fruit. We eventually
+                    <lb/>
+                    came to the modern part of the
+                    <lb/>
+                    city and there <choice><sic>there</sic><corr></corr></choice> are some
+                    <lb/>
+                    very handsome buildings &amp; shops.
+                    <lb/>
+                    I very much wanted to get some
+                    <lb/>
+                    little thing &amp; send it you but
+                    <lb/>
+                    I did not have an opportunity.
+                    <lb/>
+                    I saw the place where <name type="person" ref="#HUR">Hurdley</name>
+                    <lb/>
+                    gets a lot of his stuff from &amp;
+                    <lb/>
+                    all I found out were large
+                    <lb/>
+                    black elephants standing 1 foot
+                    <lb/>
+                    high 2/6. I think I gave him
+                    <lb/>
+                    2/6 for that nice one on the
+                    <lb/>
+                    mantelpiece! I should much 
+                    <lb/>
+                    have liked a few hours to myself
+                    
+                    <pb n="4" facs="#rb018d" xml:id="t1-body-d1-x6-pb2"/>
+                    
+                    to fossick round but it was not
+                    <lb/>
+                    to be.
+                </p>
+                <p>The following day I was
+                    <lb/>
+                    trying to arrange to go on shore
+                    <lb/>
+                    to buy a few things for myself
+                    <lb/>
+                    &amp; others, when I was suddenly
+                    <lb/>
+                    ordered to take 3 boats 27 men
+                    <lb/>
+                    (we were anchored in the stream
+                    <lb/>
+                    1 1/2 miles from the shore) &amp; go &amp; get
+                    <lb/>
+                    some provisions, so that upset
+                    <lb/>
+                    my little plan. I was given
+                    <lb/>
+                    infantry crews who had had 
+                    <lb/>
+                    no dinner, we left at 12.30,
+                    <lb/>
+                    reached the shore a little after.
+                    <lb/>
+                    1 waited till 3 for the provisions,
+                    <lb/>
+                    loaded up, got away at 3.20
+                    <lb/>
+                    (still nothing to eat) &amp; started
+                    <lb/>
+                    for the ship, incidentally carrying
+                    <lb/>
+                    provisions also for the Waimana
+                    <lb/>
+                    who had forgotten to send a 
+                    <lb/>
+                    boat of <del rend="strike">the</del> her own. Well we
+                    <lb/>
+                    got along to within about 600
+                    <lb/>
+                    yards of our own ship when she
+                    <lb/>
+                    pulled up her anchor &amp; went
+                    
+                    <pb n="5" facs="#rb018e" xml:id="t1-body-d1-x7-pb1"/>
+                    
+                    to the outer anchorage over a
+                    <lb/>
+                    mile further on. We had a
+                    <lb/>
+                    head wind, a strong current &amp;
+                    <lb/>
+                    a cross sea, it was also beginning
+                    <lb/>
+                    to get dark. We reached this
+                    <lb/>
+                    ship at 7 o'clock, just about
+                    <lb/>
+                    dead. We were quite happy &amp;
+                    <lb/>
+                    those infantry fellows behaved
+                    <lb/>
+                    splendidly, they had had
+                    <lb/>
+                    nothing to eat since 7 in
+                    <lb/>
+                    the morning. Since that trip
+                    <lb/>
+                    I am sure if those men were
+                    <lb/>
+                    properly handled they would
+                    <lb/>
+                    be as good as any others.
+                </p>
+                <p>This morning Tuesday there is
+                    <lb/>
+                    almost a complete calm, the only ripples
+                    <lb/>
+                    on the sea caused by the movement of
+                    <lb/>
+                    the ships. We are not far from land,
+                    <lb/>
+                    some swallows were flying round the
+                    <lb/>
+                    ship this morning. Jelly fish, sharks &amp;
+                    <lb/>
+                    <choice><sic>bonito's</sic><corr>bonitos</corr></choice> are quite common in this sea.
+                </p>
+                <p>My writing is rather weird because
+                    <lb/>
+                    I am having lessons in sword fighting
+                    <lb/>
+                    from <name type="person" ref="#SLO">Sg.<hi rend="sup">t</hi> Major Sloan</name> and it is rather
+                    
+                    <pb n="6" facs="#rb018f" xml:id="t1-body-d1-x9-pb1"/>
+                    
+                    trying on ones fingers &amp; wrists at the
+                    <lb/>
+                    beginning.
+                </p>
+                <p>
+                    I wonder if you will get any of
+                    <lb/>
+                    my letters before Christmas. I rather
+                    <lb/>
+                    doubt it. Perhaps the censored ones
+                    <lb/>
+                    will reach you.
+                </p>
+                <p>
+                    Perhaps I may be able to send you
+                    <lb/>
+                    something from <name type="place" ref="#ADN">Aden</name>, but it is
+                    <lb/>
+                    all in the air at present.
+                </p>
+                <p>I suppose you will spend Xmas
+                    <lb/>
+                    in the country? I hope you both will
+                    <lb/>
+                    enjoy yourselves. We had quite a nice
+                    <lb/>
+                    one together last year didn't we dear?
+                </p>
+                <p>If <name type="person" ref="#HEB">Helen</name> has some spare toys she
+                    <lb/>
+                    perhaps might like to send them Home
+                    <lb/>
+                    for some refugees, I have no doubt
+                    <lb/>
+                    they would be glad of them, &amp; you
+                    <lb/>
+                    could find out the right address.
+                </p>
+                <p>I don't expect to get any letters from
+                    <lb/>
+                    you till we get to <name type="place" ref="#ENG">England</name>, which
+                    <lb/>
+                    should be just about Xmas day.
+                </p>
+                <p>I wish I could let myself go in
+                    <lb/>
+                    these letters, there is so much to tell
+                    <lb/>
+                    you about men &amp; things on board,
+                    
+                    <pb n="7" facs="#rb018g" xml:id="t1-body-d1-x15-pb1"/>
+                    
+                    but I don't exactly know whether these
+                    <lb/>
+                    letters will be censored or only delayed.
+                    <lb/>
+                    It would be grand to have a yarn
+                    <lb/>
+                    with you.
+                </p>
+                <p>
+                    Do you know in spite of the length
+                    <lb/>
+                    of this voyage &amp; the monotony of it,
+                    <lb/>
+                    I am really enjoying myself, &amp; I
+                    <lb/>
+                    have not been so fit for a long time.
+                </p>
+                <p>
+                    <name type="person">Pinkie</name> has prickly heat &amp; is very
+                    <lb/>
+                    miserable all he does is to scratch &amp;
+                    <lb/>
+                    sleep at present. Nearly all the cases
+                    <lb/>
+                    of measles on board I believe were
+                    <lb/>
+                    prickly heat, because most of them only
+                    <lb/>
+                    last about 4 days.
+                </p>
+                <closer>
+                    <salute>
+                        Good bye <name type="person" ref="#MGB">dearest old girl</name>, look
+                        <lb/>
+                        after yourself &amp; <name type="person" ref="#HEB">Helen</name>, if possible I will
+                        <lb/>
+                        send a cable when we reach our
+                        <lb/>
+                        destination.
+                        
+                        I shall burst if I can't say what
+                        <lb/>
+                        I want to soon, not that it is anything
+                        <lb/>
+                        important. I only want an ordinary
+                        <lb/>
+                        yarn. Kiss <name type="person" ref="#HEB">Helen</name> for me &amp; she can
+                        <lb/>
+                        kiss you for me. All my love to you
+                        <lb/>
+                        both.</salute> <signed><name type="person" ref="#RTB">Roy</name>.</signed>
+                </closer>
+            </div>
+            <div xml:id="t1-body-d2">
+                <pb n="8" facs="#rb018h" xml:id="t1-body-d2-pb1"/>
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-11-24">Tuesday afternoon 24 Nov 1914
+                        </date>
+                    </dateline>
+                </opener>
+                <p>You will see I am rapidly
+                    <lb/>
+                    developing bad habits and writing
+                    <lb/>
+                    partly in pencil when without doubt
+                    <lb/>
+                    if I were to look very hard I could
+                    <lb/>
+                    find some ink.
+                </p>
+                <p>Do you know I had a most
+                    <lb/>
+                    extraordinary feeling at <name type="place" ref="#COL">Colombo</name> of
+                    <lb/>
+                    having been there or in places like it
+                    <lb/>
+                    before. I felt completely at home in
+                    <lb/>
+                    the place, and although I was not
+                    <lb/>
+                    in the town for more than three
+                    <lb/>
+                    hours I felt more at home than
+                    <lb/>
+                    in 3 years in any <name type="place" ref="#NZE">N.Z.</name> town.
+                    <lb/>
+                    I hope it does not mean that we
+                    <lb/>
+                    are to live in <name type="place" ref="#IND">India</name>, because I
+                    <lb/>
+                    know you would not care for that.
+                </p>
+                <p>Blackmoor is well. A swelling
+                    <lb/>
+                    appeared on his chest the other
+                    <lb/>
+                    day and we had to lance it, &amp; 
+                    <lb/>
+                    he seems better for it. He eats very
+                    <lb/>
+                    well, and although he is thinner
+                    <lb/>
+                    <del rend="strike">it</del> his coat is a perfect picture. I
+                    <lb/>
+                    have still young <name type="person" ref="#HAT">Hatton</name> for a groom
+                    
+                    <pb n="9" facs="#rb018i" xml:id="t1-body-d2-x4-pb1"/>
+                    
+                    and he looks after my horses really
+                    <lb/>
+                    well.
+                </p>
+                <p>
+                    If you see <name type="person" ref="#MAR">Marion</name> give her
+                    <lb/>
+                    my love &amp; tell her <name type="person" ref="#HHH">Harold</name> is looking
+                    <lb/>
+                    the picture of health &amp; apparently 
+                    <lb/>
+                    enjoying himself. He is making
+                    <lb/>
+                    an excellent soldier and is one of
+                    <lb/>
+                    the best men I have. My only fear
+                    <lb/>
+                    is that he will be promoted too
+                    <lb/>
+                    quicky and I shall lose him from 
+                    <lb/>
+                    my troop.
+                </p>
+                <p>
+                    Well it is after 5.30, &amp; I shall 
+                    <lb/>
+                    go and have a bath.
+                </p>
+                <p>I am such a poor hand at
+                    <lb/>
+                    expressing myself on paper, I wish
+                    <lb/>
+                    I had your gift that way, anyway
+                    <lb/>
+                    you know what I want to say.
+                    <lb/>
+                    Above all I want you to be happy,
+                    <lb/>
+                    &amp; not to get impatient for time to
+                    <lb/>
+                    pass quickly. Try dear to cultivate
+                    <lb/>
+                    a calm that will see you through
+                    <lb/>
+                    everything, keep yourself employed as
+                    <lb/>
+                    much as you can, and the time will
+                    <lb/>
+                    pass more quickly.
+                </p>
+                
+                <closer><salute>Love</salute>
+                    <lb/>
+                    <signed>
+                        <name type="person" ref="#RTB">Roy</name>
+                    </signed>.
+                </closer>
+            </div>
+	    <pb facs="#rb018envf" xml:id="t1-body-pb1"/>
+	    <pb facs="#rb018envb" xml:id="t1-body-pb2"/>
+        </body>
+    </text>
+    
+</TEI>

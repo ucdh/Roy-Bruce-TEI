@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb034" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Al Gardiner</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Han Li</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Han Li</name>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2013-01-18"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb034a">
+                                <graphic url="rb034a.jpg" mimeType="image/jpeg" xml:id="rb034a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb034b">
+                                <graphic url="rb034b.jpg" mimeType="image/jpeg" xml:id="rb034b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb034c">
+                                <graphic url="rb034c.jpg" mimeType="image/jpeg" xml:id="rb034c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb034envf">
+                                <graphic url="rb034envf.jpg" mimeType="image/jpeg" xml:id="rb034envf-g"/>
+                            </figure>
+                        </item>  
+                        <item>
+                            <figure xml:id="rb034envb">
+                                <graphic url="rb034envb.jpg" mimeType="image/jpeg" xml:id="rb034envb-g"/>
+                            </figure>
+                        </item>  
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135646</idno>
+                    </msIdentifier>
+                    <head>
+                    <date when="1915-05-08">8 May 1915</date>
+					  <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 8 May 1915</title>
+					</head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>Three pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain paper, unlined, no header</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <date when="1915-05-08">08. 5. 1915</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="SLO">
+        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C14534">
+            <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
+            <forename>Robert</forename>
+            <surname>Sloan</surname>            
+        </persName>
+        <death when="1915-08-21">21 August 1915</death>
+    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married"&gt;
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="HEB">
+                        <persName>
+                            <forename>Helen</forename>
+                            <addName type="middle">Eugenie </addName>
+                            <surname type="maiden">Bruce</surname>
+                            <surname type="married">Alexander</surname>
+                        </persName>
+                        <birth when="1909-12-05">5 December 1909</birth>
+                    </person>
+                    <person xml:id="GHA">
+        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C6400">
+            <roleName type="military">Second Lieutenant</roleName>
+            <forename>Gordon</forename>
+            <addName type="middle">Gerald</addName>
+            <surname>Harper</surname>            
+        </persName>
+        <birth when="1885-02-15">15 February 1885</birth>
+        <death when="1916-08-12">12 August 1916</death>
+    </person>
+                    <person xml:id="VFN" source="http://muse.aucklandmuseum.com/databases/Cenotaph/11312.detail?">
+                    <persName>
+                        <forename>Vincent</forename>
+                        <addName type="middle">Fosbery</addName>
+                        <surname>Nancarrow</surname>
+                    </persName>
+                        <death when="1915-08-04">4 August 1915</death>
+                    </person>                    
+                </listPerson>
+
+            </particDesc>        
+            <settingDesc>
+            <listPlace>                
+                <place xml:id="CAR">
+        <placeName>
+            <settlement>Cairo</settlement>
+        </placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+    <place xml:id="EGY">
+        <placeName>
+            <country>Egypt</country>
+        </placeName>
+    </place> 
+                <place xml:id="CON">
+        <placeName>
+            <settlement>Constantinople</settlement>
+        </placeName>
+        <location>
+            <country ref="#TUR">Turkey</country>
+        </location>
+    </place>
+<place xml:id="TUR">
+        <placeName>
+            <country>Turkey</country>
+        </placeName>
+    </place>    
+                <place xml:id="ZEI">
+        <placeName>Zeitoun Camp</placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+            </listPlace> 
+            </settingDesc>
+        </profileDesc>
+            <revisionDesc xml:id="revisionDesc-0001">
+                <change xml:id="change-0001"/>
+            </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            
+            
+            <pb n="1" facs="#rb034a" xml:id="t1-body-pb1"/>
+            
+            <opener>
+                <dateline>
+                    <name type="place" ref="#ZEI" key="ZEI">Zeitoun Camp</name>
+                    <lb/>
+                    <date when="1915-05-08">08. 5. 1915</date>
+                </dateline>
+                <lb/>
+                <lb/>
+                <salute>
+                    <name type="person" ref="#MGB" key="MGB">My darling girl</name>:
+                </salute>
+            </opener>
+            
+            <p>
+                We are really off at last
+                <lb/>
+                &amp; leave tonight at 8.45. Unfortunately
+                <lb/>
+                for the present we are to leave our horses
+                <lb/>
+                behind. It is a great disappointment,
+                <lb/>
+                but under the circumstances it cannot
+                <lb/>
+                be helped, and we will probably get
+                <lb/>
+                them again later on. I had no idea I
+                <lb/>
+                was so attached to them until I heard
+                <lb/>
+                they were to be left behind.
+            </p>
+            <p>
+                I don't know what sort of letters
+                <lb/>
+                you will get from me in the future or
+                <lb/>
+                when they will arrive as a very strict
+                <lb/>
+                censorship exists.
+            </p>
+            <p>
+                
+                We are very busy as our notice
+                <lb/>
+                to leave was very short and this can only
+                <lb/>
+                be a note.
+            </p>
+            <p>
+                
+                I hope you will soon hear
+                <lb/>
+                that we are somewhere in the vicinity
+                <lb/>
+                of <name type="place" ref="#CON" key="CON">Constantinople</name>.
+            </p>
+            <p>
+                
+                You ought to see my tent now,
+                
+                <pb n="2" facs="#rb034b" xml:id="t1-body-x6-pb1"/>
+                
+                the accumulation of 5 months rubbish is
+                <lb/>
+                strewn all over the place, and it has
+                <lb/>
+                all got to be disposed of this morning.
+            </p>
+            <p>
+                
+                You are not to worry if you don't
+                <lb/>
+                get letters, because in this sort of game,
+                <lb/>
+                no news is always good news.
+            </p>
+            <p>
+                
+                I got three letters from you the other
+                <lb/>
+                day and they were very welcome. I think
+                <lb/>
+                
+                your idea of wanting to take an active part
+                <lb/>
+                in what is going on an excellent one, and
+                <lb/>
+                I can quite understand your restless feelings.
+            </p>
+            <p>
+                
+                You know what I feel about leaving
+                <lb/>
+                <name type="place" ref="#EGY" key="EGY">Egypt</name>, and I think you would like to
+                <lb/>
+                live here afterwards, in any case later on
+                <lb/>
+                I intent to try for the Egyptian army.
+            </p>
+            <p>
+                
+                Poor old <name type="person" ref="#SLO" key="SLO">Sloan </name> is heart broken at
+                <lb/>
+                having to walk, 12 years in the 16<hi rend="sup">th</hi> Lancers
+                <lb/>
+                &amp; then to be an infantryman!
+            </p>
+            <p>
+                
+                Everyone is well and fit with the
+                <lb/>
+                exception of <name type="person" ref="#GHA" key="GHA">Gordon </name> &amp; <name type="person" ref="#VFN" key="VFN">Nancarrow</name> who are
+                <lb/>
+                both in the hospital &amp; must be left
+                <lb/>
+                behind.
+            </p>
+            <p>
+                
+                I wish I had a lot of time to
+                <lb/>
+                write you a long letter, but there is so
+                <lb/>
+                much to do it is impossible. I had
+                <lb/>
+                hoped to do it last night, but I had
+                
+                <pb n="3" facs="#rb034c" xml:id="t1-body-x12-pb1"/>
+                
+                to take a picquet round <name type="place" ref="#ZEI" key="ZEI">Zeitoun</name> so
+                <lb/>
+                I spent my last evening in <name type="place" ref="#CAR" key="CAR">Cairo</name> on
+                <lb/>
+                duty.
+            </p>
+            <p>
+                I don't think I have much else 
+                <lb/>
+                to tell you dear, except to be happy
+                <lb/>
+                &amp; keep <name type="person" ref="#HEB" key="HEB"> Helen</name> happy, you may have
+                <lb/>
+                to go through some bad moments, but
+                <lb/>
+                keep bright, look always to the future
+                <lb/>
+                when we will be together again, it 
+                <lb/>
+                may not be so very long.
+            </p>
+            <closer> 
+                
+                Must go now. God bless you
+                <lb/>
+                both my darlings. You have all the
+                <lb/>
+                love I can give you.
+                <lb/>
+                <salute>
+                Kiss me.</salute>
+                <lb/><signed><name type="person" ref="#RTB" key="RTB">
+                    Roy</name>. 
+                </signed>
+            </closer>
+            
+            <pb n="4" facs="#rb034envf" xml:id="t1-body-pb2"/>
+            
+            <pb n="5" facs="#rb034envb" xml:id="t1-body-pb3"/>
+            
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,1818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb019" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person"/>                    
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Bjorn Gruebner</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="1914-10-16">Friday 16 October 1914</date>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb019a">
+                                <graphic url="rb019a.jpg" mimeType="image/jpeg" xml:id="rb019a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019b">
+                                <graphic url="rb019b.jpg" mimeType="image/jpeg" xml:id="rb019b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019c">
+                                <graphic url="rb019c.jpg" mimeType="image/jpeg" xml:id="rb019c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019d">
+                                <graphic url="rb019d.jpg" mimeType="image/jpeg" xml:id="rb019d-g"/>
+                            </figure>
+                        </item>                      
+                        <item>
+                            <figure xml:id="rb019e">
+                                <graphic url="rb019e.jpg" mimeType="image/jpeg" xml:id="rb019e-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019f">
+                                <graphic url="rb019f.jpg" mimeType="image/jpeg" xml:id="rb019f-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019g">
+                                <graphic url="rb019g.jpg" mimeType="image/jpeg" xml:id="rb019g-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019h">
+                                <graphic url="rb019h.jpg" mimeType="image/jpeg" xml:id="rb019h-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019i">
+                                <graphic url="rb019i.jpg" mimeType="image/jpeg" xml:id="rb019i-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019j">
+                                <graphic url="rb019j.jpg" mimeType="image/jpeg" xml:id="rb019j-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019k">
+                                <graphic url="rb019k.jpg" mimeType="image/jpeg" xml:id="rb019k-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019l">
+                                <graphic url="rb019l.jpg" mimeType="image/jpeg" xml:id="rb019l-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019m">
+                                <graphic url="rb019m.jpg" mimeType="image/jpeg" xml:id="rb019m-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019n">
+                                <graphic url="rb019n.jpg" mimeType="image/jpeg" xml:id="rb019n-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019o">
+                                <graphic url="rb019o.jpg" mimeType="image/jpeg" xml:id="rb019o-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019p">
+                                <graphic url="rb019p.jpg" mimeType="image/jpeg" xml:id="rb019p-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019q">
+                                <graphic url="rb019q.jpg" mimeType="image/jpeg" xml:id="rb019q-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019r">
+                                <graphic url="rb019r.jpg" mimeType="image/jpeg" xml:id="rb019r-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019s">
+                                <graphic url="rb019s.jpg" mimeType="image/jpeg" xml:id="rb019s-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019t">
+                                <graphic url="rb019t.jpg" mimeType="image/jpeg" xml:id="rb019t-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019u">
+                                <graphic url="rb019u.jpg" mimeType="image/jpeg" xml:id="rb019u-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019v">
+                                <graphic url="rb019v.jpg" mimeType="image/jpeg" xml:id="rb019v-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019w">
+                                <graphic url="rb019w.jpg" mimeType="image/jpeg" xml:id="rb019w-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019envf">
+                                <graphic url="rb019envf.jpg" mimeType="image/jpeg" xml:id="rb019envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="pagemissing">
+                                <graphic url="pagemissing.jpg" mimeType="image/jpeg" xml:id="rb019pagemissing-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb019envb">
+                                <graphic url="rb019envb.jpg" mimeType="image/jpeg" xml:id="rb019envb-g"/>
+                            </figure>
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135629</idno>                        
+                    </msIdentifier>
+                    <head>
+                        <date when="1914-10-16">Friday 16 October 1914</date>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Maud Bruce</title>
+                                <extent>twenty-two pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Letter on lined brown paper. No letter header</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>                
+                <date when="1914-10-16">Friday 16 October 1914</date>   
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="WFM">
+        <persName evidence="external" source="http://www.nzhistory.net.nz/people/william-massey">
+            <roleName>Prime Minister</roleName>
+            <forename>William</forename>
+            <addName type="middle">Ferguson</addName>
+            <surname>Massey</surname>
+        </persName>
+        <birth when="1856-03-26">26 March 1856</birth>
+        <death when="1925-05-10">10 May 1925</death>
+    </person>
+                     <person xml:id="RTB">
+        <persName>
+            <roleName type="military">Lieutenant</roleName>
+            <forename>Roy</forename>
+            <addName type="middle">Thomas</addName>
+            <surname>Bruce</surname>
+        </persName>
+        <birth when="1881-12-18">18 December 1881</birth>
+        <death when="1945-11-29">29 November 1945</death>
+    </person>
+                    <person xml:id="MGB">
+        <persName>
+            <forename>Maud</forename>
+            <addName type="middle">Goodenough</addName>type="married">
+            <surname type="maiden">Hayter</surname>
+            <surname type="married">Bruce</surname>
+        </persName>
+        <birth when="1880-02-22">22 February 1880</birth>
+    </person>
+                    <person xml:id="JAL">
+                        <persName>
+                            <roleName>Minister for Defence</roleName>
+                            <forename>James</forename>
+                            <surname>Allen</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="FMF">
+        <persName evidence="external" source="https://en.wikipedia.org/wiki/Francis_Fisher">
+            <forename>Francis</forename>
+            <addName type="middle">Marion</addName>
+            <addName type="middle">Bates</addName>
+            <surname>Fisher</surname>
+        </persName>
+    </person>
+                    <person xml:id="MLO">
+                        <persName>
+                            <roleName type="military">Major</roleName>
+                            <surname>Loach</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="BRA">
+                        <persName>
+                            <roleName type="military">Captain</roleName>
+                            <surname>Braudon</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="HAW">
+                        <persName>Hawkins</persName>
+                    </person>
+                    <person xml:id="RUS">
+                        <persName>
+                            <roleName type="military">Colonel</roleName>
+                            <surname>Russel</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="AGO">
+        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/44256.detail?">
+            <roleName type="honorofic">Sir</roleName>
+            <roleName type="military">Major General</roleName>
+            <forename>Alexander</forename>
+            <addName type="middle">John</addName>
+            <surname>Godley</surname>
+        </persName>
+        <birth when="1867-02-04">4th of February 1867</birth>
+        <death when="1957-03-06">6th of March 1957</death>
+    </person>
+                    <person xml:id="CLU">
+        <persName evidence="external" source="https://en.wikipedia.org/wiki/George_Armstrong_Custer">
+            <roleName type="military">General</roleName>
+            <fistname>George</fistname>
+            <addName type="middle">Armstrong</addName>
+            <surname>Custer</surname>
+        </persName>
+        <birth when="1839-12-05">5 December 1839</birth>
+        <death when="1876-06-25">25 June 1876</death>
+    </person>
+                    <person xml:id="PIN">
+                        <persName>Pinkie</persName>
+                    </person>
+                    <person xml:id="HAM">
+                        <persName>
+                            <roleName>Captain</roleName>
+                            <surname>Hamilton</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="CSB">
+        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/39360.detail?">
+            <forename>Claude</forename>
+            <addName type="middle">Stanley</addName>
+            <surname>Bruce</surname>
+        </persName>
+    </person>
+                    <person xml:id="CBR">
+                        <persName>
+                            <roleName>Captain</roleName>
+                            <surname>Brown</surname>
+                        </persName>
+                    </person>
+                    <relationGrp type="personal">
+                        <relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+                        <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+                    </relationGrp>
+                </listPerson>
+                
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="DUR">
+        <placeName>
+            <settlement>Durban</settlement>
+        </placeName>
+        <location><country ref="#SAF">South Africa</country></location>
+    </place>
+    <place xml:id="SAF">
+        <placeName>
+            <country>South Africa</country>
+        </placeName>
+        <location ref="#AFR">
+            <bloc>Africa</bloc>
+        </location>
+    </place>
+    <place xml:id="AFR">
+        <placeName>
+            <bloc>Africa</bloc>
+        </placeName>
+    </place>
+                    <place xml:id="LON">
+        <placeName>
+            <settlement>London</settlement> 
+        </placeName>
+        <location>
+            <country ref="#ENG">England</country>            
+        </location>
+    </place>
+                    <place xml:id="NZE">
+                    <placeName>
+                        <country>New Zealand</country>
+                    </placeName>
+                    </place>
+                    <place xml:id="WEL">
+                        <placeName>
+                            <settlement>Wellington</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="FRA">
+        <placeName>
+            <country>France</country>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+    <place xml:id="ENG">
+        <placeName>
+            <country>England</country>
+        </placeName>
+        <location>
+            <bloc ref="#BRI">United Kingdom</bloc>
+        </location>
+    </place>
+    <place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+                    <place xml:id="HOB">
+                        <placeName>
+                            <settlement>Hobart</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#AUS">Australia</country>
+                        </location>
+                    </place>
+                    <place xml:id="EGY">
+                        <placeName>
+                            <country>Egypt</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="VDL">
+                            <placeName>Van Deiman's Land</placeName>                                                    
+                        <location>
+                            <country ref="#AUS">Australia</country>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="HAS">
+                        <placeName>
+                            <settlement>Hastings</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="ALB">
+        <placeName>
+            <settlement>Albany</settlement>
+            <location ref="#AUS">
+                <country>Australia</country>
+            </location>
+        </placeName>
+    </place>
+    
+    <place xml:id="AUS">
+        <placeName>
+            <country>Australia</country>
+        </placeName>
+    </place>
+                    <place xml:id="COL">
+        <placeName>
+            <settlement>Colombo</settlement>
+        </placeName>
+        <location>
+            <country ref="#SRI">Sri Lanka</country>
+        </location>
+    </place>
+    
+    <place xml:id="SRI">
+        <country>Sri Lanka</country>
+    </place>
+                    <place xml:id="SUZ">
+        <placeName>
+            <settlement>Suez</settlement>
+        </placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+    <place xml:id="EGY">
+        <placeName>
+            <country>Egypt</country>
+        </placeName>
+    </place> 
+                     <place xml:id="HON">
+        <placeName>
+            <settlement>Honolulu</settlement>
+        </placeName>
+        <location>
+            <country ref="#USA">United States of America</country>
+        </location>
+    </place>
+                    <place xml:id="USA">
+                        <placeName>
+                            <country>United States of America</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="FRM">
+                        <placeName>
+                            <settlement>Freemantle</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#AUS">Australia</country>
+                        </location>
+                    </place>                     
+                    <place xml:id="AUK">
+        <placeName><settlement>Auckland</settlement>
+        </placeName>
+            <location>
+            <country ref="#NZE">New Zealand</country>
+        </location>
+    </place>
+                </listPlace> 
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change n="creation" xml:id="change-0001">
+                <date when="2014-01-08">8th of January 2014</date>
+                <name type="person">Lucy-Jane Walsh</name>
+            </change>    
+            
+            
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            <div n="1" xml:id="t1-body-d1">
+                <pb n="1" facs="#rb019a" xml:id="t1-body-d1-pb1"/>
+                <opener>
+                    <dateline rend="u">
+                        
+                        H. M. N. Z. T. 11.
+                    
+                    
+                        Athenic.
+                        
+                        <date when="1914-10-16">Friday 16 October 1914</date>
+                    </dateline>
+                </opener>
+                
+                <p>We left <name type="place" ref="#WEL" key="WEL">Wellington</name> wharf on <date when="1914-10-14">Wednesday afternoon</date> 
+                    <lb/>
+                    about 4 o'clock in the afternoon, and anchored in
+                    <lb/>
+                    the stream. We remained there until 6.30 a.m.
+                    <lb/>
+                    <date when="1914-10-16">this morning</date> when we fell into our places in
+                    <lb/>
+                    line and slowly steamed away.
+                </p>
+                <p>
+                    A tug came off and sailed around the ships
+                    <lb/>
+                    at 6 a.m, entertaining a lot of ladies and the 
+                    <lb/>
+                    <name type="person" ref="#WFM" key="WFM">Prime Minister (Hon. W. F. Massey)</name> the <name type="person" ref="#JAL" key="JAL">Minister for
+                        <lb/>
+                        Defence (Hon Jas Allen)</name> &amp; <name type="person" ref="#FMF" key="FMF">Hon F. M. B Fisher</name> who is
+                    <lb/>
+                    Minister for something else.
+                </p>
+                <p>
+                    We must have been somewhat of an
+                    <lb/>
+                    imposing sight for <name type="place" ref="#WEL" key="WEL">Wellington</name>, 10 transports
+                    <lb/>
+                    containing about 8000 troops &amp; 2000 horses,
+                    <lb/>
+                    &amp; 4 warships.
+                </p>
+                <p>
+                    The weather was fine &amp; warm and 
+                    <lb/>
+                    a very calm sea, so smooth that the motion
+                    <lb/>
+                    of this boat was hardly perceptible. This
+                    <lb/>
+                    is very fortunate as it will enable the men
+                    <lb/>
+                    to get their sea legs and the horses to get 
+                    <lb/>
+                    used to their stall &amp; the movements of the
+                    
+                    <pb n="2" facs="#rb019b" xml:id="t1-body-d1-x5-pb1"/>
+                    
+                    ship.
+                </p>
+                <p>As soon as we were clear of <name type="place" ref="#WEL" key="WEL">Wellington</name>
+                    <lb/>
+                    we assumed the following formation
+                    <lb/>
+                    
+                    H.M.S. Minotaur (Flagship China Squadron)
+                    <lb/>
+                    <lb/>
+                    <del rend="strike">H.M.S. Philomel</del>
+                    <lb/>
+                    Arawa (10) Maunganui (3)
+                    <lb/>
+                    H.M.S. Philomel, Athenic (11) Hawkes Bay (9) Japanese Warship "Ibuki"
+                    <lb/>
+                    Orari (6) Star of India&gt; (8)
+                    <lb/>
+                    Ruapehu (5) Limerick (7)
+                    <lb/>
+                    Waimana (12) Tahiti (4)
+                    <lb/>
+                    <lb/>
+                    H.M.S. Psyche
+                    <lb/>
+                    This formation we understand will be
+                    <lb/>
+                    adopted throughout the voyage.
+                </p>
+                <p>
+                    The Japanese ship is the most powerful
+                    <lb/>
+                    vessel of our escort, and is very heavily armed.
+                    <lb/>
+                    I do not know yet the number of her guns,
+                    <lb/>
+                    but some are 11 inch. The "Minotaur" carries
+                    <lb/>
+                    10 inch guns.
+                </p>
+                <pb n="3" facs="#pagemissing" xml:id="t1-body-d1-pb2"/>
+                <lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/><lb/>
+                
+                <pb n="4" facs="#rb019c" xml:id="t1-body-d1-pb3"/>
+                <p>
+                    epistles we will be allowed to send
+                    <lb/>
+                    after that, I don't know.
+                </p>
+                <p>
+                    I propose to post this narrative from
+                    <lb/>
+                    each port if I can. Perhaps you will
+                    <lb/>
+                    be able to reconstruct it into proper form,
+                    <lb/>
+                    and make a tale out of it.
+                </p>
+                <closer>
+                    It is now 9 o'clock. I am going to 
+                    <lb/>
+                    lay down for 3 hours prior to going on
+                    <lb/>
+                    duty at 12 o'clock. <salute>Good night</salute>.
+                </closer>
+            </div>
+            <div n="2" xml:id="t1-body-d2">
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-10-19">
+                            <hi rend="u">Monday 19<hi rend="sup">th</hi> October</hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p>
+                    Nothing of very great
+                    <lb/>
+                    <choice><abbr>import</abbr></choice> to record today. Having wandered
+                    <lb/>
+                    round the ship from 12 midnight until 
+                    <lb/>
+                    4 a.m, and then having again wandered
+                    <lb/>
+                    around with the Brigadier nearly all
+                    <lb/>
+                    the morning, I spent a very slack
+                    <lb/>
+                    afternoon mostly snoozing.
+                </p>
+                <p>
+                    We have started a 
+                    <lb/>
+                    course of lectures every evening except
+                    <lb/>
+                    Saturdays &amp; Sundays. They are being 
+                    <lb/>
+                    given by a <name type="person" ref="#MLO">Major Loach</name> of the 13<hi rend="sup">th</hi> Reg<hi rend="sup">r.</hi>
+                    <lb/>
+                    of Infantry. A man who has brought 
+                    <lb/>
+                    a very fine military library on board,
+                    <lb/>
+                    and has evidently made a study of
+                    
+                    <pb n="5" facs="#rb019d" xml:id="t1-body-d2-x3-pb1"/>
+                    
+                    military history, in spite of the fact that
+                    <lb/>
+                    his h's are anywhere but in the right
+                    <lb/>
+                    place. In civilian life he is a plumber.
+                    <lb/>
+                    He proposes to conduct through all the
+                    <lb/>
+                    phases of a campaign. It will possibly
+                    <lb/>
+                    prove very interesting.
+                </p>
+                <p>
+                    In the short space of time during
+                    <lb/>
+                    the day we have for our own amusement
+                    <lb/>
+                    has been mostly spent revolver shooting
+                    <lb/>
+                    at pieces of board thrown over the side.
+                    <lb/>
+                    Sometimes it is hit, most often it is
+                    <lb/>
+                    missed: in any case it is difficult
+                    <lb/>
+                    to hit anything moving from a moving
+                    <lb/>
+                    ship.
+                </p>
+                <p>
+                    We nearly got excited about 4 o'clock
+                    <lb/>
+                    this morning. We were awakened by
+                    <lb/>
+                    a long blast on the siren, and promptly 
+                    <lb/>
+                    imagined all kinds of things. It turned
+                    <lb/>
+                    out to be someone who had fallen over 
+                    <lb/>
+                    the wire connecting the siren on the 
+                    <lb/>
+                    funnel with the bridge. The General 
+                    <lb/>
+                    signalled from the Maunganui" to know
+                    <lb/>
+                    what the <choice><abbr>h. l</abbr></choice> was the matter.
+                </p>
+                <p>
+                    The weather is beautiful, the sea
+                    
+                    <pb n="6" facs="#rb019e" xml:id="t1-body-d2-x6-pb1"/>
+                    
+                    calm and everyone is getting very fit.                      
+                    <lb/>
+                    Personally I have not been so well for
+                    <lb/>
+                    a long time and hope to be better still
+                    <lb/>
+                    before we arrive at our destination.
+                </p>
+                <p>I am writing this on <date when="1914-10-20">Tuesday
+                    <lb/>
+                    afternoon</date>, as owing to the lecture last
+                    <lb/>
+                    night I was not able to put anything
+                    <lb/>
+                    down. I notice I have dated it <date when="1914-10-19">Monday</date>,
+                    <lb/>
+                    and merged the two days into one.
+                </p>
+                <p>
+                    Tomorrow, <date when="1914-10-21">Wednesday</date>, we are due 
+                    <lb/>
+                    to arrive in <name type="place" ref="#HOB" key="HOB">Hobart</name> about midday,
+                    <lb/>
+                    and will probably stay about 24 hours.
+                    <lb/>
+                    No leave is to be granted, but we are
+                    <lb/>
+                    all, infantry &amp; mounted alike, going 
+                    <lb/>
+                    for a two hours march, ostensibly to
+                    <lb/>
+                    stretch our legs but I thing more
+                    <lb/>
+                    particularly to endeavour to astonish
+                    <lb/>
+                    the natives of <name type="place" ref="#VDL" key="VDL">Van <choice><sic>Dieman's</sic><corr>Diemen's</corr></choice> Land</name>.
+                    <lb/>
+                    It is a pity there is so much gallery
+                    <lb/>
+                    playing about this show.
+                </p>
+                <p>
+                    We got some news or less indefinite
+                    <lb/>
+                    news by wireless today, something about
+                    <lb/>
+                    the American wireless station at <name type="place" ref="#HON" key="HON">Honolulu</name>
+                    <lb/>
+                    having been destroyed. That may mean
+                </p>
+                
+                
+                
+                <pb n="7" facs="#pagemissing" xml:id="t1-body-d2-pb2"/>
+                <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>
+                <pb n="8" facs="#rb019f" xml:id="t1-body-d2-pb1"/>
+                
+                <p>  
+                    Today has been just like a summer's day
+                    <lb/>
+                    &amp; we might almost have been sailing on a 
+                    <lb/>
+                    lake. Long may it continue.
+                </p>
+                <p>
+                    Tonight we had what to some must
+                    <lb/>
+                    be their first taste of war conditions. During
+                    <lb/>
+                    dinner an order came down to cover all
+                    <lb/>
+                    lights on portholes etc, and we go along
+                    <lb/>
+                    showing from the outside as few lights
+                    <lb/>
+                    as possible, in fact only navigation 
+                    <lb/>
+                    lights are exposed. This is adopted 
+                    <lb/>
+                    as a precautionary measure, in case
+                    <lb/>
+                    any German ships may be about.
+                </p>
+                <p>
+                    We have over 1100 troops on board
+                    <lb/>
+                    &amp; 400 horses.
+                </p>
+                
+            </div>
+            <div n="3" xml:id="t1-body-d3">
+                <opener>
+                    <dateline>
+                        <date when="1914-10-17">
+                            <hi rend="u">Saturday 17<hi rend="sup">th</hi> October.</hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p> 
+                    This morning we awoke to rain
+                    <lb/>
+                    and a choppy sea. Practically no work
+                    <lb/>
+                    was done except such as was absolutely
+                    <lb/>
+                    necessay, looking after the horses etc.
+                    <lb/>
+                    The men, or a large proportion of them
+                    <lb/>
+                    were and are suffering a good deal
+                    <lb/>
+                    from mal de mer and generally presented
+                    <lb/>
+                    a very woebegone appearance.
+                </p>
+                <p>
+                    During the day the rain ceased &amp;
+                    
+                    <pb n="9" facs="#rb019g" xml:id="t1-body-d3-x3-pb1"/>
+                    
+                    the wind freshened &amp; the sea rose a little,
+                    <lb/>
+                    adding somewhat to the general misery on
+                    <lb/>
+                    board. This is certainly one of the 
+                    <lb/>
+                    best sea boats of the lot, judging by the sight
+                    <lb/>
+                    of the others rolling &amp; pitching about. I
+                    <lb/>
+                    forgot to add that we sail 3 cable lengths
+                    <lb/>
+                    apart (about 600 yards) &amp; roughly 1 mile
+                    <lb/>
+                    between the two lines.
+                </p>
+                <p>
+                    Nearly everyone has gone to bed although
+                    <lb/>
+                    it is only 8.30 p.m. I am sure in many
+                    <lb/>
+                    cases they are not feeling as fit as usual.
+                    <lb/>
+                    I am very sleepy and will follow their
+                    <lb/>
+                    example.
+                </p>
+            </div>
+            <div n="4" xml:id="t1-body-d4">
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-10-18">
+                            <hi rend="u">Sunday 18<hi rend="sup">th</hi> October.</hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p>
+                    This morning was fine 
+                    <lb/>
+                    with a fairly heavy swell which did not
+                    <lb/>
+                    improve the health of the men &amp; horses.
+                    <lb/>
+                    I was detailed for orderly officer which means 
+                    <lb/>
+                    that I keep two ships watches of 4 hours
+                    <lb/>
+                    each during the 24 hours. Today I was
+                    <lb/>
+                    on from 12 noon until 4, and I go on
+                    <lb/>
+                    again @ 12 midnight until 4 a.m. My
+                    <lb/>
+                    duties consist of wandering all over the 
+                    <lb/>
+                    ship and reporting once every hour. 
+                    
+                    <pb n="10" facs="#rb019h" xml:id="t1-body-d4-x2-pb1"/>
+                    
+                    It is a tiring occupation as there are so
+                    <lb/>
+                    many holds to get in &amp; out of, and it
+                    <lb/>
+                    is necessary to make a complete tour
+                    <lb/>
+                    of the ship every hour.
+                </p>
+                <p>
+                    Church parade this morning @ 10.30 a.m.
+                    <lb/>
+                    Very short, owing to the sea and the wind.
+                    <lb/>
+                    I did not attend being occupied in fixing
+                    <lb/>
+                    up some back pay for the men, with the 
+                    <lb/>
+                    paymaster <name type="person" ref="#BRA">Capt. Braudon</name>, a <name type="place" ref="#WEL" key="WEL">Wellington</name>
+                    <lb/>
+                    man.
+                </p>
+                <p>
+                    The rest of the day has been spent 
+                    <lb/>
+                    watching the other transports ship seas.
+                </p>
+                <p>
+                    Our daily routine is as follows:
+                    <lb/>
+                    Reveille 6. am. Stables 6.30 am. Breakfast
+                    <lb/>
+                    (men)7.30 am. Afterwards clean up &amp; tidy
+                    <lb/>
+                    bunks etc. Parade 10.15 am. Stables 11.15 am.
+                    <lb/>
+                    Dinner 12.30. Parade 2.30 pm. Stables 4 pm.
+                    <lb/>
+                    Tea 5.15 pm. Light out 9.15 pm.
+                </p>
+                <p>
+                    We have Breakfast @ 8. am. Lunch 1 pm,
+                    <lb/>
+                    Dinner 6.30 pm. Besides afternoon tea &amp;
+                    <lb/>
+                    supper. Surely we are likely to get very
+                    <lb/>
+                    fat on our journey.
+                </p>
+                <p>Our first port of call is likely to be 
+                    <lb/>
+                    <name type="place" ref="#HOB" key="HOB">Hobart</name> &amp; we expect to be there either
+                    
+                    <pb n="11" facs="#rb019i" xml:id="t1-body-d4-x7-pb1"/>
+                    
+                    Wednesday night or Thursday morning.
+                    <lb/>
+                    How long we shall stay there is very
+                    <lb/>
+                    problematical.
+                </p>
+                <p>
+                    What a trade the newsboys will do when
+                    <lb/>
+                    we arrive there.
+                </p>
+                <p>I spent a very pleasant evening the
+                    <lb/>
+                    first one on board in the ship's doctor's
+                    <lb/>
+                    cabin in company with a man named
+                    <lb/>
+                    <name type="person" ref="#HAW">Hawkins</name> who is sort of <choice><abbr>A. D. C.</abbr></choice> to the
+                    <lb/>
+                    Brigadier (<name type="person" ref="#RUS">Col. Russell</name>) and who used 
+                    <lb/>
+                    to be in the 11<hi rend="sup">th</hi> Hussars. I met
+                    <lb/>
+                    <name type="person" ref="#HAW">Hawkins</name> when I was in <name type="place" ref="#HAS" key="HAS">Hastings</name> last 
+                    <lb/>
+                    January, but did not remember him
+                    <lb/>
+                    until we had been talking some
+                    <lb/>
+                    little time.
+                </p>
+                <p>
+                    He asked me in <name type="place" ref="#WEL" key="WEL">Wellington</name> if I
+                    <lb/>
+                    would put a horse of his with mine.
+                    <lb/>
+                    It is apparently a very favourite
+                    <lb/>
+                    animal and used to race as a two-
+                    <lb/>
+                    year old when it held the <name type="place" ref="#NZE" key="NZE">N. Z.</name> record
+                    <lb/>
+                    for 5 furlongs. It is called Gold Bird,
+                    <lb/>
+                    and is a very large chestnut, standing
+                    <lb/>
+                    over 17 hands. Nothing much to look
+                    <lb/>
+                    at, and privately I have my doubts
+                    
+                    <pb n="12" facs="#rb019j" xml:id="t1-body-d4-x10-pb1"/>
+                    
+                    as to whether it will see the voyage
+                    <lb/>
+                    through.
+                </p>
+                <p>
+                    But to return to my evening with
+                    <lb/>
+                    the Doctor, a man called <name type="person">Fry</name>. The 
+                    <lb/>
+                    three of us discussed many subjects,
+                    <lb/>
+                    and we found <name type="person">Fry</name> a most interesting
+                    <lb/>
+                    man. He has served in the U. S. army,
+                    <lb/>
+                    and was part of the force sent out to
+                    <lb/>
+                    avenge <name type="person" ref="#CLU" key="CLU">General Custer</name> when he &amp; his
+                    <lb/>
+                    army were massacred by the Sioux
+                    <lb/>
+                    under <name type="person">Sitting Bull</name>. He is related
+                    <lb/>
+                    to <name type="person">Buffalo Bill</name>, and amongst other
+                    <lb/>
+                    things he told us that <name type="person">Cody</name> the
+                    <lb/>
+                    aviator who was recently killed 
+                    <lb/>
+                    was no relation at all to <name type="person">Buffalo Bill</name>.
+                </p>
+                <p>
+                    Amongst other things we discussed 
+                    <lb/>
+                    our probable destination and <name type="person" ref="#HAW">Hawkins</name>
+                    <lb/>
+                    explained the method of conducting a 
+                    <lb/>
+                    war by the War Office.
+                </p>
+                <p>
+                    There is a large room containing
+                    <lb/>
+                    a map of the world which is laid out
+                    <lb/>
+                    in sectors on different tables so that
+                    <lb/>
+                    people may walk in between. On 
+                    <lb/>
+                    this map are placed all the different
+                    
+                    <pb n="13" facs="#rb019k" xml:id="t1-body-d4-x13-pb1"/>
+                    
+                    units of the army &amp; where and what
+                    <lb/>
+                    they are doing. In the case of war
+                    <lb/>
+                    the Commander in Chief wishes to move
+                    <lb/>
+                    troops from one place to another. He
+                    <lb/>
+                    looks on this map &amp; sees he has so 
+                    <lb/>
+                    many thousand troops say in <name type="place" ref="#EGY" key="EGY">Egypt</name>,
+                    <lb/>
+                    which he wants to send to <name type="place" ref="#FRA" key="FRA">France</name>,
+                    <lb/>
+                    he then looks to see with what he 
+                    <lb/>
+                    can replace those troops and he sees
+                    <lb/>
+                    10 transports sailing from <name type="place" ref="#NZE" key="NZE">N. Z</name>, containing
+                    <lb/>
+                    so<add place="inline">/</add>many men, horses, guns etc, &amp; sailing
+                    <lb/>
+                    at a certain rate. He may issue 
+                    <lb/>
+                    orders to immediately divert those troops
+                    <lb/>
+                    to <name type="place" ref="#EGY" key="EGY">Egypt</name>, even though they they may be
+                    <lb/>
+                    only 1 days sail from <name type="place" ref="#DUR" key="DUR">Durban</name>, which
+                    <lb/>
+                    was their original destination. The
+                    <lb/>
+                    whole system depends from day to day
+                    <lb/>
+                    on the situation, and it is very
+                    <lb/>
+                    questionable whether <choice><sic>any one</sic><corr>anyone</corr></choice> at all
+                    <lb/>
+                    at the present moment knows what
+                    <lb/>
+                    our ultimate destination will be.
+                </p>
+                <p>We are told we may send 
+                    <lb/>
+                    letters without being censored from our 
+                    <lb/>
+                    first port of call, but what sort of
+                    
+                    <pb n="14" facs="pagemissing"/>
+                    <pb n="15" facs="#rb019l" xml:id="t1-body-d4-x14-pb1"/>
+                    
+                    anything in the way of international
+                    <lb/>
+                    complications with <name type="place" ref="#USA" key="USA">America</name>. We hope to
+                    <lb/>
+                    learn something more definite at <name type="place" ref="#HOB" key="HOB">Hobart</name>
+                    <lb/>
+                    tomorrow.
+                </p>
+                <p>The other day we were all running
+                    <lb/>
+                    round like distracted chickens, orders being
+                    <lb/>
+                    countermanded every five minutes, this
+                    <lb/>
+                    was before we left <name type="place" ref="#WEL" key="WEL">Wellington</name>, and some
+                    <lb/>
+                    one said they thought the General was
+                    <lb/>
+                    on board, when one of the men
+                    <lb/>
+                    remarked "Yes, general disorder." It
+                    <lb/>
+                    was rather funny.
+                </p>
+                <p>I don't suppose I shall have 
+                    <lb/>
+                    another opportunity of adding to this
+                    <lb/>
+                    until after we leave <name type="place" ref="#HOB" key="HOB">Hobart</name>. Later
+                    <lb/>
+                    on<del rend="strike">e</del> I intend to give some of my
+                    <lb/>
+                    impressions of the officers on board.
+                    <lb/>
+                    There are over 50. and some are weird
+                    <lb/>
+                    specimens. Whether you will ever
+                    <lb/>
+                    receive them or not I don't know, as the 
+                    <lb/>
+                    censor may get to work, and we may 
+                    <lb/>
+                    not be allowed to write much. In any
+                    <lb/>
+                    case I will try &amp; keep them until an
+                    <lb/>
+                    opportunity occurs to send them on.
+                    <lb/>
+               I think the censor did get them as 'no more were received'</p>
+                <signed>
+                    <name type="person" ref="#RTB" key="RTB">Roy</name>
+                </signed>
+                
+            </div>
+            <div n="5" xml:id="t1-body-d5">
+                <pb n="16" facs="#rb019m" xml:id="t1-body-d5-pb1"/>
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-10-23">
+                            <hi rend="u">
+                                <del rend="strike">Saturday</del> Friday 23<hi rend="sup">rd</hi> October 1914
+                            </hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p>
+                    My last page
+                    <lb/>
+                    finished the evening before we arrived at 
+                    <lb/>
+                    <name type="place" ref="#HOB" key="HOB">Hobart</name>. Land was in sight when we awoke
+                    <lb/>
+                    on Wednesday morning and about 11.30 we
+                    <lb/>
+                    dropped anchor in the stream. The day was
+                    <lb/>
+                    gloriously fine and very warm. The vessels
+                    <lb/>
+                    on the right of the two lines moved up to
+                    <lb/>
+                    the wharf and took on a few stores etc while
+                    <lb/>
+                    the men went on a route march round
+                    <lb/>
+                    <name type="place" ref="#HOB" key="HOB">Hobart</name>. Shortly after 6.30 pm our turn 
+                    <lb/>
+                    came and we moved up alongside. There 
+                    <lb/>
+                    was a big crowd down, but we had taken
+                    <lb/>
+                    the people by surprise, no one knew of our
+                    <lb/>
+                    arrival. It was a lovely evening, just 
+                    <lb/>
+                    like summer, it was quite funny to see 
+                    <lb/>
+                    all the people in summer clothes. During
+                    <lb/>
+                    the afternoon we had interestedly watched
+                    <lb/>
+                    the lads &amp; and lassies making love on a small
+                    <lb/>
+                    neck of land rather prettily planted &amp;
+                    <lb/>
+                    evidently a favourite resort. Our binoculars
+                    <lb/>
+                    got a lot of use that afternoon, and we
+                    <lb/>
+                    saw some really funny sights.
+                </p>
+                <p>
+                    No leave was granted in the evening
+                    
+                    <pb n="17" facs="#rb019n" xml:id="t1-body-d5-x3-pb1"/>
+                    
+                    which was a great disappointment to the men, 
+                    <lb/>
+                    but as <name type="place" ref="#HOB" key="HOB">Hobart</name> has not the most savoury of
+                    <lb/>
+                    reputations in some respects it was deemed
+                    <lb/>
+                    better to be sure on board than sorry afterwards.
+                    <lb/>
+                    Things are so bad there that the Australian
+                    <lb/>
+                    fleet was not allowed to call there last time
+                    <lb/>
+                    she was round.
+                </p>
+                <p>As soon as we were alongside, women
+                    <lb/>
+                    in the most brazen way came down to the 
+                    <lb/>
+                    ships and passed up their addresses through
+                    <lb/>
+                    portholes.
+                </p>
+                <p>
+                    I was rather fortunate in getting 
+                    <lb/>
+                    ashore for a run as I was sent to the 
+                    <lb/>
+                    "Maunganui" with a message and this
+                    <lb/>
+                    entailed a walk of nearly 1/2 a mile to
+                    <lb/>
+                    another wharf. After I had finished on 
+                    <lb/>
+                    the "Maunganui" I went for a short walk 
+                    <lb/>
+                    into the town, but as I was alone, didn't
+                    <lb/>
+                    know anyone &amp; all the shops were shut, it
+                    <lb/>
+                    was very dull and I soon returned to the
+                    <lb/>
+                    ship.
+                </p>
+                <p>
+                    On Thursday morning (another lovely
+                    <lb/>
+                    morning) we got up at 5 o'clock and
+                    <lb/>
+                    about 7.30 went for a nine mile march.
+                    
+                    <pb n="18" facs="#rb019o" xml:id="t1-body-d5-x6-pb1"/>
+                    
+                    It was very nice and we were very glad of
+                    <lb/>
+                    the opportunity to stretch our legs. For the 
+                    <lb/>
+                    first hour we were leading, and of course
+                    <lb/>
+                    we don't know much about marching so
+                    <lb/>
+                    we made the pace fairly warm. It was
+                    <lb/>
+                    too much for the infantry who began to
+                    <lb/>
+                    drop out and at the end of an hour, they
+                    <lb/>
+                    took the lead to moderate the pace. There
+                    <lb/>
+                    is no doubt that it really was much too
+                    <lb/>
+                    fast, and we were quite glad to slow down.
+                </p>
+                <p>
+                    <name type="place" ref="#HOB" key="HOB">Hobart </name> is an awfully pretty place, &amp;
+                    <lb/>
+                    the views from different parts of the domain,
+                    <lb/>
+                    which rises behind the town are really 
+                    <lb/>
+                    beautiful.
+                </p>
+                <p>The inhabitants turned out from their
+                    <lb/>
+                    houses in force and rather demoralised 
+                    <lb/>
+                    the troops by giving them fruit etc,
+                    <lb/>
+                    however we got along fairly well until
+                    <lb/>
+                    passing a certain hotel, towards the end
+                    <lb/>
+                    of the march, some people rushed out with
+                    <lb/>
+                    large jugs of ale &amp; glasses. This was 
+                    <lb/>
+                    too much for some of the men, and they 
+                    <lb/>
+                    were inclined to break ranks (&amp; I don't
+                    <lb/>
+                    blame them) only the chose an unfortunate
+                    
+                    <pb n="19" facs="#rb019p" xml:id="t1-body-d5-x8-pb1"/>
+                    
+                    time, for about 100 <del rend="strike">hi</del> yards <del rend="strike">passed</del> past
+                    <lb/>
+                    this particular hotel we ran into <name type="person" ref="#AGO" key="AGO">General
+                        <lb/>
+                        Godley</name>, and things were only middling.
+                    <lb/>
+                    We all got hauled over the coals this morning, 
+                    <lb/>
+                    but when the senior major at the head of
+                    <lb/>
+                    the column sets the example by drinking
+                    <lb/>
+                    a glass of beer on the road, the men can
+                    <lb/>
+                    hardly be blamed. It was really rather
+                    <lb/>
+                    funny, when one thought about it after-
+                    <lb/>
+                    wards.
+                </p>
+                <p>
+                    We however fared better than the
+                    <lb/>
+                    infantry who are supposed to know some-
+                    <lb/>
+                    thing about marching, they were all
+                    <lb/>
+                    on the mat this morning and are
+                    <lb/>
+                    doing 6 hours pack drill punishment,
+                    <lb/>
+                    officers and all. It is rather rough.
+                </p>
+                <p>We left <name type="place" ref="#HOB" key="HOB">Hobart</name> about 3 p.m. &amp; 
+                    <lb/>
+                    are now (Friday afternoon) steering a 
+                    <lb/>
+                    course <choice><abbr>N. N. W.</abbr></choice> presumably for <name type="place" ref="#ALB" key="ALB">Albany</name>
+                    <lb/>
+                    or <name type="place" ref="#FRM" key="FRM">Freemantle</name>. Our next port after
+                    <lb/>
+                    that is <name type="place" ref="#COL" key="COL">Colombo</name>, so we go through 
+                    <lb/>
+                    <name type="place" ref="#SUZ" key="SUZ">Suez</name> after all.
+                </p>
+                <p>
+                    Today is blowing somewhat &amp;
+                    <lb/>
+                    we are settling down again to our old
+                    
+                    <pb n="20" facs="#rb019q" xml:id="t1-body-d5-x11-pb1"/>
+                    
+                    routine.
+                </p>
+                <p>
+                    This morning about 4 o'clock all 
+                    <lb/>
+                    the hooters on the ships began to hoot &amp;
+                    <lb/>
+                    we really thought the Philistines were
+                    <lb/>
+                    upon us. Some even rushed up on deck,
+                    <lb/>
+                    to find out it was only a fog bank we
+                    <lb/>
+                    had run into. I reasoned in my bunk
+                    <lb/>
+                    that if it was anything we should soon
+                    <lb/>
+                    know so why risk catching cold by getting
+                    <lb/>
+                    excited.
+                </p>
+                <p>
+                    We left the "Psyche" behind at <name type="place" ref="#HOB" key="HOB">Hobart</name>,
+                    <lb/>
+                    and picked up the "Pyramus" instead.
+                </p>
+                <p>
+                    Oh: I nearly forgot this: the first
+                    <lb/>
+                    night when we ran with "lights out," the 
+                    <lb/>
+                    "Maunganui" didn't turn hers out at 
+                    <lb/>
+                    once (I don't know whether the <choice><abbr>G. O. C.</abbr></choice>
+                    <lb/>
+                    thought he was privileged or not) but
+                    <lb/>
+                    anyway the "Ibuki" which was on
+                    <lb/>
+                    one flank signalled "If you expect
+                    <lb/>
+                    us to protect you, put those lights out
+                    <lb/>
+                    at once<choice><sic>",</sic><corr>,"</corr></choice>and the lights went out!
+                    <lb/>
+                    No wonder we got jumped on for bad 
+                    <lb/>
+                    marching at <name type="place" ref="#HOB" key="HOB">Hobart</name>!!
+                </p>
+            </div>
+            <div n="6" xml:id="t1-body-d6">
+                <pb n="21" facs="#rb019r" xml:id="t1-body-d6-pb1"/>
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-10-26">
+                            <hi rend="u">Monday 26<hi rend="sup">th</hi> October</hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p>
+                    There is not a great
+                    <lb/>
+                    deal to record since last Friday, things
+                    <lb/>
+                    jog along more or less uneventfully.
+                </p>
+                <p>
+                    I would not be at all surprised to
+                    <lb/>
+                    see some trouble with the infantry before
+                    <lb/>
+                    we arrive at our destination. We have on
+                    <lb/>
+                    board 40 men from an <name type="place" ref="#AUK" key="AUK">Auckland</name> regiment, 
+                    <lb/>
+                    &amp; they already have shown their teeth by
+                    <lb/>
+                    refusing to do the six hours pack drill
+                    <lb/>
+                    they were awarded after the <name type="place" ref="#HOB" key="HOB">Hobart</name> march.
+                    <lb/>
+                    They refused point blank the first day, but
+                    <lb/>
+                    have done it since. It all seems very
+                    <lb/>
+                    weak &amp; foolish and their officers do not in 
+                    <lb/>
+                    the least know how to manage them.
+                    <lb/>
+                    Every night down in their sleeping quarters
+                    <lb/>
+                    there are stump orators more or less
+                    <lb/>
+                    inciting to rebellion.
+                </p>
+                <p>
+                    Have just discovered there is to be
+                    <lb/>
+                    (so far) no censor on letters, but it is
+                    <lb/>
+                    strictly prohibited to send any cables.
+                </p>
+                <p>
+                    I have been having another turn
+                    <lb/>
+                    on watch, and this morning (Monday) 
+                    <lb/>
+                    took from 4 till 8. It was a perfect
+                    <lb/>
+                    daybreak, a cloudless sky, a calm sea
+                    
+                    <pb n="22" facs="#rb019s" xml:id="t1-body-d6-x5-pb1"/>
+                    
+                    and a lovely sunrise. It is getting
+                    <lb/>
+                    warmer now and it will not be many 
+                    <lb/>
+                    days before we begin to feel the heat in
+                    <lb/>
+                    earnest.
+                </p>
+                <p>
+                    A man died on the "Ruapehu" last 
+                    <lb/>
+                    night and was buried this afternoon, all 
+                    <lb/>
+                    the ships stopped, we all lined up on 
+                    <lb/>
+                    deck, the bands played the Dead March, 
+                    <lb/>
+                    and it was all over and we went
+                    <lb/>
+                    on again to the strains of "Tipperary."
+                </p>
+                <p>
+                    We expect to arrive at <name type="place" ref="#ALB" key="ALB">Albany</name> on
+                    <lb/>
+                    Wednesday morning, and understand
+                    <lb/>
+                    we pick up the Australian forces there.
+                    <lb/>
+                    There will be a goodly number of ships
+                    <lb/>
+                    by the time we all get going. From
+                    <lb/>
+                    there we go to <name type="place" ref="#COL" key="COL">Colombo</name>, unless anything
+                    <lb/>
+                    unforseen has <choice><sic>occured</sic><corr>occurred</corr></choice> in the meantime.
+                </p>
+                <p>
+                    The horses are getting on splendidly.
+                    <lb/>
+                    I have mine &amp; also <name type="person" ref="#PIN">Pinkies'</name>, about 62
+                    <lb/>
+                    altogether, down in one of the holds, where
+                    <lb/>
+                    they do much better than those on deck,
+                    <lb/>
+                    as they are not exposed to the vicissitudes
+                    <lb/>
+                    of climate, and live in a more or less
+                    <lb/>
+                    even temperature.
+                </p>
+            </div>
+            <div n="7" xml:id="t1-body-d7">
+                <pb n="23" facs="#rb019t" xml:id="t1-body-d7-pb1"/>
+                
+                <opener>
+                    <dateline>
+                        <date when="1914-10-27">
+                            <hi rend="u">Tuesday</hi>
+                        </date>
+                    </dateline>
+                </opener>
+                <p>
+                    A raining morning but a fairly
+                    <lb/>
+                    calm sea. A change, and not altogether 
+                    <lb/>
+                    an unwelcome one from the lovely weather
+                    <lb/>
+                    we have been having. A little rain at
+                    <lb/>
+                    times is appreciated, especially on board a 
+                    <lb/>
+                    transport with horses.
+                </p>
+                <p>
+                    At <name type="place" ref="#HOB" key="HOB">Hobart</name> we published the first
+                    <lb/>
+                    number of the ships' paper - I am sending
+                    <lb/>
+                    you a copy at the same time as this goes.
+                    <lb/>
+                    I think it is not altogether bad for the 
+                    <lb/>
+                    first copy, it will improve as it goes on.
+                    <lb/>
+                    Our next issue will be at <name type="place" ref="#ALB" key="ALB">Albany</name>.</p>
+                <p>
+                    <name type="person" ref="#HAM">Capt. Hamilton</name> the <choice><sic>Editor</sic><corr>editor</corr></choice> told me he had
+                    <lb/>
+                    had any amount of copy sent in, but
+                    <lb/>
+                    it had been necessary to reject a lot as
+                    <lb/>
+                    being somewhat over the edge. I had had
+                    <lb/>
+                    thoughts of becoming a contributor, but
+                    <lb/>
+                    up to the present the only literary
+                    <lb/>
+                    compositions I can think of are more or 
+                    <lb/>
+                    less unprintable. Perhaps I shall improve
+                    <lb/>
+                    later on.
+                </p>
+                <p>
+                    I am also sending you a few 
+                    <lb/>
+                    postcards which may prove of interest
+                    <lb/>
+                    to you. They are all taken on board
+                    
+                    <pb n="24" facs="#rb019u" xml:id="t1-body-d7-x5-pb1"/>
+                    
+                    by the Marconi operator, who is doing
+                    <lb/>
+                    quite a good business.
+                </p>
+                <p>
+                    Measles have broken out on board.
+                    <lb/>
+                    So far there are 14 cases, it remains to be 
+                    <lb/>
+                    seen how much farther it will go among
+                    <lb/>
+                    the 1500 souls on board. <name type="person" ref="#CSB" key="CSB">Claude Bruce</name>
+                    <lb/>
+                    my namesake is suffering from them.
+                    <lb/>
+                    Someone is sure to tell you it is I. I
+                    <lb/>
+                    am glad now I got mine over.
+                </p>
+                <p>
+                    We ran into quite a crowd of 
+                    <lb/>
+                    whales yesterday, they were puffing and 
+                    <lb/>
+                    blowing all round us. Wild excitement
+                    <lb/>
+                    on board. Some owl suggested getting 
+                    <lb/>
+                    <del rend="strike">revolvlers</del> revolvers but he was shown the
+                    <lb/>
+                    error of his ways.
+                </p>
+                <p>A certain <name type="person" ref="#CBR">Capt. Brown</name> of the infants,
+                    <lb/>
+                    I mean infantry, said to me yesterday:
+                    <lb/>
+                    "I saw one of your men wearing trousers
+                    <lb/>
+                    with a red stripe yesterday, our fellows
+                    <lb/>
+                    have been missing some clothes lately, I
+                    <lb/>
+                    know it was one of your men because
+                    <lb/>
+                    he was wearing a mounted coat."
+                </p>
+                <p>
+                    I pointed out to him it was far
+                    <lb/>
+                    more likely to be one of his own crowd
+                    
+                    <pb n="25" facs="#rb019v" xml:id="t1-body-d7-x9-pb1"/>
+                    
+                    who had pinched one of our fellows 
+                    <lb/>
+                    coats, and in any case, I said, if any 
+                    <lb/>
+                    of our fellows were seen by their mates
+                    <lb/>
+                    wearing infantry breeches they would tear
+                    <lb/>
+                    them off them. There was no further 
+                    <lb/>
+                    argument.
+                </p>
+                <p>
+                    I have been paying the men this
+                    <lb/>
+                    afternoon, mostly to their satisfaction. 
+                    <lb/>
+                    There is no paying in cash now, every 
+                    <lb/>
+                    man is paid by an order on the 
+                    <lb/>
+                    <name type="place" ref="#NZE" key="NZE">N. Z.</name> High Commissioner, <name type="place" ref="#LON" key="LON">London</name>, which
+                    <lb/>
+                    is also payable to the ships' canteen. 
+                    <lb/>
+                    I don't think that many issued on 
+                    <lb/>
+                    this ship will ever reach the High
+                    <lb/>
+                    Commissioners' office.
+                </p>
+                <p>
+                    Since the canteen has been
+                    <lb/>
+                    taken over by the Government it is
+                    <lb/>
+                    going very well. Everything is very
+                    <lb/>
+                    cheap &amp; tobacco is sold free of duty,
+                    <lb/>
+                    i.e. half price.
+                </p>
+                <p>
+                    We continue our evening lectures
+                    <lb/>
+                    which are becoming very interesting,
+                    <lb/>
+                    although it is a pity most do not
+                    <lb/>
+                    take more interest in them.
+                    
+                    <pb n="26" facs="#rb019w" xml:id="t1-body-d7-x12-pb1"/>
+                    
+                    Tomorrow we shall arrive in <name type="place" ref="#ALB" key="ALB">Albany</name>,
+                    <lb/>
+                    but what we shall do there or how long
+                    <lb/>
+                    we shall stay there I have no idea.
+                    <lb/>
+                    It is very doubtful whether any leave
+                    <lb/>
+                    will be granted.
+                </p>
+                <p>
+                    The last time I was in <name type="place" ref="#ALB" key="ALB">Albany</name>
+                    <lb/>
+                    12 or 13 thirteen years ago it was chiefly
+                    <lb/>
+                    noted for two Japanese ladies, if they
+                    <lb/>
+                    are still there they will be rather long
+                    <lb/>
+                    in the tooth by now.
+                </p>
+                <p>We are getting bloaters, haddocks
+                    <lb/>
+                    &amp; kippers for breakfast, amongst other things,
+                    <lb/>
+                    things are getting a little more English
+                    <lb/>
+                    even now. When we get past <name type="place" ref="#COL" key="COL">Colombo</name>
+                    <lb/>
+                    things Australasian will rapidly recede
+                    <lb/>
+                    into the background, and the old &amp; also
+                    <lb/>
+                    the new ground will rapidly open up
+                    <lb/>
+                    again.
+                </p>
+                <closer>
+                    <salute>
+                        This is all for the present till
+                        <lb/>
+                        after <name type="place" ref="#ALB" key="ALB">Albany</name>, when I hope to start
+                        <lb/>
+                        a few character sketches of some of the 
+                        <lb/>
+                        birds on board.</salute>
+                    <lb/>
+                    <lb/>
+                    My moustache
+                    <lb/><choice><sic>It's</sic><corr>Its</corr></choice> mark.
+                    <lb/>
+                </closer>
+            </div>
+        </body>
+    </text>
+    
+</TEI>

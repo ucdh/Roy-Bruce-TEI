@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb028" xml:lang="en">
+    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+        <fileDesc xml:id="fileDesc-0001">
+            <titleStmt>
+                <title>Letter from Roy Bruce to Mrs Edgar Jones</title>
+                <author>
+                    <name type="person">Roy Thomas Bruce</name>
+                </author>
+                <principal>
+                    <name type="person">Paul Millar</name>
+                </principal>
+                <funder>University of Canterbury</funder>
+                <respStmt xml:id="respStmt-0001">
+                    <resp>Creation of digital images</resp>
+                    <name type="person">Keely McBride</name>
+                    <name type="person">Kathy Kise</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0002">
+                    <resp>Transcription</resp>
+                    <name type="person">Keely McBride</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0003">
+                    <resp>Transcription check</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+                <respStmt xml:id="respStmt-0004">
+                    <resp>Conversion to TEI-conformant markup</resp>
+                    <name type="person">Lucy-Jane Walsh</name>
+                </respStmt>
+            </titleStmt>
+            <extent>Extent including images:  kb</extent>
+            <publicationStmt>
+                <publisher>University of Canterbury Humanities Computing Unit</publisher>
+                <pubPlace>Christchurch, New Zealand</pubPlace>
+                <address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
+                <availability status="restricted">
+                    <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+                        <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+                </availability>
+                <date when="2013-01-09"/>
+            </publicationStmt>
+            <notesStmt xml:id="notesStmt-0001">
+                <note xml:id="page-images">
+                    <p>Page images:</p>
+                    <list type="simple">
+                        <item>
+                            <figure xml:id="rb028a">
+                                <graphic url="rb028a.jpg" mimeType="image/jpeg" xml:id="rb028a-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb028b">
+                                <graphic url="rb028b.jpg" mimeType="image/jpeg" xml:id="rb028b-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb028c">
+                                <graphic url="rb028c.jpg" mimeType="image/jpeg" xml:id="rb028c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb028d">
+                                <graphic url="rb028d.jpg" mimeType="image/jpeg" xml:id="rb028d-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb028envf">
+                                <graphic url="rb028envf.jpg" mimeType="image/jpeg" xml:id="rb028envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb028envb">
+                                <graphic url="rb028envb.jpg" mimeType="image/jpeg" xml:id="rb028envb-g"/>
+                            </figure>
+                        </item>
+                    </list>
+                </note>
+            </notesStmt>	
+            <sourceDesc xml:id="sourceDesc-0001">
+                <msDesc>
+                    <msIdentifier>
+                        <settlement>Christchurch</settlement>
+                        <institution>University of Canterbury</institution>
+                        <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+                        <collection>Letters from Major Roy Bruce</collection>
+                        <idno type="text">135639</idno>
+                    </msIdentifier>
+                    <head>
+                        <title>Letter from Roy Bruce to Maud Bruce</title>
+                        <date when="1915-03-15">15 March 1915</date>
+                    </head>
+                    <msContents>
+                        <msItem>
+                            <bibl>
+                                <author>Roy Thomas Bruce</author>
+                                <title>Letter from Roy Bruce to Mrs Edgar Jones</title>
+                                <extent>Four pages</extent>
+                            </bibl>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="letter">
+                            <p>Plain paper, no header</p>
+                        </objectDesc>
+                        <handDesc>
+                            <handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce</handNote>
+                        </handDesc>
+                    </physDesc>
+                </msDesc>	
+            </sourceDesc>
+        </fileDesc>	
+        <encodingDesc>
+            <projectDesc xml:id="projectDesc-0001">
+                <p>The Roy Bruce project aims to preserve and make available to a 
+                    wide audience original World War I correspondence closely linked to 
+                    Canterbury and Southland families. It also aims to introduce the
+                    principles of TEI to the ENGL317/419 class and foster a scholarly 	
+                    electronic archiving tradition at the University of Canterbury.</p>
+            </projectDesc>
+            <samplingDecl>
+                <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+            </samplingDecl>
+            <editorialDecl>
+                <correction status="medium" method="markup">
+                    <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+                </correction>
+                <normalization>
+                    <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+                </normalization>
+                <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+                <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+                <p>All first line indentation has been preserved.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc xml:id="profileDesc-0001">
+            <creation>
+                <country>Cairo</country>
+                <date when="1915-03-15">15. 3. 1915.</date>
+            </creation>
+            <langUsage>
+                <language ident="en" usage="99">English</language>
+                <language ident="fr" usage="1">French</language>
+            </langUsage>
+            <particDesc>
+                <listPerson>
+                    <person xml:id="MGB">
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="CYH">
+            <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/6667.detail?">
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Cyril</forename>
+              <addName type="nickname">Pinkie</addName>
+              <surname>Hayter</surname>
+            </persName>
+            <death when="1915-08-28">28 August 1915</death>
+          </person>
+                    <person xml:id="EJO">
+                        <persName>
+                            <roleName>Mrs</roleName>
+                            <forename>Edgar</forename>
+                            <surname>Jones</surname>
+                        </persName>
+                    </person>
+                    <person xml:id="CHI">
+        <persName evidence="external" source="https://museum.timaru.govt.nz/explore/scroll/profile?id=1581">
+            <roleName type="military">Second Lieutenant</roleName>
+            <forename>Chilton</forename>
+            <addName type="nickname">Chillie</addName>
+            <addName type="middle">Goodenough</addName>
+            <surname>Hayter</surname>
+        </persName>
+        <death when="1967-12-14">14 December 1967</death>
+    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant 8th Squadron</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
+                    <relationGrp type="personal">
+                            <relation name="sibling" mutual="#CHI #MGB #CYH"/>
+                    </relationGrp>
+                </listPerson>
+            </particDesc>        
+            <settingDesc>
+                <listPlace>
+                    <place xml:id="CAR">
+        <placeName>
+            <settlement>Cairo</settlement>
+        </placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+                    <place xml:id="ENG">
+        <placeName>
+            <country>England</country>
+        </placeName>
+        <location>
+            <bloc ref="#BRI">United Kingdom</bloc>
+        </location>
+    </place>
+    <place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+                    <place xml:id="EGY">
+        <placeName>
+            <country>Egypt</country>
+        </placeName>
+    </place>  
+                     <place xml:id="ZEI">
+        <placeName>Zeitoun Camp</placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001"/>
+        </revisionDesc>
+    </teiHeader>
+    <text xml:id="t1">
+        <body xml:id="t1-body">
+            
+            <pb n="1" facs="#rb028a" xml:id="t1-body-pb1"/>
+            
+            <opener>
+                <dateline>
+                    <name type="place" ref="#ZEI" key="ZEI"><choice><sic>Zeitun</sic><corr>Zeitoun</corr></choice> Camp</name>
+                    <lb/>
+                    near <name type="place" ref="#CAR" key="CAR">Cairo</name>.
+                    <lb/>
+                    <date when="1915-03-15">15. 3. 1915.</date>
+                </dateline>
+                <lb/>
+                <lb/>
+                <salute>Dear <name type="person" ref="#EJO" key="EJO">Mrs Edgar Jones</name></salute>:
+            </opener>
+            
+            <p>
+                Thank you very
+                <lb/>
+                much indeed for your
+                <lb/>
+                letter.
+            </p>
+            
+            <p>
+                I cannot tell you
+                <lb/>
+                at all what our future
+                <lb/>
+                movements will be, but
+                <lb/>
+                in the event of our coming
+                <lb/>
+                to <name type="place" ref="#ENG" key="ENG">England</name> I will
+                <lb/>
+                certainly let you know.
+            </p>
+            
+            <p>
+                Here we are very
+                
+                <pb n="2" facs="#rb028b" xml:id="t1-body-x4-pb1"/>
+                
+                comfortable &amp; living in a
+                <lb/>
+                lovely climate : I am
+                <lb/>
+                afraid we are very far
+                <lb/>
+                from realising the horrors
+                <lb/>
+                of the war.
+            </p>
+            
+            <p>
+                <name type="person" ref="#CYH" key="CYH">Cyril Hayter</name> is with
+                <lb/>
+                us &amp; sends his kind
+                <lb/>
+                regards.  <name type="person" ref="#CHI" key="CHI">Chilton Hayter</name>
+                <lb/>
+                is I believe coming out
+                <lb/>
+                with some of the later
+                <lb/>
+                reinforcements.
+            </p>
+            
+            <p>
+                The health of everyone
+                <lb/>
+                is excellent, as indeed
+                
+                <pb n="3" facs="#rb028c" xml:id="t1-body-x6-pb1"/>
+                
+                it could not very well
+                <lb/>
+                be otherwise in this
+                <lb/>
+                splendid climate.
+            </p>
+            
+            <p>
+                All the men are
+                <lb/>
+                very keen and we do 
+                <lb/>
+                hope to be given an 
+                <lb/>
+                opportunity to do some
+                <lb/>
+                serious work before long.
+            </p>
+            
+            <p>
+                We were not employed
+                <lb/>
+                on the Canal.  Horsemen
+                <lb/>
+                are rather at a discount
+                <lb/>
+                in trench fighting.
+            </p>
+            
+            <pb n="4" facs="#rb028d" xml:id="t1-body-pb2"/>
+            
+            <p>
+                I hope that you &amp;
+                <lb/>
+                your family are all well,
+                <lb/>
+                and also that you will
+                <lb/>
+                not suffer in any way
+                <lb/>
+                by the war.
+            </p>
+            
+            <closer>
+                <salute>
+                    With kind regards to
+                    <lb/>
+                    your husband &amp; yourself.
+                    <lb/>
+                    Believe me
+                    <lb/>
+                    Sincerely yours.
+                </salute>
+                <lb/>
+                <signed>
+                    <name type="person" ref="#RTB" key="RTB">Roy. Bruce.</name>
+                </signed>
+            </closer>
+            <pb facs="#rb028envf" xml:id="t1-body-pb3"/>
+            <pb facs="#rb028envb" xml:id="t1-body-pb4"/>
+        </body>
+    </text>
+</TEI>

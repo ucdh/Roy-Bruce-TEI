@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd" xml:id="rb117" xml:lang="en">
+	<teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 27 August 1918</title> 
+				<author>
+				<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+				<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>
+				<respStmt xml:id="respStmt-0001">
+					<resp>Creation of digital images</resp>
+					<name type="person">Sian Evans</name>
+					<name type="person">Al Gardner</name>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription</resp>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Transcription check</resp>
+					<name type="person">Sian Evans</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0004">
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0005">
+					<resp>TEI Header compilation</resp>
+					<name type="person">Christopher Thomson</name>
+				</respStmt>
+			</titleStmt>
+			<extent>Extent including images: 4.9MB</extent> 
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+					<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2010-11-15">15 November 2010</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb117a">
+							<graphic url="rb117a.jpg" mimeType="image/jpeg" xml:id="rb117a-g"/>
+							</figure>
+							<figure xml:id="rb117b"><graphic url="rb117b.jpg" mimeType="image/jpeg" xml:id="rb117b-g"/>
+							</figure>
+							<figure xml:id="rb117c"><graphic url="rb117c.jpg" mimeType="image/jpeg" xml:id="rb117c-g"/>
+							</figure>
+							<figure xml:id="rb117d"><graphic url="rb117d.jpg" mimeType="image/jpeg" xml:id="rb117d-g"/>
+							</figure>
+							<figure xml:id="rb117envf"><graphic url="rb117envf.jpg" mimeType="image/jpeg" xml:id="rb117envf-g"/>
+							</figure>
+							<figure xml:id="rb117envb"><graphic url="rb117envb.jpg" mimeType="image/jpeg" xml:id="rb117envb-g"/>
+							</figure>
+						</item>
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135739</idno>
+					<altIdentifier>									<idno type="URL">http://thecommunityarchive.org.nz/node/203700</idno>
+					</altIdentifier>		
+					</msIdentifier>
+					<head>
+					  <date when="1918-08-27">27 August 1918</date>
+					  <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 27 August 1918</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 27 August 1918</title>
+								<extent>4 pages plus envelope</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter">
+							<p>Four sheets of lined paper, writing on one side only, faint creases where it has been folded in quarters, and light smudging at tops of pages. Envelope also included.</p>
+						</objectDesc>
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" medium="pencil" scope="sole">Handwritten by Roy Bruce in tidy flowing cursive. Pencil pleasingly dark and legible.</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a 
+				wide audience original World War I correspondence closely linked to 
+				Canterbury and Southland families. It also aims to introduce the
+				principles of TEI to the ENGL317/419 class and foster a scholarly 	
+				electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+				<p>All first line indentation has been preserved.</p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<creation>
+				<country>Palestine</country>
+				<date when="1918-08-27">Tuesday, 27 August 1918.</date>			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>
+				<listPerson>
+					<person xml:id="RTB">
+						<persName><forename>Roy Thomas</forename><surname>Bruce</surname></persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+<!--http://muse.aucklandmuseum.com/databases/Cenotaph/RecordDetail.aspx?OriginalID=39368&Ordinal=1&c_surname_search=bruce&c_firstname_search=roy%20thomas Also http://www.archway.archives.govt.nz/ViewFullItem.do?code=21889167 -->					
+					</person>
+					<person xml:id="MGB">
+						<persName type="married"><forename>Maud Goodenough</forename><surname>Bruce</surname></persName>
+						<persName type="maiden"><forename>Maud Goodenough</forename><surname>Hayter</surname></persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="HEB">
+						<persName><forename>Helen Eugenie</forename><surname>Bruce</surname></persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
+					<person xml:id="EEB">
+						<persName><forename>Eugenie Elizabeth</forename><surname>Hayter</surname></persName>
+						<birth when="1854-11-20">20 November 1854</birth>
+						<death when="1936-06-29">29 June 1936</death>								</person>
+					<person xml:id="FLE">
+						<persName>Fleming</persName>
+<!-- Fleming Unidentified. There were two Flemings who were recorded in the Canterbury Mounted Rifles: James Fleming or Robert Anthony Fleming. Both embarked with the Main Body, potentially aboard the same ship as RBT, the Athenic; both killed in action 1915. 
+http://muse.aucklandmuseum.com/databases/Cenotaph/SearchResults.aspx?Page=1&c_surname_search=fleming&c_warconflict_search=world+war+i,+1914-1918&c_unit_search=canterbury+mounted+rifles -->
+					</person>		
+		
+					<relationGrp type="personal">
+						<relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+						<relation name="parent" active="#EEH" passive="#MGB"/>
+						<relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+					</relationGrp>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<listPlace>
+  					<place xml:id="PAL">
+        <placeName>
+            <country>Palestine</country>
+        </placeName>
+    </place>
+  					<place xml:id="EGY">
+  					<placeName><country>Egypt</country></placeName>
+ 					</place>
+  					<place xml:id="FRA">
+        <placeName>
+            <country>France</country>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>
+    <place xml:id="EUR">
+        <placeName>
+            <bloc>Europe</bloc>
+        </placeName>
+    </place>
+  					<place xml:id="CMB">
+  					<placeName>
+                    <settlement type="city">Cambridge</settlement>
+                    </placeName>
+                    <location>
+                        <country ref="#ENG">England</country>
+                    </location>
+ 					</place>
+                    <place xml:id="ENG">
+        <placeName>
+            <country>England</country>
+        </placeName>
+        <location>
+            <bloc ref="#BRI">United Kingdom</bloc>
+            </location>
+    </place>
+    <place xml:id="BRI">
+        <placeName>
+            <bloc>United Kingdom</bloc>
+        </placeName>
+        <location>
+            <bloc ref="#EUR">Europe</bloc>
+        </location>
+    </place>   
+
+				</listPlace>
+			</settingDesc>
+
+		</profileDesc>
+		<revisionDesc xml:id="revisionDesc-0001">
+			<change n="Scanning" xml:id="change-0001">
+				<date when="2010-08-13">Friday, 13 August 2010</date>
+					<name type="person">Sian Evans</name>
+					<name type="person">Al Gardner</name>
+					<name type="person">Bjorn Gruebner</name>
+			</change>
+			<change n="Transcription" xml:id="change-0002">
+				<date when="2010-10-29">Friday, 29 October 2010</date>
+				<name type="person">Bjorn Gruebner</name>
+			</change>
+			<change n="Transcription Check" xml:id="change-0003">
+				<date when="2010-11-10">Wednesday, 10 November 2010</date>
+				<name type="person">Sian Evans</name>
+			</change>
+			<change n="Markup" xml:id="change-0004">
+				<date when="2010-11-15">Monday, 15 November 2010</date>
+				<name type="person">Bjorn Gruebner</name>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="text">
+	<body xml:id="t1-body">
+<pb n="1" facs="#rb117a"/>
+<!-- rb117a.jpg contains an image of the page;
+                        the text it contains is encoded here -->
+<opener>
+ 	<dateline>
+  	<name type="place" ref="#PAL" rend="right" key="PAL">Palestine
+	</name>
+ 	<date when="1918-08-27" rend="center">27.8.1918.</date>
+ 	</dateline>
+ 	<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
+</opener>
+<p rend="indent">It is now nearly two months
+	<lb/>since I had any letter or news of you, and
+	<lb/>that was dated May 8<hi rend="sup"><hi rend="u">th</hi></hi>. Mails are very bad
+	<lb/>these days.
+</p>
+<p rend="indent">I have a sort of hazy idea
+	<lb/>I remember <name type="person" ref="#FLE">Fleming</name> but cannot quite place
+	<lb/>him, and there are always more people that
+	<lb/>know Tom fool than Tom fool knows. You
+	<lb/>must not pay too much attention to stories
+	<lb/>men tell you about my doings. I have
+	<lb/>never done anything that many thousands
+	<lb/>of others have done, and have often failed
+	<lb/>to do even that. There is no merit in that.
+	<lb/>Everyone seems so surprised when one tries to
+	<lb/>do what is one's simple duty, surely noone
+	<lb/>expected anything different. As for wound
+	<lb/>stripes and chevrons and things I never wear
+	<lb/>them. I wore wound stripes once for about
+	<lb/>a week and then took them off. I don't
+	<lb/>want to advertise the fact that I have
+	<lb/>been fighting 4 years and wounded twice.
+	<lb/>What does it matter to the people you pass
+
+<pb n="2" facs="#rb117b"/>
+<!-- rb117b.jpg contains an image of the page;
+                        the text it contains is encoded here -->
+	in the street.
+</p>
+<p rend="indent">I do hope you have passed your exam
+	<lb/>well, somehow I think you will have, because
+	<lb/>you say you like the work and that is
+	<lb/>always half the battle.
+</p>
+<p rend="indent">Have been very busy lately, hardly time
+	<lb/>to eat and sleep, and likely to become more
+	<lb/>so in the future. However I am fairly
+	<lb/>fit although at times I long most heartily
+	<lb/>for a real rest. Of course I have said the
+	<lb/>same thing for the last two years but seem
+	<lb/>to carry on somehow. This summer has
+	<lb/>not been so bad, <name type="place" ref="#PAL" key="PAL">Palestine</name> is not nearly
+	<lb/>so hot as <name type="place" ref="#EGY" key="EGY">Egypt</name> and as we live in and
+	<lb/>on the hills there is always some sort of
+	<lb/>a breeze. I think I have been in this
+	<lb/>country long enough without a break, and
+	<lb/>I am very keen to get on the French front.
+	<lb/>If I go to <name type="place" ref="#CMB" key="CMB">Cambridge</name> for the Staff Course, I
+	<lb/>hope I may get an appointment in <name type="place" ref="#FRA" key="FRA">France</name>.
+</p>
+<p rend="indent">You ask me about my work here, well
+<lb/>a Brigade Major's job is varied and peculiar.
+<lb/>He is responsible to noone in the Brigade
+<lb/>but his General whose Staff officer he is.
+<lb/>He is responsible to his General for the whole
+<lb/>working of the Brigade, operations, fighting
+
+<pb n="3" facs="#rb117c"/>
+<!-- rb117c.jpg contains an image of the page;
+                        the text it contains is encoded here -->
+	efficiency and training. He has a Staff
+	<lb/>Captain to help with the administrative
+	<lb/>side and an Intelligence officer to help
+	<lb/>with the Intelligence or information about
+	<lb/>the enemy side etc. He is never off duty
+	<lb/>day or night and sleeps with a telephone
+	<lb/>at his bedside. In peace time the job is
+	<lb/>one of the plums of the service, in war time
+	<lb/>it is just one damned thing after another.
+	<lb/>I completed 6 months here the other day &amp;
+	<lb/>GHQ called for a report. It might have been
+	<lb/>worse. In a cavalry brigade this job is
+	<lb/>much lighter, there are not the thousand
+	<lb/>and one details required for infantry. I
+	<lb/>expect to go from here before long, a large
+	<lb/>proportion of the E.E.F Staff are being
+	<lb/>replaced by Indian Army, and in this
+	<lb/>Division I am the only Bde Major left who
+	<lb/>has not been so replaced. I wish I
+	<lb/>were better able to stand the heat, I would
+	<lb/>go for the Indian Army, but am afraid I
+	<lb/>could not stand it long.
+</p>
+<p rend="indent">There, you have a terrific screed
+	<lb/>all about myself.
+</p>
+<p rend="indent">Sorry to hear <name type="person" ref="#MGB" key="MGB">Mrs Hayter</name> is not
+	<lb/>well. Of course she is no longer young
+
+<pb n="4" facs="#rb117d"/>
+<!-- rb117d.jpg contains an image of the page;
+                        the text it contains is encoded here -->
+	and it is only natural that the war
+	<lb/>should weigh somewhat heavily on her.
+	<lb/>However the news now is ever so much
+	<lb/>more cheering and I think the tide has
+	<lb/>turned although there is still a long
+	<lb/>lane to go up.
+</p>
+<p rend="indent">It is very cheering to find <name type="person" ref="#HEB" key="HEB">Helen</name>
+	<lb/>doing so well at school. I used to be
+	<lb/>the same but went to pieces afterwards
+	<lb/>chiefly through neglect.
+</p>
+<p rend="indent">Well old thing there is
+	<lb/>nothing more to say this time. Stick
+	<lb/>to your work. take things quietly, all
+	<lb/>will be well.
+</p>
+<p rend="indent">Take care of yourself &amp; be
+	<lb/>happy. We will conduct a strong
+	<lb/>peace offensive when I get back.
+</p>
+<closer>
+	<salute rend="indent">Lots of love and humbugs</salute>
+	<signed rend="right"><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></hi></signed>
+ </closer>
+<pb n="5" facs="#rb117envf"/>
+<!-- rb117envf.jpg contains an image of the front of the envelope;
+                        no text it contains has been encoded here -->
+<pb n="6" facs="#rb117envb"/>
+<!-- rb117envb.jpg contains an image of the back of the envelope;
+                        no text it contains has been encoded here -->
+	</body>
+	</text>
+</TEI>

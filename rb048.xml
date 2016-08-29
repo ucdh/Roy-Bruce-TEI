@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb048" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>        
+        <respStmt xml:id="respStmt-0001">
+          <resp>Transcription</resp>
+          <name type="person">Jennifer Middendorf</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>                
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+          <addrLine>School of Humanities</addrLine>
+          <addrLine>University of Canterbury</addrLine>
+          <addrLine>Private Bag 4800</addrLine>
+          <addrLine>Christchurch 8140</addrLine>
+          <addrLine>New Zealand</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2015-07-15">15 July 2015</date>
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb048a">
+                <graphic url="rb048a.jpg" mimeType="image/jpeg" xml:id="rb048a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048b">
+                <graphic url="rb048b.jpg" mimeType="image/jpeg" xml:id="rb048b-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048c">
+                <graphic url="rb048c.jpg" mimeType="image/jpeg" xml:id="rb048c-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048d">
+                <graphic url="rb048d.jpg" mimeType="image/jpeg" xml:id="rb048d-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048e">
+                <graphic url="rb048e.jpg" mimeType="image/jpeg" xml:id="rb048e-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048f">
+                <graphic url="rb048f.jpg" mimeType="image/jpeg" xml:id="rb048f-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048g">
+                <graphic url="rb048g.jpg" mimeType="image/jpeg" xml:id="rb048g-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048h">
+                <graphic url="rb048h.jpg" mimeType="image/jpeg" xml:id="rb048h-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048envf">
+                <graphic url="rb048envf.jpg" mimeType="image/jpeg" xml:id="rb048envf-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb048envb">
+                <graphic url="rb048envb.jpg" mimeType="image/jpeg" xml:id="rb048envb-g"/>
+              </figure>
+            </item>           
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135670</idno>          
+          </msIdentifier>
+          <head>
+            <date when="1915-07-18">15 July 1915</date>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>8 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"/>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+        <p>All first line indentation has been preserved.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>        
+        <date when="1915-07-18">15 July 1915</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>        
+        <listPerson>
+          <person xml:id="MGB">
+            <persName>
+              <forename>Maud</forename>
+              <addName type="middle">Goodenough</addName>
+              <surname type="maiden">Hayter</surname>
+              <surname type="married">Bruce</surname>
+            </persName>
+          </person>
+          <person xml:id="HFH">
+            <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C6765?">
+              <forename>Harold</forename>
+              <addName type="middle">Francis</addName>
+              <surname>Henderson</surname>
+            </persName>
+            <death when="1918-10-20">20 October 1918</death>       
+          </person>
+          <person xml:id="BOW">
+            <persName>Bowie</persName>
+          </person>
+          <person xml:id="HHH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/6237.detail?">
+        <persName>
+            <roleName type="military">Major</roleName>
+            <forename>Herbert</forename>
+            <addName type="middle">Harold</addName>
+            <surname>Hammond</surname>
+        </persName>
+        <death when="1916-08-09">9th of August 1916</death>
+    </person>
+          <person xml:id="VFN">
+            <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/11312.detail?">
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Vincent</forename>
+              <addName type="middle">Fosbery</addName>
+              <surname>Nancarrow</surname>                    
+            </persName>
+            <death when="1915-08-04">4 August 1915</death>              
+          </person>
+          <person xml:id="CYH">
+            <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/6667.detail?">
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Cyril</forename>
+              <addName type="nickname">Pinkie</addName>
+              <surname>Hayter</surname>
+            </persName>
+            <death when="1915-08-28">28 August 1915</death>
+          </person>
+          <person xml:id="RTB">
+            <persName>
+              <roleName type="military">Lieutenant 8th Squadron</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+          <person xml:id="HEB">
+            <persName>
+              <forename>Helen</forename>
+              <addName type="middle">Eugenie </addName>
+              <surname type="maiden">Bruce</surname>
+              <surname type="married">Alexander</surname>
+            </persName>
+            <birth when="1909-12-05">5 December 1909</birth>
+          </person>
+        </listPerson>        
+      </particDesc>      
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"/>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:id="t1">
+    <body xml:id="t1-body">    
+      <pb n="1" facs="#rb048a" xml:id="t1-body-pb1"/>    
+      <opener>      
+        <dateline>
+          Turkeydom
+          <date when="1915-07-18">15 July 1915</date>
+        </dateline>
+        <lb/>
+        <salute>My dearest girl</salute>:
+      </opener>    
+      <p>
+        You poor thing
+        <lb/>
+        you must be having rather
+        <lb/>
+        a rotten time just now, and
+        <lb/>
+        I can quite imagine your fear
+        <lb/>
+        of the telephone &amp; door bell, I
+        <lb/>
+        hope you are settling down
+        <lb/>
+        better now and that there
+        <lb/>
+        are not so many terrors for
+        <lb/>
+        you. Keep going old girl, take
+        
+        <pb n="2" facs="#rb048b" xml:id="t1-body-x2-pb1"/>
+        
+        plenty of exercise interspersed
+        <lb/>
+        with your <name type="organisation">Red Cross</name> work,
+        <lb/>
+        and it will help you a lot.
+        <lb/> 
+        We are only two out of
+        <lb/> 
+        millions dear, but any sacrifice
+        <lb/> 
+        is worthy of the Cause for
+        <lb/> 
+        which we are fighting, and 
+        <lb/> 
+        you know darling how we would
+        <lb/> 
+        have despised ourselves inwardly,
+        <lb/> 
+        if I had stayed behind in
+        <lb/> 
+        safety after being in the 8th for
+        <lb/> 
+        4 years. Everything will come
+        <lb/> 
+        out alright quite soon now.
+        <lb/> 
+        You are very plucky <name type="person" ref="#MGB" key="MGB">Maud</name>,
+        <lb/> 
+        stick to it, I know you will.
+        <lb/> 
+        You certainly have the worst 
+        <lb/> 
+        end of the deal at present.
+      </p>
+      
+      <p>
+        Something has gone wrong 
+        <lb/> 
+        with the old mails. Your
+        <lb/> 
+        last letter was dated <date when="1915-05-12">12 May</date>
+        
+        <pb n="3" facs="#rb048c" xml:id="t1-body-x3-pb1"/>
+        
+        and some of the others
+        <lb/> 
+        got theirs under date <date when="1915-06-02">2<hi rend="sup"><hi rend="u">nd</hi></hi>
+          <lb/> 
+          June</date>. I expect they will
+        <lb/> 
+        all come along.
+      </p>
+      
+      <p>
+        I have been hoarding up
+        <lb/> 
+        a fountain pen full of ink to
+        <lb/> 
+        address postcards &amp; envelopes,
+        <lb/> 
+        it has now run out so every-
+        <lb/> 
+        thing must be done in
+        <lb/> 
+        pencil.
+      </p>
+      
+      <p>
+        Had almost a unique
+        <lb/> 
+        experience the other day I 
+        <lb/> 
+        should think; a small
+        <lb/> 
+        pay of 10/- <choice><abbr>p.</abbr><expan>per</expan></choice> man was
+        <lb/> 
+        allowed, and I paid out
+        <lb/> 
+        part of the squadron in the
+        <lb/> 
+        advanced trenches within
+        <lb/> 
+        50 yards of the Turkish lines!
+        <lb/> 
+        I should have liked a photo-
+        
+        <pb n="4" facs="#rb048d" xml:id="t1-body-x5-pb1"/>
+        
+        graph of it.
+      </p>
+      
+      <p>
+        There is little news, we
+        <lb/> 
+        have had a fairly quiet time
+        <lb/> 
+        since we took over these
+        <lb/> 
+        lines, and we go out again
+        <lb/> 
+        in a few days.
+      </p>
+      
+      <p>
+        The heat is appalling,
+        <lb/> 
+        &amp; seems to get worse, no
+        <lb/> 
+        shade anywhere, and I am
+        <lb/> 
+        afraid it is beginning to tell
+        <lb/> 
+        on me a little.
+      </p>
+      
+      <p>
+        I saw a letter in 
+        <lb/> 
+        the <name type="organisation">Herald</name> denouncing
+        <lb/> 
+        lady golf players, By Jove
+        <lb/> 
+        I would be wild if you
+        <lb/> 
+        gave up your golf. I 
+        <lb/> 
+        thought the answer was
+        <lb/> 
+        a very good one.  Did <name type="person">Cox</name>
+        
+        <pb n="5" facs="#rb048e" xml:id="t1-body-x8-pb1"/>
+        
+        write it?  My poor old diary
+        <lb/> 
+        is sort of hung up for want
+        <lb/> 
+        of news. There is nothing at
+        <lb/> 
+        present that I can think of
+        <lb/> 
+        to put in it.
+      </p>
+      
+      <p>
+        We have managed to get
+        <lb/> 
+        a few luxuries such as sago,
+        <lb/> 
+        tinned fruits, biscuits etc, but
+        <lb/> 
+        alas they will not last very
+        <lb/> 
+        long.
+      </p>
+      
+      <p>
+        I wonder if old <name type="person">McNamara</name>
+        <lb/> 
+        will sell the tiger? I hope
+        
+        <pb n="6" facs="#rb048f" xml:id="t1-body-x10-pb1"/>
+        
+        he does.
+      </p>
+      
+      <p>
+        <name type="person" ref="#HFH" key="HFH">Henderson</name>, you remember of
+        <lb/> 
+        machine gun fame, has lost
+        <lb/> 
+        a leg. <name type="person" ref="#HHH" key="HHH">Hammond</name> is away
+        <lb/> 
+        sick. <name type="person" ref="#VFN" key="VFN">Nancarrow</name> lasted a 
+        <lb/> 
+        week. <name type="person" ref="#CYH" key="CYH">Pinkie</name> seems to be
+        <lb/> 
+        holding out better than anyone.
+        <lb/> 
+        <name type="person" ref="#BOW">Bowie</name> I hear is going back to
+        <lb/> 
+        N.Z.  I am still hanging
+        <lb/> 
+        on fairly fit, but feel very
+        <lb/> 
+        much as if I wanted a
+        <lb/> 
+        spell and feeding up.
+      </p>
+      
+      <p>
+        This is Ramadan &amp; we
+        <lb/> 
+        more or less expect an
+        <lb/> 
+        attack by the Turks, consequently
+        <lb/> 
+        we get very little sleep now-
+        <lb/> 
+        adays. It is impossible to 
+        <lb/> 
+        sleep in the day time, too hot
+        
+        <pb n="7" facs="#rb048g" xml:id="t1-body-x12-pb1"/>
+        
+        &amp; millions of flies.
+      </p>
+      
+      <p>
+        I am glad old Jeremy
+        <lb/> 
+        is back. I did not know
+        <lb/> 
+        he had been away all the 
+        <lb/> 
+        time.
+      </p>
+      
+      <p>
+        Sorry you did not do
+        <lb/> 
+        too well in the Bowe
+        <lb/> 
+        Cup, better luck next
+        <lb/> 
+        time.  Have a good try
+        <lb/> 
+        for the Dryden Cup.  You
+        <lb/> 
+        ought to be bringing your
+        <lb/> 
+        handicap down soon, that
+        <lb/> 
+        is if you have time.
+      </p>
+      
+      <p>
+        Certainly give away
+        <lb/> 
+        as many of my old
+        <lb/> 
+        things as you like, they
+        <lb/> 
+        could not go to a better
+        
+        <pb n="8" facs="#rb048h" xml:id="t1-body-x15-pb1"/>
+        
+        cause.
+      </p>
+      
+      <p>
+        I enclose a piece on 
+        <lb/> 
+        war babies I cut out from
+        <lb/> 
+        some paper, there is merit
+        <lb/> 
+        in the sentiment.
+      </p>
+      
+      <p>
+        Given <name type="person" ref="#HEB" key="HEB">Helen</name> my love &amp;
+        <lb/> 
+        many humbugs.  I do long
+        <lb/> 
+        for the days when I shall
+        <lb/> 
+        be back with you again.
+      </p>
+      
+      <p>
+        So long dearest of girls,
+        <lb/> 
+        keep your old heart up, &amp;
+        <lb/> 
+        all will be well.
+      </p>
+      
+      <closer>
+        <salute>
+          You are very dear to me
+          <lb/> 
+          my dear ones.
+        </salute>
+        <lb/> 
+        <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+      </closer>    
+    </body>
+    <pb facs="#rb048envf" xml:id="t1-pb1"/>
+    <pb facs="#rb048envb" xml:id="t1-pb2"/>
+  </text>
+  </TEI>

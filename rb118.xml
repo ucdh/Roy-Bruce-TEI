@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd" xml:id="rb118" xml:lang="en">
+	<teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 9 September 1918</title> 
+				<author>
+				<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+				<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>
+				<respStmt xml:id="respStmt-0001">
+					<resp>Creation of digital images</resp>
+					<name type="person">Sian Evans</name>
+					<name type="person">Al Gardner</name>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription</resp>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Transcription check</resp>
+					<name type="person">Sian Evans</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0004">
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Bjorn Gruebner</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0005">
+					<resp>TEI Header compilation</resp>
+					<name type="person">Christopher Thomson</name>
+				</respStmt>
+			</titleStmt>
+			<extent>Extent including images: 10.9MB</extent> 
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+					<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2010-11-15">15 November 2010</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb118a">
+							<graphic url="rb118a.jpg" mimeType="image/jpeg" xml:id="rb118a-g"/>
+							</figure>
+							<figure xml:id="rb118b"><graphic url="rb118b.jpg" mimeType="image/jpeg" xml:id="rb118b-g"/>
+							</figure>
+							<figure xml:id="rb118c"><graphic url="rb118c.jpg" mimeType="image/jpeg" xml:id="rb118c-g"/>
+							</figure>
+							<figure xml:id="rb118d"><graphic url="rb118d.jpg" mimeType="image/jpeg" xml:id="rb118d-g"/>
+							</figure>
+							<figure xml:id="rb118e"><graphic url="rb118e.jpg" mimeType="image/jpeg" xml:id="rb118e-g"/>
+							</figure>
+							<figure xml:id="rb118f"><graphic url="rb118f.jpg" mimeType="image/jpeg" xml:id="rb118f-g"/>
+							</figure>
+							<figure xml:id="rb118envf"><graphic url="rb118envf.jpg" mimeType="image/jpeg" xml:id="rb118envf-g"/>
+							</figure>
+							<figure xml:id="rb118envb"><graphic url="rb118envb.jpg" mimeType="image/jpeg" xml:id="rb118envb-g"/>
+							</figure>
+						</item>
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135740</idno>
+					<altIdentifier>									<idno type="URL">http://thecommunityarchive.org.nz/node/203701</idno>
+					</altIdentifier>		
+					</msIdentifier>
+					<head>
+					  <date when="1918-09-09">9 September 1918</date>
+					  <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 9 September 1918</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 9 September 1918
+</title>								<extent>6 pages plus envelope</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter">
+							<p>Three sheets of unlined paper, writing on both sides to make up 6 sides in total, writing on other side faintly visible. Light smudging at top of page 1 (rb118a.jpg) and page 2 (rb118b.jpg), slight discolouration around paper folds on pages 5 (rb118e.jpg) and 6 (rb118f.jpg). Envelope also included.</p>						</objectDesc>
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" medium="black-ink" scope="sole">Handwritten by Roy Bruce in flowing cursive, has been tidier. Pen seems slightly blotchy at times.</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a 
+				wide audience original World War I correspondence closely linked to 
+				Canterbury and Southland families. It also aims to introduce the
+				principles of TEI to the ENGL317/419 class and foster a scholarly 	
+				electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+				<p>All first line indentation has been preserved.</p>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<creation>
+				<country>Palestine</country>
+				<date when="1918-09-09">Monday, 9 September 1918.</date>			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>
+				<listPerson>
+					<person xml:id="RTB">
+        <persName>
+            <roleName type="military">Lieutenant 8th Squadron</roleName>
+            <forename>Roy</forename>
+            <addName type="middle">Thomas</addName>
+            <surname>Bruce</surname>
+        </persName>
+        <birth when="1881-12-18">18 December 1881</birth>
+        <death when="1945-11-29">29 November 1945</death>
+    </person>
+					<person xml:id="MGB">
+        <persName>
+            <forename>Maud</forename>
+            <addName type="middle">Goodenough</addName>type="married">
+            <surname type="maiden">Hayter</surname>
+            <surname type="married">Bruce</surname>
+        </persName>
+        <birth when="1880-02-22">22 February 1880</birth>
+    </person>
+					<person xml:id="HEB">
+        <persName>
+            <forename>Helen</forename>
+            <addName type="middle">Eugenie</addName>
+            <surname type="maiden">Bruce</surname>
+            <surname type="married">Alexander</surname>
+        </persName>
+        <birth when="1909-12-05">5 December 1909</birth>
+    </person>
+					
+					<person xml:id="AWH">
+                        <persName>
+                        <forename>Agnes</forename>
+                        W.
+                        <surname>Hay</surname>
+                        </persName>
+                    </person>		
+					<person xml:id="NIC">
+        <persName>
+            <roleName type="military">Colonel</roleName>
+            <forename>Stephen</forename>
+            <addName type="middle">Charles</addName>
+            <addName type="middle">Phillips</addName>               	 
+            <surname>Nicholls</surname>
+        </persName>
+    </person>
+					<person xml:id="CHI">
+        <persName>
+            <roleName type="military">Second Lieutenant</roleName>
+            <forename>Chilton</forename>
+            <addName type="nickname">Chillie</addName>
+            <addName type="middle">Goodenough</addName>
+            <surname>Hayter</surname>
+        </persName>
+        <death when="1967-12-14">14 December 1967</death>
+    </person>
+					
+					<person xml:id="EZI">
+						<persName evidence="external" source="http://1914-1918.invisionzone.com/forums/index.php?showtopic=44272%20also,%20http://www.rootsweb.ancestry.com/~nzlscant/timaru_roll.html">
+                            <forename>Erling</forename>
+                            <surname>Ziesler</surname>
+                        </persName>					
+					</person>	
+					<relationGrp type="personal">
+						<relation name="parent" active="#RTB #MBG" passive="#HEB"/>
+						<relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
+                        <relation name="sibling" mutual="#CHI #MGB"/>
+					</relationGrp>
+				</listPerson>
+			</particDesc>
+			<settingDesc>
+				<listPlace>
+  					<place xml:id="PAL">
+        <placeName>
+            <country>Palestine</country>
+        </placeName>
+    </place>
+  					<place xml:id="NZE">
+        <placeName>
+            <country>New Zealand</country>
+        </placeName>
+    </place>
+  					<place xml:id="ALX">
+        <placeName>
+            <settlement>Alexandria</settlement>            
+        </placeName>
+        <location>
+            <country ref="#EGY">Egypt</country>
+        </location>
+    </place>
+    <place xml:id="EGY">
+        <placeName>
+            <country>Egypt</country>
+        </placeName>
+    </place>
+ 
+				</listPlace>
+			</settingDesc>
+
+		</profileDesc>
+		<revisionDesc xml:id="revisionDesc-0001">
+			<change n="Scanning" xml:id="change-0001">
+				<date when="2010-08-13">Friday, 13 August 2010</date>
+					<name type="person">Sian Evans</name>
+					<name type="person">Al Gardner</name>
+					<name type="person">Bjorn Gruebner</name>
+			</change>
+			<change n="Transcription" xml:id="change-0002">
+				<date when="2010-10-29">Friday, 29 October 2010</date>
+				<name type="person">Bjorn Gruebner</name>
+			</change>
+			<change n="Transcription Check" xml:id="change-0003">
+				<date when="2010-11-10">Wednesday, 10 November 2010</date>
+				<name type="person">Sian Evans</name>
+			</change>
+			<change n="Markup" xml:id="change-0004">
+				<date when="2010-11-15">Monday, 15 November 2010</date>
+				<name type="person">Bjorn Gruebner</name>
+			</change>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="t1">
+	<body xml:id="t1-body">
+<pb n="1" facs="#rb118a"/>
+<opener>
+ 	<dateline>
+  	<name type="place" ref="#PAL" rend="right" key="PAL">Palestine
+	</name>
+ 	<date when="1918-09-09" rend="center">9.9.1918.</date>
+ 	</dateline>
+ 	<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
+</opener>
+<p rend="indent">Your letter of 26<hi rend="sup">.</hi> May has
+	<lb/>arrived, praise the pigs. You will see they take
+	<lb/>some time to get here these days.
+</p>
+<p rend="indent">I am anxious to get your next
+	<lb/>which will probably give the result of your exam. Am
+	<lb/>sorry you were disappointed with the paper, but you
+	<lb/>will find that an exam paper never does ask the
+	<lb/>questions one really knows the answer to, and then
+	<lb/>one always feels <choice><sic>agrieved</sic><corr>aggrieved</corr></choice>, and looks upon it as a 
+	<lb/>personal affront.
+</p>
+<p rend="indent">Glad to hear you are enjoying
+	<lb/>your holiday, probably by the time you get this you
+	<lb/>will be having another.
+</p>
+<p rend="indent">You have not yet enclosed any
+	<lb/>of <name type="person" ref="#HEB" key="HEB">Helen's</name> tests, I should much like to see some.
+</p>
+<p rend="indent">Glad you liked my photographs, I
+	<lb/>I am told it is a very good likeness. Probably I was
+	<lb/>stouter then, at that time I was living on the fat of
+	<lb/>the land at G.H.Q., in any case I have filled out a
+	<lb/>lot the last four years.
+</p>
+<p rend="indent">Very sorry indeed to hear about <name type="person">Muir</name>,
+
+
+<pb n="2" facs="#rb118b"/>
+
+	why did they give up the farm? Surely the
+	<lb/>country is better for him than the town?
+</p>
+<p rend="indent">Had a very nice letter from <name type="person" ref="#AWH" key="AWH">M<hi rend="sup"><hi rend="u">rs</hi></hi> Hay</name> the
+	<lb/>other day, some of her remarks are most amusing.
+	<lb/>She is almost the only one left who troubles to
+	<lb/>write to me.
+</p>
+<p rend="indent">Very pleased to hear <name type="person" ref="#CHI">Chillie</name> has an M.C.
+	<lb/>no doubt he deserved it. I understand that <name type="person" ref="#NIC">Nicholls</name>'
+	<lb/>D.S.O. was the occasion for much ribald laughter, but 
+	<lb/>as I was not there I cannot judge. So far as
+	<lb/>I am concerned you need not expect to see my
+	<lb/>name figuring in those lists. I have expressed
+	<lb/>opinions about the promiscuous distribution of these
+	<lb/>things more than once. I know of a case of a man
+	<lb/>who has lived in one of the best hotels in <name type="place" ref="#ALX" key="ALX">Alexandria</name>
+	<lb/>since 1914. He is employed as <add place="above">an</add> M.L.O. i.e. Military
+	<lb/>landing officer. He superintended the arrival of ships
+	<lb/>with troops. He was a subaltern in a cavalry regt
+	<lb/>sent there because considered unsuitable for the field.
+	<lb/>He is now a captain and wears the M.C. and Croix de
+	<lb/>guerre, another man was awarded the Italian silver
+	<lb/>medal for bravery - he sat in an office and deciphered
+	<lb/>telegrams. - I see the O.B.E. is now awarded in
+
+<pb n="3" facs="#rb118c"/>
+
+	the field. It is called here The Order of the Bad
+	<lb/>Egg! It is only those who do not know who covet
+	<lb/>those things nowadays, those who do understand
+	<lb/>prefer a bare breast.
+</p>
+<p rend="indent">Glad to hear <name type="person" ref="#EZI" key="EZI">Erling <choice><sic>Zeisler</sic><corr>Ziesler</corr></choice></name> is getting on, there
+	<lb/>was always good stuff in him. Suppose he is Staff
+	<lb/>Captain with one of the N.Z. Brigades. - It should
+	<lb/>suit him being on the 'Q' side.
+</p>
+<p rend="indent">Sorry to hear you think I am not
+	<lb/>treating you fairly. I suppose you realise that
+	<lb/>until I am able to refund the money you had
+	<lb/>from <name type="person">Scott</name>, you have made it quite impossible
+	<lb/>for me to return to <name type="place" ref="#NZE" key="NZE">N.Z.</name>, even supposing I could
+	<lb/>get leave. Money doesn't grow on bushes here anymore
+	<lb/>than it does elsewhere. If this war hasn't taught
+	<lb/>you that your needs must be suited to your income
+	<lb/>I don't suppose anything will. I hate writing
+	<lb/>to you like this, especially as from this end one
+	<lb/>never knows what is going to happen from day to day,
+	<lb/>I don't know how you are going to straighten out
+	<lb/>your tangle. I don't propose to pay <name type="person">Scott</name>, and it is
+	<lb/>obvious I cannot return until he is paid. You
+	<lb/>seem to be beginning to think I am out here for
+
+<pb n="4" facs="#rb118d"/>
+
+	amusement and am living a life of ease and
+	<lb/>luxury. Don't you think you might try to help a
+	<lb/>little. Let us look at it from another point of view.
+	<lb/>Let us assume the war ends tomorrow and the army
+	<lb/>is disbanded. I am not a regular soldier and I
+	<lb/>return to civil life. On my return after 4 years I
+	<lb/>find what. My house inhabited by strangers, my
+	<lb/>daughter at a boarding school, my wife in lodgings with
+	<lb/>a millstone of debt round her. It is not a pleasant
+	<lb/>picture is it, but I am afraid it is a true one. Be
+	<lb/>quite fair now, is it reasonable that I should return
+	<lb/>to that. Put yourself in my place and try and think
+	<lb/>it out.</p>
+	<p rend="indent">I have many worries of my own, but
+	<lb/>because I don't put them on paper it doesn't follow
+	<lb/>they don't exist. This is not at all an easy life here,
+	<lb/>and I want every bit of brain and energy I possess to
+	<lb/>keep going - afterwards I want some rest and a
+	<lb/>little peace, but I cannot see much likelihood of it
+	<lb/>in <name type="place" ref="#NZE" key="NZE">N.Z.</name> at present. My dear, I am afraid you are
+	<lb/>like most of your sex and see things only from one
+	<lb/>view point viz your own, also you are somewhat
+	<lb/>selfish. I used not to think this last. There
+	<lb/>I am not going to say any more now, I want you
+	<lb/>to think things over quietly. I am sure you will
+
+<pb n="5" facs="#rb118e"/>
+
+	see that "Not treating you fairly", hardly applies
+	<lb/>to me.
+</p>
+<p rend="indent">Here's a story:
+<lb/>An officer <del rend="strike">was</del> had an operation on his hip. When
+	<lb/>he recovered consciousness he asked the V.A.D. whether
+	<lb/>it was a girl or a boy!
+	<lb/>She fled.
+	<lb/>This is true.
+</p>
+<p rend="indent">Have not been very fit lately, got sandfly
+	<lb/>fever again, temperature 104, went to bed for 3 days,
+	<lb/>they talked of hospital but I flatly refused to go and
+	<lb/>am better now. Also I scratched my ankle &amp; it
+	<lb/>went septic, and I can't get a boot on and most
+	<lb/>things are flat stale and unprofitable. Luckily
+	<lb/>things are quiet just now and Abdul is not
+	<lb/>obstreperous.
+</p>
+<p rend="indent">We had a fortnight out of the line
+	<lb/>last month, first time for 6 months, it was
+	<lb/>almost like a holiday, although we were busy
+	<lb/>adapting Indian Battalions to new conditions.
+</p>
+<p rend="indent">Sorry you think my letters are so
+	<lb/>matter of fact, am afraid this is not a very
+
+<pb n="6" facs="#rb118f"/>
+
+	romantic life.
+</p>
+<p rend="indent">This may amuse you. A Jewish Battalion 
+	<lb/>has been raised out here and they have adopted
+	<lb/>for their motto "For (e) skin and country" also
+	<lb/>"No advance without security", but I like the
+	<lb/>former best don't you?
+</p>
+<p rend="indent">The French news is good, but it is only
+	<lb/>a phase in the war. The war will eventually
+	<lb/>be won in the air, when we can control the air
+	<lb/>entirely then will we see everything they do &amp;
+	<lb/>they will see nothing we do, then we win -
+	<lb/>Think that out.
+</p>
+<p rend="indent">No more now, I hear there is a
+	<lb/>cake for tea &amp; it is tea time.
+</p>
+ <closer>
+  <salute rend="center">Much love to you both</salute>
+  <signed rend="right"><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy.</name></hi></signed>
+ </closer>
+
+<pb n="7" facs="#rb118envf"/>
+
+<pb n="8" facs="#rb118envb"/>
+
+	</body>
+	</text>
+</TEI>
