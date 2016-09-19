@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb079" xml:lang="en" >
+	<teiHeader type="text">
+		<fileDesc>
+			<titleStmt>
+				<title>Letter from Roy Bruce to Helen Bruce</title>
+				<author>
+					<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+					<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>				
+				<respStmt>
+					<resp>Transcription</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt>
+					<resp>Transcription check</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt>
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Brad McNeur</name>
+					<name type="person">Lucy-Jane Walsh</name>
+				</respStmt>                
+			</titleStmt>
+			<extent>Extent including images:  kb</extent>
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+						<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2016-08-30">30 August 2016</date>
+			</publicationStmt>
+			<notesStmt>
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb079a">
+								<graphic url="rb079a.jpg" mimeType="image/jpeg" xml:id="rb079a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb079b">
+								<graphic url="rb079b.jpg" mimeType="image/jpeg" xml:id="rb079b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb079c">
+								<graphic url="rb079c.jpg" mimeType="image/jpeg" xml:id="rb079c-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb079d">
+								<graphic url="rb079d.jpg" mimeType="image/jpeg" xml:id="rb079d-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb079envf">
+								<graphic url="rb079envf.jpg" mimeType="image/jpeg" xml:id="rb079envf-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb079envb">
+								<graphic url="rb079envb.jpg" mimeType="image/jpeg" xml:id="rb079envb-g"/>
+							</figure>
+						</item>						
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135701</idno>               
+					</msIdentifier>
+					<head>
+						<date when="1916-09-17">17 September 1916</date>
+						<title>Letter from Roy Bruce to Helen Bruce</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Bruce to Helen Bruce</title>
+								<extent>4 Pages</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter"></objectDesc>                           
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc>
+				<p>The Roy Bruce project aims to preserve and make available to a 
+					wide audience original World War I correspondence closely linked to 
+					Canterbury and Southland families. It also aims to introduce the
+					principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+					electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<settlement>Hotel De Sand Heap</settlement>
+				<country></country>
+				<date when="1916-09-17">17 September 1916</date>
+			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>                
+				<listPerson>
+					<person xml:id="HEB">
+						<persName>
+							<forename>Helen</forename>
+							<addName type="middle">Eugenie</addName>
+							<surname type="maiden">Bruce</surname>
+							<surname type="married">Alexander</surname>
+						</persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
+					<person xml:id="MGB">
+						<persName>
+							<forename>Maud</forename>
+							<addName type="middle">Goodenough</addName>type="married">
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Bruce</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="RTB" evidence='external' source='http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368'>
+						<persName>
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Thomas</addName>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>
+				</listPerson>                               
+			</particDesc>        
+		</profileDesc>
+		<revisionDesc>
+			<change></change>
+		</revisionDesc>
+	</teiHeader>
+	<text>
+	  <body>	    
+	    <pb n="1" facs="#rb079a"/>	    
+	    <opener>	      
+	      <dateline>
+	        Hotel de Sand heap
+	        <lb/>
+	      	<date when="1916-09-17">17 Sept 1916</date>
+	      <lb/>
+	      <lb/>
+	      </dateline>
+	      <salute>Dear <name type="person" ref="#HEB">little chickadee</name> -</salute>
+	    </opener>
+		
+		<p>
+			<name type="person" ref="#MGB">Mummy</name> will give
+			<lb/>
+			you a little photograph I
+			<lb/>
+			have put in her letter, which
+			<lb/>
+			I hope you will like.
+		</p>
+		
+		<p>
+			The horse is named
+			<lb/>
+			"Robin", and is a dark brown
+			<lb/>
+			with one white sock on his
+			<lb/>
+			near hind foot. We washed
+			<lb/>
+			him the other day to see if
+			<lb/>
+			we could find some more
+	      
+		    <pb n="2" facs="#rb079b"/>
+			
+			socks, but we couldn't.
+			<lb/>
+			Do you know that "Robin" 
+			<lb/>
+			has a bullet hole right
+			<lb/>
+			through one ear. He was
+			<lb/>
+			very frightened but it didn't 
+			<lb/>
+			hurt him much, and you
+			<lb/>
+			can see by his photograph
+			<lb/>
+			that his ears are quite cocky.
+		</p>
+		
+		<p>
+			Now I am going to ask
+			<lb/>
+			you to do something for me.
+			<lb/>
+			I want you to be a very
+			<lb/>
+			good girl, and be very nice
+			<lb/>
+			and sweet to <name type="person" ref="#MGB">mummy</name>,
+			<lb/>
+			because she has a lot of
+			
+		    <pb n="3" facs="#rb079c"/>
+		
+			things to worry her just 
+			<lb/>
+			now, and you must cheer
+			<lb/>
+			her up as much as you can.
+			<lb/>
+			I should like to come and
+			<lb/>
+			help you, but as I can't
+			<lb/>
+			come back yet, you must
+			<lb/>
+			do it all by yourself. You
+			<lb/>
+			will, won't you?
+		</p>
+		
+		<p>
+			Instead of putting that
+			<lb/>
+			photograph in <name type="person" ref="#MGB">mummy</name>'s 
+			<lb/>
+			letter, I am going to put 
+			<lb/>
+			it in this and give you
+			<lb/>
+			a letter all to yourself.
+		</p>
+		
+		<p>
+			Here is a true story:-
+			
+		<pb n="4" facs="#rb079d"/>
+		
+			one of my men has been
+			<lb/>
+			carrying round a billy lid
+			<lb/>
+			for a long time, so one day
+			<lb/>
+			I asked him what it was for
+			<lb/>
+			and he said: "Well sir, some
+			<lb/>
+			day I may find a billy to
+			<lb/>
+			fit the lid". Wasn't he funny?
+		</p>
+		
+		<p>
+			Good bye for the present
+			<lb/>
+			little one, it might not be
+			<lb/>
+			so long now before I am back
+			<lb/>
+			again.
+		</p>
+		
+		<closer>
+			Give Carrie &amp; Jeremy a
+			<lb/>
+			hug for me.
+			<lb/>
+			Love from
+			<lb/>
+			<signed rend="u"><name type="person" ref="#RTB">Daddy</name></signed>
+		</closer>
+		
+	</body>
+	</text>
+</TEI>

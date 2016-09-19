@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb080" xml:lang="en" >
+  <teiHeader type="text">
+    <fileDesc>
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>
+        <respStmt>
+          <resp>Creation of digital images</resp>
+          <name type="person"></name>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription</resp>
+          <name type="person">Jennifer Middendorf</name>
+        </respStmt>
+        <respStmt>
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt>
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>                
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2016-08-30">30 August 2016</date>
+      </publicationStmt>
+      <notesStmt>
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb080a">
+                <graphic url="rb080a.jpg" mimeType="image/jpeg" xml:id="rb080a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080b">
+                <graphic url="rb080b.jpg" mimeType="image/jpeg" xml:id="rb080b-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080c">
+                <graphic url="rb080c.jpg" mimeType="image/jpeg" xml:id="rb080c-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080d">
+                <graphic url="rb080d.jpg" mimeType="image/jpeg" xml:id="rb080d-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080e">
+                <graphic url="rb080e.jpg" mimeType="image/jpeg" xml:id="rb080e-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080f">
+                <graphic url="rb080f.jpg" mimeType="image/jpeg" xml:id="rb080f-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080g">
+                <graphic url="rb080g.jpg" mimeType="image/jpeg" xml:id="rb080g-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080h">
+                <graphic url="rb080h.jpg" mimeType="image/jpeg" xml:id="rb080h-g"/>
+              </figure>
+            </item>           
+            <item>
+              <figure xml:id="rb080envf">
+                <graphic url="rb080envf.jpg" mimeType="image/jpeg" xml:id="rb080envf-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb080envb">
+                <graphic url="rb080envb.jpg" mimeType="image/jpeg" xml:id="rb080envb-g"/>
+              </figure>
+            </item>            
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135702</idno>                     
+          </msIdentifier>
+          <head>
+            <date when="1916-09-17">17.9.16</date>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>7 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"></objectDesc>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc>
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <settlement>Bir et maler</settlement>        
+        <date when="1916-09-17">17.9.16</date>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>                
+        <listPerson>
+          <person xml:id="JHA">
+            <persName evidence="external" source="http://www.geni.com/people/Jean-Denley/368831999110011469">
+              <forename>Jean</forename>
+              <addName type="middle">Rosabel</addName>
+              <surname type="maiden">Hayter</surname>
+              <surname type="married">Denly</surname>
+            </persName>
+          </person>
+          <person xml:id="EEH">
+            <persName>
+              <forename>Eugenie</forename>
+              <addName type="middle">Elizabeth</addName>
+              <surname type="maiden">Hudleston</surname>
+              <surname type="married">Hayter</surname>
+            </persName>
+          </person>
+          <person xml:id="HHH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/6237.detail?">
+            <persName>
+              <roleName type="military">Major</roleName>
+              <forename>Herbert</forename>
+              <addName type="middle">Harold</addName>
+              <surname>Hammond</surname>
+            </persName>
+            <death when="1916-08-09">9th of August 1916</death>
+          </person>
+          <person xml:id="RTB" evidence='external' source='http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368'>
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+          <person xml:id="CBL">
+            <persName evidence="extenal" source="http://muse.aucklandmuseum.com/databases/Cenotaph/1274.detail?">
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Cyril</forename>
+              <surname>Blakeney</surname>
+            </persName>
+            <death when="1916-08-09">9 August 1916</death>            
+          </person>
+          <person xml:id="HEB">
+            <persName>
+              <forename>Helen</forename>
+              <addName type="middle">Eugenie</addName>
+              <surname type="maiden">Bruce</surname>
+              <surname type="married">Alexander</surname>
+            </persName>
+            <birth when="1909-12-05">5 December 1909</birth>
+          </person>
+        </listPerson>                               
+      </particDesc>        
+      <settingDesc>                
+        <listPlace>
+          <place xml:id="BIR">
+            <placeName>
+              Bir et Maler
+            </placeName>
+          </place>
+          <place xml:id="PRS">
+            <placeName>
+              <settlement>Port Said</settlement>
+            </placeName>
+          </place>
+          <place xml:id="FRA">
+            <placeName>
+              <country>France</country>
+            </placeName>
+            <location>
+              <bloc ref="#EUR">Europe</bloc>
+            </location>
+          </place>
+          <place xml:id="EUR">
+            <placeName>
+              <bloc>Europe</bloc>
+            </placeName>
+          </place>
+          <place xml:id="EGY">
+            <placeName>
+              <country>Egypt</country>
+            </placeName>
+          </place>  
+          <place xml:id="KAT">
+            <placeName>
+              Katia
+            </placeName>
+            <location>
+              <country ref="#EGY">Egypt</country>
+            </location>            
+          </place>
+        </listPlace>                
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change></change>
+    </revisionDesc>
+  </teiHeader>
+  
+<text>
+  <body>
+    
+    <pb n="1" facs="#rb080a"/>
+    
+    <opener>
+      
+      <dateline>
+        <name type="place" ref="#BIR">Bir et maler</name>
+        <lb/>
+        <date when="1916-09-17">17.9.16</date>
+      </dateline>
+      <lb/>
+      <lb/>
+      <salute>My dearest girl:</salute>
+    </opener>
+	
+	<p>
+	My heart goes
+      <lb/>
+      out to you in the loss of
+      <lb/>
+	  poor little <name type="person" ref="#JHA">Jean</name>. I know
+      <lb/>
+      how you will feel it, and I
+      <lb/>
+      can assure you it was no
+      <lb/>
+      light blow to me. One gets
+      <lb/>
+      more or less callous to
+      <lb/>
+      suffering and death out
+      <lb/>
+      here, but your news coming
+      <lb/>
+      on top of the losses we have
+      <lb/>
+      recently sustained hit me
+      <lb/>
+      hardly.  It seems unnecessary
+	  
+	  <pb n="2" facs="#rb080b"/>
+	  
+	  for everyone to suffer
+      <lb/>
+      these days, why, one does
+      <lb/>
+      not know, and all we can
+      <lb/>
+      do is to hope and pray for
+      <lb/>
+      a happier era to dawn on
+      <lb/>
+      this death strewn planet.
+      <lb/>
+      Cheer up dear, don't let these
+      <lb/>
+      things get you down, I think
+      <lb/>
+      the toll must be nearly taken
+      <lb/>
+      now.
+	  </p>
+	  
+	  <p>
+	  You must not shut
+      <lb/>
+      yourself up, I want you to
+      <lb/>
+      go about and get as much
+      <lb/>
+      out of your life as possible, and
+      <lb/>
+	    I am quite sure <name type="person" ref="#JHA">Jean</name> would
+	  
+	    <pb n="3" facs="#rb080c"/>
+		
+		say the same. It is the 
+      <lb/>
+      only way to keep going these
+      <lb/>
+      times, and if we are true
+      <lb/>
+      to the religion we profess we
+      <lb/>
+      mustn't grieve too much.
+	  </p>
+	  
+	  <p>
+	    I have written to <name type="person" ref="#EEH">your
+      <lb/>
+      mother</name> as you wished, also
+      <lb/>
+      to <name type="person">Duncan</name>. I hope it 
+      <lb/>
+      will be the end of internal
+      <lb/>
+      discussions.
+	  </p>
+	  
+	  <p>
+	  We have been relieved from 
+      <lb/>
+      the front line by an Australian
+      <lb/>
+      Brigade, and are now back
+      <lb/>
+      in our old camp at <name type="place" ref="#BIR">Bir et maler</name>.
+	  
+	  <pb n="4" facs="#rb080d"/>
+	  
+	  Leave is on to <name type="place" ref="#PRS">Port Said</name>, &amp;
+      <lb/>
+      I hope to get a couple of days
+      <lb/>
+      sea bathing shortly. I am
+      <lb/>
+      not really very fit, and I
+      <lb/>
+      think a bathe or two will
+      <lb/>
+      do me a lot of good.
+	  </p>
+	  
+	  <p>
+	  There are all kinds of 
+      <lb/>
+      rumours going about as to a
+      <lb/>
+      fresh move, and in some 
+      <lb/>
+      ways I would not be sur-
+      <lb/>
+      prised to see us turned into
+      <lb/>
+      lancers, do some training in
+      <lb/>
+      that arm and go to <name type="place" ref="#FRA">France</name>
+      <lb/>
+      next year. But it is all
+      <lb/>
+      in the air at present. I do
+	  
+	  <pb n="5" facs="#rb080e"/>	  
+	  
+	  not think there will be much
+      <lb/>
+      more for us to do here. Jacko
+      <lb/>
+      got a good lesson this time, &amp;
+      <lb/>
+      unless things alter very materially
+      <lb/>
+      he is not likely to try much
+      <lb/>
+      again.
+	  </p>
+	  
+	  <p>
+	  Sorry you didn't win 
+      <lb/>
+      the Dryden Cup, but you shouldn't 
+      <lb/>
+      blame the weather &amp; your rain
+      <lb/>
+      coat.
+	  </p>
+	  
+	  <p>
+	  I can imagine the splutter
+      <lb/>
+      when the chimney caught fire,
+      <lb/>
+      were you fined? It is an offence
+      <lb/>
+      against bye laws or something
+      <lb/>
+      isn't it.
+	  </p>
+	  
+	  <pb n="6" facs="#rb080f"/>	  
+	  
+	  <p>
+	  Please don't ask people 
+      <lb/>
+      who are coming out to bring
+      <lb/>
+      things for me. Parcels are a
+      <lb/>
+      most awful nuisance to anyone
+      <lb/>
+      travelling with a light kit, &amp;
+      <lb/>
+      usually get thrown away and
+      <lb/>
+      small blame to anyone.
+	  </p>
+	  
+	  <p>
+	  You want to know if I
+      <lb/>
+      object to your little excursions?
+      <lb/>
+      Why ever should I. I want
+      <lb/>
+      you to go out as much as you
+      <lb/>
+      can and enjoy yourself as
+      <lb/>
+      much as possible. You talk 
+      <lb/>
+      of a <name type="person">Hopkins</name> in the Defence Office,
+      <lb/>
+      have you come across <name type="person">Oakey</name>, he
+	  
+	  <pb n="7" facs="#rb080g"/>	
+	  
+	  was out here in the 
+      <lb/>
+      Engineers, and I saw a good
+      <lb/>
+      deal of him one way and
+      <lb/>
+      another before he was invalided
+      <lb/>
+      back with a smashed arm.
+	  </p>
+	  
+	  <p>
+	  I am sending you a
+      <lb/>
+      snap taken the other day on
+      <lb/>
+      the place where we drove the 
+      <lb/>
+      Turk back and quite close to
+      <lb/>
+	    where <name type="person" ref="#HHH">Hammond</name> &amp; <name type="person" ref="#CBL">Blakeney</name> are
+      <lb/>
+      buried. I have the film and
+      <lb/>
+      will get some better copies
+      <lb/>
+      printed when I go to <name type="place" ref="#PRS">Port Said</name>.
+      <lb/>
+      One is for <name type="person" ref="#HEB">Helen</name>. The horse 
+      <lb/>
+      I am on is my new one Robin,
+	  
+	    <pb n="8" facs="#rb080h"/>	
+		
+	he got a bullet through his 
+      <lb/>
+	    near ear at the battle of <name type="place" ref="#KAT">Katia</name>
+      <lb/>
+      on the <date when="1916-08-05">5th August</date>, just as I was
+      <lb/>
+      mounting.
+	  </p>
+	  
+	  <p>
+	  <name type="person" ref="#HEB">Helen's</name> head seems to be
+      <lb/>
+      taking a long time, why not
+      <lb/>
+      have it Xrayed?
+	  </p>
+	  
+	  <p>
+	  As soon as I know what
+      <lb/>
+      is going to happen to us, I
+      <lb/>
+      can see whether it will
+      <lb/>
+      be worth while bringing you
+      <lb/>
+      to <name type="place" ref="#EGY">Egypt</name> or elsewhere.
+	  </p>
+	  
+	  <closer>
+      So long old bird, keep
+      <lb/> 
+      your pecker up.
+      <lb/> 
+	  Ever yours
+      <lb/> 
+      <signed rend="u"><name type="person" ref="#RTB">Roy</name>.</signed>
+    </closer>
+	
+</body>
+</text>
+</TEI>
