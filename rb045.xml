@@ -38,12 +38,12 @@
         <publisher>University of Canterbury Humanities Computing Unit</publisher>
         <pubPlace>Christchurch, New Zealand</pubPlace>
         <address>
-					<addrLine>School of Humanities</addrLine>
-					<addrLine>University of Canterbury</addrLine>
-					<addrLine>Private Bag 4800</addrLine>
-					<addrLine>Christchurch 8140</addrLine>
-					<addrLine>New Zealand</addrLine>
-				</address>
+          <addrLine>School of Humanities</addrLine>
+          <addrLine>University of Canterbury</addrLine>
+          <addrLine>Private Bag 4800</addrLine>
+          <addrLine>Christchurch 8140</addrLine>
+          <addrLine>New Zealand</addrLine>
+        </address>
         <availability status="restricted">
           <p>Publicly accessible. Distributed by the University of Canterbury under a
             <ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
@@ -59,52 +59,52 @@
           <list type="simple">
             <item>
               <figure xml:id="rb045a">
-                <graphic url="rb045a.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045a.jpg" mimeType="image/jpeg" xml:id="rb045a-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045b">
-                <graphic url="rb045b.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045b.jpg" mimeType="image/jpeg" xml:id="rb045b-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045c">
-                <graphic url="rb045c.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045c.jpg" mimeType="image/jpeg" xml:id="rb045c-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045d">
-                <graphic url="rb045d.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045d.jpg" mimeType="image/jpeg" xml:id="rb045d-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045e">
-                <graphic url="rb045e.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045e.jpg" mimeType="image/jpeg" xml:id="rb045e-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045f">
-                <graphic url="rb045f.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045f.jpg" mimeType="image/jpeg" xml:id="rb045f-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045g">
-                <graphic url="rb045g.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045g.jpg" mimeType="image/jpeg" xml:id="rb045g-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045h">
-                <graphic url="rb045h.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045h.jpg" mimeType="image/jpeg" xml:id="rb045h-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045envf">
-                <graphic url="rb045envf.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045envf.jpg" mimeType="image/jpeg" xml:id="rb045envf-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb045envb">
-                <graphic url="rb045envb.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb045envb.jpg" mimeType="image/jpeg" xml:id="rb045envb-g"/>
               </figure>
             </item>
           </list>
@@ -175,7 +175,7 @@
         <language ident="fr" usage="1">French</language>
       </langUsage>
       <particDesc>
-        <listPerson><!-- Edit this section to reflect those people who appear in this letter.  Add names to the tracking spreadsheet too -->
+        <listPerson>
           <person xml:id="RTB">
             <persName>
               <roleName type="military">Lieutenant 8th Squadron</roleName>
@@ -209,7 +209,7 @@
             </persName>
           </person>
           
-          <relationGrp type="personal"><!-- This section can be edited to reflect further relationships if you want.  However, this can take a lot of work so it is fine just to include the relation elements below.  Remember that each person will need an xml:id for authority control purposes though. -->
+          <relationGrp type="personal">
             <relation name="parent" active="#RTB #MGB" passive="#HEB"/>
             <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
           </relationGrp>
@@ -223,18 +223,18 @@
             </placeName>
           </place>
           <place>
-          <placeName>
-            <bloc>United Kingdom</bloc>
-        </placeName>
-        <location>
-            <bloc ref="#EUR">Europe</bloc>
-        </location>
-    </place>
-    <place xml:id="EUR">
-        <placeName>
-            <bloc>Europe</bloc>
-        </placeName>
-    </place>
+            <placeName>
+              <bloc>United Kingdom</bloc>
+            </placeName>
+            <location>
+              <bloc ref="#EUR">Europe</bloc>
+            </location>
+          </place>
+          <place xml:id="EUR">
+            <placeName>
+              <bloc>Europe</bloc>
+            </placeName>
+          </place>
           <place xml:id="NZE">
             <placeName>
               <country>New Zealand</country>
@@ -250,360 +250,359 @@
       </change>
     </revisionDesc>
   </teiHeader>
-<text xml:id="t1">
-  <body xml:id="t1-body">
-    
-    <pb n="1" facs="#rb045a" xml:id="t1-body-pb1"/>
-    
-    <opener>
+  <text xml:id="t1">
+    <body xml:id="t1-body">
       
-      <dateline>
-        Hotel de Dugout
-        <date when="1915-07-03">Saturday, 3 July 1915</date>
-      </dateline>
-      <salute>My dearest girl</salute>:
-    </opener>
-    
-    <p>
-      I arrived back
-      <lb/>
-      here yesterday morning about
-      <lb/>
-      4 o'clock and found the
-      <lb/>
-      regiment in fresh dugouts having 
-      <lb/>
-      a few days spell.
-    </p>
-    
-    <p>
-      Tomorrow we go
-      <lb/>
-      into a new line of trenches for
-      <lb/>
-      a fortnight, quite close to the 
-      <lb/>
-      Turkish lines and we shall
-      <lb/>
-      probably get some experience
-      <lb/>
-      of hand grenades. The Turks
-      <lb/>
-      have a goodly supply and so 
-      <lb/>
-      have we.
-    </p>
-    
-    <p>
-      I was very glad to 
+      <pb n="1" facs="#rb045a" xml:id="t1-body-pb1"/>
       
-      <pb n="2" facs="#rb045b" xml:id="t1-body-x4-pb1"/>
+      <opener>
+        
+        <dateline>
+          Hotel de Dugout
+          <lb/>
+          <date when="1915-07-03">Saturday, 3 July 1915</date>
+        </dateline>
+        <salute>My dearest girl:</salute>
+      </opener>
       
-      get away from that hospital -
-      <lb/>
-      it was not very well managed,
-      <lb/>
-      and I wasn't getting fit
-      <lb/>
-      quick enough so I thought
-      <lb/>
-      I would come back, and I
-      <lb/>
-      feel ever so much better since
-      <lb/>
-      I arrived here.
-    </p>
-    
-    <p>
-      There have been no further
-      <lb/>
-      casualties amongst my lot,
-      <lb/>
-      everything on our line very
-      <lb/>
-      quiet. <name type="person">Major Wain</name> &amp; <name type="person">Gibbs</name>
-      <lb/>
-      the signalling officer were hit
-      <lb/>
-      by a stray shell yesterday
-      <lb/>
-      morning. I don't think
-      <lb/>
-      either are seriously wounded,
-      <lb/>
-      (<name type="person">Major Wain's</name> was through the
-      <lb/>
-      leg) but of course they will
-      <lb/>
-      be away for some time.
-    </p>
-    
-    <p>
-      I found a letter &amp; two
+      <p>
+        I arrived back
+        <lb/>
+        here yesterday morning about
+        <lb/>
+        4 o'clock and found the
+        <lb/>
+        regiment in fresh dugouts having 
+        <lb/>
+        a few days spell.
+      </p>
       
-      <pb n="3" facs="#rb045c" xml:id="t1-body-x6-pb1"/>
+      <p>
+        Tomorrow we go
+        <lb/>
+        into a new line of trenches for
+        <lb/>
+        a fortnight, quite close to the 
+        <lb/>
+        Turkish lines and we shall
+        <lb/>
+        probably get some experience
+        <lb/>
+        of hand grenades. The Turks
+        <lb/>
+        have a goodly supply and so 
+        <lb/>
+        have we.
+      </p>
       
-      papers from you waiting for
-      <lb/>
-      me which wer very welcome,
-      <lb/>
-      &amp; I got another letter today.
-    </p>
-    
-    <p>
-      I hope your little scheme
-      <lb/>
-      with <name type="person">Greene</name> materialises, it
-      <lb/>
-      sounds promising.
-    </p>
-    
-    <p>
-      You seem to be playing a
-      <lb/>
-      great game of golf.  Haven't you
-      <lb/>
-      brought your handicap down
-      <lb/>
-      yet?
-    </p>
-    
-    <p>
-      I don't know what is happen-
-      <lb/>
-      ing to the parcels, I have 
-      <lb/>
-      received two from you which
-      <lb/>
-      I acknowledged from <name type="place" ref="#EGY" key="EGY">Egypt</name>.
-      <lb/>
-      Everyone is the same &amp; it is 
-      <lb/>
-      nothing to do with the O.C.
-      <lb/>
-      There will be a day of reckon-
-      <lb/>
-      ing for some of these people
-      <lb/>
-      later on.  Thanks for the 
+      <p>
+        I was very glad to 
+        
+        <pb n="2" facs="#rb045b" xml:id="t1-body-x4-pb1"/>
+        
+        get away from that hospital -
+        <lb/>
+        it was not very well managed,
+        <lb/>
+        and I wasn't getting fit
+        <lb/>
+        quick enough so I thought
+        <lb/>
+        I would come back, and I
+        <lb/>
+        feel ever so much better since
+        <lb/>
+        I arrived here.
+      </p>
       
-      <pb n="4" facs="#rb045d" xml:id="t1-body-x9-pb1"/>
+      <p>
+        There have been no further
+        <lb/>
+        casualties amongst my lot,
+        <lb/>
+        everything on our line very
+        <lb/>
+        quiet. <name type="person">Major Wain</name> &amp; <name type="person">Gibbs</name>
+        <lb/>
+        the signalling officer were hit
+        <lb/>
+        by a stray shell yesterday
+        <lb/>
+        morning. I don't think
+        <lb/>
+        either are seriously wounded,
+        <lb/>
+        (<name type="person">Major Wain's</name> was through the
+        <lb/>
+        leg) but of course they will
+        <lb/>
+        be away for some time.
+      </p>
       
-      handkerchief contained in the 
-      <lb/>
-      letter, the main things we
-      <lb/>
-      want while we are in the 
-      <lb/>
-      field are little luxuries to eat.
-      <lb/>
-      It is very hard to get any-
-      <lb/>
-      think here.  Chocolate, cocoa,
-      <lb/>
-      coffee, cake, anything like that
-      <lb/>
-      is very acceptable.  I don't
-      <lb/>
-      want you to spend your money
-      <lb/>
-      on me, and <del rend="strike">ver</del> small parcels
-      <lb/>
-      are best, so if you sometimes
-      <lb/>
-      could manage to send me
-      <lb/>
-      some little things I should
-      <lb/>
-      be very grateful.  Anyway I
-      <lb/>
-      don't anticipate being here
-      <lb/>
-      many months, I think the
-      <lb/>
-      show will finish up before
-      <lb/>
-      the winter here, but anyway
-      <lb/>
-      we may still be in the
+      <p>
+        I found a letter &amp; two
+        
+        <pb n="3" facs="#rb045c" xml:id="t1-body-x6-pb1"/>
+        
+        papers from you waiting for
+        <lb/>
+        me which wer very welcome,
+        <lb/>
+        &amp; I got another letter today.
+      </p>
       
-      <pb n="5" facs="#rb045e" xml:id="t1-body-x9-pb2"/>
+      <p>
+        I hope your little scheme
+        <lb/>
+        with <name type="person">Greene</name> materialises, it
+        <lb/>
+        sounds promising.
+      </p>
       
-      field somewhere.
-    </p>
-    
-    <p>
-      I am awfully glad you
-      <lb/>
-      are interesting yourself in
-      <lb/>
-      making things for the Red Cross
-      <lb/>
-      etc, it is good work and any
-      <lb/>
-      amount is needed.  You will
-      <lb/>
-      find some difficulty in having
-      <lb/>
-      the stuff sent for our wounded
-      <lb/>
-      &amp; sick, because 
-      <choice>
-        <sic>the</sic>
-        <corr>they</corr>
-      </choice>
-      go all over
-      <lb/>
-      the place, <name type="place">Malta</name>, <name type="place">Egypt</name>, <name type="place" ref="#BRI" key="BRI">England</name>
-      <lb/>
-      &amp; some back to <name type="place" ref="#NZE" key="NZE">N.Z</name>.  It does
-      <lb/>
-      not matter where it goes to
-      <lb/>
-      so long as someone gets it.
-    </p>
-    
-    <p>
-      Keep yourself as much
-      <lb/>
-      occupied as possible and then
-      <lb/>
-      you won't think too much.
-      <lb/>
-      You must not worry about 
-      <lb/>
-      me, because I shall be
-      <lb/>
-      alright, and let me impress
+      <p>
+        You seem to be playing a
+        <lb/>
+        great game of golf.  Haven't you
+        <lb/>
+        brought your handicap down
+        <lb/>
+        yet?
+      </p>
       
-      <pb n="6" facs="#rb045f" xml:id="t1-body-x11-pb1"/>
+      <p>
+        I don't know what is happen-
+        <lb/>
+        ing to the parcels, I have 
+        <lb/>
+        received two from you which
+        <lb/>
+        I acknowledged from <name type="place" ref="#EGY" key="EGY">Egypt</name>.
+        <lb/>
+        Everyone is the same &amp; it is 
+        <lb/>
+        nothing to do with the O.C.
+        <lb/>
+        There will be a day of reckon-
+        <lb/>
+        ing for some of these people
+        <lb/>
+        later on.  Thanks for the 
+        
+        <pb n="4" facs="#rb045d" xml:id="t1-body-x9-pb1"/>
+        
+        handkerchief contained in the 
+        <lb/>
+        letter, the main things we
+        <lb/>
+        want while we are in the 
+        <lb/>
+        field are little luxuries to eat.
+        <lb/>
+        It is very hard to get any-
+        <lb/>
+        think here.  Chocolate, cocoa,
+        <lb/>
+        coffee, cake, anything like that
+        <lb/>
+        is very acceptable.  I don't
+        <lb/>
+        want you to spend your money
+        <lb/>
+        on me, and <del rend="strike">ver</del> small parcels
+        <lb/>
+        are best, so if you sometimes
+        <lb/>
+        could manage to send me
+        <lb/>
+        some little things I should
+        <lb/>
+        be very grateful.  Anyway I
+        <lb/>
+        don't anticipate being here
+        <lb/>
+        many months, I think the
+        <lb/>
+        show will finish up before
+        <lb/>
+        the winter here, but anyway
+        <lb/>
+        we may still be in the
+        
+        <pb n="5" facs="#rb045e" xml:id="t1-body-x9-pb2"/>
+        
+        field somewhere.
+      </p>
       
-      upon you again not to 
-      <lb/>
-      believe anything you hear.
-      <lb/>
-      I read in the "Times" list of
-      <lb/>
-      N.Z. Casualties that <name type="person">Capt Houlker</name>
-      <lb/>
-      had died of wounds - <name type="person">Houlker</name>
-      <lb/>
-      is here perfectly and was
-      <lb/>
-      only away a few days with
-      <lb/>
-      a slight flesh wound.  So you
-      <lb/>
-      see the papers don't know
-      <lb/>
-      much.
-    </p>
-    
-    <p>
-      Your criticism about the
-      <lb/>
-      landing party not taking
-      <lb/>
-      cover is not quite right. You
-      <lb/>
-      see the place had to be
-      <lb/>
-      stormed and one can't take
-      <lb/>
-      cover storming hills with
-      <lb/>
-      entrenched Turks on to.
-      <lb/>
-      Their only fault was they went
-      <lb/>
-      too far and troops could not
+      <p>
+        I am awfully glad you
+        <lb/>
+        are interesting yourself in
+        <lb/>
+        making things for the Red Cross
+        <lb/>
+        etc, it is good work and any
+        <lb/>
+        amount is needed.  You will
+        <lb/>
+        find some difficulty in having
+        <lb/>
+        the stuff sent for our wounded
+        <lb/>
+        &amp; sick, because 
+        <choice>
+          <sic>the</sic>
+          <corr>they</corr>
+        </choice>
+        go all over
+        <lb/>
+        the place, <name type="place">Malta</name>, <name type="place">Egypt</name>, <name type="place" ref="#BRI" key="BRI">England</name>
+        <lb/>
+        &amp; some back to <name type="place" ref="#NZE" key="NZE">N.Z</name>.  It does
+        <lb/>
+        not matter where it goes to
+        <lb/>
+        so long as someone gets it.
+      </p>
       
-      <pb n="7" facs="#rb045g" xml:id="t1-body-x12-pb1"/>
+      <p>
+        Keep yourself as much
+        <lb/>
+        occupied as possible and then
+        <lb/>
+        you won't think too much.
+        <lb/>
+        You must not worry about 
+        <lb/>
+        me, because I shall be
+        <lb/>
+        alright, and let me impress
+        
+        <pb n="6" facs="#rb045f" xml:id="t1-body-x11-pb1"/>
+        
+        upon you again not to 
+        <lb/>
+        believe anything you hear.
+        <lb/>
+        I read in the "Times" list of
+        <lb/>
+        N.Z. Casualties that <name type="person">Capt Houlker</name>
+        <lb/>
+        had died of wounds - <name type="person">Houlker</name>
+        <lb/>
+        is here perfectly and was
+        <lb/>
+        only away a few days with
+        <lb/>
+        a slight flesh wound.  So you
+        <lb/>
+        see the papers don't know
+        <lb/>
+        much.
+      </p>
       
-      be landed fast enough to
-      <lb/>
-      support them. They did very
-      <lb/>
-      well and some praise won't
-      <lb/>
-      hurt them.
-    </p>
-    
-    <p>
-      Have you heard this one:-
-      <lb/>
-      Two men travelled round the
-      <lb/>
-      country with a performing
-      <lb/>
-      bear. When they stayed at
-      <lb/>
-      hotels the bear always slept
-      <lb/>
-      outside the door of their 
-      <lb/>
-      room. One night they heard
-      <lb/>
-      a noise outside and a female
-      <lb/>
-      voice down the passage.
-      <lb/>
-      "Well, if you must, you must,
-      <lb/>
-      but at least take off that
-      <lb/>
-      heavy motor coat" -
-    </p>
-    
-    <closer>
-      I think <name type="person" ref="#HEB" key="HEB">Helen</name>'s remark
-      <lb/>
-      about Satan being a German
-      <lb/>
-      is lovely, with a good drawing
+      <p>
+        Your criticism about the
+        <lb/>
+        landing party not taking
+        <lb/>
+        cover is not quite right. You
+        <lb/>
+        see the place had to be
+        <lb/>
+        stormed and one can't take
+        <lb/>
+        cover storming hills with
+        <lb/>
+        entrenched Turks on to.
+        <lb/>
+        Their only fault was they went
+        <lb/>
+        too far and troops could not
+        
+        <pb n="7" facs="#rb045g" xml:id="t1-body-x12-pb1"/>
+        
+        be landed fast enough to
+        <lb/>
+        support them. They did very
+        <lb/>
+        well and some praise won't
+        <lb/>
+        hurt them.
+      </p>
       
-      <pb n="8" facs="#rb045h" xml:id="t1-body-x14-pb1"/>
+      <p>
+        Have you heard this one:-
+        <lb/>
+        Two men travelled round the
+        <lb/>
+        country with a performing
+        <lb/>
+        bear. When they stayed at
+        <lb/>
+        hotels the bear always slept
+        <lb/>
+        outside the door of their 
+        <lb/>
+        room. One night they heard
+        <lb/>
+        a noise outside and a female
+        <lb/>
+        voice down the passage.
+        <lb/>
+        "Well, if you must, you must,
+        <lb/>
+        but at least take off that
+        <lb/>
+        heavy motor coat" -
+      </p>
       
-      it would do for Punch.
-      <lb/>
-      Dear little soul, I am just
-      <lb/>
-      longing to see you all again.
-      <lb/>
-      This is a very deadly form of
-      <lb/>
-      warfare but it cannot last
-      <lb/>
-      for ever.  Cheer up dearest
-      <lb/>
-      &amp; be happy, kiss me darling
-      <lb/>
-      &amp; give <name type="person">Helen</name> a big fat one.
-      <lb/>
-      I expect you will want
-      <lb/>
-      all your philosophy just now,
-      <lb/>
-      so just go on quietly and
-      <lb/>
-      peacefully &amp; believe always
-      <lb/>
-      in the best.  We have many
-      <lb/>
-      happy years in store dear
-      <lb/>
-      one although perhaps they do
-      <lb/>
-      seem a long time coming.
-      <lb/>
-      God bless you both my darlings.
-      <lb/>
-      <salute>Your loving husband</salute>
-      <lb/>
-      <signed rend="u"><name type="person">Roy</name>.</signed>
-    </closer>
-    <pb n="9" facs="#rb045envf" xml:id="t1-body-pb2"/>
-    <pb n="10" facs="#rb045envb" xml:id="t1-body-pb3"/>
-  </body>
-</text>
+      <closer>
+        I think <name type="person" ref="#HEB" key="HEB">Helen</name>'s remark
+        <lb/>
+        about Satan being a German
+        <lb/>
+        is lovely, with a good drawing
+        
+        <pb n="8" facs="#rb045h" xml:id="t1-body-x14-pb1"/>
+        
+        it would do for Punch.
+        <lb/>
+        Dear little soul, I am just
+        <lb/>
+        longing to see you all again.
+        <lb/>
+        This is a very deadly form of
+        <lb/>
+        warfare but it cannot last
+        <lb/>
+        for ever.  Cheer up dearest
+        <lb/>
+        &amp; be happy, kiss me darling
+        <lb/>
+        &amp; give <name type="person">Helen</name> a big fat one.
+        <lb/>
+        I expect you will want
+        <lb/>
+        all your philosophy just now,
+        <lb/>
+        so just go on quietly and
+        <lb/>
+        peacefully &amp; believe always
+        <lb/>
+        in the best.  We have many
+        <lb/>
+        happy years in store dear
+        <lb/>
+        one although perhaps they do
+        <lb/>
+        seem a long time coming.
+        <lb/>
+        God bless you both my darlings.
+        <lb/>
+        <salute>Your loving husband</salute>
+        <lb/>
+        <signed rend="u"><name type="person">Roy</name>.</signed>
+      </closer>      
+    </body>
+  </text>
 </TEI>

@@ -285,7 +285,7 @@
             <opener>
                 <dateline>Anzac
                     <date when="1915-12-05">Sunday 5 Dec 1915</date></dateline><lb/>
-                <salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name></salute>:
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name>:</salute>
             </opener>
            
             <p>Back again in<lb/>

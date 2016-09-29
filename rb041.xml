@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd" xml:id="rb041" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb041" xml:lang="en">
     <teiHeader type="text">
         <fileDesc xml:id="fileDesc-0001">
             <titleStmt>
@@ -630,8 +630,7 @@
                     <lb/>		
                     <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy.</name></signed>
             </closer>
-            <pb facs="#rb041envf"/>
-            <pb facs="#rb041envb"/>
+            
         </body>
     </text>
 </TEI>

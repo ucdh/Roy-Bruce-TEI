@@ -29,19 +29,19 @@
                     <name type="person">Lucy-Jane Walsh</name>
                     <name type="person">Han Li</name>
                 </respStmt>
-               
+                
             </titleStmt>
             <extent>Extent including images: 20kb</extent>
             <publicationStmt>
                 <publisher>University of Canterbury Humanities Computing Unit</publisher>
                 <pubPlace>Christchurch, New Zealand</pubPlace>
                 <address>
-					<addrLine>School of Humanities</addrLine>
-					<addrLine>University of Canterbury</addrLine>
-					<addrLine>Private Bag 4800</addrLine>
-					<addrLine>Christchurch 8140</addrLine>
-					<addrLine>New Zealand</addrLine>
-				</address>
+                    <addrLine>School of Humanities</addrLine>
+                    <addrLine>University of Canterbury</addrLine>
+                    <addrLine>Private Bag 4800</addrLine>
+                    <addrLine>Christchurch 8140</addrLine>
+                    <addrLine>New Zealand</addrLine>
+                </address>
                 <availability status="restricted">
                     <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
                         <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
@@ -62,16 +62,16 @@
                                 <graphic url="rb006b.jpg" mimeType="image/jpeg" xml:id="rb006b-g"/>
                             </figure>
                         </item>
-                            <item>
-                                <figure xml:id="rb006c">
-                                    <graphic url="rb006c.jpg" mimeType="image/jpeg" xml:id="rb006c-g"/>
-                                </figure>
-                            </item>
-                            <item>
-                                <figure xml:id="rb006d">
-                                    <graphic url="rb006d.jpg" mimeType="image/jpeg" xml:id="rb006d-g"/>
-                                </figure>
-                            </item>
+                        <item>
+                            <figure xml:id="rb006c">
+                                <graphic url="rb006c.jpg" mimeType="image/jpeg" xml:id="rb006c-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb006d">
+                                <graphic url="rb006d.jpg" mimeType="image/jpeg" xml:id="rb006d-g"/>
+                            </figure>
+                        </item>
                         <item>
                             <figure xml:id="rb006envf">
                                 <graphic url="rb006envf.jpg" mimeType="image/jpeg" xml:id="rb006envf-g"/>
@@ -82,7 +82,7 @@
                                 <graphic url="rb006envb.jpg" mimeType="image/jpeg" xml:id="rb006envb-g"/>
                             </figure>
                         </item>                      
-                      
+                        
                     </list>
                 </note>
             </notesStmt>	
@@ -93,13 +93,12 @@
                         <institution>University of Canterbury</institution>
                         <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
                         <collection>Letters from Major Roy Bruce</collection>
-                        <idno type="text">135608</idno>
-                       
+                        <idno type="text">135608</idno>                        
                     </msIdentifier>
                     <head>
-                    <date when="1914-08-01">1 August 1914</date>
-					  <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 1 August 1914</title>
-					</head>
+                        <date when="1914-08-01">1 August 1914</date>
+                        <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 1 August 1914</title>
+                    </head>
                     <msContents>
                         <msItem>
                             <bibl>
@@ -147,8 +146,8 @@
             <creation>
                 <settlement>Addington</settlement>
                 <country>New Zealand</country>
-                
-            </creation>
+                <date when="1914-08-01">1 August 1914</date>
+            </creation>            
             <langUsage>
                 <language ident="en" usage="99">English</language>
                 <language ident="fr" usage="1">French</language>
@@ -196,66 +195,66 @@
                 </listPerson>               
             </particDesc>        
             <settingDesc>
-            <listPlace>
-                <place xml:id="DUN">
-        <placeName>
-            <settlement>Dunedin</settlement>
-        </placeName>
-        <location>
-            <country ref="#NZE">New Zealand</country>
-        </location>
-    </place>
-                <place xml:id="KOW">
-                    <placeName>Kowai</placeName>
-                    <location><country ref="#NZE">New Zealand</country></location>
-                </place>
-                <place xml:id="TIM">
-                    <placeName>
-                        <settlement>Timaru</settlement>
-                    </placeName>
-                    <location>
-                        <country ref="#NZE">New Zealand</country>
-                    </location>
-                </place>
-                <place xml:id="NZE">
-        <placeName>
-            <country>New Zealand</country>
-        </placeName>
-    </place>
-                <place xml:id="EUR">
-                    <placeName>
-                        <bloc>Europe</bloc>
-                    </placeName>
-                </place>
-<place xml:id="ADD">
-        <placeName>
-            <distrinct>Addington</distrinct>
-        </placeName>
-        <location>
-            <settlement ref="#CHC">Christchurch</settlement>
-        </location>
-    </place>
-<place xml:id="CHC">
-        <placeName>
-            <settlement>
-                <choice>
-                    <abbr>CHCH</abbr>
-                    <expan>Christchurch</expan>                
-                </choice>
-            </settlement>
-            <location>
-                <country ref="#NZE">New Zealand</country>
-            </location>
-        </placeName>
-    </place>        
-            </listPlace> 
+                <listPlace>
+                    <place xml:id="DUN">
+                        <placeName>
+                            <settlement>Dunedin</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="KOW">
+                        <placeName>Kowai</placeName>
+                        <location><country ref="#NZE">New Zealand</country></location>
+                    </place>
+                    <place xml:id="TIM">
+                        <placeName>
+                            <settlement>Timaru</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                    <place xml:id="EUR">
+                        <placeName>
+                            <bloc>Europe</bloc>
+                        </placeName>
+                    </place>
+                    <place xml:id="ADD">
+                        <placeName>
+                            <district>Addington</district>
+                        </placeName>
+                        <location>
+                            <settlement ref="#CHC">Christchurch</settlement>
+                        </location>
+                    </place>
+                    <place xml:id="CHC">
+                        <placeName>
+                            <settlement>
+                                <choice>
+                                    <abbr>CHCH</abbr>
+                                    <expan>Christchurch</expan>                
+                                </choice>
+                            </settlement>                            
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>        
+                </listPlace> 
             </settingDesc>
         </profileDesc>
-            <revisionDesc xml:id="revisionDesc-0001">
-                <change xml:id="change-0001"/>
-            </revisionDesc>
+        <revisionDesc xml:id="revisionDesc-0001">
+            <change xml:id="change-0001"/>
+        </revisionDesc>
     </teiHeader>
-
+    
     <text xml:id="t1">
         <body xml:id="t1-body">
             
@@ -265,9 +264,9 @@
                 <dateline>
                     <name type="place" ref="#ADD" key="ADD">Addington</name>
                     <lb/>
-                    <date>Monday</date></dateline>,
-            <lb/>
-                <salute>My darling <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+                    <date>Monday</date>,</dateline>
+                <lb/>
+                <salute>My darling <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
             </opener>
             
             <p>     
@@ -437,10 +436,6 @@
                 
                 <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed>
             </closer>
-            
-            <pb n="5" facs="#rb006envf" xml:id="t1-body-pb2"/>
-            <pb n="5" facs="#rb006envb" xml:id="t1-body-pb3"/>
-            
         </body>
     </text>
     

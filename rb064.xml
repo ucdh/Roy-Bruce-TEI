@@ -278,7 +278,7 @@
   </teiHeader>
   <text xml:id="t1">
     <body xml:id="t1-body">    
-      <pb n="1" xml:id="t1-body-pb1"/>
+     
       
       <gap quantity="1" unit="page"/>
       
@@ -367,7 +367,7 @@
         is plenty of time.
       </p>
       
-      <pb n="4" xml:id="t1-body-pb3"/>
+      
       
       <gap quantity="1" unit="page"/>
       
@@ -545,10 +545,9 @@
         <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed>
       </closer>
       
-      <note resp="#RTB" place="bottom left" xml:id="note-0001">This is a squashed egg</note>
+      <note resp="#RTB" place="bottom left">This is a squashed egg</note>
       
-      <pb n="9" facs="#rb064envfront" xml:id="t1-body-pb6"/>
-      <pb n="10" facs="#rb064envback" xml:id="t1-body-pb7"/>
+      
     </body>
   </text>
 </TEI>

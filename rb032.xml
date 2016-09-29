@@ -92,6 +92,11 @@
                             </figure>
                         </item>
                         <item>
+                            <figure xml:id="rb032i">
+                                <graphic url="rb032i.jpg" mimeType="image/jpeg" xml:id="rb032i-g"/>
+                            </figure>
+                        </item>
+                        <item>
                             <figure xml:id="rb032envf">
                                 <graphic url="rb032envf.jpg" mimeType="image/jpeg" xml:id="rb032envf-g"/>
                             </figure>
@@ -341,16 +346,10 @@
         </revisionDesc>
     </teiHeader>
     <text xml:id="t1">
-        <body xml:id="t1-body">
-            
-           
-            
-            <div n="1" xml:id="t1-body-d1">
-                <pb n="1" facs="#rb032a" xml:id="t1-body-d1-pb1"/>
-                
+        <body xml:id="t1-body"> <div n="1" xml:id="t1-body-d1">
+                <pb n="1" facs="#rb032a"/>                
                 <opener>
-                    <dateline>
-                        
+                    <dateline>                        
                         <date when="1915-04-12">12. 4. 1915</date>
                     </dateline>
                     <lb/>
@@ -359,10 +358,7 @@
                         <name type="person" ref="#MGB" key="MGB">My dearest girl</name>:
                     </salute>
                 </opener>
-                
-                
-                
-                <p>
+            <p>
                     Just a line
                     <lb/>
                     with the photos. Had
@@ -393,17 +389,17 @@
                 </p>
                 
                 <closer>
-                    <salute>Much love</salute>,
+                    <salute>Much love,</salute>
                     <lb/>
                     <signed>
-                        <hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></hi>
-                    </signed>.
+                        <hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></hi>.
+                    </signed>
                 </closer>
                 
             </div>
             <div n="2" xml:id="t1-body-d2">
                 
-                <pb n="2" facs="#rb032b" xml:id="t1-body-d2-pb1"/>
+                <pb n="2" facs="#rb032b"/>
                 
                 <opener>
                     <dateline>
@@ -459,7 +455,7 @@
                     <lb/>
                     don't know.  Every day the sick
                     
-                    <pb n="2" facs="#rb032c" xml:id="t1-body-d2-x2-pb1"/>
+                    <pb n="3" facs="#rb032c" xml:id="t1-body-d2-x2-pb1"/>
                     
                     parade gets larger, men down with
                     <lb/>
@@ -512,7 +508,7 @@
                 
                 <p>Two parcels arrived from you
                     
-                    <pb n="3" facs="#rb032d" xml:id="t1-body-d2-x6-pb1"/>
+                    <pb n="4" facs="#rb032d" xml:id="t1-body-d2-x6-pb1"/>
                     
                     this week, one containing biscuits 
                     <lb/>
@@ -562,7 +558,7 @@
                     <lb/>
                     &amp; noone takes any notice of it.  Let
                     
-                    <pb n="4" facs="#rb032e" xml:id="t1-body-d2-x7-pb1"/>
+                    <pb n="5" facs="#rb032e" xml:id="t1-body-d2-x7-pb1"/>
                     
                     us look the thing squarely in the face,
                     <lb/>
@@ -615,7 +611,7 @@
                     <lb/>
                     and If at any time I do flop with
                     
-                    <pb n="5" facs="#rb032f" xml:id="t1-body-d2-x8-pb1"/>
+                    <pb n="6" facs="#rb032f" xml:id="t1-body-d2-x8-pb1"/>
                     
                     a 'crash', you will know perfectly
                     <lb/>
@@ -665,7 +661,7 @@
                     <lb/>
                     dines early here &amp; we commenced
                     
-                    <pb n="6" facs="#rb032g" xml:id="t1-body-d2-x9-pb1"/>
+                    <pb n="7" facs="#rb032g" xml:id="t1-body-d2-x9-pb1"/>
                     
                     at 8.30 &amp; finished the evening 
                     <lb/>
@@ -711,7 +707,7 @@
                     <lb/>
                     and I forgot all about the Australian &amp;
                     
-                    <pb n="7" facs="#rb032g" xml:id="t1-body-d2-x11-pb1"/>
+                    <pb n="8" facs="#rb032g" xml:id="t1-body-d2-x11-pb1"/>
                     
                     New Zealand cavalry in <name type="place" ref="#EGY" key="EGY">Egypt</name>!</p>
                 
@@ -763,7 +759,7 @@
                     <lb/>
                     will send you a copy when they are
                     
-                    <pb n="8" facs="#rb032h" xml:id="t1-body-d2-x16-pb1"/>
+                    <pb n="9" facs="#rb032h" xml:id="t1-body-d2-x16-pb1"/>
                     
                     ready.
                 </p>
@@ -825,8 +821,7 @@
                     </signed>
                 </closer>
             </div>  
-            <pb facs="#rb032envf" xml:id="t1-body-pb2"/>
-            <pb facs="#rb032envb" xml:id="t1-body-pb3"/>
+            
         </body>
     </text>
     

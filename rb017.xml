@@ -52,35 +52,35 @@
                     <p>Page images:</p>
                     <list type="simple">
                         <item>
-                            <figure xml:id="rb017a"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017a">
                                 <graphic url="rb017a.jpg" mimeType="image/jpeg" xml:id="rb017a-g"/>
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb017b"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017b">
                                 <graphic url="rb017b.jpg" mimeType="image/jpeg" xml:id="rb017b-g"/>
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb017c"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017c">
                                 <graphic url="rb017c.jpg" mimeType="image/jpeg" xml:id="rb017c-g"/>
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb017d"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017d">
                                 <graphic url="rb017d.jpg" mimeType="image/jpeg" xml:id="rb017d-g"/>
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb017envf"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017envf">
                                 <graphic url="rb017envf.jpg" mimeType="image/jpeg" xml:id="rb017envf-g"/>
                             </figure>
-                        </item>
+                        </item>  
                         <item>
-                            <figure xml:id="rb017envb"><!-- Digital image xml:id -->
+                            <figure xml:id="rb017envb">
                                 <graphic url="rb017envb.jpg" mimeType="image/jpeg" xml:id="rb017envb-g"/>
                             </figure>
-                        </item>
+                        </item>  
                        </list>
                 </note>
             </notesStmt>	
@@ -327,8 +327,6 @@
                 <hi rend="u"><name type="person" corresp="#RTB">Roy.</name></hi>
             </closer>
             
-            <pb n="5" facs="#rb017envf" xml:id="t1-body-pb3"/>
-            <pb n="6" facs="#rb017envb" xml:id="t1-body-pb4"/>
         </body>
     </text>
     

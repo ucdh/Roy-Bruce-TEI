@@ -80,6 +80,16 @@
                                 <graphic url="rb004f.jpg" mimeType="image/jpeg" xml:id="rb004f-g"/>
                             </figure>
                         </item>
+                        <item>
+                            <figure xml:id="rb004envf">
+                                <graphic url="rb004envf.jpg" mimeType="image/jpeg" xml:id="rb004envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb004envb">
+                                <graphic url="rb004envb.jpg" mimeType="image/jpeg" xml:id="rb004envb-g"/>
+                            </figure>
+                        </item>
                     </list>
                 </note>
             </notesStmt>	
@@ -248,7 +258,7 @@
                 <date when="1913-12-30">30.12.1913</date>.
             </dateline>
             <lb/>
-            <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+            <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
         </opener>
         
         <p>You will have

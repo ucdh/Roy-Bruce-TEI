@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb085" xml:lang="en">
+	<teiHeader type="text">
+		<fileDesc xml:id="fileDesc-0001">
+			<titleStmt>
+				<title>Letter from Roy Bruce to Maud Bruce</title>
+				<author>
+					<name type="person">Roy Thomas Bruce</name>
+				</author>
+				<principal>
+					<name type="person">Paul Millar</name>
+				</principal>
+				<funder>University of Canterbury</funder>
+				<respStmt xml:id="respStmt-0001">
+					<resp>Transcription</resp>
+					<name type="person">Jennifer Middendorf</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0002">
+					<resp>Transcription check</resp>
+					<name type="person">Julian Vesty</name>
+				</respStmt>
+				<respStmt xml:id="respStmt-0003">
+					<resp>Conversion to TEI-conformant markup</resp>
+					<name type="person">Julian Vesty</name>
+					<name type="person">Jennifer Middendorf</name>
+					<name type="person">Lucy-Jane Walsh</name>
+				</respStmt>                
+			</titleStmt>
+			<extent>Extent including images:  kb</extent>
+			<publicationStmt>
+				<publisher>University of Canterbury Humanities Computing Unit</publisher>
+				<pubPlace>Christchurch, New Zealand</pubPlace>
+				<address>
+					<addrLine>School of Humanities</addrLine>
+					<addrLine>University of Canterbury</addrLine>
+					<addrLine>Private Bag 4800</addrLine>
+					<addrLine>Christchurch 8140</addrLine>
+					<addrLine>New Zealand</addrLine>
+				</address>
+				<availability status="restricted">
+					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+						<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+				</availability>
+				<date when="2016-09-28">28 September 2016</date>
+			</publicationStmt>
+			<notesStmt xml:id="notesStmt-0001">
+				<note xml:id="page-images">
+					<p>Page images:</p>
+					<list type="simple">
+						<item>
+							<figure xml:id="rb085a">
+								<graphic url="rb085a.jpg" mimeType="image/jpeg" xml:id="rb085a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085b">
+								<graphic url="rb085b.jpg" mimeType="image/jpeg" xml:id="rb085b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085c">
+								<graphic url="rb085c.jpg" mimeType="image/jpeg" xml:id="rb085c-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085d">
+								<graphic url="rb085d.jpg" mimeType="image/jpeg" xml:id="rb085d-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085envf">
+								<graphic url="rb085envf.jpg" mimeType="image/jpeg" xml:id="rb085envf-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085envb">
+								<graphic url="rb085envb.jpg" mimeType="image/jpeg" xml:id="rb085envb-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb085stamps">
+								<graphic url="rb085stamps.jpg" mimeType="image/jpeg" xml:id="rb085stamps-g"/>
+							</figure>
+						</item>							
+					</list>
+				</note>
+			</notesStmt>	
+			<sourceDesc xml:id="sourceDesc-0001">
+				<msDesc>
+					<msIdentifier>
+						<settlement>Christchurch</settlement>
+						<institution>University of Canterbury</institution>
+						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+						<collection>Letters from Major Roy Bruce</collection>
+						<idno type="text">135707</idno>         
+					</msIdentifier>
+					<head>
+						<date when="1916-11-28">28 November 1916</date>
+						<title>Letter from Roy Bruce to Maud Bruce</title>
+					</head>
+					<msContents>
+						<msItem>
+							<bibl>
+								<author>Roy Thomas Bruce</author>
+								<title>Letter from Roy Bruce to Maud Bruce</title>
+								<extent>4 Pages</extent>
+							</bibl>
+						</msItem>
+					</msContents>
+					<physDesc>
+						<objectDesc form="letter"/>                           
+						<handDesc>
+							<handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+						</handDesc>
+					</physDesc>
+				</msDesc>	
+			</sourceDesc>
+		</fileDesc>	
+		<encodingDesc>
+			<projectDesc xml:id="projectDesc-0001">
+				<p>The Roy Bruce project aims to preserve and make available to a 
+					wide audience original World War I correspondence closely linked to 
+					Canterbury and Southland families. It also aims to introduce the
+					principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+					electronic archiving tradition at the University of Canterbury.</p>
+			</projectDesc>
+			<samplingDecl>
+				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+			</samplingDecl>
+			<editorialDecl>
+				<correction status="medium" method="markup">
+					<p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+				</correction>
+				<normalization>
+					<p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+				</normalization>
+				<quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+				<hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+			</editorialDecl>
+		</encodingDesc>
+		<profileDesc xml:id="profileDesc-0001">
+			<creation>
+				Desert
+				<date when="1916-11-28">28 November 1916</date>
+			</creation>
+			<langUsage>
+				<language ident="en" usage="99">English</language>
+				<language ident="fr" usage="1">French</language>
+			</langUsage>
+			<particDesc>                
+				<listPerson>
+					<person xml:id="MGB">
+						<persName>
+							<forename>Maud</forename>
+							<addName type="middle">Goodenough</addName>type="married"&gt;
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Bruce</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
+					<person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+						<persName>
+							<roleName type="military">Lieutenant</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Thomas</addName>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>
+					<person xml:id="HEB">
+						<persName>
+							<forename>Helen</forename>
+							<addName type="middle">Eugenie</addName>
+							<surname type="maiden">Bruce</surname>
+							<surname type="married">Alexander</surname>
+						</persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
+					<relationGrp type="personal">
+						<relation name="parent" active="#RTB #MGB" passive="#HEB"/>
+						<relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/> 
+					</relationGrp>
+				</listPerson>                               
+			</particDesc>        
+			<settingDesc>                
+				<listPlace>
+					<place xml:id="NZE">
+						<placeName>
+							<country>New Zealand</country>
+						</placeName>
+					</place>
+					<place xml:id="EGY">
+						<placeName>
+							<country>Egypt</country>
+						</placeName>
+					</place>
+					<place xml:id="ENG">
+						<placeName>
+							<country>England</country>
+						</placeName>
+						<location>
+							<bloc ref="#BRI">United Kingdom</bloc>
+						</location>
+					</place>
+					<place xml:id="BRI">
+						<placeName>
+							<bloc>United Kingdom</bloc>
+						</placeName>
+						<location>
+							<bloc ref="#EUR">Europe</bloc>
+						</location>
+					</place>
+					<place xml:id="EUR">
+						<placeName>
+							<bloc>Europe</bloc>
+						</placeName>
+					</place>
+					
+					<place xml:id="ARI">
+						<placeName>
+							<settlement>Al Arish</settlement>
+						</placeName>
+						<location><country ref="#EGY">Egypt</country></location>						
+					</place>	
+				</listPlace>                
+			</settingDesc>
+		</profileDesc>
+		<revisionDesc xml:id="revisionDesc-0001">
+			<change xml:id="change-0001"/>
+		</revisionDesc>
+	</teiHeader>
+	
+<text xml:id="t1">
+  <body xml:id="t1-body">
+   <pb n="1" facs="#rb085a" xml:id="t1-body-pb1"/>
+    
+    <opener>
+      <dateline>
+        <name type="place">The desert</name>
+        <lb/>
+        <date when="1916-11-28">28. 11. 1916</date>
+      </dateline>
+      <lb/>
+    	<lb/>
+      <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
+    </opener>
+    <p>
+		I think it would 
+		<lb/>
+		be a very good idea if <name type="person" ref="#HEB" key="HEB">Helen</name> were 
+		<lb/>
+		to start some hobby. Say for 
+		<lb/>
+		instance stamp collecting. It is  
+		<lb/>
+		very interesting and I used to be  
+		<lb/>
+		very fond of it when I was a 
+		<lb/>
+		kiddie. Now that she is going 
+		<lb/>
+		about more and mixing up with 
+		<lb/>
+		other children at school and  
+		<lb/>
+		elsewhere she should find plenty 
+		<lb/>
+		of opportunities for exchange etc. 
+		<lb/>
+		I am enclosing a few Egyptian 
+		<lb/>
+		stamps for a start. The duplicates
+		
+	<pb n="2" facs="#rb085b" xml:id="t1-body-x2-pb1"/>	
+	
+		she can possibly exchange for
+		<lb/>
+		others. I will send some more
+		<lb/>
+		when I get an opportunity. It is 
+		<lb/>
+		always nice for a child to have
+		<lb/>
+		something useful to occupy herself
+		<lb/>
+		with.
+	</p>
+	<p>
+		I would also like you to buy
+		<lb/>
+		her a copy of "Grimm's Fairy Tales".
+		<lb/>
+		I used to be very fond of them.
+		<lb/>
+		I think she would like them.
+	</p>
+	<p>
+		Enclosed you will find an
+		<lb/>
+		Egyptian 1 note (100 piastres) the 
+		<lb/>
+		actual value in English money here
+		<lb/>
+		is 1.0.6<hi rend="sup">d</hi>, but I expect the Banks
+		<lb/>
+		there will charge you one or two
+		
+	<pb n="3" facs="#rb085c" xml:id="t1-body-x4-pb1"/>	
+		
+		shillings Exchange.  Buy her a
+		<lb/>
+		copy of Grimm &amp; a book for her
+		<lb/>
+		stamps, and if there is anything 
+		<lb/>
+		over <del rend="strike">anything over</del>, anything 
+		<lb/>
+		you like for yourself.
+	</p>
+	<p>
+		I can send you the money
+		<lb/>
+		to have the house painted if
+		<lb/>
+		you like, but at present I am
+		<lb/>
+		rather inclined to keep it in
+		<lb/>
+		case you can come out here. I
+		<lb/>
+		see absolutely no chance of my
+		<lb/>
+		going to <name type="place" ref="#NZE" key="NZE">N.Z.</name>, and a voyage for
+		<lb/>
+		you to either <name type="place" ref="#EGY" key="EGY">Egypt</name> or <name type="place" ref="#ENG" key="ENG">England</name>
+		<lb/>
+		is going to cost a lot of money.
+		<lb/>
+		Let me know what you think?	
+		
+	<pb n="4" facs="#rb085d" xml:id="t1-body-x5-pb1"/>	
+		
+		There is one thing I am very 
+		<lb/>
+		thankful for, and that is if any-
+		<lb/>
+		thing happens to me, the pension you
+		<lb/>
+		would received as a Major's widow leaves
+		<lb/>
+		you safely provided for. That worried
+		<lb/>
+		me a lot when I was a Lieut.
+	</p>
+	<p>
+		I am afraid this is rather a 
+		<lb/>
+		materialistic letter, but my mood 
+		<lb/>
+		is such at the moment, and there is
+		<lb/>
+		absolutely no news - we are sitting down
+		<lb/>
+		consolidating prior to capturing <name type="place" ref="#ARI" key="ARI">El Arish</name>.
+	</p>
+	<p>
+		Let us hope the whole thing will 
+		<lb/>
+		be over before long, and we can once
+		<lb/>
+		more be together and settle down
+		<lb/>
+		peacefully.
+	</p>
+	  
+	<closer>
+		<salute>With fondest love and humbugs  
+		<lb/>
+		to you both,</salute>
+		<lb/>
+		<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
+	</closer>
+	
+      </body>
+</text>
+</TEI>

@@ -169,12 +169,7 @@
                             <figure xml:id="rb019envf">
                                 <graphic url="rb019envf.jpg" mimeType="image/jpeg" xml:id="rb019envf-g"/>
                             </figure>
-                        </item>
-                        <item>
-                            <figure xml:id="pagemissing">
-                                <graphic url="pagemissing.jpg" mimeType="image/jpeg" xml:id="rb019pagemissing-g"/>
-                            </figure>
-                        </item>
+                        </item>                       
                         <item>
                             <figure xml:id="rb019envb">
                                 <graphic url="rb019envb.jpg" mimeType="image/jpeg" xml:id="rb019envb-g"/>
@@ -250,34 +245,34 @@
             <particDesc>
                 <listPerson>
                     <person xml:id="WFM">
-        <persName evidence="external" source="http://www.nzhistory.net.nz/people/william-massey">
-            <roleName>Prime Minister</roleName>
-            <forename>William</forename>
-            <addName type="middle">Ferguson</addName>
-            <surname>Massey</surname>
-        </persName>
-        <birth when="1856-03-26">26 March 1856</birth>
-        <death when="1925-05-10">10 May 1925</death>
-    </person>
-                     <person xml:id="RTB">
-        <persName>
-            <roleName type="military">Lieutenant</roleName>
-            <forename>Roy</forename>
-            <addName type="middle">Thomas</addName>
-            <surname>Bruce</surname>
-        </persName>
-        <birth when="1881-12-18">18 December 1881</birth>
-        <death when="1945-11-29">29 November 1945</death>
-    </person>
+                        <persName evidence="external" source="http://www.nzhistory.net.nz/people/william-massey">
+                            <roleName>Prime Minister</roleName>
+                            <forename>William</forename>
+                            <addName type="middle">Ferguson</addName>
+                            <surname>Massey</surname>
+                        </persName>
+                        <birth when="1856-03-26">26 March 1856</birth>
+                        <death when="1925-05-10">10 May 1925</death>
+                    </person>
+                    <person xml:id="RTB">
+                        <persName>
+                            <roleName type="military">Lieutenant</roleName>
+                            <forename>Roy</forename>
+                            <addName type="middle">Thomas</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                        <birth when="1881-12-18">18 December 1881</birth>
+                        <death when="1945-11-29">29 November 1945</death>
+                    </person>
                     <person xml:id="MGB">
-        <persName>
-            <forename>Maud</forename>
-            <addName type="middle">Goodenough</addName>type="married">
-            <surname type="maiden">Hayter</surname>
-            <surname type="married">Bruce</surname>
-        </persName>
-        <birth when="1880-02-22">22 February 1880</birth>
-    </person>
+                        <persName>
+                            <forename>Maud</forename>
+                            <addName type="middle">Goodenough</addName>type="married">
+                            <surname type="maiden">Hayter</surname>
+                            <surname type="married">Bruce</surname>
+                        </persName>
+                        <birth when="1880-02-22">22 February 1880</birth>
+                    </person>
                     <person xml:id="JAL">
                         <persName>
                             <roleName>Minister for Defence</roleName>
@@ -286,13 +281,13 @@
                         </persName>
                     </person>
                     <person xml:id="FMF">
-        <persName evidence="external" source="https://en.wikipedia.org/wiki/Francis_Fisher">
-            <forename>Francis</forename>
-            <addName type="middle">Marion</addName>
-            <addName type="middle">Bates</addName>
-            <surname>Fisher</surname>
-        </persName>
-    </person>
+                        <persName evidence="external" source="https://en.wikipedia.org/wiki/Francis_Fisher">
+                            <forename>Francis</forename>
+                            <addName type="middle">Marion</addName>
+                            <addName type="middle">Bates</addName>
+                            <surname>Fisher</surname>
+                        </persName>
+                    </person>
                     <person xml:id="MLO">
                         <persName>
                             <roleName type="military">Major</roleName>
@@ -315,26 +310,26 @@
                         </persName>
                     </person>
                     <person xml:id="AGO">
-        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/44256.detail?">
-            <roleName type="honorofic">Sir</roleName>
-            <roleName type="military">Major General</roleName>
-            <forename>Alexander</forename>
-            <addName type="middle">John</addName>
-            <surname>Godley</surname>
-        </persName>
-        <birth when="1867-02-04">4th of February 1867</birth>
-        <death when="1957-03-06">6th of March 1957</death>
-    </person>
+                        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/44256.detail?">
+                            <roleName type="honorofic">Sir</roleName>
+                            <roleName type="military">Major General</roleName>
+                            <forename>Alexander</forename>
+                            <addName type="middle">John</addName>
+                            <surname>Godley</surname>
+                        </persName>
+                        <birth when="1867-02-04">4th of February 1867</birth>
+                        <death when="1957-03-06">6th of March 1957</death>
+                    </person>
                     <person xml:id="CLU">
-        <persName evidence="external" source="https://en.wikipedia.org/wiki/George_Armstrong_Custer">
-            <roleName type="military">General</roleName>
-            <fistname>George</fistname>
-            <addName type="middle">Armstrong</addName>
-            <surname>Custer</surname>
-        </persName>
-        <birth when="1839-12-05">5 December 1839</birth>
-        <death when="1876-06-25">25 June 1876</death>
-    </person>
+                        <persName evidence="external" source="https://en.wikipedia.org/wiki/George_Armstrong_Custer">
+                            <roleName type="military">General</roleName>
+                            <forename>George</forename>
+                            <addName type="middle">Armstrong</addName>
+                            <surname>Custer</surname>
+                        </persName>
+                        <birth when="1839-12-05">5 December 1839</birth>
+                        <death when="1876-06-25">25 June 1876</death>
+                    </person>
                     <person xml:id="PIN">
                         <persName>Pinkie</persName>
                     </person>
@@ -345,12 +340,12 @@
                         </persName>
                     </person>
                     <person xml:id="CSB">
-        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/39360.detail?">
-            <forename>Claude</forename>
-            <addName type="middle">Stanley</addName>
-            <surname>Bruce</surname>
-        </persName>
-    </person>
+                        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/39360.detail?">
+                            <forename>Claude</forename>
+                            <addName type="middle">Stanley</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                    </person>
                     <person xml:id="CBR">
                         <persName>
                             <roleName>Captain</roleName>
@@ -367,36 +362,36 @@
             <settingDesc>
                 <listPlace>
                     <place xml:id="DUR">
-        <placeName>
-            <settlement>Durban</settlement>
-        </placeName>
-        <location><country ref="#SAF">South Africa</country></location>
-    </place>
-    <place xml:id="SAF">
-        <placeName>
-            <country>South Africa</country>
-        </placeName>
-        <location ref="#AFR">
-            <bloc>Africa</bloc>
-        </location>
-    </place>
-    <place xml:id="AFR">
-        <placeName>
-            <bloc>Africa</bloc>
-        </placeName>
-    </place>
+                        <placeName>
+                            <settlement>Durban</settlement>
+                        </placeName>
+                        <location><country ref="#SAF">South Africa</country></location>
+                    </place>
+                    <place xml:id="SAF">
+                        <placeName>
+                            <country>South Africa</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#AFR">Africa</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="AFR">
+                        <placeName>
+                            <bloc>Africa</bloc>
+                        </placeName>
+                    </place>
                     <place xml:id="LON">
-        <placeName>
-            <settlement>London</settlement> 
-        </placeName>
-        <location>
-            <country ref="#ENG">England</country>            
-        </location>
-    </place>
+                        <placeName>
+                            <settlement>London</settlement> 
+                        </placeName>
+                        <location>
+                            <country ref="#ENG">England</country>            
+                        </location>
+                    </place>
                     <place xml:id="NZE">
-                    <placeName>
-                        <country>New Zealand</country>
-                    </placeName>
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
                     </place>
                     <place xml:id="WEL">
                         <placeName>
@@ -407,34 +402,34 @@
                         </location>
                     </place>
                     <place xml:id="FRA">
-        <placeName>
-            <country>France</country>
-        </placeName>
-        <location>
-            <bloc ref="#EUR">Europe</bloc>
-        </location>
-    </place>
-    <place xml:id="EUR">
-        <placeName>
-            <bloc>Europe</bloc>
-        </placeName>
-    </place>
-    <place xml:id="ENG">
-        <placeName>
-            <country>England</country>
-        </placeName>
-        <location>
-            <bloc ref="#BRI">United Kingdom</bloc>
-        </location>
-    </place>
-    <place xml:id="BRI">
-        <placeName>
-            <bloc>United Kingdom</bloc>
-        </placeName>
-        <location>
-            <bloc ref="#EUR">Europe</bloc>
-        </location>
-    </place>
+                        <placeName>
+                            <country>France</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="EUR">
+                        <placeName>
+                            <bloc>Europe</bloc>
+                        </placeName>
+                    </place>
+                    <place xml:id="ENG">
+                        <placeName>
+                            <country>England</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#BRI">United Kingdom</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="BRI">
+                        <placeName>
+                            <bloc>United Kingdom</bloc>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
                     <place xml:id="HOB">
                         <placeName>
                             <settlement>Hobart</settlement>
@@ -449,7 +444,7 @@
                         </placeName>
                     </place>
                     <place xml:id="VDL">
-                            <placeName>Van Deiman's Land</placeName>                                                    
+                        <placeName>Van Deiman's Land</placeName>                                                    
                         <location>
                             <country ref="#AUS">Australia</country>
                         </location>
@@ -464,52 +459,47 @@
                         </location>
                     </place>
                     <place xml:id="ALB">
-        <placeName>
-            <settlement>Albany</settlement>
-            <location ref="#AUS">
-                <country>Australia</country>
-            </location>
-        </placeName>
-    </place>
-    
-    <place xml:id="AUS">
-        <placeName>
-            <country>Australia</country>
-        </placeName>
-    </place>
+                        <placeName>
+                            <settlement>Albany</settlement>            
+                        </placeName>
+                        <location>
+                            <country ref="#AUS">Australia</country>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="AUS">
+                        <placeName>
+                            <country>Australia</country>
+                        </placeName>
+                    </place>
                     <place xml:id="COL">
-        <placeName>
-            <settlement>Colombo</settlement>
-        </placeName>
-        <location>
-            <country ref="#SRI">Sri Lanka</country>
-        </location>
-    </place>
-    
-    <place xml:id="SRI">
-        <country>Sri Lanka</country>
-    </place>
+                        <placeName>
+                            <settlement>Colombo</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#SRI">Sri Lanka</country>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="SRI">
+                        <country>Sri Lanka</country>
+                    </place>
                     <place xml:id="SUZ">
-        <placeName>
-            <settlement>Suez</settlement>
-        </placeName>
-        <location>
-            <country ref="#EGY">Egypt</country>
-        </location>
-    </place>
-    <place xml:id="EGY">
-        <placeName>
-            <country>Egypt</country>
-        </placeName>
-    </place> 
-                     <place xml:id="HON">
-        <placeName>
-            <settlement>Honolulu</settlement>
-        </placeName>
-        <location>
-            <country ref="#USA">United States of America</country>
-        </location>
-    </place>
+                        <placeName>
+                            <settlement>Suez</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#EGY">Egypt</country>
+                        </location>
+                    </place>    
+                    <place xml:id="HON">
+                        <placeName>
+                            <settlement>Honolulu</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#USA">United States of America</country>
+                        </location>
+                    </place>
                     <place xml:id="USA">
                         <placeName>
                             <country>United States of America</country>
@@ -524,12 +514,12 @@
                         </location>
                     </place>                     
                     <place xml:id="AUK">
-        <placeName><settlement>Auckland</settlement>
-        </placeName>
-            <location>
-            <country ref="#NZE">New Zealand</country>
-        </location>
-    </place>
+                        <placeName><settlement>Auckland</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
                 </listPlace> 
             </settingDesc>
         </profileDesc>
@@ -547,14 +537,12 @@
             <div n="1" xml:id="t1-body-d1">
                 <pb n="1" facs="#rb019a" xml:id="t1-body-d1-pb1"/>
                 <opener>
-                    <dateline rend="u">
-                        
+                    <dateline rend="u">                        
                         H. M. N. Z. T. 11.
-                    
-                    
-                        Athenic.
-                        
-                        <date when="1914-10-16">Friday 16 October 1914</date>
+                        <lb/>
+                        "Athenic."
+                        <lb/>
+                        <date when="1914-10-16">Friday, 16 October 1914</date>
                     </dateline>
                 </opener>
                 
@@ -1201,7 +1189,7 @@
                     <lb/>
                     opportunity occurs to send them on.
                     <lb/>
-               I think the censor did get them as 'no more were received'</p>
+                    I think the censor did get them as 'no more were received'</p>
                 <signed>
                     <name type="person" ref="#RTB" key="RTB">Roy</name>
                 </signed>

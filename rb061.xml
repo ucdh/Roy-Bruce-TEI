@@ -357,11 +357,10 @@
 
 				</listPerson> 	
 				<org xml:id="CMR" type="military">
-					<orgName><choice>
+					<orgName>
 						<abbr>C.M.R</abbr>
-						<expan>Canterbury Mounted Rifles Regiment</expan>
-					</choice>
-						<org ref="#NMB">New Zealand Mounted Brigade</org>
+						<expan>Canterbury Mounted Rifles Regiment</expan>				
+						
 					</orgName>
 				</org>			
                 <org xml:id="NMB" type="military">
@@ -534,14 +533,15 @@
 									<expan>Christchurch</expan>                
 								</choice>
 							</settlement>
-							<location>
-								<country ref="#NZE">New Zealand</country>
-							</location>
+							
 						</placeName>
+					    <location>
+					        <country ref="#NZE">New Zealand</country>
+					    </location>
 					</place>    
 					<place xml:id="ADD">
 						<placeName>
-							<distrinct>Addington</distrinct>
+							<district>Addington</district>
 						</placeName>
 						<location>
 							<settlement ref="#CHC">Christchurch</settlement>
@@ -563,7 +563,7 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
                 
             </opener>
             <p>
@@ -1411,7 +1411,7 @@
 				<lb/>
 				<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
 			</closer>		
-		<pb n="20" facs="#rb061envb" xml:id="t1-body-pb3"/>
+		
         </body>
     </text>
 </TEI>

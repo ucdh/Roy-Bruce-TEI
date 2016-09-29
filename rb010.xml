@@ -70,17 +70,7 @@
                             <figure xml:id="rb010d">
                                 <graphic url="rb010d.jpg" mimeType="image/jpeg" xml:id="rb010d-g"/>
                             </figure>
-                        </item>
-                        <item>
-                            <figure xml:id="rb010envf">
-                                <graphic url="rb010envf.jpg" mimeType="image/jpeg" xml:id="rb010envf-g"/>
-                            </figure>
-                        </item>
-                        <item>
-                            <figure xml:id="rb010envb">
-                                <graphic url="rb010envb.jpg" mimeType="image/jpeg" xml:id="rb010envb-g"/>
-                            </figure>
-                        </item>
+                        </item>                       
                     </list>
                 </note>
             </notesStmt>	
@@ -143,7 +133,8 @@
         </encodingDesc>
         <profileDesc xml:id="profileDesc-0001">
             <creation>
-                Trentham                
+                Trentham 
+                <date when="1914-10-12">12 October 1914</date>
             </creation>
             <langUsage>
                 <language ident="en" usage="99">English</language>
@@ -278,10 +269,11 @@
             <opener>
                 <dateline>
                     <name type="place" ref="#TRE" key="TRE">Trentham</name>
+                    <lb/>
                     <date>Sunday</date>
                 </dateline>
                 <lb/>
-                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
             </opener>
             
             <p rend="indent">Had a nice long letter
@@ -441,9 +433,7 @@
                 <signed>
                     <name type="person" ref="#RTB" key="RTB">Roy</name>
                 </signed>
-            </closer>
-            <!-- <pb n="5" facs="#rb010envf" xml:id="t1-body-pb3"/>
-            <pb n="6" facs="#rb010envb" xml:id="t1-body-pb4"/> -->
+            </closer>            
         </body>
         
 

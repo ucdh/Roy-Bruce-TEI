@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.tei-c.org/ns/1.0" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 tei_all.xsd" xml:id="rb038" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb038" xml:lang="en">
 	<teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
 		<fileDesc xml:id="fileDesc-0001">
 			<titleStmt>
 				<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 16 May 1915</title> 
 				<author>
-  				<name type="person">Roy Thomas Bruce</name>
+					<name type="person">Roy Thomas Bruce</name>
 				</author>
 				<principal>
-	  			<name type="person">Paul Millar</name>
+					<name type="person">Paul Millar</name>
 				</principal>
 				<funder>University of Canterbury</funder>
 				<respStmt xml:id="respStmt-0001">
@@ -46,7 +46,7 @@
 				</address>
 				<availability status="restricted">
 					<p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
-					<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+						<graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
 				</availability>
 				<date when="2010-11-15">15 November 2010</date>
 			</publicationStmt>
@@ -55,12 +55,34 @@
 					<p>Page images:</p>
 					<list type="simple">
 						<item>
-							<figure xml:id="rb038a"><graphic url="rb038a.jpg" mimeType="image/jpeg" xml:id="rb038a-g"/></figure>
-							<figure xml:id="rb038b"><graphic url="rb038b.jpg" mimeType="image/jpeg" xml:id="rb038b-g"/></figure>
-							<figure xml:id="rb038c"><graphic url="rb038c.jpg" mimeType="image/jpeg" xml:id="rb038c-g"/></figure>
-							<figure xml:id="rb038d"><graphic url="rb038d.jpg" mimeType="image/jpeg" xml:id="rb038d-g"/></figure>
-							<figure xml:id="rb038envf"><graphic url="rb038envf.jpg" mimeType="image/jpeg" xml:id="rb038envf-g"/></figure>
-							<figure xml:id="rb038envb"><graphic url="rb038envb.jpg" mimeType="image/jpeg" xml:id="rb038envb-g"/></figure>
+							<figure xml:id="rb038a">
+								<graphic url="rb038a.jpg" mimeType="image/jpeg" xml:id="rb038a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb038b">
+								<graphic url="rb038b.jpg" mimeType="image/jpeg" xml:id="rb038b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb038c">
+								<graphic url="rb038c.jpg" mimeType="image/jpeg" xml:id="rb038c-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb038d">
+								<graphic url="rb038d.jpg" mimeType="image/jpeg" xml:id="rb038d-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb038envf">
+								<graphic url="rb038envf.jpg" mimeType="image/jpeg" xml:id="rb038envf-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb038envb">
+								<graphic url="rb038envb.jpg" mimeType="image/jpeg" xml:id="rb038envb-g"/>
+							</figure>
 						</item>
 					</list>
 				</note>
@@ -73,13 +95,13 @@
 						<repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
 						<collection>Letters from Major Roy Bruce</collection>
 						<idno type="text">135656</idno>
-					<altIdentifier>
-					  <idno type="URL">http://thecommunityarchive.org.nz/node/204656</idno>
-					</altIdentifier>		
+						<altIdentifier>
+							<idno type="URL">http://thecommunityarchive.org.nz/node/204656</idno>
+						</altIdentifier>		
 					</msIdentifier>
 					<head>
-					  <date when="1915-05-16">16 May 1915</date>
-					  <title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 16 May 1915</title>
+						<date when="1915-05-16">16 May 1915</date>
+						<title>Letter from Roy Thomas Bruce to Maud Goodenough Bruce, 16 May 1915</title>
 					</head>
 					<msContents>
 						<msItem>
@@ -103,10 +125,10 @@
 		<encodingDesc>
 			<projectDesc xml:id="projectDesc-0001">
 				<p>The Roy Bruce project aims to preserve and make available to a 
-				wide audience original World War I correspondence closely linked to 
-				Canterbury and Southland families. It also aims to introduce the
-				principles of TEI to the ENGL317/419 class and foster a scholarly 	
-				electronic archiving tradition at the University of Canterbury.</p>
+					wide audience original World War I correspondence closely linked to 
+					Canterbury and Southland families. It also aims to introduce the
+					principles of TEI to the ENGL317/419 class and foster a scholarly 	
+					electronic archiving tradition at the University of Canterbury.</p>
 			</projectDesc>
 			<samplingDecl>
 				<p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
@@ -135,44 +157,44 @@
 			<particDesc>
 				<listPerson>
 					<person xml:id="RTB">
-        <persName>
-            <roleName type="military">Lieutenant 8th Squadron</roleName>
-            <forename>Roy</forename>
-            <addName type="middle">Thomas</addName>
-            <surname>Bruce</surname>
-        </persName>
-        <birth when="1881-12-18">18 December 1881</birth>
-        <death when="1945-11-29">29 November 1945</death>
-    </person>
+						<persName>
+							<roleName type="military">Lieutenant 8th Squadron</roleName>
+							<forename>Roy</forename>
+							<addName type="middle">Thomas</addName>
+							<surname>Bruce</surname>
+						</persName>
+						<birth when="1881-12-18">18 December 1881</birth>
+						<death when="1945-11-29">29 November 1945</death>
+					</person>
 					<person xml:id="MGB">
-        <persName>
-            <forename>Maud</forename>
-            <addName type="middle">Goodenough</addName>type="married">
-            <surname type="maiden">Hayter</surname>
-            <surname type="married">Bruce</surname>
-        </persName>
-        <birth when="1880-02-22">22 February 1880</birth>
-    </person>
+						<persName>
+							<forename>Maud</forename>
+							<addName type="middle">Goodenough</addName>type="married">
+							<surname type="maiden">Hayter</surname>
+							<surname type="married">Bruce</surname>
+						</persName>
+						<birth when="1880-02-22">22 February 1880</birth>
+					</person>
 					<person xml:id="HEB">
-        <persName>
-            <forename>Helen</forename>
-            <addName type="middle">Eugenie</addName>
-            <surname type="maiden">Bruce</surname>
-            <surname type="married">Alexander</surname>
-        </persName>
-        <birth when="1909-12-05">5 December 1909</birth>
-    </person>
+						<persName>
+							<forename>Helen</forename>
+							<addName type="middle">Eugenie</addName>
+							<surname type="maiden">Bruce</surname>
+							<surname type="married">Alexander</surname>
+						</persName>
+						<birth when="1909-12-05">5 December 1909</birth>
+					</person>
 					<person xml:id="WHH">
 						<persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C6631"><forename>William</forename><addName type="middle">Harold</addName><surname>Hay</surname></persName>
 						<death when="1915-05-14">14 May 1915</death>
 					</person>
-					 <person xml:id="AWH">
-        <persName>
-            <forename>Agnes</forename>
-            W.
-            <surname>Hay</surname>
-        </persName>
-    </person>	
+					<person xml:id="AWH">
+						<persName>
+							<forename>Agnes</forename>
+							W.
+							<surname>Hay</surname>
+						</persName>
+					</person>	
 					<relationGrp type="personal">
 						<relation name="parent" active="#RTB #MBG" passive="#HEB"/>
 						<relation name="parent" active="#AWH" passive="#WHH"/>
@@ -182,34 +204,34 @@
 			</particDesc>
 			<settingDesc>
 				<listPlace>
- 					<place xml:id="AEG">
-        <geogName>
-            <name>Aegean</name>
-            <geoFeat>Sea</geoFeat>
-         </geogName>
-    </place>
- 					<place xml:id="MED">
-        <geogName>
-            <name>Mediterranean</name>
-            <geoFeat>Sea</geoFeat>
-        </geogName>           
-    </place>
-  					<place xml:id="NEL">
-        <placeName><settlement type="town">Nelson</settlement></placeName>
-        <location ><country ref="#NZE">
-            New Zealand</country>
-        </location>
-    </place>
-    <place xml:id="NZE">
-        <placeName>
-            <country>New Zealand</country>
-        </placeName>
-    </place>
-  					 <place xml:id="TUR">
-        <placeName>
-            <country>Turkey</country>
-        </placeName>
-    </place>
+					<place xml:id="AEG">
+						<geogName>
+							<name>Aegean</name>
+							<geogFeat>Sea</geogFeat>
+						</geogName>
+					</place>
+					<place xml:id="MED">
+						<geogName>
+							<name>Mediterranean</name>
+							<geogFeat>Sea</geogFeat>
+						</geogName>           
+					</place>
+					<place xml:id="NEL">
+						<placeName><settlement type="town">Nelson</settlement></placeName>
+						<location ><country ref="#NZE">
+							New Zealand</country>
+						</location>
+					</place>
+					<place xml:id="NZE">
+						<placeName>
+							<country>New Zealand</country>
+						</placeName>
+					</place>
+					<place xml:id="TUR">
+						<placeName>
+							<country>Turkey</country>
+						</placeName>
+					</place>
 				</listPlace>
 			</settingDesc>
 		</profileDesc>
@@ -234,124 +256,119 @@
 		</revisionDesc>
 	</teiHeader>
 	<text xml:id="t1">
-	<body xml:id="t1-body">
-<pb n="1" facs="#rb038a"/>
-<!-- rb038a.jpg contains an image of the page;
-                        the text it contains is encoded here -->
-<opener>
- 	<dateline n="Somewhere in Turkey on the Mediterranean (or Aegean Sea) in a dug out behind a trench. Sunday, 16 May 1915.">
-  	<name type="place"><lb/>Somewhere in <name type="place" ref="#TUR" key="TUR">Turkey</name> on the 
-<lb/><name type="place" ref="#MED" key="MED">Mediterranean</name> <add place="below">ˆ</add><add place="above">or <name type="place" ref="#AEG" key="AEG">Aegean Sea</name> </add> in a dug out <lb/>behind a trench.
-	</name>
- 	<date when="1915-05-16" rend="center">Sunday, 16 May 1915.</date>
- 	</dateline>
- 	<salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name>:</salute>
-</opener>
-<p rend="indent">I hope the above
-	<lb/>address describes to you exactly
-	<lb/>where I am, because it is the 
-	<lb/>best I can give you. We landed
-	<lb/>on Tuesday without any trouble
-	<lb/>except a little shrapnel which
-	<lb/>did no damage. We are occupy-
-	<lb/>ing a line of trenches on a 
-	<lb/>ridge above the sea &amp; have a 
-	<lb/>most glorious view. The sea is
-	<lb/>a perfect blue with two islands
-	<lb/>studding the distance, the coast
-	<lb/>line stretches in front of us for
-	<lb/>some miles, with flat cultivated
-	<lb/>land, mostly olive groves thrown
-
-<pb n="2" facs="#rb038b"/>
-<!-- rb038b.jpg contains an image of the page;
-                        the text it contains is encoded here -->
-	into relief with rugged ridges
-	<lb/>a few hundred feet high &amp; 
-	<lb/>covered with a short scrub.
-	<lb/>The sunsets are perfectly gorgeous,
-	<lb/>and the scene is one of peace 
-	<lb/>&amp; beauty if it were not for 
-	<lb/>the continuous cracking of rifles,
-	<lb/>the ping of bullets overhead, the
-	<lb/>bombardment by the heavy guns
-	<lb/>of the warships &amp; the reply from
-	<lb/>the Turkish batteries inland. 
-	<lb/>Since we arrived we have not
-	<lb/>had a minute of silence. The 
-	<lb/>Turks have kept up an in-
-	<lb/>cessant rifle fire all day &amp; 
-	<lb/>all night, but they do practically 
-	<lb/>no damage. We happen to be
-	<lb/>in a very safe corner here &amp; an
-	<lb/>occassional bullet or shell bursting
-	<lb/>fairly near is all there is to
-
-<pb n="3" facs="#rb038c"/>
-<!-- rb038c.jpg contains an image of the page;
-                        the text it contains is encoded here -->
-	worry us.
-</p>
-<p rend="indent">We had one piece of bad luck
-	<lb/>the night before last, poor old 
-	<lb/><name type="person" ref="#WHH" key="WHH">Harold Hay</name> was killed. He was
-	<lb/>accidentally shot by one of the
-	<lb/><name type="place" ref="#NEL" key="NEL">Nelson</name> men. Volunteers were called
-	<lb/>for, to go &amp; bury some of our dead
-	<lb/>about a ½ mile away, &amp; he was one
-	<lb/>that went. It was at night &amp; 
-	<lb/>he had gone a little distance away
-	<lb/>to try &amp; locate a sniper who was
-	<lb/>firing, on his return one of our
-	<lb/>look out men mistook him for
-	<lb/>a Turk &amp; shot him dead. 
-	<lb/>Officially he is reported killed in
-	<lb/>action. I am writing to <name type="person" ref="#AWH" key="AWH">M<hi rend="sup"><hi rend="u">rs</hi></hi>
-	<lb/>Hay</name> &amp; I intend to tell her 
-	<lb/>exactly what happened, because
-	<lb/>I am afraid of yarns reaching 
-	<lb/>her afterwards if I simply say
-	<lb/>he was killed. Of course you
-	<lb/>will see her &amp; I want you to
-
-<pb n="4" facs="#rb038d"/>
-<!-- rb038d.jpg contains an image of the page;
-                        the text it contains is encoded here -->
-explain as much as you can
-	<lb/>that no blame attaches to anyone.
-	<lb/>It was at night &amp; these things are
-	<lb/>always liable to happen. It is
-	<lb/>very sad and very unfortunate but
-	<lb/>he died well performing a voluntary
-	<lb/>service to the dead. Poor old <name type="person" ref="#WHH" key="WHH">Harold</name>,
-	<lb/>he had the makings of a fine 
-	<lb/>man. He was one of my best 
-	<lb/>men &amp; I miss him sadly in the
-	<lb/>troop.
-</p>
-<p rend="indent">I don't know how long we
-	<lb/>are going to occupy this line, but
-	<lb/>I will write as often as possible.
-</p>
-<p rend="indent">We sea bathe every day, it 
-	<lb/>is lovely, occasionally a shell bursts
-	<lb/>near and there is a general stampede.
-</p>
-<p rend="indent">So long for the present darling, 
-	<lb/>don't worry your old head. Kiss 
-	<lb/><name type="person" ref="#HEB" key="HEB">Helen</name> for me, &amp; take care of your-
-	<lb/>selves.
-</p>
- <closer>
-  <salute rend="center">Your loving husband</salute>
-  <signed rend="right"><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy.</name></hi></signed>
- </closer>
-<pb n="5" facs="#rb038envf"/>
-<!-- rb038envf.jpg contains an image of the front of the envelope;
-                        no text it contains has been encoded here -->
-<pb n="6" facs="#rb038envb"/>
-<!-- rb038envb.jpg contains an image of the back of the envelope;
-                        no text it contains has been encoded here -->
-	</body>
+		<body xml:id="t1-body">
+			<pb n="1" facs="#rb038a"/>			
+			<opener>
+				<dateline>
+					<lb/>
+					Somewhere in <name type="place" ref="#TUR" key="TUR">Turkey</name> on the 
+						<lb/>
+							<name type="place" ref="#MED" key="MED">Mediterranean</name> <add place="below">ˆ</add><add place="above">or <name type="place" ref="#AEG" key="AEG">Aegean Sea</name> </add> in a dug out <lb/>behind a trench.
+					<lb/>
+					<date when="1915-05-16" rend="center">Sunday, 16 May 1915.</date>
+				</dateline>
+				<salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name>:</salute>
+			</opener>
+			<p rend="indent">I hope the above
+				<lb/>address describes to you exactly
+				<lb/>where I am, because it is the 
+				<lb/>best I can give you. We landed
+				<lb/>on Tuesday without any trouble
+				<lb/>except a little shrapnel which
+				<lb/>did no damage. We are occupy-
+				<lb/>ing a line of trenches on a 
+				<lb/>ridge above the sea &amp; have a 
+				<lb/>most glorious view. The sea is
+				<lb/>a perfect blue with two islands
+				<lb/>studding the distance, the coast
+				<lb/>line stretches in front of us for
+				<lb/>some miles, with flat cultivated
+				<lb/>land, mostly olive groves thrown
+				
+				<pb n="2" facs="#rb038b"/>
+				<!-- rb038b.jpg contains an image of the page;
+					the text it contains is encoded here -->
+				into relief with rugged ridges
+				<lb/>a few hundred feet high &amp; 
+				<lb/>covered with a short scrub.
+				<lb/>The sunsets are perfectly gorgeous,
+				<lb/>and the scene is one of peace 
+				<lb/>&amp; beauty if it were not for 
+				<lb/>the continuous cracking of rifles,
+				<lb/>the ping of bullets overhead, the
+				<lb/>bombardment by the heavy guns
+				<lb/>of the warships &amp; the reply from
+				<lb/>the Turkish batteries inland. 
+				<lb/>Since we arrived we have not
+				<lb/>had a minute of silence. The 
+				<lb/>Turks have kept up an in-
+				<lb/>cessant rifle fire all day &amp; 
+				<lb/>all night, but they do practically 
+				<lb/>no damage. We happen to be
+				<lb/>in a very safe corner here &amp; an
+				<lb/>occassional bullet or shell bursting
+				<lb/>fairly near is all there is to
+				
+				<pb n="3" facs="#rb038c"/>
+				<!-- rb038c.jpg contains an image of the page;
+					the text it contains is encoded here -->
+				worry us.
+			</p>
+			<p rend="indent">We had one piece of bad luck
+				<lb/>the night before last, poor old 
+				<lb/><name type="person" ref="#WHH" key="WHH">Harold Hay</name> was killed. He was
+				<lb/>accidentally shot by one of the
+				<lb/><name type="place" ref="#NEL" key="NEL">Nelson</name> men. Volunteers were called
+				<lb/>for, to go &amp; bury some of our dead
+				<lb/>about a ½ mile away, &amp; he was one
+				<lb/>that went. It was at night &amp; 
+				<lb/>he had gone a little distance away
+				<lb/>to try &amp; locate a sniper who was
+				<lb/>firing, on his return one of our
+				<lb/>look out men mistook him for
+				<lb/>a Turk &amp; shot him dead. 
+				<lb/>Officially he is reported killed in
+				<lb/>action. I am writing to <name type="person" ref="#AWH" key="AWH">M<hi rend="sup"><hi rend="u">rs</hi></hi>
+					<lb/>Hay</name> &amp; I intend to tell her 
+				<lb/>exactly what happened, because
+				<lb/>I am afraid of yarns reaching 
+				<lb/>her afterwards if I simply say
+				<lb/>he was killed. Of course you
+				<lb/>will see her &amp; I want you to
+				
+				<pb n="4" facs="#rb038d"/>
+				<!-- rb038d.jpg contains an image of the page;
+					the text it contains is encoded here -->
+				explain as much as you can
+				<lb/>that no blame attaches to anyone.
+				<lb/>It was at night &amp; these things are
+				<lb/>always liable to happen. It is
+				<lb/>very sad and very unfortunate but
+				<lb/>he died well performing a voluntary
+				<lb/>service to the dead. Poor old <name type="person" ref="#WHH" key="WHH">Harold</name>,
+				<lb/>he had the makings of a fine 
+				<lb/>man. He was one of my best 
+				<lb/>men &amp; I miss him sadly in the
+				<lb/>troop.
+			</p>
+			<p rend="indent">I don't know how long we
+				<lb/>are going to occupy this line, but
+				<lb/>I will write as often as possible.
+			</p>
+			<p rend="indent">We sea bathe every day, it 
+				<lb/>is lovely, occasionally a shell bursts
+				<lb/>near and there is a general stampede.
+			</p>
+			<p rend="indent">So long for the present darling, 
+				<lb/>don't worry your old head. Kiss 
+				<lb/><name type="person" ref="#HEB" key="HEB">Helen</name> for me, &amp; take care of your-
+				<lb/>selves.
+			</p>
+			<closer>
+				<salute rend="center">Your loving husband</salute>
+				<signed rend="right"><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy.</name></hi></signed>
+			</closer>
+			
+		</body>
 	</text>
 </TEI>

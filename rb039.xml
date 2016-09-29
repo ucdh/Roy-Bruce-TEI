@@ -110,7 +110,17 @@
                             <figure xml:id="rb039l">
                                 <graphic url="rb039l.jpg" mimeType="image/jpeg" xml:id="rb039l-g"/>
                             </figure>
-                        </item>                        
+                        </item>
+                        <item>
+                            <figure xml:id="rb039envf">
+                                <graphic url="rb039envf.jpg" mimeType="image/jpeg" xml:id="rb039envf-g"/>
+                            </figure>
+                        </item>     
+                        <item>
+                            <figure xml:id="rb039envb">
+                                <graphic url="rb039envb.jpg" mimeType="image/jpeg" xml:id="rb039envb-g"/>
+                            </figure>
+                        </item>     
                     </list>
                 </note>
             </notesStmt>	
@@ -287,7 +297,7 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My dearest <name type="person" ref="#MGB">Maud</name></salute>:            
+                <salute>My dearest <name type="person" ref="#MGB">Maud</name>:</salute>     
             </opener>
             
             

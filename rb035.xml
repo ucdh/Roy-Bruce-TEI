@@ -191,6 +191,7 @@
             <opener>
                 <dateline>
                     <name type="place" ref="#ZEI" key="ZEI">Zeitoun</name>
+                    <lb/>
                     <date when="1915-05-08">8. May 1915</date>
                 </dateline>
                 <lb>
@@ -241,8 +242,7 @@
             <lb/>
                 <signed><hi rend="u"><name type="person" ref="#RTB" key="RTB">Daddy</name>.</hi></signed>
             </closer>
-            <pb facs="#rb035envf"/>
-            <pb facs="#rb035envb"/>
+            
         </body>
     </text>
     

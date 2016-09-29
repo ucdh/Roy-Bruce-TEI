@@ -59,47 +59,52 @@
           <list type="simple">
             <item>
               <figure xml:id="rb044a">
-                <graphic url="rb044a.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044a.jpg" mimeType="image/jpeg"  xml:id="rb044a-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044b">
-                <graphic url="rb044b.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044b.jpg" mimeType="image/jpeg" xml:id="rb044b-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044c">
-                <graphic url="rb044c.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044c.jpg" mimeType="image/jpeg" xml:id="rb044c-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044d">
-                <graphic url="rb044d.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044d.jpg" mimeType="image/jpeg" xml:id="rb044d-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044e">
-                <graphic url="rb044e.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044e.jpg" mimeType="image/jpeg" xml:id="rb044e-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044f">
-                <graphic url="rb044f.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044f.jpg" mimeType="image/jpeg" xml:id="rb044f-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044g">
-                <graphic url="rb044g.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044g.jpg" mimeType="image/jpeg" xml:id="rb044g-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb044h">
+                <graphic url="rb044h.jpg" mimeType="image/jpeg" xml:id="rb044h-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044envf">
-                <graphic url="rb044envf.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044envf.jpg" mimeType="image/jpeg" xml:id="rb044envf-g"/>
               </figure>
             </item>
             <item>
               <figure xml:id="rb044envb">
-                <graphic url="rb044envb.jpg" mimeType="image/jpeg"/>
+                <graphic url="rb044envb.jpg" mimeType="image/jpeg" xml:id="rb044envb-g"/>
               </figure>
             </item>
           </list>
@@ -170,7 +175,7 @@
         <language ident="fr" usage="1">French</language>
       </langUsage>
       <particDesc>
-        <listPerson><!-- Edit this section to reflect those people who appear in this letter.  Add names to the tracking spreadsheet too -->
+        <listPerson>
           <person xml:id="RTB">
             <persName>
               <roleName type="military">Lieutenant 8th Squadron</roleName>
@@ -204,7 +209,7 @@
             </persName>
           </person>
           
-          <relationGrp type="personal"><!-- This section can be edited to reflect further relationships if you want.  However, this can take a lot of work so it is fine just to include the relation elements below.  Remember that each person will need an xml:id for authority control purposes though. -->
+          <relationGrp type="personal">
             <relation name="parent" active="#RTB #MGB" passive="#HEB"/>
             <relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/>
           </relationGrp>
@@ -253,11 +258,10 @@
         26 June 1915
       </dateline>
       <salute>
-        My dearest <name type="person" ref="#MGB" key="MGB">Maud</name> 
-      </salute>
-      :
+        My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:
+      </salute>     
     </opener>
-    <p rend="indent">
+    <p>
       I am still here
       <lb/> 
       having a quiet time - I should
@@ -359,7 +363,7 @@
       <lb/>
       they have.
     </p>
-    <p rend="indent">
+    <p>
       <name type="person">General Hamilton</name> came over
       <lb/>
       here on Sunday, he has got
@@ -376,7 +380,7 @@
       <lb/>
       muddy place".
     </p>
-    <p rend="indent">
+    <p>
       The general opinion here
       <lb/>
       is that there will be
@@ -387,7 +391,7 @@
       <lb/>
       before then, but no one knows.
     </p>
-    <p rend="indent">
+    <p>
       I hear the horses have
       <lb/>
       been having a rough time
@@ -413,7 +417,7 @@
       <lb/>
       will last for ever.
     </p>
-    <p rend="indent">
+    <p>
       There are some birds
       <lb/>
       here belonging to some of
@@ -445,7 +449,7 @@
       <lb/>
       none we have to mix with.
     </p>
-    <p rend="indent">
+    <p>
       This censoring of letters
       <lb/>
       is the most amusing thing
@@ -508,7 +512,7 @@
       <lb/>
       such an ardent lover!
     </p>
-    <p rend="indent">
+    <p>
       Well old girl next letter
       <lb/>
       you will probably get from

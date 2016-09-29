@@ -329,11 +329,7 @@
             <country ref="#FRA">France</country>
         </location>
     </place>
-                    <place xml:id="EUR">
-                        <placeName>
-                            <bloc>Europe</bloc>
-                        </placeName>
-                    </place>
+                    
                     <place xml:id="GER">
         <placeName>
             <country>Germany</country>
@@ -342,11 +338,7 @@
             <bloc ref="#EUR">Europe</bloc>
         </location>
     </place>
-    <place xml:id="EUR">
-        <placeName>
-            <bloc>Europe</bloc>
-        </placeName>
-    </place>
+    
                     <place xml:id="NZE">
                         <placeName>
                             <country>New Zealand</country>
@@ -989,11 +981,9 @@
                     <name type="person" ref="#RTB" key="RTB">Roy </name>.
                 </signed>
             </closer>
-            
-            <pb facs="#rb023envf" xml:id="t1-body-pb3"/>
-            <pb facs="#rb023envb" xml:id="t1-body-pb4"/>
-            
-            
+            <postscript><p>Remember me to Loughman's, Finch's etc.
+                        <lb/>
+                        <hi rend="u">RB</hi></p></postscript>
         </body>
     </text>
 </TEI>

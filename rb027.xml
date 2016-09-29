@@ -319,11 +319,7 @@
             <country ref="#TUR">Turkey</country>
         </location>
     </place>
-<place xml:id="TUR">
-        <placeName>
-            <country>Turkey</country>
-        </placeName>
-    </place>    
+   
                 </listPlace>                
             </settingDesc>
         </profileDesc>
@@ -348,7 +344,7 @@
                 <lb/>
                 
                 <salute>
-                    <name type="person" ref="#MGB" key="MGB">My dearest girl</name></salute>:
+                    <name type="person" ref="#MGB" key="MGB">My dearest girl</name>:</salute>
                 
             </opener>
             
@@ -805,9 +801,7 @@
                 <lb/>
                 <signed><hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</hi></signed>
             </closer>
-            
-            <pb facs="#rb027envf" xml:id="t1-body-pb3"/>
-            <pb facs="#rb027envb" xml:id="t1-body-pb4"/>
+           
         </body>
     </text>
 </TEI>

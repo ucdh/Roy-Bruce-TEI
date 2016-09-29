@@ -167,7 +167,7 @@
             <creation>
                 <settlement>Sockburn</settlement>
                 <country>New Zealand</country>
-                
+                <date when='1914-09-21'>21 September 1914</date>
             </creation>
             <langUsage>
                 <language ident="en" usage="99">English</language>
@@ -200,13 +200,13 @@
                         </persName>
                     </person>
                     <person xml:id="SLO">
-        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C14534">
-            <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
-            <forename>Robert</forename>
-            <surname>Sloan</surname>            
-        </persName>
-        <death when="1915-08-21">21 August 1915</death>
-    </person>
+                        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C14534">
+                            <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
+                            <forename>Robert</forename>
+                            <surname>Sloan</surname>            
+                        </persName>
+                        <death when="1915-08-21">21 August 1915</death>
+                    </person>
                     <person xml:id="HEB">
                         <persName>
                             <forename>Helen</forename>
@@ -224,13 +224,13 @@
                             <surname>Rhodes</surname>            
                         </persName>
                     </person>
-                    <person xml:id="#RAB">
-        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/39366.detail?">
-            <forename>Robert</forename>
-            <addName type="middle">Allan</addName>
-            <surname>Bruce</surname>
-        </persName>
-    </person>
+                    <person xml:id="RAB">
+                        <persName evidence="external" source="http://muse.aucklandmuseum.com/databases/Cenotaph/39366.detail?">
+                            <forename>Robert</forename>
+                            <addName type="middle">Allan</addName>
+                            <surname>Bruce</surname>
+                        </persName>
+                    </person>
                 </listPerson>
                 
                 <org xml:id="NEF" type="military">
@@ -245,46 +245,46 @@
                             Campbell Street
                         </placeName>
                         <location>
-                        <settlement ref="#TIM">Timaru</settlement>
+                            <settlement ref="#TIM">Timaru</settlement>
                             <country ref="#NZE">New Zealand</country>
                         </location>
                     </place>
                     <place xml:id="TIM">
-        <placeName>
-            <settlement>Timaru</settlement>
-        </placeName>
-        <location ref="#NZE">New Zealand</location>
-    </place>
-                     <place xml:id="GRD">
-        <placeName>
-            <settlement>Geraldine</settlement>
-        </placeName>
-        <location><country ref="#NZE">New Zealand</country></location>
-    </place>
+                        <placeName>
+                            <settlement>Timaru</settlement>
+                        </placeName>
+                        <location><country ref="#NZE">New Zealand</country></location>
+                    </place>
+                    <place xml:id="GRD">
+                        <placeName>
+                            <settlement>Geraldine</settlement>
+                        </placeName>
+                        <location><country ref="#NZE">New Zealand</country></location>
+                    </place>
                     <place xml:id="LON">
-        <placeName>
-            <settlement>London</settlement> 
-        </placeName>
-        <location>
-            <country ref="#ENG">England</country>            
-        </location>
-    </place>
-    <place xml:id="ENG">    
-        <placeName>
-            <country>England</country>
-        </placeName>
-        <location>
-            <bloc ref="#BRI">United Kingdom</bloc>
-        </location>
-    </place>
-    <place xml:id="BRI">
-        <placeName>
-            <bloc>United Kingdom</bloc>
-        </placeName>
-        <location>
-            <bloc ref="#EUR">Europe</bloc>
-        </location>
-    </place>
+                        <placeName>
+                            <settlement>London</settlement> 
+                        </placeName>
+                        <location>
+                            <country ref="#ENG">England</country>            
+                        </location>
+                    </place>
+                    <place xml:id="ENG">    
+                        <placeName>
+                            <country>England</country>
+                        </placeName>
+                        <location>
+                            <bloc ref="#BRI">United Kingdom</bloc>
+                        </location>
+                    </place>
+                    <place xml:id="BRI">
+                        <placeName>
+                            <bloc>United Kingdom</bloc>
+                        </placeName>
+                        <location>
+                            <bloc ref="#EUR">Europe</bloc>
+                        </location>
+                    </place>
                     <place xml:id="NZE">
                         <placeName>
                             <country>New Zealand</country>
@@ -320,18 +320,18 @@
                         </location>
                     </place>
                     <place xml:id="EUR">
-        <placeName>
-            <bloc>Europe</bloc>
-        </placeName>
-    </place>
+                        <placeName>
+                            <bloc>Europe</bloc>
+                        </placeName>
+                    </place>
                     <place xml:id="WEL">
-        <placeName>
-            <settlement>Wellington</settlement>
-        </placeName>
-        <location>
-            <country ref="#NZE">New Zealand</country>
-        </location>
-    </place>
+                        <placeName>
+                            <settlement>Wellington</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
                 </listPlace> 
             </settingDesc>
         </profileDesc>
@@ -357,16 +357,16 @@
                 just thank them.
                 <lb/>
                 <name type="person" ref="#RTB" key="RTB">RB.</name>
-            </note>
-            
+            </note>           
             <opener>
                 <dateline> 
                     Sockburn
+                    <lb/>
                     <date>Sunday</date>
                 </dateline>
                 <lb/>
                 <salute>
-                    <name type="person" ref="#MGB" key="MGB">My dearest girl</name></salute>:
+                    <name type="person" ref="#MGB" key="MGB">My dearest girl</name>:</salute>
                 
             </opener>
             
@@ -681,31 +681,27 @@
             </p>
             
             <closer> <salute> 
-               
-                    Good bye dear one, give
-                    <lb/>
-                    <name type="person" ref="#HEB" key="HEB">Helen</name> a big hug for me &amp;
-                    <lb/>
-                    get her to give you one from
-                    <lb/>
-                    me too. Don't let her forget
-                    <lb/>
-                    me.
-                    <lb/>
-               
-                    God bless you both my
-                    <lb/>
-                    dear ones. 
-               
+                
+                Good bye dear one, give
+                <lb/>
+                <name type="person" ref="#HEB" key="HEB">Helen</name> a big hug for me &amp;
+                <lb/>
+                get her to give you one from
+                <lb/>
+                me too. Don't let her forget
+                <lb/>
+                me.
+                <lb/>
+                
+                God bless you both my
+                <lb/>
+                dear ones. 
+                
             </salute>
                 <signed>
                     <name type="person" ref="#RTB" key="RTB">Roy</name> 
                 </signed>
             </closer>
-        </body>
-        
-        <pb n="7" facs="#rb008envf" xml:id="t1-pb1"/>
-        <pb n="8" facs="#rb008envb" xml:id="t1-pb2"/>
-        
+        </body>       
     </text>
 </TEI>

@@ -255,7 +255,7 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My dearest girl</salute>:
+                <salute>My dearest girl:</salute>
             </opener>            
             <p>
                 Here I am once
@@ -578,10 +578,6 @@
                 <lb/>
                 ones. <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
             </closer>
-            
-            <pb n="9" facs="#rb043envb" xml:id="t1-body-pb2"/>
-            <pb n="10" facs="#rb043envf" xml:id="t1-body-pb3"/>
-            
         </body>
     </text>
 </TEI>

@@ -72,6 +72,16 @@
                                 <graphic url="rb012d.jpg" mimeType="image/jpeg" xml:id="rb012d-g"/>
                             </figure>
                         </item>
+                        <item>
+                            <figure xml:id="rb012envf">
+                                <graphic url="rb012envf.jpg" mimeType="image/jpeg" xml:id="rb012envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb012envb">
+                                <graphic url="rb012envb.jpg" mimeType="image/jpeg" xml:id="rb012envb-g"/>
+                            </figure>
+                        </item>
                     </list>
                 </note>
             </notesStmt>	
@@ -203,7 +213,7 @@
                 </dateline>
                 <lb/>
                 <lb/>    
-                <salute>My darling <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+                <salute>My darling <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
             </opener>
             
             <p rend="indent">With this I am
@@ -393,11 +403,11 @@
                     love you, my darling.
                 </salute>
                 
-                <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed>.<lb/>
+                <signed><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed><lb/>           
                 
-                For <name type="person" ref="#MGB" key="MGB">you</name>  x<lb/>
-                For <name type="person" ref="#HEB" key="HEB">Helen</name>  x
             </closer>
+            <postscript><p>For <name type="person" ref="#MGB" key="MGB">you</name>  x<lb/>
+                For <name type="person" ref="#HEB" key="HEB">Helen</name>  x</p></postscript>
         </body>
     </text>
 </TEI>

@@ -90,6 +90,16 @@
                 <graphic url="rb040h.jpg" mimeType="image/jpeg" xml:id="rb040h-g"/> 
               </figure>
             </item>
+            <item>
+              <figure xml:id="rb040envf">
+                <graphic url="rb040envf.jpg" mimeType="image/jpeg" xml:id="rb040envf-g"/> 
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb040envb">
+                <graphic url="rb040envb.jpg" mimeType="image/jpeg" xml:id="rb040envb-g"/> 
+              </figure>
+            </item>
           </list>
         </note>
       </notesStmt>
@@ -215,11 +225,11 @@
           </place>
           <place xml:id="SAF">
             <placeName>
-              <country>South Africa</country>
-              <location>
-              <bloc ref="#AFR">Africa</bloc>
-              </location>
+              <country>South Africa</country>              
             </placeName>
+            <location>
+              <bloc ref="#AFR">Africa</bloc>
+            </location>
           </place>
 <place xml:id="AFR">
         <placeName>
@@ -246,7 +256,7 @@
         sea. <date when="1915-05-31">Monday 31st May 1915</date>.
       </dateline>
       <lb/>
-      <salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name></salute>:
+      <salute>My dearest <name type="person" ref="#MGB" key="MGB">girl</name>:</salute>
     </opener>
     
     <p>

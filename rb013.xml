@@ -72,6 +72,16 @@
                                 <graphic url="rb013d.jpg" mimeType="image/jpeg" xml:id="rb013d-g"/>
                             </figure>
                         </item>
+                        <item>
+                            <figure xml:id="rb013envf">
+                                <graphic url="rb013envf.jpg" mimeType="image/jpeg" xml:id="rb013envf-g"/>
+                            </figure>
+                        </item>
+                        <item>
+                            <figure xml:id="rb013envb">
+                                <graphic url="rb013envb.jpg" mimeType="image/jpeg" xml:id="rb013envb-g"/>
+                            </figure>
+                        </item>
                     
                     </list>
                 </note>
@@ -188,8 +198,8 @@
                 <lb/>
                 <lb/>
                 <salute>
-                    <name type="person" ref="#HEB" key="HEB">My dearest little girl</name>
-                </salute>:
+                    <name type="person" ref="#HEB" key="HEB">My dearest little girl</name>:
+                </salute>
             </opener>
             
             <p rend="indent">How are you

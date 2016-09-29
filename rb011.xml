@@ -238,9 +238,9 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>: 
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
             </opener>
-            <p rend="indent">Thanks very 
+            <p>Thanks very 
                 <lb/>
                 much for your telegram,
                 <lb/>
@@ -249,7 +249,7 @@
                 time, just after we 
                 <lb/>
                 left the shore.</p>
-            <p rend="indent">We are still 
+            <p>We are still 
                 <lb/>
                 anchored in the stream, 
                 <lb/>
@@ -268,7 +268,7 @@
                 <lb/>
                 had departed.
             </p>
-            <p rend="indent">You really ought 
+            <p>You really ought 
                 <lb/>
                 to see the harbour, 
                 <lb/>
@@ -282,7 +282,7 @@
                 <lb/>
                 is really a great sight.
             </p>
-            <p rend="indent">I see by a published 
+            <p>I see by a published 
                 <lb/>
                 list that <name type="person" ref="#CHI" key="CHI">Chillie</name> is 
                 <lb/>
@@ -309,7 +309,7 @@
                 <lb/>
                 them.
             </p>
-            <p rend="indent">I hear rumours of 
+            <p>I hear rumours of 
                 <lb/>
                 Durban as a port, curious 
                 <lb/> 
@@ -319,7 +319,7 @@
                 <lb/>
                 after all. 
             </p>
-            <p rend="indent">What do you think, 
+            <p>What do you think, 
                 <lb/>
                 they have sent <name type="person" ref="#PJO" key="PJO">Major 
                     <lb/>
@@ -357,11 +357,11 @@
                 <lb/>
                 <signed>
                     <name type="person" ref="#RTB" key="RTB">Roy</name>
-                </signed>
-                X For you X For <name type="person" ref="#HEB" key="HEB">Helen</name>. 
-            </closer>
-            <pb n="5" facs="#rb011envf" xml:id="t1-body-pb3"/>
-            <pb n="6" facs="#rb011envb" xml:id="t1-body-pb4"/>
+                </signed>               
+            </closer> 
+            <postscript><p> X For you
+                <lb/>
+                X For <name type="person" ref="#HEB" key="HEB">Helen</name>.</p></postscript>
         </body>
     </text>
     

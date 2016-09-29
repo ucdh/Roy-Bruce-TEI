@@ -145,7 +145,7 @@
             <creation>
                 <settlement>Wellington</settlement>
                 <country>New Zealand</country>
-                
+                <date when='1914-09-28'>28 September 1914</date>
             </creation>
             <langUsage>
                 <language ident="en" usage="99">English</language>
@@ -231,10 +231,11 @@
                     <expan>Christchurch</expan>                
                 </choice>
             </settlement>
-            <location>
-                <country ref="#NZE">New Zealand</country>
-            </location>
+            
         </placeName>
+                    <location>
+                        <country ref="#NZE">New Zealand</country>
+                    </location>
     </place>                
             </listPlace> 
             </settingDesc>
@@ -251,11 +252,12 @@
                 
                     <dateline>
                         H.M.N.Z.T II
+                        <lb/>
                         <name type="place" ref="#WEL" key="WEL">Wellington</name>. 
                         <date>Sunday</date>.</dateline> 
                         <lb/>
                         <salute>My dearest
-                    <name type="person" ref="#MGB" key="MGB">girl</name></salute>:
+                    <name type="person" ref="#MGB" key="MGB">girl</name>:</salute>
             </opener>
             <p rend="indent">Yet more 
                 <lb/>
@@ -404,8 +406,7 @@
                 <signed><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed> 
                 
             </closer>
-            <pb n="5" facs="#rb009envf" xml:id="t1-pb1"/>
-            <pb n="6" facs="#rb009envb" xml:id="t1-pb2"/>
+            
         </body>
         
 

@@ -215,7 +215,7 @@
             <date when="1915-08-04">4<hi rend="sup"><hi rend="u">th</hi></hi> August. '15</date>
           </dateline>
           <lb/>
-          <salute>My dearest little girl</salute>:
+          <salute>My dearest little girl:</salute>
         </opener>
         
         <p>Thank you very
@@ -387,8 +387,7 @@
           <lb/>
           <signed rend="u"><name type="person" ref="#RTB" key="RTB">Daddy</name>.</signed>
         </closer>
-        <pb n="5" ref="#rb049envf" xml:id="t1-body-pb2"/>
-        <pb n="6" ref="#rb049envb" xml:id="t1-body-pb3"/>
+       
     </body>
   </text>
 </TEI>

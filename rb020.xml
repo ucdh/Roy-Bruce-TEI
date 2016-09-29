@@ -771,9 +771,7 @@
                         <hi rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</hi>
                     </signed> 
                 </closer>
-            </div>
-            <pb facs="#rb020envf"/>
-            <pb facs="#rb020envb"/>
+            </div>            
         </body>
     </text>
 </TEI>

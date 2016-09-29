@@ -406,7 +406,7 @@
                 <date when="1915-08-04">4/8/15</date>
             </dateline>
             <lb/>
-            <salute>My dearest girl</salute>:
+            <salute>My dearest girl:</salute>
         </opener>
         
         <p>
@@ -1152,8 +1152,7 @@
             one of my letters. RTB.
             </p>
         </postscript>
-        <pb n="18" ref="#rb050envf" xml:id="t1-body-pb4"/>
-        <pb n="19" ref="#rb050envb" xml:id="t1-body-pb5"/>
+        
     </body>
 </text>
 </TEI>

@@ -54,7 +54,7 @@
 					Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref>
 					</p>
 				</availability>
-				<date when="2011-08-07">7th of August 2011</date>
+				<date when="2011-08-07">7 August 2011</date>
 			</publicationStmt>
 			<notesStmt xml:id="notesStmt-0001">
 				<note xml:id="page-images">
@@ -62,12 +62,14 @@
 					<list type="simple">
 						<item>
 							<figure xml:id="rb003a">
-								<graphic url="rb003a.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb003b">
-								<graphic url="rb003b.jpg" mimeType="image/jpeg"/>
+								<graphic url="rb003a.jpg" mimeType="image/jpeg" xml:id="rb003a-g"/>
 							</figure>
 						</item>
+						<item>
+							<figure xml:id="rb003b">
+								<graphic url="rb003b.jpg" mimeType="image/jpeg" xml:id="rb003b-g"/>
+							</figure>
+						</item>						
 				</list>
 				</note>
 			</notesStmt>
@@ -134,7 +136,7 @@
 			<creation>
 				<settlement>Timaru</settlement>
 				<country>New Zealand</country>
-				<date when="1913-12-05">5th of December 1913</date>
+				<date when="1913-12-05">5 December 1913</date>
 			</creation>
 			<langUsage>
 				<language ident="en" usage="99">English</language>

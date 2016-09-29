@@ -145,7 +145,7 @@
         </encodingDesc>
         <profileDesc xml:id="profileDesc-0001">
             <creation>
-                <p>On a transport</p>
+               On a transport
                 <date when="1915-10-07">7 October 1915</date>
             </creation>
             <langUsage>
@@ -226,11 +226,11 @@
 						<relation name="sibling" mutual="#CHI #CYH #LAH #MGB"/>
 					</relationGrp>
 				</listPerson>
-				<listOrg>
+				
 				<org xml:id="EGA">
 					<orgName>Egyptian Army</orgName>
 				</org>				
-				</listOrg>				
+								
             </particDesc>        
             <settingDesc>                
 				<listPlace>
@@ -290,7 +290,7 @@
 					<place xml:id="SIP">
 						<geogName>
 							<name type="place">Sinai</name>
-							<geogFeature>Peninsula</geogFeature>
+							<geogFeat>Peninsula</geogFeat>
 						</geogName>
 					</place>
 					
@@ -351,7 +351,7 @@
 <date when="1915-10-07">7. Oct 1915.</date>
 <lb/>
 </dateline>
-<salute>My <name type="person" ref="#MGB" key="MGB">dearest girl</name></salute>:
+<salute>My <name type="person" ref="#MGB" key="MGB">dearest girl</name>:</salute>
 </opener>
 
 <p>

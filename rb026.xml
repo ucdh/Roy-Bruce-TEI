@@ -247,7 +247,7 @@
         <placeName>
             <settlement>Timaru</settlement>
         </placeName>
-        <location ref="#NZE">New Zealand</location>
+                        <location><country ref="#NZE">New Zealand</country></location>
     </place>
                     <place xml:id="ZEI">
         <placeName>Zeitoun Camp</placeName>
@@ -632,12 +632,8 @@
                 Your affectionate husband
                 <lb/>
             </salute>
-                <signed> <name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
-                
-            </closer> 
-            <pb facs="#rb026envf" xml:id="t1-body-pb2"/>
-            <pb facs="#rb026envb" xml:id="t1-body-pb3"/>
-            
+                <signed> <name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>                
+            </closer>             
         </body>
     </text>
 </TEI>

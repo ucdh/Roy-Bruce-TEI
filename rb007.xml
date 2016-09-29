@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="rb007" xml:lang="en">
-    <teiHeader type="text"><!-- This header assumes the inclusion of msdescription, namesdates and transcr modules in the schema -->
+    <teiHeader type="text">
         <fileDesc xml:id="fileDesc-0001">
             <titleStmt>
                 <title>Letter from Roy Bruce to Maud Bruce</title>
@@ -12,7 +12,7 @@
                 </principal>
                 <funder>University of Canterbury</funder>
                 <respStmt xml:id="respStmt-0001">
-                    <resp>Creation of digital images</resp><!-- Add relevant names for each resp -->
+                    <resp>Creation of digital images</resp>
                     <name type="person">Keely McBride</name>
                     <name type="person">Kathy Kise</name>
                 </respStmt>
@@ -240,18 +240,19 @@
         <opener>
             <dateline> 
                 Addington
-                <date when="1914-08-25"> 25/8/14 </date>
+                <lb/>
+                <date when="1914-08-25">25/8/14</date>
             </dateline>
             <lb/>
             <salute>
-                <name type="person" ref="#MGB" key="MGB">My dearest girl</name></salute>:
+                <name type="person" ref="#MGB" key="MGB">My dearest girl</name>:</salute>
             
         </opener>
         
         
         
         
-        <p rend="indent">
+        <p>
             Thank you very
             <lb/> 
             much indeed for the testament
@@ -268,7 +269,7 @@
             <lb/> 
             might be.
         </p>
-        <p rend="indent">
+        <p>
             
             The kit bag is
             <lb/> 
@@ -328,7 +329,7 @@
             <lb/>
             my best.
         </p>
-        <p rend="indent">
+        <p>
             
             On Monday night
             <lb/>
@@ -385,7 +386,7 @@
             <lb/>
             care for them.
         </p>
-        <p rend="indent">
+        <p>
             
             There is no definite
             <lb/>
@@ -397,7 +398,7 @@
             
             not be this week.
         </p>
-        <p rend="indent">
+        <p>
             Have just received
             <lb/>
             your wire re sleeping
@@ -406,7 +407,7 @@
             <lb/>
             at the Railway Station.
         </p>
-        <p rend="indent">
+        <p>
             
             It is very difficult to
             <lb/>
@@ -418,7 +419,7 @@
             <lb/>
             cackling at top.
         </p>
-        <p rend="indent">
+        <p>
             
             I saw <name type="person">Bonny</name>, <name type="person">Beryl</name>
             <lb/>
@@ -428,7 +429,7 @@
             <lb/>
             up?
         </p>
-        <p rend="indent">
+        <p>
             Glad to hear you
             <lb/>
             are playing golf, you
@@ -440,7 +441,7 @@
             
             much as you can.
         </p>
-        <p rend="indent">
+        <p>
             The Government are
             <lb/>
             issuing wristlet watches &amp; 
@@ -463,7 +464,7 @@
             <lb/>
             pay till we leave N.Z.
         </p>
-        <p rend="indent">
+        <p>
             Blair introduced 
             <lb/>
             me to his French girl
@@ -492,7 +493,7 @@
             <lb/>
             will soon come back.
         </p>
-        <p rend="indent">
+        <p>
             I have ordered a
             <lb/>
             copy of the squadron photo
@@ -501,7 +502,7 @@
             <lb/>
             you some day I expect.
         </p>
-        <p rend="indent">
+        <p>
             You won't forget to
             <lb/>
             send <name type="person" ref="#HOJ" key="HOJ">Howden</name> &amp; the S.C.
@@ -515,7 +516,7 @@
             <lb/>
             one.
         </p>
-        <p rend="indent">
+        <p>
             I wish I had
             <lb/>
             time to keep a diary
@@ -526,7 +527,7 @@
             <lb/>
             present it is impossible.
         </p>
-        <p rend="indent">
+        <p>
             Dear old girl don't
             <lb/>
             worry about things, I
@@ -541,21 +542,17 @@
         </p>
         
         <closer>
-            <salute>
-            <p rend="indent">
+            <salute>           
                 Goodbye for the
             <lb/>
             present darling, may
             <lb/>
-            you have every blessing.</p>
+            you have every blessing.
             </salute>
             
             <lb/>
             <signed><name type="person" ref="#RTB" key="RTB">Roy</name></signed> 
-        </closer>
-        
-        <pb n="9" facs="#rb007envf" xml:id="t1-body-pb3"/>
-        <pb n="10" facs="#rb007envb" xml:id="t1-body-pb4"/>
+        </closer>      
         
     </body>
 </text>

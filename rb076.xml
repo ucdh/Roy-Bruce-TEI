@@ -58,13 +58,13 @@
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb076envfront">
-                                <graphic url="rb076envfront.jpg" mimeType="image/jpeg" xml:id="rb076envfront-g"/>
+                            <figure xml:id="rb076envf">
+                                <graphic url="rb076envf.jpg" mimeType="image/jpeg" xml:id="rb076envf-g"/>
                             </figure>
                         </item>
                         <item>
-                            <figure xml:id="rb076envback">
-                                <graphic url="rb076envback.jpg" mimeType="image/jpeg" xml:id="rb076envback-g"/>
+                            <figure xml:id="rb076envb">
+                                <graphic url="rb076envb.jpg" mimeType="image/jpeg" xml:id="rb076envb-g"/>
                             </figure>
                         </item>                       
                     </list>
@@ -223,7 +223,7 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+                <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
             </opener>
             
             <p>	

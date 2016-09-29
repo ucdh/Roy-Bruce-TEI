@@ -579,9 +579,7 @@
 			
 			
 		</closer>
-		<postscript><p><name type="person" ref="#RTB" key="RTB">R Bruce</name></p></postscript>
-		<pb n='5' facs='#rb065envfront'/>
-			<pb n='6' facs='#rb065envback'/>
+		<note><name type="person" ref="#RTB" key="RTB">R Bruce</name></note>
 		
 		</body>
 		

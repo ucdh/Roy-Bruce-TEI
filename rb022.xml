@@ -358,14 +358,6 @@
             <settlement ref="#CAR">Cairo</settlement>
         </location>
     </place>
-<place xml:id="CAR">
-        <placeName>
-            <settlement>Cairo</settlement>
-        </placeName>
-        <location>
-            <country ref="#EGY">Egypt</country>
-        </location>
-    </place>    
                 </listPlace>
             </settingDesc>
         </profileDesc>
@@ -921,12 +913,10 @@
                     
                 </salute> 
                     <lb/>
-                    -<signed><name type="person" ref="#RTB" key="RTB">
-                        Roy </name></signed>-
+                    <signed>-<name type="person" ref="#RTB" key="RTB">
+                        Roy </name>-</signed>
                 </closer>
-            </div>
-            <pb facs="#rb022envf"/>
-            <pb facs="#rb022envb"/>
+            </div>           
         </body>
     </text>
     

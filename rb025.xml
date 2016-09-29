@@ -610,8 +610,7 @@
                 <name type="person" ref="#RTB" key="RTB">Roy</name>
             </signed>
         </closer>
-        <pb facs="#rb025envf" xml:id="t1-body-pb2"/>
-        <pb facs="#rb025envb" xml:id="t1-body-pb3"/>
+        
     </body>
 </text>
 

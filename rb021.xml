@@ -176,14 +176,14 @@
                         </persName>
                     </person>
                     <person xml:id="HHH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/6237.detail?">
-        <persName>
-            <roleName type="military">Major</roleName>
-            <forename>Herbert</forename>
-            <addName type="middle">Harold</addName>
-            <surname>Hammond</surname>
-        </persName>
-        <death when="1916-08-09">9th of August 1916</death>
-    </person>
+                        <persName>
+                            <roleName type="military">Major</roleName>
+                            <forename>Herbert</forename>
+                            <addName type="middle">Harold</addName>
+                            <surname>Hammond</surname>
+                        </persName>
+                        <death when="1916-08-09">9th of August 1916</death>
+                    </person>
                     <person xml:id="NAP">
                         <persName>Napoleon</persName>
                     </person>
@@ -194,13 +194,13 @@
                         <persName>Mayne</persName>
                     </person>
                     <person xml:id="SLO">
-        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C14534">
-            <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
-            <forename>Robert</forename>
-            <surname>Sloan</surname>            
-        </persName>
-        <death when="1915-08-21">21 August 1915</death>
-    </person>
+                        <persName evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C14534">
+                            <roleName type="military">Warrant Officer Class 1 (Staff Sergeant Major)</roleName>
+                            <forename>Robert</forename>
+                            <surname>Sloan</surname>            
+                        </persName>
+                        <death when="1915-08-21">21 August 1915</death>
+                    </person>
                     <person xml:id="HEB">
                         <persName>
                             <forename>Helen</forename>
@@ -214,13 +214,13 @@
                         <persName>Pinkie</persName>
                     </person>
                     <person xml:id="ARH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/53856.detail?">
-        <persName>
-            <forename>Arthur</forename>
-            <addName type="middle">Ernest</addName>
-            <addName type="middle">Timaru</addName>
-            <surname>Rhodes</surname>            
-        </persName>
-    </person>
+                        <persName>
+                            <forename>Arthur</forename>
+                            <addName type="middle">Ernest</addName>
+                            <addName type="middle">Timaru</addName>
+                            <surname>Rhodes</surname>            
+                        </persName>
+                    </person>
                     <person xml:id="RTB">
                         <persName>
                             <roleName type="military">Lieutenant 8th Squadron</roleName>
@@ -257,56 +257,48 @@
                             <country>New Zealand</country>
                         </location>
                     </place>
-                     <place xml:id="ZEI">
-        <placeName>Zeitoun Camp</placeName>
-        <location>
-            <country ref="#EGY">Egypt</country>
-        </location>
-    </place>
+                    <place xml:id="ZEI">
+                        <placeName>Zeitoun Camp</placeName>
+                        <location>
+                            <country ref="#EGY">Egypt</country>
+                        </location>
+                    </place>
                     <place xml:id="CAR">
-        <placeName>
-            <settlement>Cairo</settlement>
-        </placeName>
-        <location>
-            <country ref="#EGY">Egypt</country>
-        </location>
-    </place>
+                        <placeName>
+                            <settlement>Cairo</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#EGY">Egypt</country>
+                        </location>
+                    </place>
                     <place xml:id="GEZ">
-        <placeName>Gezirah Sports Club</placeName>
-        <location>
-            <settlement ref="#GZI">Gezirah</settlement>
-        </location>
-    </place>
-    
-    <place xml:id="GZI">
-        <placeName>
-            <district>Gezirah</district>
-        </placeName>
-        <location>
-            <settlement ref="#CAR">Cairo</settlement>
-        </location>
-    </place>
-    <place xml:id="CAR">
-        <placeName>
-            <settlement>Cairo</settlement>
-        </placeName>
-        <location>
-            <country ref="#EGY">Egypt</country>
-        </location>
-    </place>
+                        <placeName>Gezirah Sports Club</placeName>
+                        <location>
+                            <settlement ref="#GZI">Gezirah</settlement>
+                        </location>
+                    </place>
+                    
+                    <place xml:id="GZI">
+                        <placeName>
+                            <district>Gezirah</district>
+                        </placeName>
+                        <location>
+                            <settlement ref="#CAR">Cairo</settlement>
+                        </location>
+                    </place>
                    
-    <place xml:id="OMD">
-        <placeName>
-            <settlement>Omdurman</settlement>
-        </placeName>
-        <location ref="#SUD">
-            <country>Sudan</country>
-        </location>
-    </place>
-    
-    <place xml:id = "SUD">
-        <country>Sudan</country>
-    </place>                   
+                    <place xml:id="OMD">
+                        <placeName>
+                            <settlement>Omdurman</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#SUD">Sudan</country>
+                        </location>
+                    </place>
+                    
+                    <place xml:id = "SUD">
+                        <country>Sudan</country>
+                    </place>                   
                     <place xml:id="MEM">
                         <placeName>
                             <settlement>Memphis</settlement>
@@ -343,7 +335,8 @@
                 <dateline>
                     <name type="place" ref="#ZEI" key="ZEI"><choice><sic>Zeitun</sic><corr>Zeitoun</corr></choice> Camp</name>
                     <lb/>
-                    <name type="place" ref="#CAR" key="CAR">Cairo</name>                
+                    <name type="place" ref="#CAR" key="CAR">Cairo</name>
+                    <lb/>
                     <date when="1914-12-26">26.12.1914</date>
                 </dateline>
                 <lb/>
@@ -720,11 +713,8 @@
                     Your loving husband
                     
                 </salute> 
-                <signed><name type="person" ref="#RTB" key="RTB"> Roy</name>. </signed>
-                
-            </closer>
-            <pb facs="#rb021envf" xml:id="t1-body-pb2"/>
-            <pb facs="#rb021envb" xml:id="t1-body-pb3"/>
+                <signed><name type="person" ref="#RTB" key="RTB"> Roy</name>. </signed>                
+            </closer>           
             
         </body>
     </text>

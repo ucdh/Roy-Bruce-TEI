@@ -252,7 +252,7 @@
           <date when="1915-09-02">2 Sept. 1915</date>.
           <lb/>
         </dateline>        
-        <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+        <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
       </opener>      
       <p>        
         I have not got 
@@ -404,8 +404,7 @@
 <lb/>        
         <signed><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
       </closer>
-      <pb n="5" facs="#rb051envf" xml:id="t1-body-pb3"/>
-      <pb n="5" facs="#rb051envb" xml:id="t1-body-pb4"/>
+     
     </body>
   </text>
 </TEI>

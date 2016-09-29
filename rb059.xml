@@ -174,7 +174,7 @@
                 </dateline>
                 <lb/>
                 <lb/>
-                <salute>My darling child</salute>:
+                <salute>My darling child:</salute>
             </opener>
             <p>I am sending
                 <lb/>
@@ -302,9 +302,7 @@
                     <lb/>
                     your affectionate <hi rend="u">father</hi></salute>
             </closer>
-            <postscript><p>Remember me to Come.</p></postscript>
-            <pb n="5" facs="#rb059envf" xml:id="t1-body-pb2"/>
-            <pb n="6" facs="#rb059envb" xml:id="t1-body-pb3"/>
+            <postscript><p>Remember me to Come.</p></postscript>            
         </body>
     </text>
 </TEI>

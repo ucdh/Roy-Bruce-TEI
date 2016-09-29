@@ -278,7 +278,7 @@
             <div xml:id="t1-body-d1">
                 <pb n="1" facs="#rb018a" xml:id="t1-body-d1-pb1"/>
                 <opener>
-                    <salute>My dearest <name type="person" ref="#MGB">Maud</name></salute>:
+                    <salute>My dearest <name type="person" ref="#MGB">Maud</name>:</salute>
                 </opener>
                 <p>
                     Tomorrow sometime
@@ -740,12 +740,11 @@
                 <closer><salute>Love</salute>
                     <lb/>
                     <signed>
-                        <name type="person" ref="#RTB">Roy</name>
-                    </signed>.
+                        <name type="person" ref="#RTB">Roy</name>.
+                    </signed>
                 </closer>
             </div>
-	    <pb facs="#rb018envf" xml:id="t1-body-pb1"/>
-	    <pb facs="#rb018envb" xml:id="t1-body-pb2"/>
+	  
         </body>
     </text>
     

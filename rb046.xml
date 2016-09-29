@@ -236,7 +236,7 @@
                Hotel de "dugout"
                <date when="1915-07-08">8 July 1915</date>
             </dateline>
-            <salute>My dearest girl</salute>:
+            <salute>My dearest girl:</salute>
          </opener>   
          <p>
             The following I
@@ -568,8 +568,7 @@
             <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
             
          </closer>
-         <pb facs="rb046envf"/>
-         <pb facs="rb046envb"/>
+        
       </body>
    </text>
 </TEI>

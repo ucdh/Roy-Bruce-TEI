@@ -220,8 +220,8 @@
                     <place xml:id="ZEI">
                         <placeName>Zeiton</placeName>
                     </place>                    
-                    <place xml:id="MBA">
-        <placeName source="external" evidence="http://www.nzetc.org/tm/scholarly/tei-ReiKaOr-t1-g1-t7-body1-d19.html">
+                    <place xml:id="MBA" evidence="external" source="http://www.nzetc.org/tm/scholarly/tei-ReiKaOr-t1-g1-t7-body1-d19.html">
+        <placeName>
             Mousky Bazaar
         </placeName>
         <location>
@@ -274,11 +274,7 @@
             <country ref="#EGY">Egypt</country>
         </location>
     </place>
-    <place xml:id="EGY">
-        <placeName>
-            <country>Egypt</country>
-        </placeName>
-    </place>
+   
                 </listPlace>
             </settingDesc>
         </profileDesc>
@@ -590,8 +586,6 @@
                 <signed><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
             </closer>
             
-            <pb facs="#rb024envf" xml:id="t1-body-pb2"/>
-            <pb facs="#rb024envb" xml:id="t1-body-pb3"/>
         </body>
     </text>
 </TEI>

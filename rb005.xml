@@ -220,40 +220,40 @@
             <settingDesc>
                 <listPlace>
                     <place xml:id="CHC">
-        <placeName>
-            <settlement>
-                <choice>
-                    <abbr>CHCH</abbr>
-                    <expan>Christchurch</expan>                
-                </choice>
-            </settlement>
-            <location>
-                <country ref="#NZE">New Zealand</country>
-            </location>
-        </placeName>
-    </place>                
+                        <placeName>
+                            <settlement>
+                                <choice>
+                                    <abbr>CHCH</abbr>
+                                    <expan>Christchurch</expan>                
+                                </choice>
+                            </settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>       
+                    </place>                
                     <place xml:id="TIM">
-        <placeName>
-            <settlement>Timaru</settlement>
-        </placeName>
-        <location ref="#NZE">New Zealand</location>
-    </place>
+                        <placeName>
+                            <settlement>Timaru</settlement>
+                        </placeName>
+                        <location><country ref="#NZE">New Zealand</country></location>
+                    </place>
                     <place xml:id="WAI">
-        <placeName>
-            <region>Waikato</region>
-        </placeName>
-        <location>
-            <country ref="#NZE">New Zealand</country>
-        </location>
-    </place>
+                        <placeName>
+                            <region>Waikato</region>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
                     <place xml:id="NNZ">
-        <placeName>
-            <region>North Island</region>
-            <location>
-                <country ref="#NZE">New Zealand</country>
-            </location>
-        </placeName>
-    </place>
+                        <placeName>
+                            <region>North Island</region>            
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
                     
                     <place xml:id="SNZ">
                         <placeName>
@@ -286,18 +286,18 @@
                         </location>
                     </place>
                     <place xml:id="AUK">
-        <placeName><settlement>Auckland</settlement>
-        </placeName>
-            <location>
-            <country ref="#NZE">New Zealand</country>
-        </location>
-    </place>
-<place xml:id="NZE">
-        <placeName>
-            <country>New Zealand</country>
-        </placeName>
-    </place>
-                        
+                        <placeName><settlement>Auckland</settlement>
+                        </placeName>
+                        <location>
+                            <country ref="#NZE">New Zealand</country>
+                        </location>
+                    </place>
+                    <place xml:id="NZE">
+                        <placeName>
+                            <country>New Zealand</country>
+                        </placeName>
+                    </place>
+                    
                 </listPlace> 
             </settingDesc>
         </profileDesc>
@@ -393,8 +393,8 @@
                 in the competition with 5 men
                 <lb/>
                 out of the 9 <hi rend="u">who had never seen the 
-                <lb/>
-                gun before</hi>, and had only had the
+                    <lb/>
+                    gun before</hi>, and had only had the
                 <lb/>
                 competition explained on paper, even
                 <lb/>
@@ -622,24 +622,21 @@
             </p>
             <closer>
                 Good bye sweetheart, do take care
-                    <lb/>
-                    of yourself, some day we will have a
-                    <lb/>
-                    lovely holiday together.  Give little
-                    <lb/>
-                    <name type="person" ref="#HEB" key="HEB">Helen</name> a good humbug and keep a
-                    <lb/>
-                    nice kiss for yourself.  I do hope
-                    <lb/>
-                    your mother returns soon.  <salute>With very 
+                <lb/>
+                of yourself, some day we will have a
+                <lb/>
+                lovely holiday together.  Give little
+                <lb/>
+                <name type="person" ref="#HEB" key="HEB">Helen</name> a good humbug and keep a
+                <lb/>
+                nice kiss for yourself.  I do hope
+                <lb/>
+                your mother returns soon.  <salute>With very 
                     <lb/>
                     much love &amp; affection.</salute>
                 
                 <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></signed>.
-            </closer>
-            
-            <pb n="7" facs="#rb005envf" xml:id="t1-body-pb2"/>
-            <pb n="8" facs="#rb005envb" xml:id="t1-body-pb3"/>
+            </closer>            
         </body>
     </text>
     

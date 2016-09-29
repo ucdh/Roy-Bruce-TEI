@@ -413,11 +413,7 @@
                     Roy</name>. 
                 </signed>
             </closer>
-            
-            <pb n="4" facs="#rb034envf" xml:id="t1-body-pb2"/>
-            
-            <pb n="5" facs="#rb034envb" xml:id="t1-body-pb3"/>
-            
+          
         </body>
     </text>
 </TEI>

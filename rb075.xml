@@ -72,12 +72,12 @@
 						</item>
 						<item>
 							<figure xml:id="rb075envf">
-								<graphic url="rb075envf.jpg" mimeType="image/jpeg" xml:id="rb075envfront-g"/>
+								<graphic url="rb075envf.jpg" mimeType="image/jpeg" xml:id="rb075envf-g"/>
 							</figure>
 						</item>
 						<item>
 							<figure xml:id="rb075envb">
-								<graphic url="rb075envb.jpg" mimeType="image/jpeg" xml:id="rb075envback-g"/>
+								<graphic url="rb075envb.jpg" mimeType="image/jpeg" xml:id="rb075envb-g"/>
 							</figure>
 						</item>						
 					</list>
@@ -345,7 +345,7 @@
 	      </dateline>
 	      <lb/>
 	      <lb/>
-	      <salute>My dearest girl</salute>:
+	      <salute>My dearest girl:</salute>
 	    </opener>
 	    <p>
 	      Received two rather delightful

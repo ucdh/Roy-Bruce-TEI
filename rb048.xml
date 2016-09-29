@@ -243,7 +243,7 @@
           <date when="1915-07-18">15 July 1915</date>
         </dateline>
         <lb/>
-        <salute>My dearest girl</salute>:
+        <salute>My dearest girl:</salute>
       </opener>    
       <p>
         You poor thing
@@ -553,7 +553,5 @@
         <signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name>.</signed>
       </closer>    
     </body>
-    <pb facs="#rb048envf" xml:id="t1-pb1"/>
-    <pb facs="#rb048envb" xml:id="t1-pb2"/>
   </text>
   </TEI>

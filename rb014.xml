@@ -56,54 +56,88 @@
 							<figure xml:id="rb014a">
 								<graphic url="rb014a.jpg" mimeType="image/jpeg"/>
 							</figure>
+						</item>
+					    <item>
 							<figure xml:id="rb014b">
 								<graphic url="rb014b.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014c">
 								<graphic url="rb014c.jpg" mimeType="image/jpeg"/>
-							</figure>	
+							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014d">
 								<graphic url="rb014d.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014e">
 								<graphic url="rb014e.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014f">
 								<graphic url="rb014f.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014g">
 								<graphic url="rb014g.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014h">
 								<graphic url="rb014h.jpg" mimeType="image/jpeg"/>
-							</figure>							
+							</figure>	
+					    </item>
+					    <item>
 							<figure xml:id="rb014i">
 								<graphic url="rb014i.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014j">
 								<graphic url="rb014j.jpg" mimeType="image/jpeg"/>
-							</figure>			
+							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014k">
 								<graphic url="rb014k.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014l">
 								<graphic url="rb014l.jpg" mimeType="image/jpeg"/>
 							</figure>	
+					    </item>
+					    <item>
 							<figure xml:id="rb014m">
 								<graphic url="rb014m.jpg" mimeType="image/jpeg"/>
-							</figure>														
+							</figure>	
+					    </item>
+					    <item>
 							<figure xml:id="rb014n">
 								<graphic url="rb014n.jpg" mimeType="image/jpeg"/>
-							</figure>							
+							</figure>
+					    </item>
+					    <item>
 							<figure xml:id="rb014o">
 								<graphic url="rb014o.jpg" mimeType="image/jpeg"/>
-							</figure>							
+							</figure>	
+					    </item>
+					    <item>
 							<figure xml:id="rb014p">
 								<graphic url="rb014p.jpg" mimeType="image/jpeg"/>
 							</figure>
+					    </item>
+					    <item>
 						    <figure xml:id="rb014envf">
 						        <graphic url="rb014envf.jpg" mimeType="image/jpeg"/>
 						    </figure>
+					    </item>
+					    <item>
 						    <figure xml:id="rb014envb">
 						        <graphic url="rb014envb.jpg" mimeType="image/jpeg"/>
 						    </figure>						    
@@ -171,7 +205,11 @@
 			</editorialDecl>
 		</encodingDesc>
 		<profileDesc xml:id="profileDesc-0001">
-			<particDesc>
+		    <creation>
+		        Indian Ocean
+		        <date when="1914-11-10">10 November 1914</date>
+		    </creation>
+		    <particDesc>
 				<listPerson>
 					<person xml:id="RTB">
 						<persName>
@@ -259,7 +297,7 @@
 		<date when="1914-11-10">10.11.1914</date>.
             <lb/>
             <lb/>
-<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name></salute>:
+<salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
 </opener>
 <p rend="indent">
 	My narrative
@@ -866,8 +904,7 @@ dearest.
 		<signed rend="u"><name type="person" ref="#RTB" key="RTB">Roy</name></signed>.
 </closer>
 		
-<pb n="17" facs="#rb014envf" xml:id="t1-body-pb4"/>
-<pb n="18" facs="#rb014envb" xml:id="t1-body-pb5"/>
+
 
 </body>
 </text>

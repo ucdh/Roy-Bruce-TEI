@@ -60,25 +60,37 @@
 				<note xml:id="page-images">
 					<p>Page images:</p>
 					<list type="simple">
-						<item>
-							<figure xml:id="rb002a">
-								<graphic url="rb002a.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb002b">
-								<graphic url="rb002b.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb002c">
-								<graphic url="rb002c.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb002d">
-								<graphic url="rb002d.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb002envf">
-								<graphic url="rb002envf.jpg" mimeType="image/jpeg"/>
-							</figure>
-							<figure xml:id="rb002envb">
-								<graphic url="rb002envb.jpg" mimeType="image/jpeg"/>
-							</figure>							</item>
+						
+							<item>
+								<figure xml:id="rb002a">
+									<graphic url="rb002a.jpg" mimeType="image/jpeg" xml:id="rb002a-g"/>
+								</figure>
+							</item>
+							<item>
+								<figure xml:id="rb002b">
+									<graphic url="rb002b.jpg" mimeType="image/jpeg" xml:id="rb002b-g"/>
+								</figure>
+							</item>
+							<item>
+								<figure xml:id="rb002c">
+									<graphic url="rb002c.jpg" mimeType="image/jpeg" xml:id="rb002c-g"/>
+								</figure>
+							</item>
+							<item>
+								<figure xml:id="rb002d">
+									<graphic url="rb002d.jpg" mimeType="image/jpeg" xml:id="rb002d-g"/>
+								</figure>
+							</item>
+							<item>
+								<figure xml:id="rb002envf">
+									<graphic url="rb002envf.jpg" mimeType="image/jpeg" xml:id="rb002envf-g"/>
+								</figure>
+							</item>
+							<item>
+								<figure xml:id="rb002envb">
+									<graphic url="rb002envb.jpg" mimeType="image/jpeg" xml:id="rb002envb-g"/>
+								</figure>
+							</item>						
 				</list>
 				</note>
 			</notesStmt>
@@ -338,9 +350,7 @@
 			<salute rend="indent">Here is a kiss . for you</salute>
 				
 			<signed rend="u"><name ref="#RTB">Roy</name>.</signed>
-		</closer>
-	    <pb n="5" facs="#rb002envf" xml:id="t1-body-x6-pb1"/>
-		<pb n="6" facs="#rb002envb" xml:id="t1-body-x7-pb1"/>	
+		</closer>	   
 		</body>
 	</text>
 </TEI>
