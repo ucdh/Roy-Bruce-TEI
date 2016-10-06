@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:id="rb090" xml:lang="en">
+  <teiHeader type="text">
+    <fileDesc xml:id="fileDesc-0001">
+      <titleStmt>
+        <title>Letter from Roy Bruce to Maud Bruce</title>
+        <author>
+          <name type="person">Roy Thomas Bruce</name>
+        </author>
+        <principal>
+          <name type="person">Paul Millar</name>
+        </principal>
+        <funder>University of Canterbury</funder>
+        
+        <respStmt xml:id="respStmt-0001">
+          <resp>Transcription</resp>
+          <name type="person">Jennifer Middendorf</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0002">
+          <resp>Transcription check</resp>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+        <respStmt xml:id="respStmt-0003">
+          <resp>Conversion to TEI-conformant markup</resp>
+          <name type="person">Rosalee Jenkin</name>
+          <name type="person">Julian Vesty</name>
+          <name type="person">Lucy-Jane Walsh</name>
+        </respStmt>
+      </titleStmt>
+      <extent>Extent including images:  kb</extent>
+      <publicationStmt>
+        <publisher>University of Canterbury Humanities Computing Unit</publisher>
+        <pubPlace>Christchurch, New Zealand</pubPlace>
+        <address>
+          <addrLine>School of Humanities</addrLine>
+          <addrLine>University of Canterbury</addrLine>
+          <addrLine>Private Bag 4800</addrLine>
+          <addrLine>Christchurch 8140</addrLine>
+          <addrLine>New Zealand</addrLine>
+        </address>
+        <availability status="restricted">
+          <p>Publicly accessible.  Distributed by the University of Canterbury under a<ref type="license" target="http://creativecommons.org/licenses/by-sa/3.0/nz/">
+            <graphic url="http://i.creativecommons.org/l/by-sa/3.0/nz/88x31.png"/>Creative Commons Attribution-ShareAlike 3.0 New Zealand Licence.</ref></p>
+        </availability>
+        <date when="2016-05-10">05 October 2016</date>      
+      </publicationStmt>
+      <notesStmt xml:id="notesStmt-0001">
+        <note xml:id="page-images">
+          <p>Page images:</p>
+          <list type="simple">
+            <item>
+              <figure xml:id="rb090a">
+                <graphic url="rb090a.jpg" mimeType="image/jpeg" xml:id="rb090a-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090b">
+                <graphic url="rb090b.jpg" mimeType="image/jpeg" xml:id="rb090b-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090c">
+                <graphic url="rb090c.jpg" mimeType="image/jpeg" xml:id="rb090c-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090d">
+                <graphic url="rb090d.jpg" mimeType="image/jpeg" xml:id="rb090d-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090e">
+                <graphic url="rb090e.jpg" mimeType="image/jpeg" xml:id="rb090e-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090f">
+                <graphic url="rb090f.jpg" mimeType="image/jpeg" xml:id="rb090f-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090dt">
+                <graphic url="rb090dt.jpg" mimeType="image/jpeg" xml:id="rb090dt-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090envf">
+                <graphic url="rb090envf.jpg" mimeType="image/jpeg" xml:id="rb090envf-g"/>
+              </figure>
+            </item>
+            <item>
+              <figure xml:id="rb090envb">
+                <graphic url="rb090envb.jpg" mimeType="image/jpeg" xml:id="rb090envb-g"/>
+              </figure>
+            </item>          
+          </list>
+        </note>
+      </notesStmt>	
+      <sourceDesc xml:id="sourceDesc-0001">
+        <msDesc>
+          <msIdentifier>
+            <settlement>Christchurch</settlement>
+            <institution>University of Canterbury</institution>
+            <repository>Macmillan Brown Library/Te Puna Rakahau o Macmillan Brown</repository>
+            <collection>Letters from Major Roy Bruce</collection>
+            <idno type="text">135712</idno>                
+          </msIdentifier>
+          <head>
+            <date when="1917-01-14">14 January 1917</date>
+            <title>Letter from Roy Bruce to Maud Bruce</title>
+          </head>
+          <msContents>
+            <msItem>
+              <bibl>
+                <author>Roy Thomas Bruce</author>
+                <title>Letter from Roy Bruce to Maud Bruce</title>
+                <extent>5 Pages</extent>
+              </bibl>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="letter"/>                           
+            <handDesc>
+              <handNote scribe="RTB" script="cursive" scope="sole">Handwritten by Roy Bruce</handNote>
+            </handDesc>
+          </physDesc>
+        </msDesc>	
+      </sourceDesc>
+    </fileDesc>	
+    <encodingDesc>
+      <projectDesc xml:id="projectDesc-0001">
+        <p>The Roy Bruce project aims to preserve and make available to a 
+          wide audience original World War I correspondence closely linked to 
+          Canterbury and Southland families. It also aims to introduce the
+          principles of TEI to the 2010 ENGL317/419 class and foster a scholarly 	
+          electronic archiving tradition at the University of Canterbury.</p>
+      </projectDesc>
+      <samplingDecl>
+        <p>All available correspondence has been included in this edition. Envelopes are included as images only.</p>
+      </samplingDecl>
+      <editorialDecl>
+        <correction status="medium" method="markup">
+          <p>No corrections to the original manuscript have been made; instead, any errors have been marked with the sic element.</p>
+        </correction>
+        <normalization>
+          <p>Editorial discretion has been applied in some cases where it is unclear whether a full stop, comma or hyphen was intended.</p>
+        </normalization>
+        <quotation marks="all"><p>All quotation marks have been retained.</p></quotation>
+        <hyphenation eol="all"><p>All hyphenation has been preserved to retain the character of the manuscript.</p></hyphenation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc xml:id="profileDesc-0001">
+      <creation>
+        <settlement>Port Said</settlement>
+        <country>Egypt</country>
+        <date when="1917-01-14"/>
+      </creation>
+      <langUsage>
+        <language ident="en" usage="99">English</language>
+        <language ident="fr" usage="1">French</language>
+      </langUsage>
+      <particDesc>                
+        <listPerson>
+          <person xml:id="MGB">
+            <persName>
+              <forename>Maud</forename>
+              <addName type="middle">Goodenough</addName>type="married"&gt;
+              <surname type="maiden">Hayter</surname>
+              <surname type="married">Bruce</surname>
+            </persName>
+            <birth when="1880-02-22">22 February 1880</birth>
+          </person>
+          <person xml:id="ARH" source="http://muse.aucklandmuseum.com/databases/general/Cenotaph/53856.detail?">
+            <persName>
+              <forename>Arthur</forename>
+              <addName type="middle">Ernest</addName>
+              <addName type="middle">Timaru</addName>
+              <surname>Rhodes</surname>            
+            </persName>
+          </person>
+          <person xml:id="RTB" evidence="external" source="http://www.aucklandmuseum.com/war-memorial/online-cenotaph/record/C39368">
+            <persName>
+              <roleName type="military">Lieutenant</roleName>
+              <forename>Roy</forename>
+              <addName type="middle">Thomas</addName>
+              <surname>Bruce</surname>
+            </persName>
+            <birth when="1881-12-18">18 December 1881</birth>
+            <death when="1945-11-29">29 November 1945</death>
+          </person>
+          <relationGrp type="personal"><relation name="spouse" mutual="#RTB #MGB" from="1908-02-03" to="1926"/></relationGrp>
+        </listPerson>                               
+      </particDesc>        
+      <settingDesc>                
+        <listPlace>
+          <place xml:id="GEN">
+            <placeName>
+              31st General Hospital
+            </placeName>
+            <location>
+              <settlement ref="#PRS">Port Said</settlement>
+              <country ref="#EGY">Egypt</country>  
+            </location>
+          </place>
+          <place xml:id="PRS">
+            <placeName>
+              <settlement>Port Said</settlement>
+            </placeName>
+          </place>
+          <place xml:id="EGY">
+            <placeName>
+              <country>Egypt</country>
+            </placeName>
+          </place>
+          <place xml:id="ARI">
+            <placeName>
+              <settlement>Al Arish</settlement>
+            </placeName>
+            <location><country ref="#EGY">Egypt</country></location>            
+          </place>
+          <place xml:id="RAF">
+            <placeName>
+              Rafa
+            </placeName>
+            <location>
+              <country ref="#EGY">Egypt</country>
+            </location>
+          </place>
+          <place xml:id="KAN" evidence="external" source="https://en.wikipedia.org/wiki/El-Qantarah_el-Sharqiyya">
+            <placeName>
+              <settlement>Kantara</settlement>
+            </placeName>
+          </place>
+        </listPlace>                
+      </settingDesc>
+    </profileDesc>
+    <revisionDesc xml:id="revisionDesc-0001">
+      <change xml:id="change-0001"/>
+    </revisionDesc>
+  </teiHeader>  
+  <text xml:id="t1">
+    <body xml:id="t1-body">
+      <pb n="1" facs="#rb090a" xml:id="t1-body-pb1"/>
+      <opener>
+        <dateline><name type="place" ref="#GEN" key="GEN">31<hi rend="sup"><hi rend="u">st</hi></hi> General Hospital</name>
+          <lb/>
+          
+          <name type="place" ref="#PRS" key="PRS">Port Said</name>
+          <lb/>
+          
+          <date when="1917-01-14">14.1.1917.</date>
+        </dateline>
+        <lb/>
+        <lb/>
+        <salute>My dearest <name type="person" ref="#MGB" key="MGB">Maud</name>:</salute>
+      </opener>
+      <p>
+        I suppose you will expect great
+        <lb/>
+        accounts of things in this letter but I am afraid
+        <lb/>
+        that after my last lengthy epistle my eloquence
+        <lb/>
+        has almost completely dried up - however I will
+        <lb/>
+        do my  best to tell what happened on the <date when="1917-01-08"><hi rend="sup"><hi rend="u">th</hi></hi></date>.
+        <lb/>
+        <date when="1917-01-08">On Monday afternoon the 8<hi rend="sup"><hi rend="u">th</hi></hi> <choice><abbr>Jany</abbr><expan>January</expan></choice></date> we 
+        <lb/>
+        pulled out of <name type="place" ref="#ARI" key="ARI">El Arish</name> to attack the Turkish positions
+        <lb/>
+        at <name type="place" ref="#RAF" key="RAF">Rafa</name> which is on the frontier line - Two thousand
+        <lb/>
+        Turks were reported there, but it there were
+        <lb/>
+        nearer three.  We rode <hi rend="strike">at dawn</hi>all night and the
+        <lb/>
+        first thing the <choice><abbr>N.Z.</abbr><expan>New Zealand</expan></choice> <choice><abbr>Bde</abbr><expan>Brigade</expan></choice> had to do at dawn was to 
+        <lb/>
+        round up a lot of hostile Bedouins, who lived with 
+        <lb/>
+        their flocks and herds just over the border.  It was a 
+        <lb/>
+        weird scene at day break, ghostlike and uncanny 
+        <lb/>
+        miles of nothing grass plains, frontier posts stretching into
+        <lb/>
+        the darkness, mountains on one horizon and high sand
+        <lb/>
+        hills and <name type="place" ref="#RAF" key="RAF">Rafa</name> four miles to the north.  The Bedouins
+        <lb/>
+        tents scattered broadcast, over the plains, dark shadows
+        <lb/>
+        of goats, sheep, donkeys, dogs and camels resting quietly on
+        <lb/>
+        the sheltered sides, and an<hi rend="strike">d</hi> occasional ghostlike figure
+        <lb/>
+        wrapped in a burnous stealing silently between the 
+        <lb/>
+        tents - On our approach the Bedouin cry rang out and
+        
+        <pb n="2" facs="#rb090b" xml:id="t1-body-x2-pb1"/>
+        
+        
+        was taken up by every family and we heard it
+        <lb/>
+        carried on for miles ever fainter and fainter.
+      </p>
+      <p>It is a cry impossible to describe and difficult
+        <lb/>
+        to imitate, it is something like a, worry, worry, worry,
+        <lb/>
+        continued intermittently on a shrill note, and its
+        <lb/>
+        carrying power is remarkable.
+      </p>
+      
+      <p>
+        Well, we had soon collected the Bedouins, they
+        <lb/>
+        did not attempt to fight, except one who shot a man
+        <lb/>
+        then jumped on his <add place="above">(the man's)</add>horse and got clean away.
+      </p>
+      
+      <p>We hung round then for an hour awaiting orders 
+        <lb/>
+        for the general attack on <name type="place" ref="#RAF" key="RAF">Rafa</name>. Soon we heard we 
+        <lb/>
+        were attacking from the East, so we galloped round
+        <lb/>
+        to get into position - Just as we arrived word came
+        <lb/>
+        that a number of Turks were to be seen trying to
+        <lb/>
+        escape along the <choice><sic>cost</sic><corr>coast</corr></choice>, so <name type="person">the Colonel</name> sent me with
+        <lb/>
+        the 8<hi rend="sup">th</hi> to cut them off and then began the most
+        <lb/>
+        glorious &amp; exciting ride I ever had in my life.
+        <lb/>
+        We galloped for 3 miles, the <hi rend="strike">four</hi> <hi rend="sup">three</hi> troops &amp; Lewis Gun
+        <lb/>
+        section in line one behind the other, the fourth
+        <lb/>
+        troop I sent ahead as a screen.  We were under 
+        <lb/>
+        fire nearly the whole way but only had one horse
+        <lb/>
+        hit - Robin nearly got another, it was funny to
+        <lb/>
+        see him snort, check his stride &amp; toss his head as
+        <lb/>
+        a bullet almost grazed his nose.  He is a grand
+        <lb/>
+        horse, we were going at a solid hunting pace,
+        <lb/>
+        he pulled the whole 3 miles, and he was always</p>
+      
+      <pb n="3" facs="#rb090c" xml:id="t1-body-pb2"/>
+      
+      <p>four lengths in front of the squadron. I don't 
+        <lb/>
+        think if I love to be a hundred I can ever
+        <lb/>
+        get another gallop like that. 3 miles over
+        <lb/>
+        rolling grass plains, and 60 prisoners &amp; 40 
+        <lb/>
+        camels and donkeys at the end of it and
+        <lb/>
+        we never fired a shot and only lost one
+        <lb/>
+        horse.  After we had done that we 
+        <lb/>
+        swung round dismounted and began the
+        <lb/>
+        attack on the Turkish redoubt 1/2 miles
+        <lb/>
+        away. Here the country failed us, it
+        <lb/>
+        was the same plains, splendid for galloping
+        <lb/>
+        but deadly for an advance on foot against
+        <lb/>
+        a cleverly concealed enemy, the ground too
+        <lb/>
+        all uphill in his direction. However
+        <lb/>
+        it had to be done and we did it, but it
+        <lb/>
+        took 7 hours to do that 1/2 miles!
+      </p>
+      <p>I got the Squadron up to 130 <choice><abbr>yds</abbr><expan>yards</expan></choice>
+        <lb/>
+        from the redoubt without a casualty, but 
+        <lb/>
+        I knew it couldn't last, and in the next 
+        <lb/>
+        rush the one before this final assault I
+        <lb/>
+        Was the first one to get it, others following
+        <lb/>
+        me in quick suc<hi rend="strike">c</hi>ession. I nearly howled
+        <lb/>
+        with rage, to have got those splendid men
+        <lb/>
+        so far, and then not to be able to take
+        
+        <pb n="4" facs="#rb090d" xml:id="t1-body-x7-pb1"/>
+        
+        <lb/>
+        them over the top into the redoubt. However
+        <lb/>
+        I had had a very good day and no real
+        <lb/>
+        right to complain.</p>
+      
+      <p>The bullet that hit me was fired at
+        <lb/>
+        close range and was either from a revolver
+        <lb/>
+        or a large size rifle bullet, because where it
+        <lb/>
+        went in it made a hole about the size of
+        <lb/>
+        a two shilling piece and where it came 
+        <lb/>
+        out, well you could almost put a golf ball
+        <lb/>
+        in it. It was extraordinarily lucky, missed
+        <lb/>
+        the bone and all sinews and in two or
+        <lb/>
+        three weeks I shall never know I had it -
+        <lb/>
+        one sinew is laid bare, which if it had
+        <lb/>
+        cut would have given me a stiff leg for
+        <lb/>
+        ever.  I cannot understand how it
+        <lb/>
+        missed everything as it did, and you will
+        <lb/>
+        realise better when I tell you it went in to
+        <lb/>
+        my left leg a little above the knee on the
+        <lb/>
+        left <hi rend="strike">side</hi>of the leg and came out underneath.
+        <lb/>
+        Something like this:</p>
+      
+      <figure xml:id='FIG1'>
+        <figDesc>Drawing of wound by <name type="person" ref="#RTB" key="RTB">Roy Bruce</name></figDesc>
+        <graphic url="rb090dt.jpg" scale="0.5"/>
+      </figure> 
+      
+      <p>Of course I went down like a ninepin. It 
+        <lb/>
+        felt for all the world lik a kick from a</p>
+      
+      <pb n="5" facs="#rb090e" xml:id="t1-body-pb3"/>
+      
+      <p>horse or a blow from a sledgehammer - the
+        <lb/>
+        unfortunate incident happened afterwards, the
+        <lb/>
+        two stretcher bearers who carried me away had
+        <lb/>
+        not gone a yard before one bullet got them
+        <lb/>
+        both, fracturing one man's arm and penetrating
+        <lb/>
+        the other one's side.  I am glad to say they
+        <lb/>
+        are both getting on well.</p>
+      
+      <p>Of the journey down to <name type="place" ref="#ARI">El Arish</name> of 30 miles
+        <lb/>
+        in a little cart, three of us packed in and
+        <lb/>
+        barely able to move I will pass over, that was
+        <lb/>
+        hell, but absolutely unavoidable. Then in
+        <lb/>
+        a hospital train from <name type="place" ref="#ARI" key="ARI">El Arish</name> to <name type="place" ref="#KAN" key="KAN">Kantara</name>, &amp;
+        <lb/>
+        then by steamer on the Canal to <name type="place" ref="#PRS" key="PRS">Port Said</name>,
+        <lb/>
+        and then to be washed &amp; put to bed between
+        <lb/>
+        sheets - the latter part was anything but 
+        <lb/>
+        hell.</p>
+      
+      <p>Well that is about all, here I am
+        <lb/>
+        living on the fat of the land, and as fit as
+        <lb/>
+        a buck rat, except for the fact that I can't 
+        <lb/>
+        get up, but I expect in a few days to get
+        <lb/>
+        round on one lege with a pair of crutches.</p>
+      
+      <p>Funny thing but I knew the day before
+        <lb/>
+        we moved out, and was more certain than
+        <lb/>
+        ever the morning of the fight that something
+        <lb/>
+        was going to get in my way during the day,
+        <lb/>
+        in fact the premonition had been there for,
+        
+        <pb n="6" facs="#rb090f" xml:id="t1-body-x14-pb1"/>
+        
+        <lb/>
+        some time, the outcome of it being that
+        <lb/>
+        letter I wrote you about being safely provided
+        <lb/>
+        for.</p> 
+      
+      <p>Don't suppose any of your fortune telling 
+        <lb/>
+        crowd told you about it?</p>
+      
+      <p>Hope you got my cable, <name type="person" ref="#ARH" key="ARH">Arthur Rhodes</name>
+        <lb/>
+        sent it for me as soon as it was possible.</p>
+      
+      <p>One funny incident.  At the <name type="place" ref="#KAN" key="KAN">Kanhara</name> Clearing
+        <lb/>
+        Station our wounds were being dressed and a
+        <lb/>
+        Medical Corps orderley (<name type="person">Tommy</name>) who was rather
+        <lb/>
+        clumsily putting on a bandage, remarked "I
+        <lb/>
+        ain't much good at this game, sir, I'm a
+        <lb/>
+        butcher by trade!" Properly illustrated that 
+        <lb/>
+        is good enough for Punch.</p>
+      
+      <p>That's all for the present, news will
+        <lb/>
+        be pretty scarce while I am lying here, so
+        <lb/>
+        don't expect too much.</p>
+      <closer>
+        <salute>My best love to you both, and don't worry,
+        <lb/>
+        I am having a very good time.</salute>
+        <lb/>
+        <signed>
+          <hi rend="u">
+            <name type="person" ref="#RTB" key="RTB">Roy</name>.
+          </hi>
+        </signed>
+      </closer>
+      
+      <postscript>
+        <p>
+          <hi rend="u">Officer</hi>, looking critically at <name type="person" ref="#RTB" key="RTB">Major Bruce</name>'s wound -
+        <lb/>
+        "You won't need to carry wallets on your saddle now
+        <lb/>
+        Major, you can put everthing in these holes!"
+        <lb/>
+        Fact - Ha! Ha!
+        </p>
+      </postscript>     
+      
+      
+    </body>
+  </text>
+</TEI>
