@@ -48,6 +48,26 @@
 					<p>Page images:</p>
 					<list type="simple">
 						<item>
+							<figure xml:id="rb089a">
+								<graphic url="rb089a.jpg" mimeType="image/jpeg" xml:id="rb089a-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb089b">
+								<graphic url="rb089b.jpg" mimeType="image/jpeg" xml:id="rb089b-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb089c">
+								<graphic url="rb089c.jpg" mimeType="image/jpeg" xml:id="rb089c-g"/>
+							</figure>
+						</item>
+						<item>
+							<figure xml:id="rb089d">
+								<graphic url="rb089d.jpg" mimeType="image/jpeg" xml:id="rb089d-g"/>
+							</figure>
+						</item>						
+						<item>
 							<figure xml:id="rb089e">
 								<graphic url="rb089e.jpg" mimeType="image/jpeg" xml:id="rb089e-g"/>
 							</figure>
